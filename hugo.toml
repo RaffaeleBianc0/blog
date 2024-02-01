@@ -142,7 +142,7 @@ main = [ ]
   [[menu.social]]
   identifier = "facebook"
   name = "Facebook"
-  url = "https://facebook.com/RaffaeleBianc0"
+  url = "https://facebook.com/RaffaeleBianco"
 
     [menu.social.params]
     icon = "brand-facebook"
