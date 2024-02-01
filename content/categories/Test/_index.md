@@ -1,6 +1,10 @@
 ---
 title: "Test"
+<<<<<<< HEAD
 description: "This is an example category!!"
+=======
+description: "This is an example category!!!"
+>>>>>>> 4191975 (.)
 slug: "test"
 image: "hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg"
 style:
