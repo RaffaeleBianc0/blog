@@ -4,7 +4,7 @@ title = 'Mica scrivo granché'
 theme = 'hugo-theme-stack'
 enableEmoji = true
 
-paginate = 5
+paginate = 8
 copyright = "Raffaele Bianco"
 DefaultContentLanguage = "it"
 hasCJKLanguage = false
@@ -35,7 +35,7 @@ featuredImageField = "image"
 rssFullContent = true
 
   [params.footer]
-  since = 2_020
+  since = 2_024
 
   [params.dateFormat]
   published = "Jan 02, 2006"
