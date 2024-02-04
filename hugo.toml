@@ -42,8 +42,8 @@ rssFullContent = true
   lastUpdated = "02/01/2006 15:04 MST"
 
   [params.sidebar]
-  emoji = "🍥"
-  subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  emoji = ""
+  subtitle = ""
 
     [params.sidebar.avatar]
     enabled = true
@@ -64,7 +64,12 @@ rssFullContent = true
   provider = "disqus"
 
     [params.comments.disqusjs]
-
+    shortname = []
+    apiUrl = []
+    apiKey = []
+    admin = []
+    adminLabel = []
+    
     [params.comments.utterances]
     issueTerm = "pathname"
 
@@ -108,7 +113,7 @@ type = "categories"
 type = "archives"
 
   [params.widgets.homepage.params]
-  limit = 5
+  limit = 3
 
 # [[params.widgets.homepage]]
 # type = "tag-cloud"
