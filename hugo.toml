@@ -4,7 +4,7 @@ title = 'Mica scrivo granché'
 theme = 'hugo-theme-stack'
 enableEmoji = true
 
-paginate = 8
+paginate = 5
 copyright = "Raffaele Bianco"
 DefaultContentLanguage = "it"
 hasCJKLanguage = false
@@ -15,15 +15,15 @@ title = "Mica scrivo granché"
 weight = 1
 
   [languages.it.params]
-  description = "Descrizione TOML"
+  description = "Blog di Raffaele Bianco"
 
-[languages.en]
-languageName = "English"
-title = "Example Site"
-weight = 2
+# [languages.en]
+# languageName = "English"
+# title = "Raffaele Bianco's Blog"
+# weight = 2
 
-  [languages.en.params]
-  description = "Example description"
+#   [languages.en.params]
+#   description = ""
 
 [permalinks]
 post = "/p/:slug/"
