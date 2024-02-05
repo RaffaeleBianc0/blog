@@ -5,7 +5,7 @@ categories:
   - "batteria"
   - "musica"
   - "produzione"
-coverImage: "images/kollettivo-stesi-move-on-funk-front.jpg"
+image: "images/kollettivo-stesi-move-on-funk-front.jpg"
 ---
 
 Il mio primo mix: è "Juicy" dei [Leslie Overdrive](http://www.facebook.com/leslieoverdrive/), che ho registrato alla batteria con il [Kollettivo Stesi](http://fb.com/KollettivoStesi) nel 2009 in sala prove, e che ho mixato daccapo partendo dalle tracce originali, per esercizio.

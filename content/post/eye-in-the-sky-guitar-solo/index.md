@@ -4,7 +4,7 @@ date: "2016-06-05"
 categories: 
   - "chitarra"
   - "musica"
-coverImage: "images/maxresdefault.jpg"
+image: "images/maxresdefault.jpg"
 ---
 
 Saranno passati un paio d'anni da quando mio fratello mi ha prestato la sua chitarra elettrica, e non la ho mai presa in mano da quella volta. Stessa storia per un ampli di un amico, che mi ha prestato nello stesso periodo e che avevo usato sì e no mezz'oretta. I classici buoni propositi rimandati all'infinito... Scandaloso. Non si fa. Dovevo rimediare!

@@ -4,7 +4,7 @@ date: "2022-05-23"
 categories: 
   - "band"
   - "batteria"
-coverImage: "images/folder.png"
+image: "images/folder.png"
 ---
 
 https://open.spotify.com/album/7Cndhh8sRBGTEYOGdgcALV

@@ -5,7 +5,7 @@ categories:
   - "band"
   - "basso"
   - "musica"
-coverImage: "images/cloudband.jpg"
+image: "images/cloudband.jpg"
 ---
 
 Durante la quarantena da coronavirus, un amico ha pensato di coinvolgere un po' di conoscenti per una collaborazione tutta via web e fatta da casa.  

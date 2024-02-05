@@ -5,7 +5,7 @@ categories:
   - "band"
   - "batteria"
   - "musica"
-coverImage: "images/copertina-polisportiva.jpg"
+image: "images/copertina-polisportiva.jpg"
 ---
 
 https://www.youtube.com/watch?v=y7cuNPOUfTM

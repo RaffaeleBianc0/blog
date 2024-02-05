@@ -6,7 +6,7 @@ categories:
   - "musica"
 tags: 
   - "featured"
-coverImage: "images/deantownthumbnail.jpg"
+image: "images/deantownthumbnail.jpg"
 ---
 
 https://youtu.be/onyhVPbnnLQ

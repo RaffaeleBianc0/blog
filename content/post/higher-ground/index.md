@@ -4,7 +4,7 @@ date: "2015-06-24"
 categories: 
   - "batteria"
   - "musica"
-coverImage: "images/higher-ground-cover.jpg"
+image: "images/higher-ground-cover.jpg"
 ---
 
 "Higher ground" di Stevie Wonder, versione cover di Dave Weckl, "minus drums" con me alla batteria, registrato tutto con troppa fretta e troppe poche prove:

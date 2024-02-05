@@ -5,7 +5,7 @@ categories:
   - "band"
   - "batteria"
   - "musica"
-coverImage: "images/davide-urla.png"
+image: "images/davide-urla.png"
 ---
 
 https://www.youtube.com/watch?v=j6S8xbNPwRA

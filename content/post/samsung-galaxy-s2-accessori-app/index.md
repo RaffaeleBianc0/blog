@@ -5,7 +5,7 @@ categories:
   - "tecnologia"
 tags: 
   - "android"
-coverImage: "images/s2.jpg"
+image: "images/s2.jpg"
 ---
 
 ## Accessori

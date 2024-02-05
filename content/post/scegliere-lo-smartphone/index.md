@@ -6,7 +6,7 @@ categories:
 tags: 
   - "android"
   - "lg-g4"
-coverImage: "images/lg-g4-red.jpg"
+image: "images/lg-g4-red.jpg"
 ---
 
 Per scegliere quale smartphone farmi regalare, ho studiato un po' di materiale online.

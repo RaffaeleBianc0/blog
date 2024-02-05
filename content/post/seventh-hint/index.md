@@ -4,7 +4,7 @@ date: "2004-10-08"
 categories: 
   - "musica"
   - "produzione"
-coverImage: "images/7.jpg"
+image: "images/7.jpg"
 ---
 
 "Seventh hint" è un pezzo di musica elettronica che ho fatto nel 2004, giocando con un tempo dispari, synth ciccioni che mi piacciono sempre tantissimo, e un po' di feeling "etnico".

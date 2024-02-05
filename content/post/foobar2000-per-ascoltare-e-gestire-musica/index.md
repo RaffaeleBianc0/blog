@@ -3,7 +3,7 @@ title: "foobar2000"
 date: "2010-01-15"
 categories: 
   - "tecnologia"
-coverImage: "images/technology.jpg"
+image: "images/technology.jpg"
 ---
 
 [![](images/main.png)](http://www.foobar2000.org/images/img/main.png)Rispondo qui ad una domanda di un amico via email, metti mai che torni buono a qualcun altro.
