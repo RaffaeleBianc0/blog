@@ -5,7 +5,7 @@ categories:
   - "band"
   - "batteria"
   - "musica"
-coverImage: "logo-kollettivo-2011-bn-8bit-2116x1708.gif"
+coverImage: "images/logo-kollettivo-2011-bn-8bit-2116x1708.gif"
 ---
 
 Il [Kollettivo Stesi](http://fb.com/KollettivoStesi) è una band funk/acidjazz di Treviso di cui sono stato batterista dal 2007 al 2014.

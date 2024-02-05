@@ -3,7 +3,7 @@ title: "Mouse bluetooth"
 date: "2010-02-14"
 categories: 
   - "tecnologia"
-coverImage: "technology.jpg"
+coverImage: "images/technology.jpg"
 ---
 
 [![](images/logitech_v470_cordless_laser_mouse_bluetooth_notebook_pc_mac.jpg)](http://www.techdigest.tv/logitech_v470_cordless_laser_mouse_bluetooth_notebook_pc_mac.jpg)

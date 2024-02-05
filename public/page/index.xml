@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Mica scrivo granché</title>
+        <link>https://www.RaffaeleBianco.it/page/</link>
+        <description>Recent content in Pages on Mica scrivo granché</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>it</language>
+        <copyright>Raffaele Bianco</copyright>
+        <lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.RaffaeleBianco.it/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Info</title>
+        <link>https://www.RaffaeleBianco.it/info/</link>
+        <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.RaffaeleBianco.it/info/</guid>
+        <description>&lt;p&gt;Qui trovi un po&amp;rsquo; di cose che ho fatto o che mi sono piaciute.&lt;/p&gt;
+&lt;p&gt;E&amp;rsquo; la terza versione del blog, perché lo uso anche come palestra per smanettare con qualche strumento nuovo quando mi viene voglia.&lt;/p&gt;
+&lt;p&gt;La prima versione fu in HTML statico, attorno al 1997, quando all&amp;rsquo;università ho preso il primo contatto con Internet e mi entusiasmava l&amp;rsquo;idea di &amp;ldquo;farmi il sito&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;La seconda versione mi è servita per imparare a muovermi in Wordpress. Non ci ho trasportato tutti i contenuti di quando ero ventenne, ma ho aggiunto il grosso di quello che trovi anche oggi, fino al 2023.&lt;/p&gt;
+&lt;p&gt;La terza versione è questa, fatta con &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo&lt;/a&gt;: ha circa le stesse funzionalità della versione Wordpress (articoli, categorie, ricerca), ma è molto più veloce, è memorizzato nel mio PC, e lo mantengo scrivendo in Markdown dentro file di testo. Tutto questo risponde al mio desiderio di questi ultimi tempi di snellire e ottimizzare, per tornare all&amp;rsquo;essenziale di tante tecnologie che usiamo.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archivi</title>
+        <link>https://www.RaffaeleBianco.it/archivi/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.RaffaeleBianco.it/archivi/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Cerca</title>
+        <link>https://www.RaffaeleBianco.it/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.RaffaeleBianco.it/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

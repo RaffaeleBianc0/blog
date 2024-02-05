@@ -4,7 +4,7 @@ date: "2020-04-18"
 categories: 
   - "basso"
   - "musica"
-coverImage: "yt-thumbnail-1.jpg"
+coverImage: "images/yt-thumbnail-1.jpg"
 ---
 
 Nonostante il brano venga dal mondo dei deejay/producers, che non seguo granché, mi ha colpito il bel tiro funk e me lo sono imparato.

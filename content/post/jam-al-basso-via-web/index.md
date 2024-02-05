@@ -4,7 +4,7 @@ date: "2020-04-25"
 categories: 
   - "basso"
   - "musica"
-coverImage: "yt-thumbnail-2.jpg"
+coverImage: "images/yt-thumbnail-2.jpg"
 ---
 
 **Registrare qualcosa di improvvisato**, invece di una cover.

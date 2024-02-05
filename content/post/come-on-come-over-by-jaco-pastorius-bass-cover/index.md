@@ -4,7 +4,7 @@ date: "2020-05-12"
 categories: 
   - "basso"
   - "musica"
-coverImage: "yt-thumbnail-1.jpg"
+coverImage: "images/yt-thumbnail-1.jpg"
 ---
 
 Questo è un bel pezzo groovoso che ha la mia età: 1976, primo album di Jaco Pastorius, con dentro anche Herbie Hancock, Sam & Dave, e un bel po' di altri bei musicisti.

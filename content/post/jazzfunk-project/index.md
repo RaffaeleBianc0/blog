@@ -5,7 +5,7 @@ categories:
   - "band"
   - "batteria"
   - "musica"
-coverImage: "jfp.jpg"
+coverImage: "images/jfp.jpg"
 ---
 
 I JFP (Jazz/Funk Project) sono stati una formazione strumentale di 8 elementi, compresi fiati e percussioni. Ci ho suonato la batteria dal 2014 al 2016.

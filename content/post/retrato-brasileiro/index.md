@@ -4,7 +4,7 @@ date: "2015-05-09"
 categories: 
   - "chitarra"
   - "musica"
-coverImage: "0.jpg"
+coverImage: "images/0.jpg"
 ---
 
 "Retrato brasileiro" di Baden Powell, il primo brano che ho provato ad abbozzare con la chitarra classica:

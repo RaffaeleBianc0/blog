@@ -5,7 +5,7 @@ categories:
   - "tecnologia"
 tags: 
   - "featured"
-coverImage: "x280-flat.jpg"
+coverImage: "images/x280-flat.jpg"
 ---
 
 > **[TL;DR](https://en.wikipedia.org/wiki/TL;DR)  

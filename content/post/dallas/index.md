@@ -5,7 +5,7 @@ categories:
   - "band"
   - "batteria"
   - "musica"
-coverImage: "il-dallas-scritta.png"
+coverImage: "images/il-dallas-scritta.png"
 ---
 
 Il Dallas è un tipo. Lo racconta una formazione di Treviso che suona alternative rock, tutti brani inediti, tirati, con dentro un cantato particolare, dei synth, una tromba, e tanto, tanto sudore. Molto del quale è il mio, perché ci suono la batteria da fine 2016.

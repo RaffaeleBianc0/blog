@@ -4,7 +4,7 @@ date: "2020-05-05"
 categories: 
   - "basso"
   - "musica"
-coverImage: "heroes.jpg"
+coverImage: "images/heroes.jpg"
 ---
 
 Il mio primo "feat"! ![🥳](images/1f973.png)

@@ -3,7 +3,7 @@ title: "PC maggiorenne"
 date: "2024-01-13"
 categories: 
   - "tecnologia"
-coverImage: "x60.jpg"
+coverImage: "images/x60.jpg"
 image: x60.jpg
 toc: true
 ---

@@ -3,7 +3,7 @@ title: "ImgBurn"
 date: "2010-01-02"
 categories: 
   - "tecnologia"
-coverImage: "imgburn___easy_burner_icon_replacement_by_sacrificials-d6e4jin.png"
+coverImage: "images/imgburn___easy_burner_icon_replacement_by_sacrificials-d6e4jin.png"
 ---
 
 Alla ricerca di software gratuiti per masterizzare, e che fossero già compatibili con Windows 7, ho letto online che [ImgBurn](http://www.imgburn.com/) è molto apprezzato.

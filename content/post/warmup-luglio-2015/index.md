@@ -6,7 +6,7 @@ categories:
   - "musica"
 tags: 
   - "featured"
-coverImage: "maxresdefault.jpg"
+coverImage: "images/maxresdefault.jpg"
 ---
 
 Un minuto di riscaldamento improvvisato in sala prove (Luglio 2015).

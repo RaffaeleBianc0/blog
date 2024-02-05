@@ -4,7 +4,7 @@ date: "2020-04-13"
 categories: 
   - "basso"
   - "musica"
-coverImage: "yt-thumbnail.jpg"
+coverImage: "images/yt-thumbnail.jpg"
 ---
 
 Approfittando degli ampi ritagli di tempo da lockdown e del basso gentilmente prestatomi da un amico, mi sono rimesso a strimpellare il basso.

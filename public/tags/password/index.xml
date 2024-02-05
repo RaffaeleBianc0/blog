@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>password on Mica scrivo granché</title>
+        <link>https://www.RaffaeleBianco.it/tags/password/</link>
+        <description>Recent content in password on Mica scrivo granché</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>it</language>
+        <copyright>Raffaele Bianco</copyright>
+        <lastBuildDate>Sat, 30 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://www.RaffaeleBianco.it/tags/password/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Password!</title>
+        <link>https://www.RaffaeleBianco.it/p/password/</link>
+        <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.RaffaeleBianco.it/p/password/</guid>
+        <description>&lt;p&gt;Già vista la famosa e illuminante vignetta di &lt;a class=&#34;link&#34; href=&#34;https://xkcd.com/936/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;xkcd&lt;/a&gt;? Eccola:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.RaffaeleBianco.it/p/password/images/correct-horse-battery-staple.png&#34;
+	width=&#34;740&#34;
+	height=&#34;601&#34;
+	srcset=&#34;https://www.RaffaeleBianco.it/p/password/images/correct-horse-battery-staple_huabb08bc8d740cfb86b14b54911328478_93029_480x0_resize_box_3.png 480w, https://www.RaffaeleBianco.it/p/password/images/correct-horse-battery-staple_huabb08bc8d740cfb86b14b54911328478_93029_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;correct horse battery staple&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;123&#34;
+		data-flex-basis=&#34;295px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Molto probabilmente usi password &lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;http://passwordresearch.com/stats/statistic374.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;corte&lt;/a&gt;&lt;/em&gt; e &lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;http://passwordresearch.com/stats/statistic258.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;sempre uguali&lt;/a&gt;&lt;/em&gt;. Dovresti pensarci! Ti racconto di come ci ho pensato io.&lt;/p&gt;
+&lt;h1 id=&#34;per-farla-breve&#34;&gt;Per farla breve&lt;/h1&gt;
+&lt;p&gt;Versione condensata di questo articolo:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cambia la tua &lt;strong&gt;&lt;em&gt;PASSWORD&lt;/em&gt;&lt;/strong&gt; in qualcosa come &lt;em&gt;&lt;strong&gt;&amp;hellip;2016X&amp;hellip;PASSWORD&lt;/strong&gt;&lt;/em&gt;, su tutti i servizi online a cui tieni (email Facebook Twitter Linkedin banca eccetera). &lt;em&gt;&lt;strong&gt;2016&lt;/strong&gt;&lt;/em&gt; è l&amp;rsquo;anno corrente (da cambiare dopo ogni capodanno), &lt;em&gt;&lt;strong&gt;X&lt;/strong&gt;&lt;/em&gt; è l&amp;rsquo;iniziale del servizio dove hai l&amp;rsquo;account (F per Facebook, T per Twitter, eccetera), e &lt;em&gt;&lt;strong&gt;PASSWORD&lt;/strong&gt;&lt;/em&gt; è la parte a tua scelta. Con uno schema di questo tipo, avrai password sufficientemente lunghe, diverse su ogni sito, aggiornate ogni anno, facili da inventare e da ricordare.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Se ti interessa il &lt;em&gt;perché&lt;/em&gt;, continua a leggere!&lt;/p&gt;
+&lt;h1 id=&#34;il-problema&#34;&gt;Il problema&lt;/h1&gt;
+&lt;p&gt;Ogni volta che guardiamo la mail sul telefono, rispondiamo a un messaggio su WhatsApp, o buttiamo l&amp;rsquo;occhio alle notifiche su Twitter, stiamo usando una password. Magari è memorizzata nel dispositivo, ma la stiamo usando! E lo facciamo con con una &lt;strong&gt;frequenza&lt;/strong&gt; pazzesca, quotidianamente. Oltre alla frequenza, anche la &lt;strong&gt;diffusione&lt;/strong&gt; è alta - almeno, parlo per me: il mio vault &lt;a class=&#34;link&#34; href=&#34;https://lastpass.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;LastPass&lt;/a&gt; conta 503 siti web dove ho un account. &lt;em&gt;Cinquecentotre&lt;/em&gt;. Certo, molti siti non esisteranno più, e il 90% non li uso mai, ma ad ogni modo gli account a cui tengo davvero sono senz&amp;rsquo;altro qualche decina.&lt;/p&gt;
+&lt;p&gt;Se uno di questi account &amp;ldquo;importanti&amp;rdquo; mi venisse rubato, sarebbe &lt;em&gt;un bel fastidio&lt;/em&gt;, per usare parole delicate. &lt;strong&gt;Come potrebbe succedere?&lt;/strong&gt; Ci sono almeno queste 2 considerazioni da fare:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I database degli account di molte importanti realtà del web &lt;strong&gt;sono &lt;em&gt;già&lt;/em&gt; stati rubati&lt;/strong&gt; in passato. &lt;a class=&#34;link&#34; href=&#34;http://www.lastampa.it/2014/09/10/tecnologia/rubate-cinque-milioni-di-password-gmail-hacker-russi-sotto-accusa-j4er5VFJ7u4qYXrxUqdvPP/pagina.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Google&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;http://www.ilsole24ore.com/art/tecnologie/2012-06-07/linkedin-milioni-mezzo-password-124628.shtml?uuid=AbHfJgoF&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Linkedin&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;http://www.ilsole24ore.com/art/notizie/2014-05-21/cyber-attacco-ebay-portale-web-chiede-utenti-cambio-password-152623.shtml?uuid=ABbIR3JB&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;eBay&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;http://www.oversecurity.net/2014/07/08/libero-mail-probabile-attacco-agli-account-email/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Libero&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;http://www.darkreading.com/attacks-and-breaches/sony-hacked-again-1-million-passwords-exposed/d/d-id/1098113?&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Sony&lt;/a&gt;, e chissà quanti altri - compreso lo stesso &lt;a class=&#34;link&#34; href=&#34;http://www.telegraph.co.uk/technology/internet-security/11677827/Cyber-attack-breaches-password-database-LastPass.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;LastPass&lt;/a&gt;! - hanno subito un qualche tipo di compromissione/furto di queste informazioni. E quasi sempre si è trattato di furti di &lt;em&gt;milioni&lt;/em&gt; di account. Magari anche il tuo è già in mani sbagliate, pronto per essere crackato dopodomani. Quindi è sbagliato &amp;ldquo;fidarsi&amp;rdquo; al 100% in generale, anche dei &amp;ldquo;nomi grossi&amp;rdquo;, o delle tecnologie consolidate (magari vi ricordate di &lt;a class=&#34;link&#34; href=&#34;https://it.wikipedia.org/wiki/Heartbleed&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Heartbleed&lt;/a&gt;, ad esempio).&lt;/li&gt;
+&lt;li&gt;Forse usiamo &lt;strong&gt;la stessa password che usavamo 10 anni fa un po&amp;rsquo; dappertutto&lt;/strong&gt;, o se va bene ne abbiamo due diverse &lt;em&gt;-&lt;/em&gt; magari una per le poche cose &amp;ldquo;importanti&amp;rdquo; (email, banca e poco altro) e l&amp;rsquo;altra per tutte le altre cose &amp;ldquo;non importanti&amp;rdquo;. Anche tu fai così? ;-)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Mettendo insieme i punti 1+2, il risultato è immediatamente questo:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Se uso la stessa password un po&amp;rsquo; dappertutto da 10 anni, e durante questi 10 anni mi hanno rubato uno qualunque di quegli account, allora tutti i miei account sono a rischio&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Suona male, vero?&lt;/p&gt;
+&lt;p&gt;Poi probabilmente l&amp;rsquo;attaccante di turno userà uno strumento che, automaticamente, appena cracka con successo un account di (per esempio) Facebook, immediatamente prova la stessa combinazione &amp;ldquo;login/email + password&amp;rdquo; su GMail Twitter Linkedin Tumblr Instagram UniCredit BNL Fineco e altre centinaia di siti. E poi, su ciascuno di quelli dove il tentativo di login va a buon fine, sceglie: o si mette da parte l&amp;rsquo;accesso ottenuto &amp;ldquo;per usi futuri&amp;rdquo;, oppure cambia immediatamente la password con una a sua scelta, tagliando fuori il legittimo proprietario. &lt;strong&gt;Suona &lt;em&gt;molto&lt;/em&gt; male, vero?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ora, è chiaro che i miei account non sono granché interessanti da rubare rispetto a quelli di un miliardario o di una star di Hollywood. &lt;strong&gt;Ma non è questo il punto.&lt;/strong&gt; Il punto è che questi attacchi vengono quasi sempre eseguiti su milioni di account non necessariamente &amp;ldquo;selezionati&amp;rdquo;: l&amp;rsquo;esposizione a questo rischio non è correlata al portafoglio, insomma. &lt;strong&gt;Siamo &lt;em&gt;tutti&lt;/em&gt; a rischio&lt;/strong&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;a-me-è-successo&#34;&gt;A me è successo&lt;/h1&gt;
+&lt;p&gt;Un bel po&amp;rsquo; di anni fa mi sono trovato 4 acquisti completati su eBay, per un totale di più di 3000€ da pagare. Acquisti che ovviamente non avevo mai fatto. Ho parlato con altre 2 persone a cui è successo, e che sono dovute passare attraverso una denuncia alla Polizia Postale per risolvere. Io sono stato più fortunato perché ho risolto semplicemente seguendo le procedure di segnalazione con eBay, però ho dovuto comunque dedicare un paio d&amp;rsquo;ore a capire quali fossero queste procedure e ad applicarle. &lt;strong&gt;Avevo una password debole&lt;/strong&gt;, fatta solo di 9 lettere minuscole (che ovviamente ho cambiato in quell&amp;rsquo;occasione, anche perché eBay al tempo possedeva PayPal e&amp;hellip; non si sa mai). Ma quello che era peggio è che &lt;strong&gt;la stessa password l&amp;rsquo;avevo usata per &lt;em&gt;decine&lt;/em&gt; di account&lt;/strong&gt; su altri siti. Quindi, oltre alle 2 ore perse per eBay, ho dovuto dedicare qualche altra ora per fare il &amp;ldquo;giro&amp;rdquo; dei miei account a cambiare la password. Davvero un modo poco interessante di passare il tempo!&lt;/p&gt;
+&lt;h1 id=&#34;le-password-_dovrebbero_-essere&#34;&gt;Le password &lt;em&gt;dovrebbero&lt;/em&gt; essere&amp;hellip;&lt;/h1&gt;
+&lt;p&gt;Il problema n°1 delle password, &amp;ldquo;lato utente&amp;rdquo;, è che devono essere &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;http://passwordresearch.com/stats/statistic262.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;facili da ricordare&lt;/a&gt;&lt;/strong&gt;. E questa caratteristica fa a botte con tutte le caratteristiche che invece sono raccomandabili, e che sono più o meno queste:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;E&amp;rsquo; bene usare una password &lt;strong&gt;differente per ogni account&lt;/strong&gt;.
+&lt;ul&gt;
+&lt;li&gt;Questo per evitare che, una volta rubatoci un account, ce ne vengano rubati altri N solo perché la login/email e la password che abbiamo usato sono le stesse.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.webroot.com/us/en/company/press-room/releases/protect-your-computer-from-hackers&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Questo studio&lt;/a&gt; ci racconta ad esempio che circa metà degli utenti Facebook nel 2010 usava la stessa password dell&amp;rsquo;account Facebook su altri siti.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;E&amp;rsquo; bene &lt;strong&gt;cambiare periodicamente&lt;/strong&gt; ogni password.
+&lt;ul&gt;
+&lt;li&gt;Questo darà meno tempo utile ad un eventuale attacco &amp;ldquo;a posteriori&amp;rdquo; su database di account rubati magari qualche mese prima.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.statista.com/statistics/305455/millennials-generation-x-frequency-of-password-changes/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Questa statistica&lt;/a&gt; dice che circa il 60% dei giovani americani cambia le proprie password almeno una volta all&amp;rsquo;anno. Avrei scommesso che la situazione fosse molto peggiore di così!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;E&amp;rsquo; bene che le password siano &lt;strong&gt;lunghe&lt;/strong&gt; (diciamo almeno 12 caratteri).
+&lt;ul&gt;
+&lt;li&gt;Oggi è possibile noleggiare risorse computazionali online, ottenendo una potenza di calcolo inimmaginabile fino a qualche anno fa, e in crescita continua! Dato che il tempo necessario a crackare una password con metodi brute-force ha andamento esponenziale rispetto alla sua lunghezza, è bene puntare all&amp;rsquo;uso di pass_phrase_ che contengano molti caratteri. La vignetta di xkcd più sopra suggerisce esattamente questo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;E&amp;rsquo; bene che le password includano &lt;strong&gt;caratteri presi da più insiemi&lt;/strong&gt; tra questi: lettere minuscole, lettere maiuscole, numeri, simboli.
+&lt;ul&gt;
+&lt;li&gt;Questo fattore probabilmente oggi è utile soprattutto per far sì che la password rispetti eventuali vincoli che molti siti ancora impongono durante la creazione dell&amp;rsquo;account, che magari consentono di scegliere una password di soli 4 caratteri, purché ci siano dentro una cifra e un simbolo. Quello che conta &lt;em&gt;molto&lt;/em&gt; di più è la cruda &lt;em&gt;lunghezza&lt;/em&gt; di una password!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;E&amp;rsquo; bene che le password non coincidano con &lt;strong&gt;parole da dizionario&lt;/strong&gt; (in qualunque lingua).
+&lt;ul&gt;
+&lt;li&gt;Questo perché una tecnica fruttuosa per indovinare password è il &lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://it.wikipedia.org/wiki/Attacco_a_dizionario&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;dictionary attack&lt;/a&gt;&lt;/em&gt;, e relative modifiche (aggiungendo prima/dopo delle combinazioni di 1/2/3/4/5 cifre, e/o giocando con maiuscole/minuscole, e/o usando 2/3 parole affiancate, e/o giocando con le sostituzioni &lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://it.wikipedia.org/wiki/Leet&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Leet&lt;/a&gt;&lt;/em&gt; come &amp;ldquo;p@55w0rdd1ff1c1l3&amp;rdquo; invece che &amp;ldquo;passworddifficile&amp;rdquo;, eccetera).&lt;/li&gt;
+&lt;li&gt;Un buon tasso di successo ha anche l&amp;rsquo;uso di un dizionario composto dalle password più usate, come &lt;a class=&#34;link&#34; href=&#34;http://www.whatsmypass.com/the-top-500-worst-passwords-of-all-time&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;questo&lt;/a&gt; - suggerisco di darci un&amp;rsquo;occhiata, per farsi un&amp;rsquo;idea di come spesso sia sottovalutato il problema!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Insomma creare delle password &amp;ldquo;sicure&amp;rdquo; sembra una &lt;strong&gt;gigantesca rottura di scatole&lt;/strong&gt;, vero? :-)&lt;/p&gt;
+&lt;h1 id=&#34;la-mia-soluzione&#34;&gt;La mia soluzione&lt;/h1&gt;
+&lt;p&gt;Ho pensato a una soluzione semplice, che consente allo stesso tempo&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;facilità di &lt;strong&gt;creazione&lt;/strong&gt; di una nuova password quando serve&lt;/li&gt;
+&lt;li&gt;rispetto di &lt;strong&gt;tutte (!)&lt;/strong&gt; le caratteristiche sopra elencate&lt;/li&gt;
+&lt;li&gt;facilità di &lt;strong&gt;memorizzazione&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;L&amp;rsquo;idea è quella di cambiare la nostra attuale&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;_password_&#34;&gt;&lt;em&gt;PASSWORD&lt;/em&gt;&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;con qualcosa simile a&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;_2016fpassword_&#34;&gt;&lt;em&gt;&amp;hellip;2016F&amp;hellip;PASSWORD&lt;/em&gt;&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;hellip; perché:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Inizia con un segno di punteggiatura&lt;/strong&gt;, invece che con una lettera o cifra (una scelta statisticamente meno probabile rispetto alle &lt;a class=&#34;link&#34; href=&#34;http://www.lifehacker.com.au/2015/01/doh-the-25-most-popular-passwords-of-2015/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;password più usate&lt;/a&gt;, il che non guasta).
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www2.trustwave.com/rs/815-RFM-693/images/2015_TrustwaveGlobalSecurityReport.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Questo studio&lt;/a&gt; a pagina 106 dà un&amp;rsquo;idea sui pattern più utilizzati per costruire una password. Quel capitolo è molto interessante in generale.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Include la &lt;em&gt;PASSWORD&lt;/em&gt; che &lt;strong&gt;già usate e ricordate&lt;/strong&gt;, e che può essere anche relativamente semplice, perché il resto dei caratteri che ci aggiungiamo prima la rende abbastanza lunga e complessa in ogni caso.&lt;/li&gt;
+&lt;li&gt;Il &amp;ldquo;.&amp;rdquo; è un simbolo che esiste in &lt;strong&gt;qualunque tastiera&lt;/strong&gt; di qualunque dispositivo, ed è sempre &lt;strong&gt;in prima battuta&lt;/strong&gt; anche su smartphone/tablet: quindi non obbliga a premere [Shift] né a commutare la tastiera alfabetica in quella dei simboli, rendendo la digitazione più rapida.&lt;/li&gt;
+&lt;li&gt;Include l&amp;rsquo;anno corrente: in questo modo, quando arriva il 2017 &lt;strong&gt;è immediato capire che è ora di cambiare la password&lt;/strong&gt;.
+&lt;ul&gt;
+&lt;li&gt;Un cambio di password all&amp;rsquo;anno non è male, anche se c&amp;rsquo;è qualche sito che obbliga a cambiamenti più frequenti.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.giac.org/paper/gsec/16274/analysis-password-aging/117428&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Questo studio&lt;/a&gt;, anche se un po&amp;rsquo; vecchiotto (è del 2009), conclude che per una password &amp;ldquo;robusta&amp;rdquo; il fatto che resti immutata per lungo tempo non aumenta significativamente la sua debolezza rispetto ad un attacco brute-force. Viceversa, una password debole è &lt;em&gt;molto&lt;/em&gt; soggetta al problema.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dopo l&amp;rsquo;anno, c&amp;rsquo;è una lettera maiuscola che è l&amp;rsquo;iniziale del nome del servizio a cui stiamo associando l&amp;rsquo;account - &amp;ldquo;F&amp;rdquo; per &amp;ldquo;Facebook&amp;rdquo; ad esempio. Questo rende la password &lt;strong&gt;automaticamente diversa (quasi) per ogni sito&lt;/strong&gt;, senza renderla impossibile da ricordare. Per togliere quel &amp;ldquo;quasi&amp;rdquo; e dormire sonni tranquilli, si potrebbe scrivere &lt;em&gt;per esteso&lt;/em&gt; il nome del servizio - insomma &amp;ldquo;FACEBOOK&amp;rdquo; invece di &amp;ldquo;F&amp;rdquo;, ottenendo anche una password enormemente più sicura, però un po&amp;rsquo; scomoda da digitare.
+&lt;ul&gt;
+&lt;li&gt;Si potrebbe pensare che &lt;em&gt;un solo carattere&lt;/em&gt; di differenza non aiuti granché sul fronte della sicurezza, ma va tenuto conto che i database degli account memorizzano (quasi sempre) le password non in chiaro, ma &amp;ldquo;&lt;em&gt;hashate&lt;/em&gt;&amp;rdquo; con qualche algoritmo, e &lt;strong&gt;un singolo carattere diverso fa cambiare &lt;em&gt;totalmente&lt;/em&gt; un hash&lt;/strong&gt; - per provare questa cosa in 10 secondi si possono calcolare &lt;a class=&#34;link&#34; href=&#34;https://www.tools4noobs.com/online_tools/hash/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;in questa pagina&lt;/a&gt; gli hash per le due stringhe &amp;ldquo;prova1&amp;rdquo; e &amp;ldquo;prova2&amp;rdquo; usando l&amp;rsquo;algoritmo MD2 proposto di default, ottenendo rispettivamente &amp;ldquo;c2ab7a75856a61ab8e7feca9276108d8&amp;rdquo; e &amp;ldquo;89034ca8d78229201b7e3f92e61a33ae&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;La parte &amp;ldquo;anno+lettera&amp;rdquo; è &lt;em&gt;non alla fine&lt;/em&gt; della password. Forse incide poco, ma anche il fatto che la differenza tra due password non sia alla fine sembra avere un minimo peso, stando a &lt;a class=&#34;link&#34; href=&#34;https://www.lightbluetouchpaper.org/2011/02/09/measuring-password-re-use-empirically/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;questo studio&lt;/a&gt;. A parità di sforzo, tanto vale annegare questa differenza a metà della password.&lt;/li&gt;
+&lt;li&gt;Usa 2 sequenze di punti per &amp;ldquo;abbracciare&amp;rdquo; la combinazione anno+lettera, così diventa &lt;strong&gt;più lunga restando facile da digitare e da ricordare&lt;/strong&gt; (casomai scegliete di usare 4 o 5 &amp;ldquo;.&amp;rdquo; se la vostra &lt;em&gt;PASSWORD&lt;/em&gt; è troppo corta)&lt;/li&gt;
+&lt;li&gt;Combina punteggiatura, maiuscole, cifre (e anche minuscole, se la vostra &lt;em&gt;PASSWORD&lt;/em&gt; ne prevede): ottimo, tutti e 4 gli insiemi sono utilizzati! Quindi nessun sito rifiuterà questa password perché ritenuta &amp;ldquo;troppo semplice&amp;rdquo;, e &lt;strong&gt;lo schema sarà valido ovunque&lt;/strong&gt;, senza costringerci a gestire delle eccezioni.&lt;/li&gt;
+&lt;li&gt;E&amp;rsquo; &lt;strong&gt;facile da ricordare: è sempre lo stesso schema&lt;/strong&gt;, una volta pensato è già imparato!&lt;/li&gt;
+&lt;li&gt;La cambiamo 1 volta all&amp;rsquo;anno, e siamo indotti a farlo &amp;ldquo;automaticamente&amp;rdquo; mentre la digitiamo, ma soprattutto è &lt;strong&gt;&lt;em&gt;comoda&lt;/em&gt; da cambiare&lt;/strong&gt;, perché non costringe a inventarsi nulla di esoterico: lo schema è sempre uguale, e il cambiamento di un solo carattere da &amp;ldquo;2016&amp;rdquo; a &amp;ldquo;2017&amp;rdquo; ha le stesse conseguenze positive sull&amp;rsquo;hash già scritte più sopra.&lt;/li&gt;
+&lt;li&gt;E&amp;rsquo; &lt;strong&gt;sufficientemente lunga&lt;/strong&gt;, perché alla vostra &lt;em&gt;PASSWORD&lt;/em&gt; stiamo aggiungendo almeno 11 caratteri, quindi il totale è sicuramente &amp;gt;14 caratteri. Ottimo anche per quei (rari) siti più attenti che chiedono password lunghe almeno 12 caratteri.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;variantie-aggiunte&#34;&gt;Varianti e aggiunte&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;PIN&lt;/strong&gt; Se ti piace di più, invece di una &lt;em&gt;PASSWORD&lt;/em&gt; puoi usare il &lt;em&gt;PIN&lt;/em&gt; del tuo telefono, ottenendo qualcosa come &lt;em&gt;&lt;strong&gt;&amp;hellip;1234&amp;hellip;2016F&lt;/strong&gt;&lt;/em&gt; che totalizza comunque 15 caratteri e mantiene tutte le caratteristiche che ho descritto. Meno robusta perché c&amp;rsquo;è solo una lettera, ma tutto sommato adeguata. Magari usa più punti: in &lt;em&gt;&lt;strong&gt;&amp;hellip;..1234&amp;hellip;..2016F&lt;/strong&gt;&lt;/em&gt; ci sono 19 caratteri.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PASSPHRASE&lt;/strong&gt; Se hai già in mente una &lt;em&gt;PASSPHRASELUNGA&lt;/em&gt; già di suo, puoi viceversa pensare ad uno schema più compatto del tipo .&lt;em&gt;PASSPHRASELUNGA2016F&lt;/em&gt;: un solo punto all&amp;rsquo;inizio, &amp;gt;20 caratteri, c&amp;rsquo;è l&amp;rsquo;anno, c&amp;rsquo;è la lettera sempre diversa alla fine&amp;hellip; non male!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PUNTI&lt;/strong&gt; Ancora, puoi scegliere di esagerare con i punti costruendo un&amp;rsquo;idea semplice, tipo: &amp;hellip;&amp;hellip;&amp;hellip;Nove2016F -&amp;gt; 9 punti, poi ancora &amp;ldquo;9&amp;rdquo; scritto in lettere, e il solito anno+lettera, per un totale di 18 caratteri, in una password robusta, facile da ricordare e digitare, unica, croccantina, quadrata, pratica, buona.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2FA&lt;/strong&gt; Dove è disponibile, e buona cosa sfruttare la &amp;ldquo;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Two-factor_authentication&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;2-factor authentication&lt;/a&gt;&amp;rdquo; per proteggere i tuoi account. Ad esempio GMail, Facebook, Linkedin la supportano, e puoi vedere su &lt;a class=&#34;link&#34; href=&#34;https://twofactorauth.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;questo sito&lt;/a&gt; quali altri servizi la supportano e in che modo. E&amp;rsquo; un miglioramento alla sicurezza che supera qualunque password complessa, e non ha controindicazioni pratiche. Si tratta di fornire al servizio il proprio n° di cellulare, in modo tale che ogni volta che avviene un tentativo di login da un &lt;em&gt;nuovo&lt;/em&gt; dispositivo, il servizio manda via SMS un codice da digitare per poter completare il login. Ricordati di impostare sempre una &amp;ldquo;scappatoia&amp;rdquo;, nel caso tu perda il telefono! Questo vale soprattuto per l&amp;rsquo;&lt;a class=&#34;link&#34; href=&#34;https://accounts.google.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Account Google&lt;/a&gt;, se la tua email è su GMail: configura una email di riserva (ad esempio quella di lavoro, o dei familiari), in modo da poter ottenere in qualunque caso l&amp;rsquo;accesso al tuo account, imposta qualche numero di telefono di backup nel caso venga perso l&amp;rsquo;accesso al telefono principale, ed eventualmente stampati i &amp;ldquo;Codici di Backup&amp;rdquo; (o salvali da qualche parte online, in modo che siano recuperabili &lt;em&gt;senza&lt;/em&gt; necessità di usare GMail).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LASTPASS&lt;/strong&gt; Per gestire le mie password in maniera comoda mentre sono al PC uso &lt;a class=&#34;link&#34; href=&#34;http://www.LastPass.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;LastPass&lt;/a&gt;, che offre una serie di funzionalità eccellenti tra cui la compilazione automatica, l&amp;rsquo;eventuale generazione automatica di password sicure, un check del livello di sicurezza delle proprie password, indicazioni sul fatto che la stessa password sia usata su più siti, eccetera eccetera. Preferisco questo strumento, invece che memorizzare le password direttamente nel browser. Forse però sarebbe più sensato abbandonare anche questo strumento e adottare solamente la soluzione mnemonica che propongo in questo articolo, per evitare ulteriori possibilità di furto dei propri dati&amp;hellip; ci penserò.&lt;/p&gt;
+&lt;h1 id=&#34;link&#34;&gt;Link&lt;/h1&gt;
+&lt;p&gt;Ecco qualche link correlato a quanto ho scritto:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://HowSecureIsMyPassword.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;HowSecureIsMyPassword.net&lt;/a&gt;: utile per avere un&amp;rsquo;idea di massima su quanto sia &amp;ldquo;buona&amp;rdquo; una password - magari digitateci qualcosa di &lt;em&gt;simile&lt;/em&gt; alla password che avete in mente, invece che proprio &lt;em&gt;uguale&lt;/em&gt;&amp;hellip; non si sa mai, giusto? ;-)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.grc.com/haystack.htm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GRC &amp;ldquo;How big is your haystack?&amp;rdquo;&lt;/a&gt;: circa come sopra, ma più dettagliato, e soprattutto contiene molte considerazioni interessanti sul tema.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://passwordresearch.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PasswordResearch.com&lt;/a&gt;: soprattutto la pagina delle [Statistics](&lt;a class=&#34;link&#34; href=&#34;http://passwordresearch.com/stats/statindex.html#User&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://passwordresearch.com/stats/statindex.html#User&lt;/a&gt; Password Practices), per farsi un&amp;rsquo;idea di massima dei comportamenti, e il &lt;a class=&#34;link&#34; href=&#34;http://blog.passwordresearch.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;blog&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;conclusioni&#34;&gt;Conclusioni&lt;/h1&gt;
+&lt;p&gt;Mi è sembrata un&amp;rsquo;idea semplice da mettere in pratica, ma allo stesso tempo efficace.&lt;/p&gt;
+&lt;p&gt;Ora si tratta di fare il giro dei primi account importanti che ti vengono in mente, e cambiare dappertutto quella vecchia password&amp;hellip; ;-)&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
