@@ -1,5 +1,5 @@
-baseURL = 'https://www.RaffaeleBianco.it/'
-languageCode = 'en-us'
+baseURL = 'https://www.RaffaeleBianco.it/blog/'
+languageCode = 'it-it'
 title = 'Mica scrivo granché'
 theme = 'hugo-theme-stack'
 enableEmoji = true
