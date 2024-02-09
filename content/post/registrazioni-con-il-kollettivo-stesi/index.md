@@ -2,7 +2,6 @@
 title: "Kollettivo Stesi"
 date: "2014-12-31"
 categories: 
-  - "band"
   - "batteria"
   - "musica"
 image: "images/logo-kollettivo-2011-bn-8bit-2116x1708.gif"

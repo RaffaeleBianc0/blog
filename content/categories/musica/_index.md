@@ -1,6 +1,6 @@
 ---
 title: "musica"
-description: "Cose fatte con la musica, suonando, componendo, o mixando."
+description: "Cose fatte con la musica (suonando, componendo, mixando)."
 slug: "musica"
 image: "categoria.jpg"
 style:

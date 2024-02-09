@@ -1,6 +1,6 @@
 ---
 title: "altro"
-description: "Altre categorie, perché un 'altro' è inevitabile in qualunque categorizzazione."
+description: "Altre categorie, perché un 'altro' è inevitabile, sempre."
 slug: "altro"
 image: "categoria.jpg"
 style:

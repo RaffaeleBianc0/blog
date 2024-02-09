@@ -2,7 +2,6 @@
 title: "JFP"
 date: "2015-05-31"
 categories: 
-  - "band"
   - "batteria"
   - "musica"
 image: "images/jfp.jpg"

@@ -2,7 +2,6 @@
 title: "\"I will survive\" con The Cloud Band"
 date: "2020-03-30"
 categories: 
-  - "band"
   - "basso"
   - "musica"
 image: "images/cloudband.jpg"

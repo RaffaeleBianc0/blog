@@ -2,7 +2,6 @@
 title: "3%"
 date: "2015-07-01"
 categories: 
-  - "band"
   - "batteria"
   - "musica"
 Image: images/3-logo-knob.jpg

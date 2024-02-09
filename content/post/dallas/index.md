@@ -2,7 +2,6 @@
 title: "Il Dallas"
 date: "2016-12-24"
 categories: 
-  - "band"
   - "batteria"
   - "musica"
 image: "images/il-dallas-scritta.png"

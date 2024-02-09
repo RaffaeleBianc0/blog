@@ -2,7 +2,6 @@
 title: "\"Polisportiva Stradazza\" (Il Dallas)"
 date: "2022-04-10"
 categories: 
-  - "band"
   - "batteria"
   - "musica"
 image: "images/copertina-polisportiva.jpg"

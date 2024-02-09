@@ -2,7 +2,7 @@
 title: "\"iosonodinamite\" (Il Dallas)"
 date: "2022-05-23"
 categories: 
-  - "band"
+  - "musica"
   - "batteria"
 image: "images/folder.png"
 ---

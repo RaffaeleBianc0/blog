@@ -2,7 +2,6 @@
 title: "\"Polvere\" (Il Dallas)"
 date: "2018-10-29"
 categories: 
-  - "band"
   - "batteria"
   - "musica"
 image: "images/davide-urla.png"
