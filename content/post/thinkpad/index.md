@@ -3,13 +3,11 @@ title: "ThinkPad ricondizionati"
 date: "2023-10-17"
 categories: 
   - "tecnologia"
-tags: 
-  - "featured"
 image: "images/x280-flat.jpg"
 ---
 
-> **[TL;DR](https://en.wikipedia.org/wiki/TL;DR)  
-> **  
+> [TL;DR](https://en.wikipedia.org/wiki/TL;DR):
+>   
 > Vuoi acquistare un notebook, con un occhio al budget:  
 >   
 > Budget < 400€, o magari vuoi un portatile diverso dal solito 15" di plastica da grande distribuzione senza svenarti? **Allora compra un ricondizionato.**  

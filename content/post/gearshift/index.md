@@ -4,8 +4,6 @@ date: "2012-10-27"
 categories: 
   - "musica"
   - "produzione"
-tags: 
-  - "featured"
 image: "images/gs.png"
 ---
 

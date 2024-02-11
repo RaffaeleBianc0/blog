@@ -4,8 +4,6 @@ date: "2018-04-29"
 categories: 
   - "basso"
   - "musica"
-tags: 
-  - "featured"
 image: "images/deantownthumbnail.jpg"
 ---
 

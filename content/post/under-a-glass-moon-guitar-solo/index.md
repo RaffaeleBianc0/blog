@@ -4,8 +4,6 @@ date: "2016-07-16"
 categories: 
   - "chitarra"
   - "musica"
-tags: 
-  - "featured"
 image: "images/maxresdefault.jpg"
 ---
 

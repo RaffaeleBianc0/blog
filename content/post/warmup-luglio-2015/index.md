@@ -4,8 +4,6 @@ date: "2015-07-11"
 categories: 
   - "batteria"
   - "musica"
-tags: 
-  - "featured"
 image: "images/maxresdefault.jpg"
 ---
 
