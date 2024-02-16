@@ -147,26 +147,50 @@ main = [ ]
   [[menu.social]]
   identifier = "facebook"
   name = "Facebook"
-  url = "https://facebook.com/RaffaeleBianco"
+  url = "http://facebook.com/RaffaeleBianco"
 
     [menu.social.params]
     icon = "brand-facebook"
-
+  
   [[menu.social]]
-  identifier = "twitter"
-  name = "Twitter"
-  url = "https://twitter.com/RaffaeleBianco"
+  identifier = "instagram"
+  name = "Instagram"
+  url = "http://instagram.com/RaffaeleBianc0"
 
     [menu.social.params]
-    icon = "brand-twitter"
+    icon = "brand-instagram"
 
   [[menu.social]]
-  identifier = "github"
-  name = "GitHub"
-  url = "https://github.com/RaffaeleBianc0"
+  identifier = "youtube"
+  name = "Youtube"
+  url = "http://youtube.com/RaffaeleBianco"
 
     [menu.social.params]
-    icon = "brand-github"
+    icon = "brand-youtube"
+
+  [[menu.social]]
+  identifier = "ytmusic"
+  name = "YouTube Music"
+  url = "http://music.youtube.com/channel/UCMwsz2fHAaRfeoezKfp0I0g"
+
+    [menu.social.params]
+    icon = "player-play"
+
+  # [[menu.social]]
+  # identifier = "github"
+  # name = "GitHub"
+  # url = "http://github.com/RaffaeleBianc0"
+
+  #   [menu.social.params]
+  #   icon = "brand-github"
+
+  [[menu.social]]
+  identifier = "linkedin"
+  name = "Linkedin"
+  url = "http://linkedin.com/in/RaffaeleBianco"
+
+    [menu.social.params]
+    icon = "brand-linkedin"
 
 [related]
 includeNewer = true
