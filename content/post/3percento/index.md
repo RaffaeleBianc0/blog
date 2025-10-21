@@ -7,7 +7,7 @@ categories:
 Image: images/3-logo-knob.jpg
 ---
 
-I 3% sono stati un trio fusion strumentale, a volte quartetto con Matteo al sax, che è durato da inizio 2015 a metà 2016, in cui ho suonato la batteria.
+I 3% sono stati un trio fusion strumentale, a volte quartetto con Matteo al sax, che è durato pochino, da inizio 2015 a metà 2016, in cui ho suonato la batteria.
 
 Ecco un paio di registrazioni in sala prove - un'improvvisazione e una cover di Billy Cobham:
 
