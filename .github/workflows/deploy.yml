@@ -28,5 +28,3 @@ jobs:
           private-ssh-key: ${{ secrets.FTP_PASSWORD }}
           source-path: ./public/
           destination-path: ./blog/
-          protocol: ftp
-          
