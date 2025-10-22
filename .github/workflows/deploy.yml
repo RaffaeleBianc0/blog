@@ -28,5 +28,3 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./public/
           server-dir: ./blog/
-          log-level: verbose
-          git-ftp-args: --insecure --all
