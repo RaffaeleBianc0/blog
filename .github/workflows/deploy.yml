@@ -28,3 +28,4 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./public/
           server-dir: ./blog/
+          log-level: verbose
