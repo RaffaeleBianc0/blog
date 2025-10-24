@@ -30,7 +30,7 @@ Una continua serie di problemi legati all'aggiornamento dei server e ai bachi di
 
 Parlando con un collega, mi suggerisce [Tophost](https://www.tophost.it) per registrarmi il nome di dominio e avere un minimo di spazio online a costi bassissimi.
 
-Quindi decido di registrare il dominio raffaelebianco.it "per usi futuri", e di metterci dentro intanto una banale landing page simile alle migliaia che oggi si trovano fatte con [Linktr.ee](https://linktr.ee) e relativi cloni.
+Quindi decido di registrare il dominio raffaelebianco.it "per usi futuri", e di metterci dentro intanto una banale landing page simile alle migliaia che oggi si trovano fatte con [Linktr.ee](https://linktr.ee/raffaelebianco) e relativi cloni.
 
 Per l'occasione studio e provo qualche tema gratuito in formato HTML5, approfondisco il CSS, scopro [Font Awesome](https://fontawesome.com) e alla fine ne esce la homepage che ancora oggi vedi quando visiti [www.RaffaeleBianco.it](https://www.RaffaeleBianco.it).
 
