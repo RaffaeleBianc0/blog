@@ -8,7 +8,7 @@ image: "images/hugo-logo.png"
 
 Benvenuto nel mio blog.
 
-Ogni tanto cambia forma, perché lo uso anche come palestra per smanettare con qualche strumento nuovo.
+Ogni tanto cambia forma, perché lo uso anche come palestra per smanettare con qualche strumento nuovo, nei periodi un po' nerd che ogni tanto mi prendono.
 
 Ecco la storia di questo sito, da quando è nato ad oggi.
 
