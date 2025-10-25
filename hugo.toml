@@ -4,7 +4,7 @@ title = 'Mica scrivo granché'
 theme = 'hugo-theme-stack'
 enableEmoji = true
 
-paginate = 5
+pagination.pagerSize = 5
 copyright = "Raffaele Bianco"
 DefaultContentLanguage = "it"
 hasCJKLanguage = false
