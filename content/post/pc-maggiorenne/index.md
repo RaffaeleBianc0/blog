@@ -4,7 +4,6 @@ date: "2024-01-13"
 categories: 
   - "tecnologia"
 image: "images/x60.jpg"
-image: images/x60.jpg
 toc: true
 ---
 
