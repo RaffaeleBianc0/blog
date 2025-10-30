@@ -2,7 +2,7 @@
 title: "Finanza personale"
 date: "2025-10-07"
 categories: 
-  - "misc"
+  - "altro"
 image: "images/finanza-personale.jpg"
 ---
 
