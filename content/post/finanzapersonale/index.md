@@ -7,7 +7,7 @@ image: "images/finanza-personale.jpg"
 ---
 
 
-## **Obiezione, vostro onore**
+## Obiezione, vostro onore
 
 *Finanza personale?*
 
@@ -254,8 +254,6 @@ Un database di conti deposito italiani.
 Molto utile per confrontare e decidere quale conto aprire.  
 Suggerisco di verificare le condizioni aggiornate sui siti delle banche, una volta fatta la prima scrematura su Deposifire.  
 Una risorsa analoga è presente su [https://forum.finanzaonline.com](https://forum.finanzaonline.com/), in forma di foglio di calcolo sempre aggiornato.
-
-## 
 
 ## **Fondi pensione**
 
