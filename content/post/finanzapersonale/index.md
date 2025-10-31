@@ -7,7 +7,7 @@ image: "images/finanza-personale.jpg"
 ---
 
 
-## Obiezione, vostro onore
+# Obiezione, vostro onore
 
 *Finanza personale?*
 
@@ -19,13 +19,17 @@ image: "images/finanza-personale.jpg"
 
 “Meglio chiedere in banca" \> meglio per la banca di sicuro, vedi paragrafi “SPIVA” e “Costi”.
 
-## Cosa c’è qui
+# Cosa c’è qui
 
 Ogni paragrafo è una “pillola” sul tema della finanza personale, un micro-riassunto di qualcosa che ho imparato, senza la pretesa di insegnare nulla a nessuno, né di essere esaustivo.  
 A metà 2024 mi è presa la scimmia per queste cose e parlandone con qualche amico ho pensato che una paginetta come questa potrebbe dare qualche input utile a chi, come me fino a “ieri”, non si è mai interessato più di tanto ai propri risparmi.  
 E’ rimasta “work in progress” per molti mesi, un po’ per paura che ci fossero errori, o che alla fine non aggiungesse nulla a quanto già esiste online. Però poi ho pensato che, se avessi trovato io anni fa un punto di partenza come questo, sintetico, con qualche idea e qualche link per approfondire, mi sarebbe servito parecchio.  
 E allora eccoci qua\! Magari sei qui perché ne abbiamo parlato e ti ho mandato il link.  
 Non troverai suggerimenti di investimento o di acquisto o altro spam molesto, quelle sono cose per professionisti, invece io qui condivido soltanto qualche appunto.
+
+
+
+# PILLOLE
 
 ## Il trading non c'entra
 
