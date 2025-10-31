@@ -13,4 +13,4 @@ Un paio di settimane fa ho rivisto suonare gli amici della vecchia band con cui 
 
 Lo ho studiato oggi a orecchio, e dopo 2-3 orette ne è venuta fuori questa esecuzione un po' da sistemare come al solito, ma va bene così per passare una domenica in casa con mezza influenza e per imparare finalmente un po' di chitarra elettrica... e un po' di smorfie che non sapevo di fare suonando! :D
 
-https://youtu.be/VDWfuN33kbI
+{{< youtube VDWfuN33kbI >}}

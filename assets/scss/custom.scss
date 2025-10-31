@@ -58,19 +58,34 @@
   box-sizing: border-box;
 }
 
-/* Modifica specifica per il link al passaggio del mouse */
-a:hover {
-    background-color: #ffffff !important;
-    color: #000000 !important;
+/* Evidenziazione link on hover per corpo del post e ToC */
+
+// Selettore per i link nel corpo del post
+.article-content a:hover,
+// Selettore per i link nella Table of Contents (generalmente in una sidebar)
+.widget-toc a:hover,
+#TableOfContents a:hover {
+    background-color: white !important;
+    color: black !important;
+    // Rimuove la decorazione del testo (underline) se presente:
     border-radius: 4px;
-    padding: 3px 3px; /* Il padding ora non aumenta le dimensioni totali del box */
-    text-decoration: none;
-    /* Aggiungi 'display' se il link è 'inline' */
-    /* display: inline-block; */
+    text-decoration: none !important;
 }
 
-/* Oppure, se vuoi applicarlo solo al link, ma è meno efficace
-   se non è applicato a tutta la pagina: */
-a {
-    box-sizing: border-box;
+// Aggiungo anche lo stile per la ToC nella sidebar, che usa
+// il selettore .widget-toc in alcuni casi.
+.widget-toc a:hover {
+    background-color: white !important;
+    color: black !important;
+    border-radius: 4px;
+    text-decoration: none !important;
+}
+
+.widget--toc {
+    // Riduci l'altezza di riga per compattare il testo
+    line-height: 1.0;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 0;
+    margin-bottom: 0;
 }

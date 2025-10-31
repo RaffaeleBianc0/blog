@@ -4,8 +4,9 @@ date: "2020-05-01"
 categories: 
   - "basso"
   - "musica"
+image: "runaway-thumbnail.jpg"
 ---
 
 Due cose ricorderò di questo periodo: il lockdown e Jamiroquai!
 
-https://youtu.be/t6iFTtRKZoQ
+{{< youtube t6iFTtRKZoQ >}}

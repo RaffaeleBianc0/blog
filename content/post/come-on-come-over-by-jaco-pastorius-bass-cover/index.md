@@ -11,4 +11,4 @@ Questo è un bel pezzo groovoso che ha la mia età: 1976, primo album di Jaco Pa
 
 Il ritornello più rognoso che ho studiato finora, quei sedicesimi furiosi sono come un treno in faccia, e come ogni volta che mi esalto devo provare a suonarlo, con tutta l'umiltà e l'ammirazione dovuta a questo monumento del bassismo.
 
-https://youtu.be/5Nj9o57mMhI
+{{< youtube 5Nj9o57mMhI >}}

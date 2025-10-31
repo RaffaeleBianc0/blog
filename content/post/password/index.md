@@ -6,6 +6,7 @@ categories:
 tags: 
   - "password"
   - "sicurezza"
+image: "images/password.webp"
 ---
 
 Già vista la famosa e illuminante vignetta di [xkcd](https://xkcd.com/936/)? Eccola:
@@ -123,4 +124,4 @@ Ecco qualche link correlato a quanto ho scritto:
 
 Mi è sembrata un'idea semplice da mettere in pratica, ma allo stesso tempo efficace.
 
-Ora si tratta di fare il giro dei primi account importanti che ti vengono in mente, e cambiare dappertutto quella vecchia password... ;-)
+Ora si tratta di fare il giro dei primi account importanti che ti vengono in mente, e cambiare dappertutto quella vecchia password!

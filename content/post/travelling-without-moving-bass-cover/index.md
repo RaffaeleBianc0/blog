@@ -11,4 +11,4 @@ Un altro pezzo degli Jamiroquai che mi colpì la prima volta che lo ascoltai, be
 
 E in questi tempi di lockdown da COVID-19 il titolo è sinistramente appropriato.
 
-https://youtu.be/Bzp6\_Epk-x8
+{{< youtube Bzp6_Epk-x8 >}}

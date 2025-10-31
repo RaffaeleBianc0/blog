@@ -18,4 +18,6 @@ Pazzesco pensarci, per me che strimpello un basso in casa giusto come passatempo
 
 Da ascoltare in 3 minuti durante i quali poter alzare il volume per gustarsi il lavoro di produzione davvero eccellente che è stato fatto.
 
+{{< spotify type="track" id="1ENC70lGKwQZzTII6s23Vt" width="100%" >}}
+
 https://open.spotify.com/track/1ENC70lGKwQZzTII6s23Vt?si=93fa7e5549404d59

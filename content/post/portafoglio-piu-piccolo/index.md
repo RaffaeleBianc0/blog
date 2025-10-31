@@ -4,6 +4,7 @@ date: "2016-02-14"
 categories: 
   - "altro"
   - "tecnologia"
+Image: "images/iclip.png"
 ---
 
 Qualche mese fa mi sono guardato allo specchio, con addosso un abito formale estivo.
@@ -30,29 +31,28 @@ Questo è il mio portafoglio _definitivo_, il [SECRID Slimwallet](https://www.
 
 Confrontando le misure, ecco i risultati:
 
-            | Area | Spessore | Volume
---------------------------------------
+| Area | Spessore | Volume
+|------|----------|-------
 Vecchio     | 100% |   100%   |  100%
 Provvisorio |  61% |    57%   |   35%
-**Nuovo      ** |  **54%** |    **42%**   |   **23%**
+Nuovo       |  54% |    42%   |   23%
 
 Insomma: spessore di _metà_ e un volume di _un quarto_ rispetto al portafoglio ciccione che avevo!  
 C'è da dire che questo portafoglio è uno dei più **spessi** tra quelli che avevo individuato (vedi sotto): rinunciando al _card-protector_ in alluminio è possibile ottenere misure ancora più contenute.
 
 # Risorse online
 
-Come sempre faccio, sono partito da un meticoloso (... maniacale ;-) ) studio online: decine di recensioni, video, e siti web.
+Come sempre faccio, sono partito da un meticoloso (... maniacale) studio online: decine di recensioni, video, e siti web.
 
 Ho scoperto subito che "ridurre il portafoglio" è un argomento che interessa da anni una montagna di persone, e che ha generato tantissime idee e prodotti. E quando dico "tantissime" intendo dire che ad esempio su KickStarter i [progetti sul tema "wallet"](https://www.kickstarter.com/projects/search?term=wallet) sono più di MILLE!
 
 Il [sito della Bellroy](http://bellroy.com) forse è stato il mio primo approdo - uno dei rarissimi casi in cui devo aver cliccato su un banner pubblicitario, tra l'altro. Mi è servito per farmi un'idea iniziale di massima sull'argomento.
 
-Più recentemente, mi sono informato soprattutto tramite le ottime (e rilassanti :-) ) [video-recensioni di Steve Montelli](https://www.youtube.com/user/montelli101), il sito [SlimWalletJunkie](http://www.SlimWalletJunkie.com) (che vende anche alcune marche interessanti, ed essendo lo store in Europa non ci sono spese di spedizione elevate né tasse doganali da temere), e [decine di altri video su YouTube](https://www.youtube.com/results?search_query=slim+wallet+review).
+Più recentemente, mi sono informato soprattutto tramite le ottime (e rilassanti) [video-recensioni di Steve Montelli](https://www.youtube.com/user/montelli101), il sito [SlimWalletJunkie](http://www.SlimWalletJunkie.com) (che vende anche alcune marche interessanti, ed essendo lo store in Europa non ci sono spese di spedizione elevate né tasse doganali da temere), e [decine di altri video su YouTube](https://www.youtube.com/results?search_query=slim+wallet+review).
 
 # Cosa ho scelto
 
-Il portafoglio "provvisorio" che si vede in foto sopra è una cinesata omaggio di qualche negozio, che ho usato per qualche giorno in attesa che mi arrivasse il [SECRID Slimwallet](https://www.mukama.com/en/secrid-slimwallet)  
-che ho comprato sul sito [Mukama](http://www.mukama.com).
+Il portafoglio "provvisorio" che si vede in foto sopra è una cinesata omaggio di qualche negozio, che ho usato per qualche giorno in attesa che mi arrivasse il [SECRID Slimwallet](https://www.mukama.com/en/secrid-slimwallet) che ho comprato sul sito [Mukama](http://www.mukama.com).
 
 ## Pro
 

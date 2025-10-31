@@ -9,4 +9,4 @@ image: "images/maxresdefault.jpg"
 
 Un minuto di riscaldamento improvvisato in sala prove (Luglio 2015).
 
-\[youtube https://www.youtube.com/watch?v=lVEKSxcFZyY\]
+{{< youtube lVEKSxcFZyY >}}

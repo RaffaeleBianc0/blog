@@ -3,6 +3,7 @@ title: "Kindle"
 date: "2017-01-30"
 categories: 
   - "tecnologia"
+image: "images/kindle.png"
 ---
 
 Mi hanno regalato il Kindle Paperwhite di [Amazon](https://www.amazon.it).
@@ -24,7 +25,7 @@ Questo meccanismo serve per inviarmi gli ebook al Kindle senza averlo fisicament
 Calibre è un software gratuito, open-source, e pure portable. Non è indispensabile utilizzarlo, ma io lo faccio per questi motivi:
 
 - Avere un elenco di tutti gli ebook, ricercabile rapidamente.
-- Avere una indicazione sulla lunghezza di un libro, tramite il plugin **[Count](https://www.mobileread.com/forums/showthread.php?t=134000) [Pages](https://www.mobileread.com/forums/showthread.php?t=134000)**.
+- Avere una indicazione sulla lunghezza di un libro, tramite il plugin **[Count Pages](https://www.mobileread.com/forums/showthread.php?t=134000)**.
 - Scaricare con pochi click la sinossi e la copertina degli ebook.
 - Dare un'occhiata al contenuto degli ebook, prima di inviarli al Kindle.
 - Inviarmi gli ebook al Kindle via email con 1 click (con conversione automatica nel formato MOBI - necessaria per sfruttare il "send to email"). IMPORTANTE: questo metodo è l'unico per ottenere questi 2 vantaggi rispetto al copia-e-incolla dell'ebook tramite cavetto USB:

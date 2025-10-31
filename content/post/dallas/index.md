@@ -7,24 +7,21 @@ categories:
 image: "images/il-dallas-scritta.png"
 ---
 
-Il Dallas è un tipo. Lo racconta una formazione di Treviso che suona alternative rock, tutti brani inediti, tirati, con dentro un cantato particolare, dei synth, una tromba, e tanto, tanto sudore. Molto del quale è il mio, perché ci suono la batteria da fine 2016.
+Il Dallas è un tipo. Lo racconta una formazione di Treviso che suona alternative rock, tutti brani inediti, tirati, con dentro un cantato particolare, dei synth, una tromba, e tanto, tanto sudore. Molto del quale è il mio, perché ci ho suonato la batteria dal 2016 al 2024.
 
-Tutto quello che ci riguarda è su [www.ilDallas.it](http://www.ilDallas.it): videoclip, musica, social.
+Ecco le cose più belle che abbiamo prodotto:
 
-Per esempio:
+{{< youtube y7cuNPOUfTM >}}
 
-https://www.youtube.com/watch?v=y7cuNPOUfTM
+***
 
-Video di "Polisportiva Stradazza"
+{{< youtube j6S8xbNPwRA >}}
 
-https://www.youtube.com/watch?v=j6S8xbNPwRA
+***
 
-Video di "Polvere"
+{{< spotify type="album" id="7Cndhh8sRBGTEYOGdgcALV" width="100%" height="600" >}}
 
-https://open.spotify.com/album/3f7XC2AoIDtECh9WMaxaWh
+***
 
-Album "Il Dallas"
+{{< spotify type="album" id="3f7XC2AoIDtECh9WMaxaWh" width="100%" height="750" >}}
 
-https://open.spotify.com/album/7Cndhh8sRBGTEYOGdgcALV
-
-Album "iosonodinamite"
