@@ -56,7 +56,7 @@ rssFullContent = true
   readingTime = true
 
     [params.article.license]
-    enabled = false
+    enabled = true
     default = "Licensed under CC BY-NC-SA 4.0"
 
   [params.comments]
@@ -113,7 +113,7 @@ type = "categories"
 type = "archives"
 
   [params.widgets.homepage.params]
-  limit = 3
+  limit = 5
 
 # [[params.widgets.homepage]]
 # type = "tag-cloud"
@@ -209,9 +209,9 @@ toLower = false
 unsafe = true
 
 [markup.tableOfContents]
+startLevel = 1
 endLevel = 4
 ordered = true
-startLevel = 1
 
 [markup.highlight]
 noClasses = false
