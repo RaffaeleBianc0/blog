@@ -1,0 +1,2 @@
+[1031/155230.096:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:108] CreateFile: Impossibile trovare il file specificato. (0x2)
+[1031/155230.783:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:108] CreateFile: Impossibile trovare il file specificato. (0x2)
