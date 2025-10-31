@@ -11,7 +11,7 @@ image: "images/finanza-personale.jpg"
 
 *Finanza personale?*
 
-"Non mi interessa, non mi serve” \> ti stai raccontando una balla, vedi paragrafi “Inflazione”, “Inizia adesso”, “INPS”.
+"Non mi interessa, non mi serve” ➡️ Ti stai raccontando una balla, vedi paragrafi “Inflazione”, “Inizia adesso”, “INPS”.
 
 “Meglio non rischiare di perdere soldi” \> proprio così, vedi sempre i paragrafi “Inflazione”, “Inizia adesso”, “INPS”, e anche “Senza perderci” e “Rischio”.
 
@@ -19,7 +19,7 @@ image: "images/finanza-personale.jpg"
 
 “Meglio chiedere in banca" \> meglio per la banca di sicuro, vedi paragrafi “SPIVA” e “Costi”.
 
-## **Cosa c’è qui**
+## Cosa c’è qui
 
 Ogni paragrafo è una “pillola” sul tema della finanza personale, un micro-riassunto di qualcosa che ho imparato, senza la pretesa di insegnare nulla a nessuno, né di essere esaustivo.  
 A metà 2024 mi è presa la scimmia per queste cose e parlandone con qualche amico ho pensato che una paginetta come questa potrebbe dare qualche input utile a chi, come me fino a “ieri”, non si è mai interessato più di tanto ai propri risparmi.  
@@ -27,7 +27,7 @@ E’ rimasta “work in progress” per molti mesi, un po’ per paura che ci fo
 E allora eccoci qua\! Magari sei qui perché ne abbiamo parlato e ti ho mandato il link.  
 Non troverai suggerimenti di investimento o di acquisto o altro spam molesto, quelle sono cose per professionisti, invece io qui condivido soltanto qualche appunto.
 
-## **Il trading non c'entra**
+## Il trading non c'entra
 
 La finanza personale non è “giocare in borsa”, come ho sentito dire tante volte.  
 Sono temi adiacenti perché alla fine bisogna comunque avere a che fare con i mercati finanziari, ma con due approcci che penso siano l’uno l’opposto dell’altro:
@@ -35,7 +35,7 @@ Sono temi adiacenti perché alla fine bisogna comunque avere a che fare con i me
 * **Finanza personale** \= pianificazione, investimento, lungo periodo, rischio basso, necessaria a tutti, se non ci pensi stai facendo la cosa sbagliata.  
 * **Trading** \= scommessa, speculazione, breve periodo, rischio alto, gioco d'azzardo, se non ci pensi stai facendo la cosa giusta nella grande maggioranza dei casi.
 
-## **Inflazione**
+## Inflazione
 
 “*Se hai dei soldi allora stai già investendo*”.  
 La ho letta da qualche parte, e mi pare davvero molto azzeccata.  
@@ -43,7 +43,7 @@ Tenere i risparmi fermi “sotto al materasso” o nel conto corrente è una sce
 Per esempio, negli ultimi 30 anni il potere di acquisto dei soldi in Italia si è dimezzato, cioè se hai messo via una cifra 30 anni fa senza investirla, oggi ci compri circa metà cose: puoi verificarlo guardando i dati storici ufficiali pubblicati dall’ISTAT su [https://rivaluta.istat.it](https://rivaluta.istat.it).  
 Ah, non c’entra l’entrata in vigore dell’Euro nel 2002, come pensano in molti: l’inflazione infatti non ha subìto particolari modifiche prima durante e dopo il passaggio Lira-Euro (addirittura il primo anno con inflazione più alta di quella del 1995 è stato il 2022), e se ti ricordi aumenti di prezzo spropositati, si è trattato solo dei negozianti al dettaglio che facevano i furbetti approfittando del momento storico per arrotondamenti e aumenti creativi che si percepivano soprattutto nei piccoli importi, ma che non sono certo quelli che spostano il budget familiare (a differenza di mutuo, affitto, automobile, finanziamenti, vacanze per esempio \- tutta roba da centinaia di euro).
 
-## **Inizia adesso**
+## Inizia adesso
 
 Ci sono questi fattori che danno tanto più beneficio quanto più tempo c’è a disposizione:
 
@@ -54,7 +54,7 @@ Ci sono questi fattori che danno tanto più beneficio quanto più tempo c’è a
 **CONCLUSIONI:**  
 L'ideale è impostare la propria pianificazione finanziaria già all'arrivo dei primissimi stipendi, come minimo aprendo un fondo pensione appena puoi (al limite anche *senza* metterci dentro soldi, l’importante è che la posizione resti aperta quanti più anni possibile), ed iniziando ad investire su un ETF azionario globale attraverso un PAC minimo, es. 50€ al mese, oppure ogni mese in cui riesci a risparmiare qualcosa. Ma non è mai troppo tardi, e se hai figli puoi fare una riflessione anche per loro \- potresti per esempio aprire un fondo pensione qualunque a nome loro, anche senza versarci contributi, così intanto maturano l’anzianità di cui sopra.
 
-## **Senza perderci**
+## Senza perderci
 
 Se ti mette a disagio investire una parte dei tuoi risparmi in strumenti finanziari rischiosi, che possono darti rendimenti elevati sul lungo periodo ma che possono anche bruciare parte del capitale in caso di crisi importanti oppure di una qualche emergenza personale che ti costringesse a disinvestire proprio in un periodo di rendimenti bassi, allora puoi valutare soluzioni a rischio quasi zero che possono almeno contenere l’effetto negativo dell’inflazione, come i conti deposito e gli ETF monetari.  
 E’ il minimo sindacale che va senz’altro usato per tenere la liquidità extra invece del conto corrente, anche se non hai ancora confidenza con questi argomenti o se hai molta paura del rischio.   
@@ -63,7 +63,7 @@ Questi strumenti sono utili anche per parcheggiare i risparmi mentre stai ancora
 **CONCLUSIONI:**  
 Se in conto corrente hai più del doppio/triplo di quello che spendi normalmente in un mese, allora vale la pena spostare questo gruzzoletto extra in un conto deposito o in un ETF monetario.
 
-## **SPIVA**
+## SPIVA
 
 [https://www.spglobal.com/spdji/en/research-insights/spiva](https://www.spglobal.com/spdji/en/research-insights/spiva)/  
 Il rapporto SPIVA (“Standard & Poor’s Indices Versus Active”) ci racconta periodicamente che più dell'85% delle gestioni attive analizzate (es. i fondi di investimento che ti vendono in banca) hanno rendimenti inferiori rispetto al proprio indice di riferimento, su orizzonti di investimento di 10+ anni, che sono proprio quelli che ci interessano parlando di finanza personale.  
@@ -71,7 +71,7 @@ Nonostante queste informazioni oggettive, la maggioranza degli investimenti in f
 **CONCLUSIONI:**  
 Se il tuo orizzonte è lungo (10+ anni), allora statisticamente hai possibilità di successo di gran lunga migliori se investi in strumenti economici che replicano passivamente degli indici diversificati, che è proprio ciò che fanno gli ETF più grandi, ed evitando i prodotti a gestione attiva con i loro costi.
 
-## **Costi**
+## Costi
 
 Investire ha quasi sempre dei costi.  
 Qualunque strumento tu scelga per i tuoi investimenti, devi fare la **massima attenzione ai costi ricorrenti** (es. “*2% annuo di commissione sul capitale investito*”), perché sono quelli che ammazzano i rendimenti, fino ad arrivare ad azzerarli o addirittura a renderli *negativi* nei casi peggiori, dove i rendimenti sono bassi a causa di una allocazione sub-ottimale e/o un periodo storico sfortunato per i mercati, e i costi sono alti perché magari hai investito in un prodotto assicurativo che costa il 3% o 4% all’anno. Eh sì, *rendimenti negativi*, cioè peggio di tenere i soldi nel conto corrente, cose del tipo “investi per 10 anni, e al termine ti restituiranno *meno* soldi di tutti quelli che hai versato”... suona malissimo vero?  
@@ -80,7 +80,7 @@ Esempio reale pratico: il costo medio dei fondi azionari italiani che ti può ve
 Se hai attualmente dei risparmi investiti in prodotti diversi dagli ETF, allora è una buona idea prendere i prospetti informativi di quello che hai comprato, guardare i capitoli sui rendimenti attesi ma soprattutto sui costi, e fare qualche conto.   
 Io l’ho fatto, e ho maledetto la pigrizia e l’ignoranza che qualche anno fa mi hanno fatto sottoscrivere “sulla fiducia” un paio di prodotti costosi a gestione attiva, dalle performance davvero scarse, meno del 2% lordo di rendimento annuo: scegliendo un classico ETF azionario globale (la prima scelta che facciamo un po’ tutti), con gli interessi che ci sono stati negli stessi anni, avrei guadagnato più del quadruplo.
 
-## **Fondo di emergenza**
+## Fondo di emergenza
 
 C'è questo approccio piuttosto diffuso e che trovo sensato per investire molto più serenamente.  
 Preso atto che i risparmi vanno investiti SEMPRE (come minimo per contrastare l’inflazione), e che l'investimento va mantenuto per tanti anni senza disinvestire affinché l’interesse composto possa produrre il massimo risultato e la volatilità si riduca, è bene disporre di un gruzzoletto che al contrario possa essere usato in qualunque momento senza intaccare il capitale investito, per coprire eventuali emergenze impreviste (es. cure mediche, riparazioni casa/auto, perdita del lavoro provvisoria e relativa mancanza di stipendio per qualche mese).  
@@ -104,7 +104,7 @@ Più in generale lo strumento da scegliere cambia a seconda del momento storico 
 **CONCLUSIONI:**  
 Imposta il tuo FdE con lo strumento che ritieni più adatto, riempilo, e lascialo pieno come fosse un salvadanaio da non aprire “mai”. Quando avrai sistemato il FdE, potrai pensare a come investire gli ulteriori risparmi.
 
-## **Rischio**
+## Rischio
 
 C'è una informazione che mi ha fatto cambiare radicalmente il punto di vista sul tema "rischio": il mercato azionario, cioè "quello rischioso" del quale avevo sempre pensato “*non mi fido, meglio evitare*”, per investimenti sufficientemente lunghi (15+ anni) e diversificati raramente ha fatto perdere soldi nella storia. Si supera il 90% di risultati positivi quando si superano i 20 anni di investimento sul classico indice S\&P500 americano.  
 E questo nonostante crisi di Wall Street del 1929, due guerre mondiali, Internet bubble del 2001, crisi dei mutui subprime del 2008, Covid \- tutti eventi che hanno causato importanti flessioni negative nei mercati, ma non sufficienti a trascinare sotto zero le performance di lungo periodo, per chi non ha disinvestito in preda al panico.  
@@ -115,7 +115,7 @@ Su questo tema fondamentale, sono interessanti per esempio questi articoli: [htt
 **CONCLUSIONI:**  
 Sistema il tuo Fondo di emergenza prima di tutto, poi decidi quanti anni deve durare il tuo investimento, e in base a questa scadenza imposta la tua asset allocation. Studia qualche allocazione semplice e classica con un paio di ETF per iniziare, oppure fatti un’idea dei portafogli “classici” più semplici su [lazyportfolioetf.com](http://lazyportfolioetf.com) e mettili a confronto.
 
-## **Assicurazioni**
+## Assicurazioni
 
 E' un tema forse un po' collaterale rispetto agli investimenti veri e propri, ma da un certo punto di vista anche questi sono soldi da "investire" con lo scopo di ottenerne in ritorno, anche se solo in circostanze ben determinate che speriamo non debbano verificarsi.  
 Oltre al fondo di emergenza, è possibile valutare alcune tutele specifiche, ad esempio:
@@ -125,7 +125,7 @@ Oltre al fondo di emergenza, è possibile valutare alcune tutele specifiche, ad 
 * **polizza responsabilità civile**: attorno ai 25€/mese per coprire qualche casistica relativa a danni fatti ad altri.  
 * **polizza LTC (Long Term Care)**: questa è più costosa, e copre di solito la non-autosufficienza che potrebbe verificarsi in tarda età.
 
-## **INPS**
+## INPS
 
 Se sei un lavoratore dipendente, allora vai su [www.inps.it](http://www.inps.it) e usa la ricerca in alto per trovare la pagina "**La mia pensione futura**", oppure eccoti la ricerca Google già fatta: [https://www.google.com/search?q=la+mia+pensione+futura](https://www.google.com/search?q=la+mia+pensione+futura).  
 È bene che tu scopra quanto ti manca alla pensione, e quanto riceverai ogni mese dallo Stato, cioè il cosiddetto “tasso di sostituzione”: è la stima di quanti soldi prenderai di pensione dall’INPS rispetto al tuo ultimo stipendio presunto, e valori tipici per i dipendenti italiani previsti per il 2050 sembra siano attorno al 60%, a peggiorare negli anni seguenti.  
@@ -133,7 +133,7 @@ Significa che, se non provvedi ad integrare la pensione INPS con qualcosa in pi�
 Da queste considerazioni, ho deciso che integrare la pensione è l’obiettivo principale che mi sono dato, nella gestione delle mie finanze.  
 Fai le tue valutazioni ovviamente perché ogni caso è diverso: ad esempio potresti avere un mutuo oggi che chiuderai prima della pensione, e questo ovviamente cambia molto le valutazioni sulle spese mensili che avrai durante la pensione.
 
-## **Fondo pensione**
+## Fondo pensione
 
 Se hai risparmi che avanzano, potresti domandarti se è meglio investirli in ETF oppure in un fondo pensione, versandoci un contributo aggiuntivo volontario più consistente.  
 Le due opzioni sono più simili di quanto sembrino a prima vista, perché in entrambi i casi i tuoi soldi vengono investiti nei mercati finanziari per molti anni; ma ci sono dei vantaggi diversi in ciascuno dei due strumenti.
@@ -150,7 +150,7 @@ Le due opzioni sono più simili di quanto sembrino a prima vista, perché in ent
 Può essere una buona idea combinare questi due tipi di investimento a lungo termine per motivi diversi, anche in base alla tua situazione lavorativa: un dipendente privato con stipendio elevato otterrà il massimo beneficio dai vantaggi fiscali dei FP (perché avrà uno scaglione IRPEF più alto, quindi maggiore detrazione in percentuale), mentre se lo stipendio è medio o basso allora potrebbe convenire fare solo il versamento minimo nel proprio FPN giusto per ottenere il contributo datoriale, e investire il resto dei risparmi in ETF. Bisogna fare i conti caso per caso.   
 Quello che è molto probabile è che aprire una posizione nel tuo FPN e versarci TFR \+ contributo volontario minimo sia più vantaggioso e sicuro rispetto a tenere il TFR in azienda.
 
-## **I comparti dei FPN**
+## I comparti dei FPN
 
 I FPN (Fondi Pensione Negoziali, o "chiusi", o “di categoria”) hanno dei comparti di investimento piuttosto conservativi (cioè con componente azionaria mai superiore ad una certa soglia, per esempio il 65%), e oltretutto se non si esprime alcuna scelta all'adesione spesso ti appioppano di default uno dei comparti super-conservativi, anche 100% obbligazionario.  
 Se come me hai passato molti anni da dipendente prima di preoccupartene, allora anche tu hai probabilmente perso centinaia/migliaia di euro "futuri" senza neanche saperlo, solo perché hai mantenuto il comparto che il fondo pre-assegna a tutti i nuovi aderenti, e perciò i tuoi soldi sono stati investiti in larga parte in obbligazioni. O magari hai addirittura lasciato *intenzionalmente* quel comparto perché “*non metto la mia pensione a rischio, meglio le obbligazioni che sono più sicure*” (e magari ti sei beccato performance vicine allo 0%, che una volta che ci metti i costi e le tasse si traducono in *soldi persi*).  
@@ -159,7 +159,7 @@ Verifica quali comparti offre il fondo al quale hai aderito, ce ne sono sempre a
 Oppure potresti scegliere di tenere l'FPN solo per ottenere il contributo del datore, e aderire ad un secondo fondo pensione (un FPA, Fondo Pensione Aperto) tra i meno costosi nel quale versare solo contributi volontari, ma che ti offra un profilo di investimento con una quota azionaria maggiore. Fino ai famosi 5164€/anno potrebbe essere una scelta conveniente, per i benefici fiscali; oltre a quella cifra, diventano spesso più convenienti gli ETF sotto vari aspetti. Sarai sempre libero di versare nel tuo FP solo quando vorrai, e anche di chiudere un FP trasferendo tutta la tua posizione nell’altro.  
 Avere più fondi pensione inoltre facilita la possibilità di riscattare il 100% del montante accumulato sottoforma di capitale al momento della pensione: c’è un calcolo da fare (cerca online), ma a spanne se il montante supera i 100k€ allora potresti essere obbligato a riscattare il 50% del montante come capitale e il resto come rendita, e non è detto che ti interessi una rendita, magari preferisci re-investire il capitale o utilizzarlo in un altro modo perché la rendita dell’INPS ti è sufficiente, va’ a sapere: ecco che avere 50k in un fondo e 50k in un altro diventa meglio che 100k tutti in uno.
 
-## **MoneyFarm**
+## MoneyFarm
 
 Prima di passare agli ETF, per alcuni anni ho investito qualche risparmio con MoneyFarm.  
 PRO:
@@ -175,7 +175,7 @@ CONTRO:
 Piuttosto che spendere il 2% di commissioni con i fondi delle banche o tenere i soldi fermi in conto corrente, se proprio non vuoi pensare a nulla, allora meglio MoneyFarm: almeno la commissione è limitata all’1%, che non è poco, ma può avere senso per delegare completamente la gestione.  
 Recentemente hanno aggiunto alla loro offerta anche altri strumenti, compreso il conto titoli “standard” tramite il quale puoi acquistare ETF senza la gestione attiva di MF.
 
-## **Gli ETF**
+## Gli ETF
 
 Gli ETF sono l'uovo di colombo tra gli strumenti finanziari per l’investimento a lungo termine:
 
@@ -187,7 +187,7 @@ Gli ETF sono l'uovo di colombo tra gli strumenti finanziari per l’investimento
 2. Replicare passivamente un indice significa che non serve un professionista che prende decisioni su dove allocare l’investimento, ma basta un software, quindi i costi si abbattono: gli ETF costano tipicamente 0,07%-0,40% annuo di quanto investi contro l’1-3% dei fondi attivi.  
 * Sono senza vincoli: puoi venderli in pochi secondi, e subito bonificare quei soldi verso il tuo conto corrente (a patto di acquistare gli ETF più liquidi, che tipicamente sono anche tra i più interessanti e utilizzati per gli obiettivi di risparmio di un comune investitore privato).
 
-## **Quanti ETF, e quali?**
+## Quanti ETF, e quali?
 
 A parte la solita ovvia premessa “ognuno ha una situazione diversa, non esiste una risposta univoca”, e l’altra ancora più importante “chi mai sono io per dare consigli di investimento a chicchessia, son mica un professionista”, ecco qualche idea tra le più gettonate:
 
@@ -211,7 +211,7 @@ La composizione del tuo portafoglio probabilmente sarà un’attività che ti po
 Potresti trovare tutto ciò stimolante e dedicarci ore di backtest e di ricerche, tuttavia non vale la pena di “spaccare il capello in quattro” fino a quando non avrai investito cifre consistenti: è molto più importante iniziare al più presto con una impostazione semplice e perseverare a lungo, senza disinvestire e anzi continuando a versare regolarmente, soprattutto durante le crisi dei mercati.  
 Potrai sempre modificare le tue scelte in corso d’opera quando ti sarai informato meglio, anche tra qualche anno \- oppure potrai anche tenere tutto com’è e continuare a investire sempre nello stesso portafoglio.
 
-## **Consulenti finanziari indipendenti**
+## Consulenti finanziari indipendenti
 
 Nonostante le cose da fare siano tutto sommato poche e semplici, potresti comunque preferire l'appoggio di un professionista, come minimo per farti spiegare le cose per bene e impostare una strategia.  
 I motivi per cui rivolgersi ad un consulente finanziario indipendente invece che alle banche sono abbastanza noti: sostanzialmente se cerchi consulenza finanziaria allora è meglio trovarla priva di conflitto d’interessi, perché a te interessano gli strumenti *migliori sul mercato*, non quelli che vuole venderti la banca.
@@ -225,11 +225,11 @@ Questa è una società che si occupa di consulenza finanziaria indipendente \- m
 La prima chiamata per analizzare la propria situazione è gratuita.  
 Magari un giorno provo.
 
-# **STRUMENTI**
+# STRUMENTI
 
 Ecco varie fonti di informazione che ritengo di qualità, e gli strumenti che ho usato e continuo ad usare.
 
-## **Finanza personale in generale**
+## Finanza personale in generale
 
 [www.paolocoletti.com/youtube](http://www.paolocoletti.com/youtube)  
 Docente universitario, ricercatore, e content creator simpatico che produce contenuti di grande valore didattico e informativo, nettamente al di sopra della media secondo me.  
@@ -247,7 +247,7 @@ Portale divulgativo del Governo Italiano, che contiene descrizioni di tutti gli 
 Community interessata al tema.  
 Il sito è un buon punto di ingresso per approcciare i temi e iniziare ad organizzarsi.
 
-## **Conti deposito**
+## Conti deposito
 
 [www.deposifire.com](http://www.deposifire.com)  
 Un database di conti deposito italiani.  
@@ -255,7 +255,7 @@ Molto utile per confrontare e decidere quale conto aprire.
 Suggerisco di verificare le condizioni aggiornate sui siti delle banche, una volta fatta la prima scrematura su Deposifire.  
 Una risorsa analoga è presente su [https://forum.finanzaonline.com](https://forum.finanzaonline.com/), in forma di foglio di calcolo sempre aggiornato.
 
-## **Fondi pensione**
+## Fondi pensione
 
 [www.ciaoelsa.com](http://www.ciaoelsa.com/blog)  
 Startup italiana specializzata in fondi pensione, in particolare segnalo:
@@ -271,7 +271,7 @@ Qui trovi molte informazioni fondamentali se hai intenzione di aprire un fondo p
 * i rendimenti realizzati negli ultimi 1, 5, 10, 20 anni  
 * i costi: questa singola informazione (ISC \= Indicatore Sintetico di Costo) è probabilmente la più importante per fare una scelta.
 
-## **Investimenti**
+## Investimenti
 
 [https://italia-podcast.it/podcast/the-bull-il-tuo-podcast-di-finanza-personale](https://italia-podcast.it/podcast/the-bull-il-tuo-podcast-di-finanza-personale)  
 il motivo per cui ho iniziato a interessarmi di finanza personale: “The Bull”, uno dei podcast più ascoltati in Italia, che affronta l'argomento in modo leggero ma mai superficiale.  
@@ -299,7 +299,7 @@ Segnalo:
 * L'apertura del conto titoli si fa tutta online.  
 * Si può operare sia da app che da sito web.
 
-### **Backtest**
+### Backtest
 
 Fare un backtest significa comporre un portafoglio con gli strumenti finanziari o gli indici che preferisci e metterlo alla prova nel passato sulla base dei dati storici dei mercati e delle tue scelte di investimento.
 
@@ -314,7 +314,7 @@ Fare un backtest significa comporre un portafoglio con gli strumenti finanziari 
 
 Vale la pena fare i backtest anche e soprattutto su periodi brutti quando è possibile, ad esempio abbracciando gli anni delle peggiori crisi finanziarie come il 2001 e il 2008, e magari escludendo gli ultimi 10 anni che sono stati esageratamente positivi rispetto alla media storica.
 
-### **Controllare l’andamento**
+### Controllare l’andamento
 
 Vista la natura a lungo termine degli investimenti, visto che non vanno prese decisioni in base alle variazioni recenti dei rendimenti, e visto che ribilanciare il portafoglio troppo spesso è controproducente, possiamo dedurre che non serve a granché guardare l’andamento del proprio portafoglio costantemente: una volta ogni 6-12 mesi probabilmente è sufficiente, oppure ogni volta prima di investire, per decidere in quale ETF del nostro portafoglio sia meglio mettere i nuovi risparmi accumulati per ottenere un “ribilanciamento senza vendere” e quindi senza tasse né commissioni.  
 Tuttavia, vedere “come sta andando” dà una certa soddisfazione ed è difficile rinunciare a questo impulso.  
@@ -333,12 +333,12 @@ Per risolvere questa esigenza, segnalo questi strumenti:
 * **TradingView** ([tradingview.com](http://it.tradingview.com)):  
   * uno dei siti di riferimento per le informazioni tecniche sugli indici
 
-# **Cosa faccio**
+# COSA FACCIO
 
 Usando gli ingredienti descritti sopra, ecco qua sotto la mia “ricetta”.  
 Ovviamente è solo il mio personale metodo, e non è un suggerimento su cosa dovresti fare tu.
 
-## **Impostazione iniziale**
+## Impostazione iniziale
 
 Prima di spostare il primo euro, ho predisposto tutto il necessario:
 
@@ -360,7 +360,7 @@ Prima di spostare il primo euro, ho predisposto tutto il necessario:
 
 * **Chiusura posizioni precedenti**: Ho analizzato i prospetti informativi di un paio di prodotti di investimento che avevo acquistato anni fa senza informarmi opportunamente, ho confrontato i rendimenti ed i costi con quelli attesi dagli investimenti in FPA ed ETF, ed è emersa la conclusione lampante: meglio chiudere tutto e spostare il capitale investito su ETF, prima di farmi mangiare ulteriori rendimenti da costi ricorrenti davvero troppo alti.
 
-## **Ogni mese**
+## Ogni mese
 
 Dopo aver impostato tutto come descritto sopra, ogni mese dopo l’accredito dello stipendio mi preoccupo delle mie finanze seguendo questo ordine:
 

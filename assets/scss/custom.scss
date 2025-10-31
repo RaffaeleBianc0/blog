@@ -1,0 +1,11 @@
+/* Aumenta dimensione titolo articoli */
+.article-title {
+    font-size: 5.0rem; // dimensione desktop
+}
+
+/* Responsive per mobile */
+@media (max-width: 720px) {
+    .article-title {
+        font-size: 3.0rem;
+    }
+}
