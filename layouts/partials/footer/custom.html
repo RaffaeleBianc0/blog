@@ -1,0 +1,98 @@
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        const backToTop = document.getElementById("back-to-top");
+        const tocButton = document.getElementById("toc-button");
+        let lastScrollY = window.scrollY;
+        let lastShowY = window.scrollY; // Stores last Y position when buttons were shown
+
+        window.addEventListener("scroll", () => {
+            let currentScrollY = window.scrollY;
+
+            if (currentScrollY < lastScrollY) { // User is scrolling up
+                if (lastShowY - currentScrollY > 50) { // Ensure user scrolled up 50px
+                    tocButton.style.display = "";
+                    // Ensure back to top display only after 400px
+                    if (window.scrollY > 400) {
+                        backToTop.style.display = "block";
+                    }
+                    // Adjust TOC button position if both are visible
+                    // if (backToTop.style.display != "none" && tocButton.style.display != "none") {
+                    //     backToTop.style.bottom = "60px";
+                    //     tocButton.style.bottom = "20px";
+                    // // }
+                }
+            } else {
+                // User is scrolling down, reset reference position
+                lastShowY = currentScrollY;
+                backToTop.style.display = "none";
+                tocButton.style.display = "none";
+            }
+
+            lastScrollY = currentScrollY; // Update last scroll position
+        });
+
+        // Back to Top Click Event
+        backToTop.addEventListener("click", function () {
+            window.scrollTo({ top: 0, behavior: "smooth" });
+        });
+    });
+
+    // Toc Drawer open and close
+    document.addEventListener("DOMContentLoaded", () => {
+        const tocButton = document.getElementById("toc-button");
+        const tocDrawer = document.getElementById("toc-drawer");
+        const drawerOverlay = document.getElementById("drawer-overlay");
+        const closeDrawer = document.getElementById("close-drawer");
+        const tocLinks = document.querySelectorAll("#toc-drawer li a"); // Get all TOC links
+
+
+        function openTOC() {
+            tocDrawer.style.transform = "translateY(0)";
+            drawerOverlay.style.display = "block";
+        }
+
+        function closeTOC() {
+            tocDrawer.style.transform = "translateY(100%)";
+            drawerOverlay.style.display = "none";
+        }
+
+        tocButton.addEventListener("click", openTOC);
+
+        closeDrawer.addEventListener("click", closeTOC);
+        drawerOverlay.addEventListener("click", closeTOC);
+
+        tocLinks.forEach(link => {
+            link.addEventListener("click", closeTOC);
+        });
+    });
+</script>
+
+
+<!-- ToC button -->
+<div id="toc-button" class="toc-btn">
+  <button>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+      <path
+        d="M8 6L21 6.00078M8 12L21 12.0008M8 18L21 18.0007M3 6.5H4V5.5H3V6.5ZM3 12.5H4V11.5H3V12.5ZM3 18.5H4V17.5H3V18.5Z" />
+    </svg>
+  </button>
+</div>
+
+<!-- ToC drawer -->
+<div id="toc-drawer" class="toc-drawer">
+  <div class="drawer-header">
+    <!-- icon of TOC -->
+    {{ partial "helper/icon" "hash" }} 
+    <h2> TABLE OF CONTENT</h2>
+    <button id="close-drawer" class="close-btn">✕</button>
+  </div>
+  <!-- 20261107 rb Commento le 3 righe seguenti per mantenere l'indicatore del paragrafo corrente in ToC
+  <div class="widget--toc">
+    {{ .TableOfContents }}
+  </div> 
+  -->
+</div>
+
+<!-- ToC Overlay -->
+<div id="drawer-overlay" class="overlay"></div>
