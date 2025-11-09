@@ -33,6 +33,7 @@ page = "/:slug/"
 mainSections = [ "post" ]
 featuredImageField = "image"
 rssFullContent = true
+favicon = "/favicon-96x96.png"
 
   [params.footer]
   since = 2_004
@@ -61,7 +62,7 @@ rssFullContent = true
 
   [params.comments]
   enabled = false
-  provider = "disqus"
+  provider = "cusdis"
 
     [params.comments.disqusjs]
     shortname = []
@@ -99,6 +100,7 @@ rssFullContent = true
     [params.comments.gitalk]
 
     [params.comments.cusdis]
+    id = "131e48ee-ab16-4076-a340-394cf7c60e9e"
 
 [[params.widgets.homepage]]
 type = "search"
@@ -113,7 +115,7 @@ type = "categories"
 type = "archives"
 
   [params.widgets.homepage.params]
-  limit = 5
+  limit = 4
 
 # [[params.widgets.homepage]]
 # type = "tag-cloud"

@@ -1,0 +1,13 @@
+{{ if .Site.Params.comments.enabled }}
+
+<!-- Comments by Cusdis -->
+<h4>Comments:</h4>
+<div id="cusdis_thread" data-host="https://cusdis.com"
+data-app-id="131e48ee-ab16-4076-a340-394cf7c60e9e"
+data-page-id="{{ .File.UniqueID }}" data-page-url="{{ .Permalink }}"
+data-page-title="{{ .Title }}"></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+
+{{ partial (printf "comments/provider/%s" .Site.Params.comments.provider) . }}
+
+{{ end }}
