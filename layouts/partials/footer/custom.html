@@ -24,8 +24,8 @@
             } else {
                 // User is scrolling down, reset reference position
                 lastShowY = currentScrollY;
-                backToTop.style.display = "none";
-                tocButton.style.display = "none";
+                // backToTop.style.display = "none";
+                // tocButton.style.display = "none";
             }
 
             lastScrollY = currentScrollY; // Update last scroll position
@@ -84,7 +84,7 @@
   <div class="drawer-header">
     <!-- icon of TOC -->
     {{ partial "helper/icon" "hash" }} 
-    <h2> TABLE OF CONTENT</h2>
+    <h2> INDICE </h2>
     <button id="close-drawer" class="close-btn">✕</button>
   </div>
   <div class="widget--toc">
