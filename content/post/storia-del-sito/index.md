@@ -29,7 +29,7 @@ Una continua serie di problemi legati all'aggiornamento dei server e ai bachi di
 
 Nel 2007 non avevo alcun contenuto, ma ho scoperto (non ricordo come) che raffaelebianco.it si era liberato, e me lo sono comprato credo su aruba.it, "metti mai che serva un domani".
 
-# 2014: landing page (e dominio)
+# 2014: landing page
 
 Parlando con un collega, mi suggerisce [Tophost](https://www.tophost.it) per avere un minimo di spazio online a costi bassissimi.
 
