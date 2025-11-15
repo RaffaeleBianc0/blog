@@ -13,9 +13,7 @@ hasCJKLanguage = false
 languageName = "Italiano"
 title = "Mica scrivo granché"
 weight = 1
-
-  [languages.it.params.sidebar]
-  subtitle = "Blog di Raffaele Bianco."
+params.sidebar.subtitle = "Blog di Raffaele Bianco."
 
 # [languages.en]
 # languageName = "English"
@@ -44,12 +42,13 @@ favicon = "/favicon-96x96.png" # e.g.: favicon placed in `static/favicon.ico` of
   lastUpdated = "02/01/2006 15:04 MST"
 
   [params.sidebar]
-  emoji = ""
+  emoji = ""  # Emoji displayed above the avatar.
   subtitle = ""
+  compact = true
 
     [params.sidebar.avatar]
     enabled = true
-    local = true
+    local = true  # If true, the avatar image should be placed at assets/${avatar.src}, this allows theme to automatically resize the image.
     src = "img/avatar.png"
 
   [params.article]
@@ -140,11 +139,9 @@ src = ""
   toggle = true
   default = "auto" # Available values: auto, light, dark
 
-[params.imageProcessing.cover]
-enabled = true
-
-[params.imageProcessing.content]
-enabled = true
+[params.imageProcessing]
+cover.enabled = true
+content.enabled = true
 
 
 
