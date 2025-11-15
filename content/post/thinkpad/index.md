@@ -24,25 +24,25 @@ Come faccio sempre quando mi intrippo per una cosa nuova, ho iniziato a document
 
 Di seguito "esplodo" ogni parte della frase scritta qua sopra, poi più sotto parlerò dei modelli specifici e di dove e come acquistarli.
 
-1. [Acquistare](https://raffaelebianc0.wordpress.com/2023/10/17/thinkpad/#acquistare)
-2. [Notebook](https://raffaelebianc0.wordpress.com/2023/10/17/thinkpad/#notebook)
-3. [Aziendale](https://raffaelebianc0.wordpress.com/2023/10/17/thinkpad/#aziendale)
-4. [Ricondizionato](https://raffaelebianc0.wordpress.com/2023/10/17/thinkpad/#ricondizionato)
-5. [Lenovo Thinkpad](https://raffaelebianc0.wordpress.com/2023/10/17/thinkpad/#lenovo-thinkpad)
-6. [Leggero e sottile](https://raffaelebianc0.wordpress.com/2023/10/17/thinkpad/#leggero-e-sottile)
-7. [Ottime condizioni](https://raffaelebianc0.wordpress.com/2023/10/17/thinkpad/#ottime-condizioni)
-8. [Buone prestazioni](https://raffaelebianc0.wordpress.com/2023/10/17/thinkpad/#buone-prestazioni)
-9. [Uso web+office](https://raffaelebianc0.wordpress.com/2023/10/17/thinkpad/#uso-web-office)
-10. [Spendendo il giusto](https://raffaelebianc0.wordpress.com/2023/10/17/thinkpad/#spendendo-il-giusto)
-11. [Quale modello scegliere](https://raffaelebianc0.wordpress.com/2023/10/17/thinkpad/#quale-modello-scegliere)
-    1. [Formato](https://raffaelebianc0.wordpress.com/2023/10/17/thinkpad/#formato)
-    2. [Come si interpreta il nome del modello](https://raffaelebianc0.wordpress.com/2023/10/17/thinkpad/#come-si-interpreta-il-nome-del-modello)
-    3. [Altre cose da considerare per la scelta](https://raffaelebianc0.wordpress.com/2023/10/17/thinkpad/#altre-cose-da-considerare-per-la-scelta)
-    4. [Commenti sui modelli specifici](https://raffaelebianc0.wordpress.com/2023/10/17/thinkpad/#commenti-sui-modelli-specifici)
-12. [Dove acquistare](https://raffaelebianc0.wordpress.com/2023/10/17/thinkpad/#dove-acquistare)
-13. [Link utili](https://raffaelebianc0.wordpress.com/2023/10/17/thinkpad/#link-utili)
+1. [Acquistare](#acquistare)
+2. [Notebook](#notebook)
+3. [Aziendale](#aziendale)
+4. [Ricondizionato](#ricondizionato)
+5. [Lenovo Thinkpad](#lenovo-thinkpad)
+6. [Leggero e sottile](#leggero-e-sottile)
+7. [Ottime condizioni](#ottime-condizioni)
+8. [Buone prestazioni](#buone-prestazioni)
+9. [Uso web+office](#uso-weboffice)
+10. [Spendendo il giusto](#spendendo-il-giusto)
+11. [Quale modello scegliere](#quale-modello-scegliere)
+    1. [Formato](#formato)
+    2. [Come si interpreta il nome del modello](#come-si-interpreta-il-nome-del-modello)
+    3. [Altre cose da considerare per la scelta](#altre-cose-da-considerare-per-la-scelta)
+    4. [Commenti sui modelli specifici](#commenti-sui-modelli-specifici)
+12. [Dove acquistare](#dove-acquistare)
+13. [Link utili](#link-utili)
 
-## Acquistare
+# Acquistare
 
 Parlando dell'acquisto di un computer, una volta ero dell'idea "non mi interessa un usato" per almeno questi motivi:
 
@@ -60,7 +60,7 @@ Il mercato dei PC [_ricondizionati_](#ricondizionato), che ho scoperto recenteme
 
 5. **DIFETTI**: il venditore di PC usati ricondizionati spesso è una azienda che fornisce un minimo di garanzia post-vendita, e che non vuole sporcarsi la reputazione costruita in anni di vendite (il punteggio del venditore che vedi sulla pagina prodotto). Inoltre sia eBay che Subito, dove concentro le mie ricerche, prevedono spesso garanzie sull'acquisto tali per cui puoi fare il reso (quasi) gratuitamente se l'articolo non ti soddisfa.
 
-## Notebook
+# Notebook
 
 Ovviamente a parità di spesa i notebook sono più lenti dei PC desktop, ma non dovendo eseguire compiti che richiedano il massimo delle risorse hardware (esempi: videogame moderni, montaggio di video complessi, compilazione di software complessi, modellazione 3D avanzata, calcolo FEM, rendering, mining, ...) le prestazioni offerte dai notebook sono più che adeguate.
 
@@ -68,7 +68,7 @@ Il vantaggio in termini di ingombro e praticità a favore dei notebook invece è
 
 Per questi motivi non uso PC fissi dal 2002.
 
-## Aziendale
+# Aziendale
 
 Le linee "business" di tutti i produttori sono spesso costruite con materiali più pregiati (parlo soprattutto del telaio) rispetto a quelle "consumer": il risultato è un notebook più leggero, più resistente, che non flette, che non scricchiola, e che è più piacevole al tatto.
 
@@ -77,7 +77,7 @@ Dopo soli 3 anni di utilizzo, e dopo il ricondizionamento, di norma le [condizio
 
 "Aziendale" significa anche "poco adatto al gaming", quindi spesso privi di scheda video dedicata (a meno di non orientarsi sulle workstation mobile con scheda video professionale per CAD 3D, come i Thinkpad serie W e P - ma questi modelli più grossi/pesanti non sono argomento di questo articolo).
 
-## Ricondizionato
+# Ricondizionato
 
 C'è l'usato, e poi c'è il ricondizionato, cioè il notebook usato che è stato rimesso a nuovo prima di essere rivenduto - una specie di "tagliando" che include una o più di queste operazioni:
 
@@ -103,7 +103,7 @@ Un PC aziendale ricondizionato insomma, se scelto bene, è la combinazione di:
 
 - scelta sostenibile (riutilizzo hardware esistente invece di acquistare cose nuove)
 
-## Lenovo Thinkpad
+# Lenovo Thinkpad
 
 Tra tutte le linee di prodotto dei principali produttori di notebook Windows, mi sono innamorato della serie business Lenovo, i Thinkpad - e non sono l'unico: il web è pieno di gruppi di appassionati e di informazioni utili.
 
@@ -119,7 +119,7 @@ I motivi che mi fanno preferire i Thinkpad ad altri marchi/modelli sono:
 
 - Possibilità di scelta (sono notebook molto diffusi nel mercato dei ricondizionati, e coprono tutte le esigenze con modelli sia premium sia economici, e con formati sia ultracompatti sia 15").
 
-## Leggero e sottile
+# Leggero e sottile
 
 Questo tema per me fa parte della "estetica" del notebook, non dovendo viaggiarci più di tanto, ed usando il notebook personale solo raramente e come "muletto" (perché lavoro ogni giorno con quello aziendale).
 
@@ -128,7 +128,7 @@ Quindi mi interessano i 12"/13", tengo d'occhio i 14", ma ignoro i tradizionali 
 
 I notebook più grandi sono ergonomici se ci lavori per molte ore. Spesso includono anche il tastierino numerico a fianco alla tastiera normale - comodo, ma tieni presente che la posizione di digitazione sarà decentrata verso sinistra rispetto al display; con un desktop sposti un poco la tastiera e torni "centrato", ma con un notebook sarai perennemente "storto", per quanto poco.
 
-## Ottime condizioni
+# Ottime condizioni
 
 I ricondizionati si dividono grossolanamente in queste categorie, per quanto riguarda le condizioni estetiche:
 
@@ -140,14 +140,14 @@ I ricondizionati si dividono grossolanamente in queste categorie, per quanto rig
 
 In tutti i casi si tratta sempre di PC utilizzabili e funzionanti, ma per il piacere di avere un oggetto "a posto" anche esteticamente di norma cerco solo il Grado A, con le sue declinazioni A++/A-- a seconda della fantasia del venditore.
 
-## Buone prestazioni
+# Buone prestazioni
 
 Ovviamente le prestazioni di un PC non dipendono solo dalla CPU, e ci sono altri fattori (velocità dell'SSD e della RAM su tutti) che mitigano le differenze rispetto a quanto si vede nel grafico qui sotto; ma penso che questa mia che segue sia una approssimazione sufficientemente utile per farsi un'idea.
 
 Per ciascun modello Thinkpad "X" dal 2015 ad oggi, ho selezionato la CPU i5 più piccola che poteva/può montare. Le stesse CPU vengono montate sui corrispondenti modelli "T" più o meno (es. X280 e T480).  
 Di tutte queste CPU ho poi rilevato gli indici prestazionali su [CPUBenchmark.net](http://cpubenchmark.net/) (i valori "CPU Mark"), sia per le operazioni single-thread che per quelle multi-thread (quest'ultimo valore si può considerare come indicatore generale delle prestazioni di una CPU).
 
-[![](https://raffaelebianc0.files.wordpress.com/2023/10/image-3.png?w=605)](https://raffaelebianc0.files.wordpress.com/2023/10/image-3.png)
+![](images/grafico.png)
 
 Alcune considerazioni su questi dati:
 
@@ -161,7 +161,7 @@ Alcune considerazioni su questi dati:
 
 - **Non sono state realizzate CPU Gen9 di classe "U"** per gli ultrabook.
 
-## Uso web+office
+# Uso web+office
 
 "_Dipende da cosa devi farci_".  
 Questa è la risposta jolly, sempre corretta e mai risolutiva, che tutti si sentono dare alla domanda "Che PC mi consiglieresti?".
@@ -173,7 +173,7 @@ Nel caso dei Thinkpad, per coprire questo caso d'uso con macchine snelle e perfo
 
 Esistono anche le linee L (mid-range) ed E (economici), che consentono di risparmiare qualcosa perché il telaio è un po' più grande e pesante, e costruito con materiali più convenzionali: se trovi prezzi interessanti su modelli L approfondisci, mentre io eviterei gli E.
 
-## Spendendo il giusto
+# Spendendo il giusto
 
 Una volta risolto il "_cosa devi farci_", c'è l'altra domanda importante: _quanto ha senso spendere_?
 
@@ -195,11 +195,11 @@ Questo soprattutto perché i vari Celeron/Pentium, che spopolano nella fascia ba
 
 Ecco un esempio pratico di oggi (Ottobre 2023):
 
-[![](https://raffaelebianc0.files.wordpress.com/2023/10/image-1.png?w=1024)](https://raffaelebianc0.files.wordpress.com/2023/10/image-1.png)
+![](images/mw.png)
 
 Qui sotto riporto i dati presi da [CPUBenchmark.net](http://cpubenchmark.net/) per le 2 CPU evidenziate sopra, tra le quali ho inserito per confronto anche un i5-5200u (la CPU più scarsa che puoi trovare su un X250/T450, notebook del 2015 che si trovano ricondizionati a prezzi tra i 100€ e i 150€); il numero arancione grande è quello che ci serve per confrontare le performance delle CPU:
 
-[![](https://raffaelebianc0.files.wordpress.com/2023/10/image-2.png?w=825)](https://raffaelebianc0.files.wordpress.com/2023/10/image-2.png)
+![](images/3.png)
 
 Da questi dati si deduce subito che il Celeron è da evitare senza pensarci: quel PC ha prestazioni molto inferiori al _peggior_ i5 di 6 anni prima, e simili agli i5 di _10 anni prima_; ho il sospetto che sia un fondo di magazzino o un errore di prezzo, comunque non lo comprerei nemmeno per 50€, figuriamoci per 350€.  
 Il PC con CPU Ryzen, che è il nostro modello con "prezzo soglia" di oggi, nonostante monti una CPU di più di 2 anni fa, è invece un buon acquisto.
@@ -214,11 +214,11 @@ Quindi:
 
 Il ventaglio di scelte tra i ThinkPad ricondizionati restando (abbondantemente) sotto tale soglia di prezzo si amplia moltissimo: parte dagli X250/T450(s) da 150€ se voglio risparmiare al massimo, passa per gli X390/T490 a circa 300€ che sono oggetti moderni con buone prestazioni, su fino agli X1C Gen7 attorno ai 500€ che sono dei gioielli (da nuovi avevano prezzi di listino attorno ai 2000€, per rendere l'idea del tipo di prodotto e del motivo per cui anche da usati hanno un prezzo così alto).
 
-## Quale modello scegliere
+# Quale modello scegliere
 
 Una volta fissato il budget, se sei orientato all'aziendale ricondizionato allora è il momento di decidere in base al formato.
 
-### Formato
+## Formato
 
 In **grassetto** i modelli che personalmente consiglierei per ciascun formato, commentati poi più sotto.
 
@@ -248,7 +248,7 @@ In **grassetto** i modelli che personalmente consiglierei per ciascun formato, c
 
 - **14"** -> Thinkpad X1Y
 
-### Come si interpreta il nome del modello
+## Come si interpreta il nome del modello
 
 Può essere utile saperlo, per agevolare ricerche e confronti:
 
@@ -272,7 +272,7 @@ Può essere utile saperlo, per agevolare ricerche e confronti:
 
 - Gli X1 Carbon seguono la nomenclatura più semplice: dall'X1 Gen1 del 2012 a salire (Gen2=2013 eccetera). Gli X1 Yoga qualcosa di simile, dall'X1 Yoga Gen1 del 2016 a salire.
 
-### Altre cose da considerare per la scelta
+## Altre cose da considerare per la scelta
 
 **CPU**: Intel Core i5/i7 ed AMD Ryzen sono quelli da scegliere. Evita gli i3 se possibile, a meno di non trovare un prezzaccio, perché hanno prestazioni nettamente inferiori agli i5/i7 della stessa generazione. Tra gli i5 e gli i7, a parità di generazione, non c'è gran differenza di prestazioni. Anzi, a volte capita che gli i7 soffrano maggiormente di problemi di thermal throttling, soprattutto nei notebook più sottili che hanno sistemi di dissipazione minimali per contenere pesi e dimensioni, per cui la CPU sotto carico dopo un po' tende a ridurre le prestazioni per riportare la temperatura sotto la soglia critica. Con gli i5 non ho mai letto di questi problemi invece.
 
@@ -294,7 +294,7 @@ Può essere utile saperlo, per agevolare ricerche e confronti:
 
 - **Touchscreen**: Ce l'ho nel mio X380Y, ma onestamente non lo uso mai perché staccare le mani dalla tastiera o dal mouse fa perdere tempo e le ditate che restano sullo schermo sono molto fastidiose. Considera anche che un notebook con il touchscreen è sempre leggermente più pesante e spesso rispetto allo stesso modello senza touchscreen.
 
-### Commenti sui modelli specifici
+## Commenti sui modelli specifici
 
 **X230/T430 e precedenti**: non li prendo in considerazione in quanto spessi (circa il doppio rispetto alle generazioni successive elencate sotto) e pesanti - sebbene siano per me e per tanti appassionati oggetti bellissimi, con il loro aspetto "industrial" e la tastiera ritenuta da molti il riferimento imbattuto nella storia dei notebook (specie quella degli X220/T420), ed abbia avuto più volte la tentazione di acquistare un X220/X230 (o addirittura un ancora più vecchio X61/X61s) solo per il gusto di averlo... ma poi sarebbe probabilmente finito tutto con un paio di installazioni di distribuzioni Linux leggere, e qualche mezz'ora di prove da nerd.  
 Ciò non toglie che, spendendo solo 50-100€, sia possibile avere un portatile su cui far girare Linux e lavorare tranquillamente (tra l'altro i Thinkpad sono consigliati da chi usa Linux, probabilmente per il buon supporto a livello driver hardware - ma non mi sono informato in merito).
@@ -348,7 +348,7 @@ Per il resto è un notebook perfetto e velocissimo.
 Parliamo della Gen1, quindi prodotti nel 2020 e dotati di CPU Gen10, tali per cui il vantaggio prestazionale rispetto ai precedenti X390/T490 (che hanno CPU Gen8/Gen10) è marginale, mentre il prezzo può essere molto più alto.  
 Bisogna attendere l'uscita nel mercato dei Gen2 ricondizionati per avere un salto prestazionale interessante secondo me, grazie alle CPU Gen11. Se ne riparla dal 2025!
 
-## Dove acquistare
+# Dove acquistare
 
 [eBay.it](http://ebay.it/) è probabilmente il miglior posto dove iniziare.  
 C'è una scelta molto ampia, e anche i prezzi tendenzialmente sono corretti - soprattutto se il venditore è un "Venditore Professionale" che sta vendendo uno stock di tanti esemplari uguali.  
@@ -378,7 +378,7 @@ Anche [Subito.it](http://subito.it/) è un buon mercato, soprattutto se è dispo
 
 - **Contatta il venditore** per chiedere le info sopra elencate che non siano già evidenti nell'annuncio. I venditori seri risponderanno con precisione e spesso entro breve tempo.
 
-## Link utili
+# Link utili
 
 [Mobile Tech Review](https://www.youtube.com/@mobiletechreview/search?query=thinkpad): le migliori video-recensioni che puoi trovare, probabilmente.
 

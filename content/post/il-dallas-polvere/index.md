@@ -7,10 +7,12 @@ categories:
 image: "images/davide-urla.png"
 ---
 
+"Polvere" è il primo singolo pubblicato dalla band di cui sono batterista, [Il Dallas](/blog/p/il-dallas).
+
 {{< youtube j6S8xbNPwRA >}}
 
-"Polvere" è il singolo tratto da "[Il Dallas](https://found.ee/ilDallasAlbum)", il primo album della band di cui sono batterista: [Il Dallas](/blog/p/il-dallas).
+---
 
-Album: "[Il Dallas](https://found.ee/ilDallasAlbum)" (_streaming gratuito, acquisto, recensione_)
+L'album omonimo di cui fa parte Polvere è ["Il Dallas"](https://found.ee/ilDallasAlbum):
 
 {{< spotify type="album" id="3f7XC2AoIDtECh9WMaxaWh" width="100%" height="750" >}}

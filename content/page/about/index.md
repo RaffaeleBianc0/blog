@@ -6,7 +6,7 @@ aliases:
   - about-me
   - contact
   - info
-lastmod: '2024-02-04'
+lastmod: '2025-11-15'
 menu:
     main: 
         weight: -90
@@ -14,9 +14,9 @@ menu:
             icon: user
 ---
 
-Questo blog esiste perché ogni tanto mi viene voglia di scrivere, e di "fissare" una cosa che ho fatto oppure che ho trovato e mi è piaciuta. 
-Fai finta che siano contenuti estratti da un mio ipotetico diario, messi in bella copia quando ne ho voglia.
+Benvenuto nel mio blog, che esiste perché ogni tanto mi viene voglia di scrivere, di solito per prendere nota di qualcosa che ho fatto o che mi è piaciuta. 
 
 Ci trovi anche quasi tutta la musica che ho registrato con la batteria, con il basso, con la chitarra o con il PC.
 
 Tutti i contenuti sono raccolti e categorizzati nella pagina ["Archivi"](/blog/archivi).
+

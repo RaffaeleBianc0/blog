@@ -25,13 +25,13 @@ Questo è stato per pochi giorni il mio portafoglio _provvisorio_ (10x7cm, spess
 
 Questo è il mio portafoglio _definitivo_, il [SECRID Slimwallet](https://www.mukama.com/en/secrid-slimwallet) (9.5x6.5cm, spessore=1.5cm):
 
-[![](images/20160219_095916-secrid-chiuso.jpg)](https://raffaelebianc0.wordpress.com/2016/02/14/portafoglio-piu-piccolo/20160219_095916-secrid-chiuso/)
+![](images/20160219_095916-secrid-chiuso.jpg)
 
-[![](images/20160219_142551-secrid-aperto.jpg)](https://raffaelebianc0.wordpress.com/2016/02/14/portafoglio-piu-piccolo/20160219_142551-secrid-aperto/)
+![](images/20160219_142551-secrid-aperto.jpg)
 
 Confrontando le misure, ecco i risultati:
 
-| Area | Spessore | Volume
+| Portafoglio | Spessore | Volume
 |------|----------|-------
 Vecchio     | 100% |   100%   |  100%
 Provvisorio |  61% |    57%   |   35%

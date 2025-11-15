@@ -1,62 +1,79 @@
 ---
 title: "Hugo"
 date: "2024-02-09"
+lastmod: '2025-11-15'
 categories: 
   - "tecnologia"
 image: "images/hugo-logo.png"
 ---
 
-Benvenuto nel mio blog.
+Ti parlo di come è fatto questo blog, un po' dietro le quinte.
 
-Ogni tanto cambia forma, perché lo uso anche come palestra per smanettare con qualche strumento nuovo, nei periodi un po' nerd che ogni tanto mi prendono.
+# Cosa e quando
 
-Ecco la storia di questo sito, da quando è nato ad oggi.
+Fino al 2024 questo blog era hostato su Wordpress.com, se vuoi ho scritto una paginetta anche sulla [storia di questo sito](/blog/p/storia-di-questo-sito-web) dove ne parlo.
 
-## 1996: HTML statico
+A inizio 2024 ho scoperto gli [SSG](https://en.wikipedia.org/wiki/Static_site_generator), una categoria di software che consentono di trasformare contenuti scritti in [Markdown](https://en.wikipedia.org/wiki/Markdown) in siti web veloci e con tutte le funzionalità che servono. 
 
-Era circa il 1996, avevo iniziato l'università e, grazie al laboratorio di informatica, muovevo i miei primissimi passi su Internet. Ricordo ancora la sensazione provata scambiando i primi messaggi online con ignoti, dall'altra parte del mondo, in inglese, parlando di batteria, scrivendo sui newsgroup Usenet con pine, un software a caratteri che si usava sulle SPARCstation UNIX che c'erano al [DEI](https://www.dei.unipd.it)!
+Ci ho messo un po' di giorni a capire quale, dei tanti SSG esistenti, fosse quello su cui puntare, cioè quello aggiornato recentemente, regolarmente, e con una user-base la più estesa possibile, per chiedere aiuto nel caso servisse. Ha vinto [Hugo](https://gohugo.io).
 
-Appena ho capito che potevo avere un mio sito personale online ho imparato a farmelo, anche se a livello molto rudimentale. Erano i tempi dell'HTML scritto a mano con un editor di testo, poi sostituito dalle prime versioni di Dreamweaver per aiutare con il layout. Al tempo non li chiamavamo ancora "blog", forse non esistevano nemmeno in Italia, li chiamavamo proprio "siti web".
+In uno dei miei periodici guizzi di nerdismo, ho subito provato a creare un micro-sito di prova in locale, ci ho messo meno di quanto pensassi e mi è piaciuto.
 
-## 2000: forum su e107
+# Perché
 
-La prima versione "dinamica" del mio sito vide la luce nel periodo d'oro dei forum online, nei primi anni 2000: imparai ad installarmi Apache, MySQL e PHP, e testai qualche CMS opensource, cercando le informazioni su [www.opensourceCMS.com](https://www.opensourcecms.com).
+Ho trasformato il mio blog da Wordpress a Hugo per questi motivi.
 
-Ne scelsi uno che si chiamava e107, ma non ricordo bene il motivo di questa scelta. Ci smanettai in modo da ottenere il mio sito in forma di forum, con l'aiuto di un amico che mi hostava questi esperimenti gratuitamente, e sognando una interazione con visitatori ed amici ai quali giravo il link dei nuovi articoli man mano che li scrivevo, qualche anno prima che i social esplodessero.
+## Pubblicità
 
-Una continua serie di problemi legati all'aggiornamento dei server e ai bachi di sicurezza di e107 richiedeva molta più dedizione di quella che ero disposto a mettere in campo, quindi dopo qualche anno abbandonai completamente il progetto e cancellai tutto.
+Prima di tutto, sbarazzarmi della pubblicità.
 
-## 2014: landing page (e dominio)
+Questo è un piccolo blog, e non mi serve chissà quale servizio per ospitarlo, basta il minimo, e il minimo quando si tratta di Wordpress significa Wordpress.com, che per offrire il suo servizio gratuito infarcisce di stramaledetta pubblicità ogni pagina di quello che scrivi.
 
-Parlando con un collega, mi suggerisce [Tophost](https://www.tophost.it) per registrarmi il nome di dominio e avere un minimo di spazio online a costi bassissimi.
+Ora, sarà la vecchiaia non lo so, ma la data economy basata sulla profilazione degli utenti a me sta dando sempre più fastidio, quindi liberarmi di questa cosa è stato il motivo numero 1 per la transizione a Hugo.
 
-Quindi decido di registrare il dominio raffaelebianco.it "per usi futuri", e di metterci dentro intanto una banale landing page simile alle migliaia che oggi si trovano fatte con [Linktr.ee](https://linktr.ee/raffaelebianco) e relativi cloni.
+## Performance
 
-Per l'occasione studio e provo qualche tema gratuito in formato HTML5, approfondisco il CSS, scopro [Font Awesome](https://fontawesome.com) e alla fine ne esce la homepage che ancora oggi vedi quando visiti [www.RaffaeleBianco.it](https://www.RaffaeleBianco.it).
+Il motivo numero 2 sono le performance: le pagine statiche generate da Hugo si caricano in un istante, e va tutto veloce. Wordpress invece, che è un sistema super articolato per gestire siti dinamici, ad ogni click va ad interrogare un database e a costruire la pagina dinamicamente, e ci mette del tempo, lo senti quando fai click, e dopo tre click lo odi. Io ho un semplice blog, i contenuti sono quelli che pubblico e sono statici, cioè non cambiano fino alla prossima pubblicazione, non mi serve un database sotto né potenza di elaborazione lato hosting per generare le pagine da zero ogni volta che il lettore clicca un link. Il 1996 è passato da un pezzo, oggi non è ammissibile dover *aspettare* per caricare una banale pagina web con testo e un paio di immagini.
 
-## 2015: Wordpress
+## Markdown
 
-Non ricordo come, ma mi sono imbattuto in Wordpress: l'idea di avere tutto online (l'editor WYSIWYG, i testi, le immagini) e tutto facilmente configurabile da qualunque dispositivo compreso lo smartphone mi aveva conquistato subito.
+Motivo 3: poter editare i miei contenuti in locale, scrivendoli in Markdown dentro a [VS Code](https://code.visualstudio.com), con la sua strepitosa integrazione con [GitHub](https://github.com/RaffaeleBianc0) e tante altre funzionalità comode, ma potenzialmente anche con un qualunque editor di testo leggero che sul mio vetusto [IBM Thinkpad X60]({{< ref "pc-maggiorenne.md" >}}) sicuramente vanno meglio.
 
-E allora ho creato il mio primo vero "blog", così da imparare a muovermi un po' anche in Wordpress.
+Scrivere in Markdown usando un editor di testo, invece che scrivere direttamente nell'editor [WYSIWYG](https://it.wikipedia.org/wiki/WYSIWYG) di Wordpress, è un'esperienza molto particolare per quanto mi riguarda. E' forse difficile da capire finché non la si prova, ma il senso di "essenziale" veicolato dal testo a spaziatura fissa e dall'assenza completa di pulsanti e interfaccia grafica tiene l'occhio e la mente libera da distrazioni, e si scrive con più gusto, un po' come fosse una moderna macchina da scrivere invece di Word, per fare un parallelo.
 
-In quella versione del sito ho trasportato alcune cose che avevo già pubblicato nella versione "e107", recuperandole da un backup, giusto per avere un minimo di contenuto con cui giocare, e ho continuato aggiungendo le cose che trovi anche qui, per la maggior parte video che pubblicavo su YouTube, fino ai contenuti del 2023 compresi.
+Il Markdown lo stavo già usando da un bel po', sia per rendere un po' più ricchi e strutturati i piccoli file di testo sparsi ovunque quando si lavora con i computer, sia soprattutto nell'uso quotidiano di [Obsidian](https://obsidian.md) che accompagna la mia vita lavorativa degli ultimi anni.
 
-## 2024: Hugo
+## Imparare
 
-Ed eccoci alla versione attuale, questa che stai guardando, fatta con [Hugo](https://gohugo.io).
+Al quarto posto come motivo ci metto la voglia di imparare i rudimenti di Hugo di per sé, come tecnologia e approccio diversi per scrivere post nel mio spazio web.
 
-Ho esportato tutto il contenuto da Wordpress su un file XML, ho usato [questo script](https://github.com/lonekorean/wordpress-export-to-markdown) per convertire l'XML in una struttura di file compatibile con Hugo, ho scelto un [tema per Hugo](https://themes.gohugo.io) che mi piaceva, un po' di studio online e di esperimenti la sera, e a meno di qualche dettaglio questa nuova versione del sito era già pronta e navigabile in locale sul mio PC dopo poche ore.
+# Come
 
-Questo tema ha le funzionalità più importanti che avevo anche in Wordpress (gestione di articoli, categorie, ricerca), ma risponde al mio desiderio di questi ultimi tempi di snellire le cose e tornare all'essenziale.
+## Export e conversione
 
-Hugo mi consente di:
+Per passare da Wordpress allo stato attuale del blog, ho fatto un certo lavoro.
 
-- Sbarazzarmi completamente della pubblicità imposta su ogni blog free hostato su Wordpress.com.
-  - Ci tenevo molto sia perché intralciano il lettore, sia perché la detesto in modo viscerale insieme a tutta la web economy basata sulla profilazione.
-- Avere un sito web più reattivo.
-  - Siamo nel 2024 e non è ammissibile dover *aspettare* per caricare una banale pagina web con testo e un paio di immagini.
-- Poter editare i miei contenuti in locale, scrivendoli in Markdown dentro a VS Code, così guadagno anche l'integrazione con Git e tante altre funzionalità comode, ma potenzialmente anche con un qualunque editor di testo leggero che sul mio vetusto [IBM Thinkpad X60]({{< ref "pc-maggiorenne.md" >}}) sicuramente vanno meglio.
-  - Scrivere in Markdown in un editor di testo, invece che in un editor [WYSIWYG](https://it.wikipedia.org/wiki/WYSIWYG), è un'esperienza molto particolare per quanto mi riguarda. E' forse difficile da capire finché non la si prova, ma il senso di "essenziale" veicolato dal testo a spaziatura fissa e dall'assenza completa di pulsanti e interfaccia grafica tiene l'occhio e la mente libera da distrazioni, e si scrive con più gusto, un po' come fosse una moderna macchina da scrivere invece di Word.
+Prima di tutto ho esportato tutto il contenuto da Wordpress su un file XML, c'è il comando nella dashboard di amministrazione.
 
-Buona navigazione.
+Poi ho usato [questo script](https://github.com/lonekorean/wordpress-export-to-markdown) per convertire l'XML in una struttura di file compatibile con Hugo. Lo script si è preoccupato anche di fare il download delle immagini dal mio blog Wordpress.
+
+## Tema 
+
+Ho scelto un [tema per Hugo](https://themes.gohugo.io) che mi piaceva ([Stack](https://github.com/CaiJimmy/hugo-theme-stack)), perché ha le funzionalità più importanti che non volevo perdere (gestione di articoli, categorie, ricerca), e risponde al mio desiderio di questi ultimi tempi di snellire le cose e tendere un po' di più all'essenziale.
+
+Un po' di studio online e di esperimenti la sera, e a meno di qualche dettaglio questa nuova versione del sito era già pronta e navigabile in locale sul mio PC dopo poche ore.
+
+## Deploy 
+
+Per pubblicare il blog compilato con Hugo inizialmente ho fatto il banale upload nel mio spazio FTP, ma ho scoperto presto due approcci progressivamente più nerd, che ovviamente mi hanno stuzzicato subito: prima [Rclone](https://rclone.org), che ho subito pilotato con un piccolo script per avere un deploy one-click dei soli file modificati, e poi il metodo che sto usando adesso, cioè una [GitHub Action](https://github.com/features/actions) che, ogni volta che faccio il push delle modifiche sul mio repository GitHub, in automatico ricompila il sito con Hugo e fa l'upload dei file cambiati sul mio FTP. In questo modo, creare e modificare i miei post si risolve in un click su un comando in VS Code, e a tutto il resto pensa GitHub.
+Sì, adoro quando i computer lavorano per me.
+
+## Hack
+
+Cercando informazioni su come avere la ToC anche nella versione mobile del blog (che di default è assente nel tema Stack), ho poi trovato alcune informazioni per applicare quella e altre modifiche interessanti al tema, su [MomentoDiMezzo.com](https://momentodimezzo.com/en/p/blog-customization) e su [LucasLifes.com](https://blog.lucaslifes.com/p/hugo-stack-theme-customization).
+
+Infine mi sono fatto aiutare da Copilot integrato in VS Code per fare alcune modifiche minori in pochi minuti che, senza una AI di supporto, non sarei mai stato capace di fare in tempi ragionevoli - ad esempio l'evidenziatura completa dei link al passaggio del mouse nel corpo del testo e nella ToC, ma non in altri punti. Per inciso, vedere come l'AI ha analizzato l'intero progetto Hugo e ha applicato le modifiche dove necessario, tutto direttamente in VS Code, mi ha lasciato senza parole.
+
+# Conclusione
+
+Le funzionalità di questo blog non sono ancora precisamente come le vorrei, ma direi che ci siamo al 90%, sono molto più soddisfatto di questa forma del blog rispetto alla precedente su Wordpress!
