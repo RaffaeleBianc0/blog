@@ -154,53 +154,58 @@ enabled = true
 [menu]
 main = [ ]
 
-  [[menu.social]]
-  identifier = "facebook"
-  name = "Facebook"
-  url = "http://facebook.com/RaffaeleBianco"
+  # Link statico nel menu a sinistra - IMPORTANTE: se usato, allora commentare la riga sopra "main = [ ]"
+  # [[menu.main]]
+  # name = 'Google'
+  # url = 'https://www.google.com'
+  # weight = 10
+  #   [menu.main.params]
+  #   icon = "link"
+  #   newTab = true
 
-    [menu.social.params]
-    icon = "brand-facebook"
-  
-  [[menu.social]]
-  identifier = "instagram"
-  name = "Instagram"
-  url = "http://instagram.com/RaffaeleBianc0"
+[[menu.social]]
+identifier = "facebook"
+name = "Facebook"
+url = "http://facebook.com/RaffaeleBianco"
+  [menu.social.params]
+  icon = "brand-facebook"
 
-    [menu.social.params]
-    icon = "brand-instagram"
+[[menu.social]]
+identifier = "instagram"
+name = "Instagram"
+url = "http://instagram.com/RaffaeleBianc0"
+  [menu.social.params]
+  icon = "brand-instagram"
 
-  [[menu.social]]
-  identifier = "youtube"
-  name = "Youtube"
-  url = "http://youtube.com/RaffaeleBianco"
+[[menu.social]]
+identifier = "youtube"
+name = "Youtube"
+url = "http://youtube.com/RaffaeleBianco"
+  [menu.social.params]
+  icon = "brand-youtube"
 
-    [menu.social.params]
-    icon = "brand-youtube"
+[[menu.social]]
+identifier = "ytmusic"
+name = "YouTube Music"
+url = "http://music.youtube.com/channel/UCMwsz2fHAaRfeoezKfp0I0g"
+  [menu.social.params]
+  icon = "player-play"
 
-  [[menu.social]]
-  identifier = "ytmusic"
-  name = "YouTube Music"
-  url = "http://music.youtube.com/channel/UCMwsz2fHAaRfeoezKfp0I0g"
+# [[menu.social]]
+# identifier = "github"
+# name = "GitHub"
+# url = "http://github.com/RaffaeleBianc0"
+#   [menu.social.params]
+#   icon = "brand-github"
 
-    [menu.social.params]
-    icon = "player-play"
+[[menu.social]]
+identifier = "linkedin"
+name = "Linkedin"
+url = "http://linkedin.com/in/RaffaeleBianco"
+  [menu.social.params]
+  icon = "brand-linkedin"
 
-  # [[menu.social]]
-  # identifier = "github"
-  # name = "GitHub"
-  # url = "http://github.com/RaffaeleBianc0"
 
-  #   [menu.social.params]
-  #   icon = "brand-github"
-
-  [[menu.social]]
-  identifier = "linkedin"
-  name = "Linkedin"
-  url = "http://linkedin.com/in/RaffaeleBianco"
-
-    [menu.social.params]
-    icon = "brand-linkedin"
 
 [related]
 includeNewer = true
