@@ -1,4 +1,5 @@
 <script>
+    // Mostra/nasconde i bottoni Back-to-top + ToC
     document.addEventListener("DOMContentLoaded", () => {
         const backToTop = document.getElementById("back-to-top");
         const tocButton = document.getElementById("toc-button");
@@ -24,8 +25,8 @@
             } else {
                 // User is scrolling down, reset reference position
                 lastShowY = currentScrollY;
-                // backToTop.style.display = "none";
-                // tocButton.style.display = "none";
+                backToTop.style.display = "none";
+                tocButton.style.display = "none";
             }
 
             lastScrollY = currentScrollY; // Update last scroll position
@@ -68,6 +69,7 @@
 </script>
 
 
+
 <!-- ToC button -->
 <div id="toc-button" class="toc-btn">
   <button>
@@ -78,6 +80,8 @@
     </svg>
   </button>
 </div>
+
+
 
 <!-- ToC drawer -->
 <div id="toc-drawer" class="toc-drawer">
@@ -91,6 +95,8 @@
     {{ .TableOfContents }}
   </div>
 </div>
+
+
 
 <!-- ToC Overlay -->
 <div id="drawer-overlay" class="overlay"></div>

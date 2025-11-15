@@ -4,7 +4,7 @@ title = 'Mica scrivo granché'
 theme = 'hugo-theme-stack'
 enableEmoji = true
 
-pagination.pagerSize = 5
+pagination.pagerSize = 10
 copyright = "Raffaele Bianco"
 DefaultContentLanguage = "it"
 hasCJKLanguage = false
@@ -14,8 +14,8 @@ languageName = "Italiano"
 title = "Mica scrivo granché"
 weight = 1
 
-  [languages.it.params]
-  description = "Blog di Raffaele Bianco"
+  [languages.it.params.sidebar]
+  subtitle = "Blog di Raffaele Bianco."
 
 # [languages.en]
 # languageName = "English"
@@ -33,10 +33,11 @@ page = "/:slug/"
 mainSections = [ "post" ]
 featuredImageField = "image"
 rssFullContent = true
-favicon = "/favicon-96x96.png"
+favicon = "/favicon-96x96.png" # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
   [params.footer]
   since = 2_004
+  customText = ""
 
   [params.dateFormat]
   published = "02/01/2006"
@@ -127,15 +128,17 @@ type = "archives"
 type = "toc"
 
 [params.opengraph.twitter]
-card = "summary_large_image"
+site = "" # Your Twitter username
+card = "summary_large_image" # Available values: summary, summary_large_image
 
 [params.defaultImage.opengraph]
 enabled = false
 local = false
+src = ""
 
   [params.colorScheme]
   toggle = true
-  default = "auto"
+  default = "auto" # Available values: auto, light, dark
 
 [params.imageProcessing.cover]
 enabled = true
@@ -143,6 +146,11 @@ enabled = true
 [params.imageProcessing.content]
 enabled = true
 
+
+
+### Custom menu
+### See https://stack.jimmycai.com/config/menu
+### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 [menu]
 main = [ ]
 
@@ -208,7 +216,8 @@ toLower = false
   weight = 200
 
 [markup.goldmark.renderer]
-unsafe = true
+unsafe = true   # Set to true if you have HTML content inside Markdown
+
 
 [markup.tableOfContents]
 startLevel = 1
