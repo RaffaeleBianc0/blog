@@ -11,7 +11,7 @@ menu:
     main: 
         weight: -90
         params:
-            icon: user
+            icon: info-circle
 ---
 
 Benvenuto nel mio blog, che esiste perché ogni tanto mi viene voglia di scrivere, di solito per prendere nota di qualcosa che ho fatto o che mi è piaciuta. 

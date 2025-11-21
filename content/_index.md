@@ -1,8 +1,8 @@
 ---
 menu:
     main:
-        name: Home
+        name: Blog
         weight: -100
         params:
-            icon: home
+            icon: bubble-text
 ---

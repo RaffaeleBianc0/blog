@@ -135,9 +135,9 @@ enabled = false
 local = false
 src = ""
 
-  [params.colorScheme]
-  toggle = true
-  default = "auto" # Available values: auto, light, dark
+[params.colorScheme]
+toggle = true
+default = "auto" # Available values: auto, light, dark
 
 [params.imageProcessing]
 cover.enabled = true
@@ -148,17 +148,28 @@ content.enabled = true
 ### Custom menu
 ### See https://stack.jimmycai.com/config/menu
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
+### ICONE: https://tabler.io/icon, SVG da scaricare in assets/icons.
 [menu]
-main = [ ]
+# main = [ ]
 
-  # Link statico nel menu a sinistra - IMPORTANTE: se usato, allora commentare la riga sopra "main = [ ]"
-  # [[menu.main]]
-  # name = 'Google'
-  # url = 'https://www.google.com'
-  # weight = 10
-  #   [menu.main.params]
-  #   icon = "link"
-  #   newTab = true
+# Link statico nel menu a sinistra - IMPORTANTE: se usato, allora commentare la riga sopra "main = [ ]"
+# [[menu.main]]
+# name = 'Google'
+# url = 'https://www.google.com'
+# weight = -999
+# identifier = "google"
+#   [menu.main.params]
+#   icon = "link"
+#   newTab = true
+
+[[menu.main]]
+name = 'Home'
+url = '/../'  # Punta a www.raffaelebianco.it
+weight = -999
+identifier = "home"
+  [menu.main.params]
+  icon = "home"
+  newTab = false
 
 [[menu.social]]
 identifier = "facebook"

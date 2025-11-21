@@ -2,17 +2,111 @@
 *   Footer back-to-top style
 */
 :root {
-    --button-float-bg: #f9f9fc;
-    --button-float-bg-hover: #ececf6;
-    --button-float-arrow: #2c3e50;
-    --button-float-shadow: rgba(0, 0, 0, 0.1);
-    --button-float-shadow-hover: rgba(0, 0, 0, 0.15);
+    --button-float-bg: #eee;
+    --button-float-bg-hover: #bbb;
+    --button-float-arrow: #000;
+    --button-float-shadow: rgba(0, 0, 0, 0.3);
+    --button-float-shadow-hover: rgba(0, 0, 0, 0.6);
 }
 
 [data-scheme="dark"] {
-    --button-float-bg: #424242;
-    --button-float-bg-hover: #383838;
-    --button-float-arrow: rgba(255, 255, 255, 0.7);
-    --button-float-shadow: rgba(0, 0, 0, 0.3);
-    --button-float-shadow-hover: rgba(0, 0, 0, 0.5);
+    --button-float-bg: #444;
+    --button-float-bg-hover: #777;
+    --button-float-arrow: #eee;
+    --button-float-shadow: rgba(0, 0, 0, 0.4);
+    --button-float-shadow-hover: rgba(0, 0, 0, 0.8);
+}
+
+/*
+STILI MODIFICATI
+Gli originali sono qui: themes\hugo-theme-stack\assets\scss\variables.scss
+*/
+:root {
+    --main-top-padding: 35px;
+
+    @include respond(xl) {
+        --main-top-padding: 50px;
+    }
+
+    --body-background: #ddd;
+
+    --accent-color: #34495e;
+    --accent-color-darker: #2c3e50;
+    --accent-color-text: #fff;
+    --body-text-color: #555;
+
+    --tag-border-radius: 4px;
+
+    --section-separation: 30px;
+
+    --scrollbar-thumb: #555;
+    --scrollbar-track: var(--body-background);
+
+    &[data-scheme="dark"] {
+        --body-background: #303030;
+        --accent-color: #eee;
+        --accent-color-darker: #bbb;
+        --accent-color-text: #000;
+        --body-text-color: #ccc;
+        --scrollbar-thumb: #777;
+        --scrollbar-track: var(--body-background);
+    }
+}
+/*
+*   Card style
+*/
+:root {
+    --card-background: #fff;
+    --card-background-selected: #eaeaea;
+
+    --card-text-color-main: #000;
+    --card-text-color-secondary: #747474;
+    --card-text-color-tertiary: #767676;
+    --card-separator-color: rgba(218, 218, 218, 0.5);
+
+    --card-border-radius: 10px;
+
+    --card-padding: 20px;
+
+    @include respond(md) {
+        --card-padding: 30px;
+    }
+
+    @include respond(xl) {
+        --card-padding: 30px;
+    }
+
+    --small-card-padding: 25px 20px;
+
+    @include respond(md) {
+        --small-card-padding: 10px;
+    }
+
+    &[data-scheme="dark"] {
+        --card-background: #222;
+        --card-background-selected: #333;
+        --card-text-color-main: #eee;
+        --card-text-color-secondary: #ddd;
+        --card-text-color-tertiary: #aaa;
+        --card-separator-color: #555;
+    }
+}
+/**
+*   Article content font settings
+*/
+:root {
+    --article-font-family: var(--base-font-family);
+    --article-font-size: 1.6rem;
+
+    @include respond(md) {
+        --article-font-size: 1.7rem;
+    }
+
+    --article-line-height: 1.5;
+}
+
+:root {
+    --menu-icon-separation: 10px;
+    --container-padding: 15px;
+    --widget-separation: var(--section-separation);
 }
