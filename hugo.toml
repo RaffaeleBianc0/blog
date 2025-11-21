@@ -31,7 +31,8 @@ page = "/:slug/"
 mainSections = [ "post" ]
 featuredImageField = "image"
 rssFullContent = true
-favicon = "/favicon-96x96.png" # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+meta.favicon = false
+favicon = "favicon.ico" # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
   [params.footer]
   since = 2_004
@@ -167,51 +168,52 @@ name = 'Home'
 url = '/../'  # Punta a www.raffaelebianco.it
 weight = -999
 identifier = "home"
-  [menu.main.params]
-  icon = "home"
-  newTab = false
+params.icon = "home"
+params.newTab = false
+
+[[menu.main]]
+name = 'RSS'
+url = '/index.xml'
+weight = 999
+identifier = "rss"
+params.icon = "rss"
+params.newTab = false
 
 [[menu.social]]
 identifier = "facebook"
 name = "Facebook"
 url = "http://facebook.com/RaffaeleBianco"
-  [menu.social.params]
-  icon = "brand-facebook"
+params.icon = "brand-facebook"
 
 [[menu.social]]
 identifier = "instagram"
 name = "Instagram"
 url = "http://instagram.com/RaffaeleBianc0"
-  [menu.social.params]
-  icon = "brand-instagram"
+params.icon = "brand-instagram"
 
 [[menu.social]]
 identifier = "youtube"
 name = "Youtube"
 url = "http://youtube.com/RaffaeleBianco"
-  [menu.social.params]
-  icon = "brand-youtube"
+params.icon = "brand-youtube"
 
 [[menu.social]]
 identifier = "ytmusic"
 name = "YouTube Music"
 url = "http://music.youtube.com/channel/UCMwsz2fHAaRfeoezKfp0I0g"
-  [menu.social.params]
-  icon = "player-play"
-
-# [[menu.social]]
-# identifier = "github"
-# name = "GitHub"
-# url = "http://github.com/RaffaeleBianc0"
-#   [menu.social.params]
-#   icon = "brand-github"
+params.icon = "player-play"
 
 [[menu.social]]
 identifier = "linkedin"
 name = "Linkedin"
 url = "http://linkedin.com/in/RaffaeleBianco"
-  [menu.social.params]
-  icon = "brand-linkedin"
+params.icon = "brand-linkedin"
+
+# [[menu.social]]
+# identifier = "github"
+# name = "GitHub"
+# url = "http://github.com/RaffaeleBianc0"
+# params.icon = "brand-github"
 
 
 

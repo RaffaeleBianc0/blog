@@ -102,11 +102,18 @@ Gli originali sono qui: themes\hugo-theme-stack\assets\scss\variables.scss
         --article-font-size: 1.7rem;
     }
 
-    --article-line-height: 1.5;
-}
-
-:root {
+    --article-line-height: 1.6;
     --menu-icon-separation: 10px;
     --container-padding: 15px;
     --widget-separation: var(--section-separation);
+}
+
+
+
+// Definizione del colore del testo GRASSETTO:
+:root {
+    --bold-text-color: #722; 
+}
+[data-scheme="dark"] {
+    --bold-text-color: #daa;
 }

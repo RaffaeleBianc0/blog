@@ -176,3 +176,18 @@ $codeblock-max-height: 25em;
 // =============================
 // END Code Blocks
 // =============================
+
+
+
+#cusdis_thread {
+  display: flex;
+  height: 24em; // Altezza dell'iframe dei commenti Cusdis
+}
+
+
+
+// Personalizza lo stile del testo in grassetto
+strong, b {
+    font-weight: 900;
+    color: var(--bold-text-color);
+}
