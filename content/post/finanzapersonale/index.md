@@ -41,26 +41,30 @@ Sono temi adiacenti perché alla fine bisogna comunque avere a che fare con i me
 
 "*Se hai dei soldi allora stai già investendo*".  
 La ho letta da qualche parte, e mi pare davvero molto azzeccata.  
-Tenere i risparmi fermi "sotto al materasso" o nel conto corrente è una scelta di investimento, probabilmente inconsapevole, ma comunque una scelta: stai investendo in un prodotto a volatilità zero, ma che ti garantisce una perdita di potere d’acquisto regolare, che è proprio l’inflazione, una perdita piccola, certo, ma sicura al 100%, e più soldi hai fermi più stai perdendo valore.  
+
+Tenere i risparmi fermi "sotto al materasso" o nel conto corrente **è una scelta di investimento**, probabilmente inconsapevole, ma comunque una scelta: stai investendo in un prodotto che ti garantisce una **perdita** regolare di potere d’acquisto, che è proprio l’inflazione, una perdita certo **piccola ma sicura al 100%**, e più soldi hai fermi più stai perdendo valore.  
 Per esempio, negli ultimi 30 anni il potere di acquisto dei soldi in Italia si è dimezzato, cioè se hai messo via una cifra 30 anni fa senza investirla, oggi ci compri circa metà cose: puoi verificarlo guardando i dati storici ufficiali [pubblicati dall’ISTAT](https://rivaluta.istat.it).  
-Ah, non c’entra l’entrata in vigore dell’Euro nel 2002, come pensano in molti: l’inflazione infatti non ha subìto particolari modifiche prima durante e dopo il passaggio Lira-Euro (addirittura il primo anno con inflazione più alta di quella del 1995 è stato il 2022), e se ti ricordi aumenti di prezzo spropositati, si è trattato solo dei negozianti al dettaglio che facevano i furbetti approfittando del momento storico per arrotondamenti e aumenti creativi che si percepivano soprattutto nei piccoli importi, ma che non sono certo quelli che spostano il budget familiare (a differenza di mutuo, affitto, automobile, finanziamenti, vacanze per esempio \- tutta roba da centinaia di euro).
+
+Ah, non c’entra l’entrata in vigore dell’Euro nel 2002, come pensano in molti: l’inflazione infatti non ha subìto particolari modifiche prima durante e dopo il passaggio Lira-Euro (addirittura il primo anno con inflazione più alta di quella del 1995 è stato il 2022), e se ti ricordi aumenti di prezzo spropositati, si è trattato solo dei negozianti al dettaglio che facevano i furbetti approfittando del momento storico per arrotondamenti e aumenti creativi che si percepivano soprattutto nei piccoli importi, ma che non sono certo quelli che spostano il budget familiare a differenza di mutuo, affitto, automobile, finanziamenti, vacanze.
 
 ## Inizia adesso
 
 Ci sono questi fattori che danno tanto più beneficio quanto più tempo c’è a disposizione:
 
 * **Interesse composto** ("*compounding*" per dirlo con una sola parola, "rendimento sul rendimento" per dirlo con tre). Devi fare qualche esperimento per renderti conto di quanto possa impattare sulla lunga distanza, ad esempio [sul sito della Banca D’Italia](https://economiapertutti.bancaditalia.it/calcolatori/calcolatore-dell-interesse). Come tasso di interesse puoi inserire il 5%, che è un valore prudente di interesse annuo lordo medio atteso per investimenti sensati sul lungo periodo, che puoi usare per fare qualche simulazione.  
-  Il compounding ha impatto positivo sui rendimenti, e invece mostra il suo impatto *negativo* quando si parla di costi percentuali ricorrenti: un "*costo del 2% annuo sul capitale in gestione*" è un potente campanello d’allarme.  
+Il compounding ha impatto positivo sui rendimenti, e invece mostra il suo impatto *negativo* quando si parla di costi percentuali ricorrenti: un "*costo del 2% annuo sul capitale in gestione*" è un potente campanello d’allarme.  
+
 * **Vantaggi fiscali crescenti nel tempo** dei fondi pensione: dopo i 15 anni di permanenza in fondi pensione, le tasse che pagherai al riscatto cominciano a scendere dello 0,3% all’anno: 15% se avrai 1-15 anni di contribuzione, 14,7% se avrai 16 anni di contribuzione, eccetera fino ad arrivare al 9% (la soglia minima) per 35 anni o più di contribuzione, che è quasi l’intera carriera lavorativa, quando il tuo capitale versato nel fondo pensione avrà raggiunto il suo massimo e godrà del massimo vantaggio fiscale.
 
 **CONCLUSIONI:**  
-L'ideale è impostare la propria pianificazione finanziaria già all'arrivo dei primissimi stipendi, come minimo aprendo un fondo pensione appena puoi (al limite anche *senza* metterci dentro soldi, l’importante è che la posizione resti aperta quanti più anni possibile), ed iniziando ad investire su un ETF azionario globale attraverso un PAC minimo, es. 50€ al mese, oppure ogni mese in cui riesci a risparmiare qualcosa. Ma non è mai troppo tardi, e se hai figli puoi fare una riflessione anche per loro \- potresti per esempio aprire un fondo pensione qualunque a nome loro, anche senza versarci contributi, così intanto maturano l’anzianità di cui sopra.
+L'ideale è **impostare la propria pianificazione finanziaria già all'arrivo dei primissimi stipendi**, come minimo aprendo un fondo pensione appena puoi (al limite anche *senza* metterci dentro soldi, l’importante è che la posizione resti aperta quanti più anni possibile), ed iniziando ad investire su un ETF azionario globale attraverso un PAC minimo, es. 50€ al mese, oppure ogni mese in cui riesci a risparmiare qualcosa.  
+Ma non è mai troppo tardi, e se hai figli puoi fare una riflessione anche per loro: potresti per esempio aprire un fondo pensione qualunque intestato a loro, anche senza versarci contributi, così intanto maturano l’anzianità di cui sopra - occhio solo al costo annuo di mantenimento anche senza fare movimenti, che sarà probabilmente di qualche decina di euro.
 
 ## Senza perderci
 
-Se ti mette a disagio investire una parte dei tuoi risparmi in strumenti finanziari rischiosi, che possono darti rendimenti elevati sul lungo periodo ma che possono anche bruciare parte del capitale in caso di crisi importanti oppure di una qualche emergenza personale che ti costringesse a disinvestire proprio in un periodo di rendimenti bassi, allora puoi valutare soluzioni a rischio quasi zero che possono almeno contenere l’effetto negativo dell’inflazione, come i conti deposito e gli ETF monetari.  
-E’ il minimo sindacale che va senz’altro usato per tenere la liquidità extra invece del conto corrente, anche se non hai ancora confidenza con questi argomenti o se hai molta paura del rischio.   
-Mentre scrivo (2024) questi strumenti rendono tra il 2% e il 3% annuo lordo, ma in generale questi rendimenti dipendono fortemente dall’andamento del tasso BCE.  
+Se ti mette a disagio investire una parte dei tuoi risparmi in strumenti finanziari rischiosi, che possono darti rendimenti elevati sul lungo periodo ma che possono anche bruciare parte del capitale in caso di crisi importanti oppure di una qualche emergenza personale che ti costringesse a disinvestire proprio in un periodo di rendimenti bassi, allora puoi valutare **soluzioni a rischio quasi zero** che possono almeno contenere l’effetto negativo dell’inflazione, come i **conti deposito** e gli **ETF monetari**.  
+E’ il **minimo sindacale che va senz’altro usato per tenere la liquidità extra invece del conto corrente**, anche se non hai ancora confidenza con questi argomenti o se hai molta paura del rischio.   
+Mentre scrivo (2024) questi strumenti rendono tra il 2% e il 3% annuo lordo, ma in generale questi rendimenti dipendono fortemente dall’andamento del [tasso BCE](https://www.euribor-rates.eu/it/tasso-interesse-bce/).  
 Questi strumenti sono utili anche per parcheggiare i risparmi mentre stai ancora studiando come investirli: l’importante è ottenere un minimo di rendimento, tutto qua. Non ci diventerai ricco, ma almeno non perderai potere d’acquisto.  
 
 **CONCLUSIONI:**  
@@ -72,55 +76,60 @@ Il [rapporto SPIVA](https://www.spglobal.com/spdji/en/research-insights/spiva) (
 Nonostante queste informazioni oggettive, la maggioranza degli investimenti in fondi in Italia è ancora effettuata su fondi attivi (fonte [CONSOB](https://www.consob.it/documents/11973/287812/rf2024.pdf/f6025c22-1683-e191-ea3f-5e1f8acb8e99)): potrebbe essere una conferma del fatto che gli italiani non sono brillanti sul fronte dell’educazione finanziaria (fonte: [Investimi.com](https://investimi.com/educazione-finanziaria-italia/#Confronto_educazione_finanziaria_italiana_e_mondiale)), oppure che sono in tanti a cercare di battere il mercato su scadenze *più brevi* dei 10 anni, oppure che i consulenti finanziari che lavorano nelle banche sono molto bravi a vendere, o un misto di tutte queste cose ed altre ancora, chissà.  
 
 **CONCLUSIONI:**  
-Se il tuo orizzonte è lungo (10+ anni), allora statisticamente hai possibilità di successo di gran lunga migliori se investi in strumenti economici che replicano passivamente degli indici diversificati, che è proprio ciò che fanno gli ETF più grandi, ed evitando i prodotti a gestione attiva con i loro costi.
+Se il tuo orizzonte è lungo (10+ anni), allora statisticamente i dati dicono che hai possibilità di successo di gran lunga migliori se investi in strumenti economici che replicano passivamente degli indici diversificati, che è proprio ciò che fanno gli ETF più grandi, ed evitando i prodotti a gestione attiva con i loro costi.
 
 ## Costi
 
 Investire ha quasi sempre dei costi.  
-Qualunque strumento tu scelga per i tuoi investimenti, devi fare la **massima attenzione ai costi ricorrenti** (es. "*2% annuo di commissione sul capitale investito*"), perché sono quelli che ammazzano i rendimenti, fino ad arrivare ad azzerarli o addirittura a renderli *negativi* nei casi peggiori, dove i rendimenti sono bassi a causa di una allocazione sub-ottimale e/o un periodo storico sfortunato per i mercati, e i costi sono alti perché magari hai investito in un prodotto assicurativo che costa il 3% o 4% all’anno. Eh sì, *rendimenti negativi*, cioè peggio di tenere i soldi nel conto corrente, cose del tipo "investi per 10 anni, e al termine ti restituiranno *meno* soldi di tutti quelli che hai versato"... suona malissimo vero?  
-Esempio reale pratico: il costo medio dei fondi azionari italiani che ti può vendere la banca è del 2% annuo sul capitale investito (fonte: [Banca d’Italia](https://economiapertutti.bancaditalia.it/notizie/parliamo-di-investimenti-c-fondo-e-fondo/)). Per renderti conto dell’impatto devastante sul lungo periodo di questo numeretto apparentemente innocuo *("che sarà mai il 2%?\!")* puoi ad esempio usare un calcolatore online di interesse composto (come [questo](https://extraetf.com/it/calculator/compound-interest)), e confrontare un 5% di rendimento annuo (valore atteso sensato per un portafoglio di ETF) e un 3% (cioè il 5% di cui sopra al quale togli il 2% di costi), sull'orizzonte temporale che più fa al caso tuo (10-15-20 anni, vedi tu \- se ti interessano scadenze inferiori ai 10 anni, allora sei sulla pagina sbagliata): su lunghe scadenze si perdono facilmente (decine di) migliaia di euro. Il rendimento è una sempre una incognita, ma il costo ricorrente è una certezza.  
+Qualunque strumento tu scelga per i tuoi investimenti, devi fare la **massima attenzione ai costi ricorrenti** (es. "*2% annuo di commissione sul capitale investito*"), perché sono quelli che ammazzano i rendimenti, fino ad arrivare ad azzerarli o addirittura a renderli *negativi* nei casi peggiori, dove i rendimenti sono bassi a causa di una allocazione sub-ottimale e/o un periodo storico sfortunato per i mercati, e i costi sono alti perché magari hai investito in un prodotto assicurativo che costa il 3% o 4% all’anno.  
+Eh sì, *rendimenti negativi*, cioè peggio di tenere i soldi nel conto corrente, cose del tipo "investi per 10 anni, e al termine ti restituiranno *meno* soldi di tutti quelli che hai versato"... suona malissimo vero?  
+
+**Esempio reale pratico**: il costo medio dei fondi azionari italiani che ti può vendere la banca è del 2% annuo sul capitale investito (fonte: [Banca d’Italia](https://economiapertutti.bancaditalia.it/notizie/parliamo-di-investimenti-c-fondo-e-fondo/)). Per renderti conto dell’impatto devastante sul lungo periodo di questo numeretto apparentemente innocuo *("che sarà mai il 2%?\!")* puoi ad esempio usare un calcolatore online di interesse composto (come [questo](https://extraetf.com/it/calculator/compound-interest)), e confrontare un 5% di rendimento annuo (valore atteso sensato per un portafoglio di ETF) e un 3% (cioè il 5% di cui sopra al quale togli il 2% di costi), sull'orizzonte temporale che più fa al caso tuo (10-15-20 anni, vedi tu - se ti interessano scadenze inferiori ai 10 anni, allora sei sulla pagina sbagliata): su lunghe scadenze si perdono facilmente (decine di) migliaia di euro. 
+
+Il rendimento è una sempre una incognita, ma il costo ricorrente è una certezza.  
 
 **CONCLUSIONI:**  
-Se hai attualmente dei risparmi investiti in prodotti diversi dagli ETF, allora è una buona idea prendere i prospetti informativi di quello che hai comprato, guardare i capitoli sui rendimenti attesi ma soprattutto sui costi, e fare qualche conto.   
+Se hai attualmente dei risparmi investiti in prodotti diversi dagli ETF, allora è una buona idea prendere i prospetti informativi di quello che hai comprato, guardare i capitoli sui rendimenti attesi ma soprattutto sui costi, e fare qualche conto.  
 Io l’ho fatto, e ho maledetto la pigrizia e l’ignoranza che qualche anno fa mi hanno fatto sottoscrivere "sulla fiducia" un paio di prodotti costosi a gestione attiva, dalle performance davvero scarse, meno del 2% lordo di rendimento annuo: scegliendo un classico ETF azionario globale (la prima scelta che facciamo un po’ tutti), con gli interessi che ci sono stati negli stessi anni, avrei guadagnato più del quadruplo.
 
 ## Fondo di emergenza
 
 C'è questo approccio piuttosto diffuso e che trovo sensato per investire molto più serenamente.  
-Preso atto che i risparmi vanno investiti SEMPRE (come minimo per contrastare l’inflazione), e che l'investimento va mantenuto per tanti anni senza disinvestire affinché l’interesse composto possa produrre il massimo risultato e la volatilità si riduca, è bene disporre di un gruzzoletto che al contrario possa essere usato in qualunque momento senza intaccare il capitale investito, per coprire eventuali emergenze impreviste (es. cure mediche, riparazioni casa/auto, perdita del lavoro provvisoria e relativa mancanza di stipendio per qualche mese).  
+Preso atto che i risparmi vanno investiti SEMPRE (come minimo per contrastare l’inflazione), e che l'investimento va mantenuto per tanti anni senza disinvestire affinché l’interesse composto possa produrre il massimo risultato e la volatilità si riduca, è bene disporre di **un gruzzoletto che possa essere usato in qualunque momento senza intaccare il capitale investito**, per coprire eventuali emergenze impreviste (es. cure mediche, riparazioni casa/auto, perdita del lavoro provvisoria e relativa mancanza di stipendio per qualche mese).  
 Quindi prima di investire si può riempire un "fondo di emergenza" con una quantità di soldi che ci lasci sereni, es. 5-7-10 stipendi, decidi tu, e che andranno prelevati in caso di necessità prima di toccare il portafoglio investito a lungo termine (che comunque se è costituito di ETF "grandi" è disinvestibile all’istante, quindi in qualunque caso i tuoi soldi tornano nel tuo conto corrente nel tempo di un bonifico).  
 Uno strumento adeguato nel 2024 per ospitare un FdE è il **conto deposito**:
 
 * sicuro (perché tutelato dal [FITD](https://www.fitd.it/) fino a 100k€ di giacenza, come i conti correnti)  
 * puoi riportare i soldi nel tuo conto corrente subito (con i tempi di un bonifico)  
-* rende un minimo, 3% lordo circa mentre scrivo, che almeno mantiene il valore reale dei tuoi soldi nel tempo \- a differenza del conto corrente che ti dà lo 0% di interessi.
+* rende un minimo, 3% lordo circa mentre scrivo, che almeno mantiene il valore reale dei tuoi soldi nel tempo - a differenza del conto corrente che ti dà lo 0% di interessi.
 
-Per un confronto sui vari conti deposito disponibili nel momento in cui stai leggendo, puoi usare [Deposifire.com](https://deposifire.com/) oppure l’Excel disponibile nel [forum di FinanzaOnLine](https://forum.finanzaonline.com/forums/banking-carte-di-credito-conti-deposito-e-corren.7/).   
+Per un confronto sui vari conti deposito disponibili nel momento in cui stai leggendo, puoi usare [Deposifire.com](https://deposifire.com/) oppure il foglio di calcolo disponibile nel [forum di FinanzaOnLine](https://forum.finanzaonline.com/forums/banking-carte-di-credito-conti-deposito-e-corren.7/).   
 Evita i conti deposito "non svincolabili" oppure quelli che svincolano i soldi dopo 30gg dalla richiesta: si chiama "fondo di emergenza" proprio perché deve aiutare nelle emergenze, che in quanto tali non possono aspettare.  
 Un’altra scelta possibile è un **ETF monetario europeo** (mentre scrivo il più usato è XEON), che può rendere qualcosa di più del CD:
 
 * rendimento certo, regolare, e quotidiano  
 * costi bassissimi  
 * molto liquido (cioè le quote si vendono istantaneamente)  
-* i rendimenti sono tassati poco più del 12,5% (perché nel sottostante ci sono quasi solo titoli di stato europei), contro il 26% del conto deposito.
+* i rendimenti sono tassati poco più del 12,5% (perché nel sottostante ci sono quasi esclusivamente titoli di stato europei), contro il 26% del conto deposito.
 
 Più in generale lo strumento da scegliere cambia a seconda del momento storico (in particolare a seconda del costo del denaro deciso dalla BCE): ci sono stati anni in cui gli interessi dei conti deposito erano vicinissimi allo 0%, per cui andava bene anche tenere il fondo di emergenza direttamente nel conto corrente.  
 
 **CONCLUSIONI:**  
-Imposta il tuo FdE con lo strumento che ritieni più adatto, riempilo, e lascialo pieno come fosse un salvadanaio da non aprire "mai". Quando avrai sistemato il FdE, potrai pensare a come investire gli ulteriori risparmi.
+Imposta il tuo FdE con lo strumento che ritieni più adatto, riempilo, e lascialo pieno come fosse un salvadanaio da rompere solo in casi di emergenza appunto. Quando avrai sistemato il FdE, potrai pensare a come investire gli ulteriori risparmi.
 
 ## Rischio
 
 C'è una informazione che mi ha fatto cambiare radicalmente il punto di vista sul tema "rischio": il mercato azionario, cioè "quello rischioso" del quale avevo sempre pensato "*non mi fido, meglio evitare*", per investimenti sufficientemente lunghi (15+ anni) e diversificati raramente ha fatto perdere soldi nella storia. Si supera il 90% di risultati positivi quando si superano i 20 anni di investimento sul classico indice S\&P500 americano.  
-E questo nonostante crisi di Wall Street del 1929, due guerre mondiali, Internet bubble del 2001, crisi dei mutui subprime del 2008, Covid \- tutti eventi che hanno causato importanti flessioni negative nei mercati, ma non sufficienti a trascinare sotto zero le performance di lungo periodo, per chi non ha disinvestito in preda al panico.  
-Quindi ovviamente *investire è rischiare*, ma un conto è "investire in 4 azioni per 3 anni", e un altro è "investire in un PAC su un ETF azionario globale per 20 anni": più l'orizzonte è lungo più questo rischio si abbassa, proprio su quegli asset che tipicamente rendono di più, cioè le azioni, che sul lungo periodo e diversificando su più titoli (come fanno gli ETF) mostrano un andamento sempre positivo.  
+E questo nonostante crisi di Wall Street del 1929, due guerre mondiali, Internet bubble del 2001, crisi dei mutui subprime del 2008, Covid - tutti eventi che hanno causato importanti flessioni negative nei mercati, ma non sufficienti a trascinare sotto zero le performance di lungo periodo, per chi non ha disinvestito in preda al panico.  
+Quindi ovviamente *investire è rischiare*, ma un conto è "investire in 4 azioni per 2 anni", e un altro è "investire in un PAC su un ETF azionario globale per 20 anni": più l'orizzonte è lungo più questo rischio si abbassa, proprio su quegli asset che tipicamente rendono di più, cioè le azioni, che sul lungo periodo e diversificando su più titoli (come fanno gli ETF) mostrano un andamento sempre crescente.  
 A tutto ciò si aggiunge anche il fatto che noi comuni mortali non investiamo tutto subito all'inizio, ma facciamo un PAC (Piano di Accumulo Capitale) cioè spalmiamo l'investimento su più contributi periodici, es. una volta ogni 1-3-6 mesi, e questo approccio diminuisce ulteriormente la volatilità media e quindi il rischio di perdere soldi.  
+
 Su questo tema fondamentale, sono interessanti per esempio questi articoli de [Il Sole 24 Ore](https://www.econopoly.ilsole24ore.com/2017/01/25/investire-in-azioni-ma-quanto-e-lungo-il-lungo-periodo/) e di  
 [Leonardo Poggi](https://poggileonardo.com/2020/03/i-rendimenti-storici-del-mercato-azionario/).
 
 **CONCLUSIONI:**  
 Sistema il tuo Fondo di emergenza prima di tutto, poi decidi quanti anni deve durare il tuo investimento, e in base a questa scadenza imposta la tua asset allocation.  
-Studia qualche allocazione semplice e classica con un paio di ETF per iniziare, oppure fatti un’idea dei portafogli "classici" più semplici su [lazyportfolioetf.com](http://lazyportfolioetf.com), come il 60/40, il Permanent, il Golden Butterfly, e mettili a confronto.
+Studia qualche allocazione semplice con un paio di ETF per iniziare, oppure fatti un’idea dei portafogli "classici" più semplici su [lazyportfolioetf.com](http://lazyportfolioetf.com), come il 60/40, il Permanent Portfolio, il Golden Butterfly, e mettili a confronto.
 
 ## Assicurazioni
 
@@ -135,22 +144,24 @@ Oltre al fondo di emergenza, è possibile valutare alcune tutele specifiche, ad 
 ## INPS
 
 Se sei un lavoratore dipendente, allora vai sul [sito dell'INPS](http://www.inps.it) e usa la ricerca in alto per trovare la pagina "**La mia pensione futura**", oppure eccoti la [ricerca Google già fatta](https://www.google.com/search?q=la+mia+pensione+futura).  
-È bene che tu scopra quanto ti manca alla pensione, e quanto riceverai ogni mese dallo Stato, cioè il cosiddetto "tasso di sostituzione": è la stima di quanti soldi prenderai di pensione dall’INPS rispetto al tuo ultimo stipendio presunto, e valori tipici per i dipendenti italiani previsti per il 2050 sembra siano attorno al 60%, a peggiorare negli anni seguenti.  
-Significa che, se non provvedi ad integrare la pensione INPS con qualcosa in più, appena andrai in pensione i tuoi introiti mensili saranno poco più di *metà* del mese prima, quando stavi per salutare i colleghi.  
+È bene che tu scopra quanto ti manca alla pensione, e **quanto riceverai ogni mese dallo Stato**, cioè il cosiddetto "tasso di sostituzione": è la stima di quanti soldi prenderai di pensione dall’INPS rispetto al tuo ultimo stipendio presunto, e valori tipici per i dipendenti italiani previsti per il 2050 sembra siano attorno al 60%, a peggiorare negli anni seguenti.  
+Significa che, se non provvedi ad integrare la pensione INPS con qualcosa in più, appena andrai in pensione i tuoi introiti mensili saranno poco più di *metà* di quanto percepivi come stipendio il mese prima, quando stavi per salutare i colleghi.  
 Da queste considerazioni, ho deciso che integrare la pensione è l’obiettivo principale che mi sono dato, nella gestione delle mie finanze.  
 Fai le tue valutazioni ovviamente perché ogni caso è diverso: ad esempio potresti avere un mutuo oggi che chiuderai prima della pensione, e questo ovviamente cambia molto le valutazioni sulle spese mensili che avrai durante la pensione.
 
 ## Fondo pensione
 
 Se hai risparmi che avanzano, potresti domandarti se è meglio investirli in ETF oppure in un fondo pensione, versandoci un contributo aggiuntivo volontario più consistente.  
-Le due opzioni sono più simili di quanto sembrino a prima vista, perché in entrambi i casi i tuoi soldi vengono investiti nei mercati finanziari per molti anni; ma ci sono dei vantaggi diversi in ciascuno dei due strumenti.
+Taglio la testa al toro e ti dò subito la risposta che mi sembra mettere d'accordo tanti divulgatori: la soluzione migliore mediamente sembra essere quella di sfruttare contributo datoriale e deduzioni del fondo pensione fino al massimo annuo di 5164€ e spicci, e investire l'eventuale eccedenza in ETF, perché così l'anno seguente si avrà una deduzione importante (che a sua volta potrà essere investita in ETF).
+
+Ci sono dei vantaggi diversi in ciascuno dei due strumenti.
 
 * VANTAGGI INVESTIMENTO ETF:  
   * **Più libertà:** Sei 100% libero di decidere quando, quanto, e su quali strumenti investire/disinvestire, mentre il fondo pensione è per sua natura più vincolato, anche su tempi e modalità di accesso al proprio capitale.  
-  * **Meno costi ricorrenti:** L’investimento in ETF ha costi ricorrenti spesso inferiori rispetto ai FP (trovi i costi degli ETF su JustETF, e dei FP sul sito COVIP \- vedi capitolo "Strumenti" in questa pagina).  
+  * **Meno costi ricorrenti:** L’investimento in ETF ha costi ricorrenti spesso inferiori rispetto ai FP (trovi i costi degli ETF su JustETF, e dei FP sul sito COVIP - vedi capitolo "Strumenti" in questa pagina).  
   * **Migliori rendimenti attesi:** Con un portafoglio di ETF sensato è probabile ottenere sul lungo periodo rendimenti più alti rispetto ai fondi pensione. Vedi anche capitolo "SPIVA".  
 * VANTAGGI PRINCIPALI DEI FONDI PENSIONE:  
-  * **Contributo datoriale**: se destini il TFR ad un fondo pensione negoziale (FPN) (anche detto "chiuso" o "di categoria"), e ci aggiungi un piccolo contributo volontario (circa 1-2% della tua busta paga ogni mese \- dipende dal tuo CCNL di riferimento) allora ottieni un contributo extra da parte del tuo datore ogni mese (circa un altro 1-2% \- dipende sempre dal tuo CCNL di riferimento). Potrebbero essere ad esempio attorno ai 50€/mese regalati, che moltiplicando per 12 mesi per 40 anni di lavoro saranno diventati 24.000€, che essendo stati investiti dal fondo saranno diventati qualcosa di più \- fai qualche "conto della serva" [qui](https://extraetf.com/it/calculator/saving-plan), mettendo come durata gli anni che ti mancano dalla pensione, e come tasso di interesse annuo un prudente 2%.  
+  * **Contributo datoriale**: se destini il TFR ad un fondo pensione negoziale (FPN) (anche detto "chiuso" o "di categoria"), e ci aggiungi un piccolo contributo volontario (circa 1-2% della tua busta paga ogni mese - dipende dal tuo CCNL di riferimento) allora ottieni un contributo extra da parte del tuo datore ogni mese (circa un altro 1-2% - dipende sempre dal tuo CCNL di riferimento). Potrebbero essere ad esempio attorno ai 50€/mese regalati, che moltiplicando per 12 mesi per 40 anni di lavoro saranno diventati 24.000€, che essendo stati investiti dal fondo saranno diventati qualcosa di più - fai qualche "conto della serva" [qui](https://extraetf.com/it/calculator/saving-plan), mettendo come durata gli anni che ti mancano dalla pensione, e come tasso di interesse annuo un prudente 2%.  
   * **Deduzioni**: fino a max 5164€/anno versati in fondi pensione si possono dedurre dal tuo imponibile nella dichiarazione dei redditi. Contribuiscono al conteggio dei 5164€/anno anche i contributi volontari e quelli del datore di lavoro, ma non il TFR. Il vantaggio fiscale che ottieni è circa proporzionale alla tua aliquota IRPEF, quindi se versi 5164€ nel tuo FP ti trovi a spanne tra i 1000€ e i 2000€ di tasse in meno da pagare il mese dopo aver presentato il 730\.
 
 **CONCLUSIONI:**  
@@ -177,7 +188,7 @@ PRO:
 CONTRO:
 
 * I costi ricorrenti: MF si trattiene ogni anno l’1% del capitale che hai investito, in aggiunta al TER degli ETF nel portafoglio.  
-* Troppi ribilanciamenti: in generale è meglio vendere quote il meno spesso possibile, così da lasciare che le plusvalenze continuino a maturare interessi; invece MoneyFarm ribilancia anche vendendo, e un po' troppo spesso \- mi viene il sospetto che serva a loro anche per giustificare le commissioni, perché se la allocazione rimanesse la stessa per troppo tempo qualcuno si potrebbe chiedere per cosa sta pagando quell’1% aggiuntivo rispetto agli ETF sottostanti.
+* Troppi ribilanciamenti: in generale è meglio vendere quote il meno spesso possibile, così da lasciare che le plusvalenze continuino a maturare interessi; invece MoneyFarm ribilancia anche vendendo, e un po' troppo spesso - mi viene il sospetto che serva a loro anche per giustificare le commissioni, perché se la allocazione rimanesse la stessa per troppo tempo qualcuno si potrebbe chiedere per cosa sta pagando quell’1% aggiuntivo rispetto agli ETF sottostanti.
 
 **CONCLUSIONI:**  
 Piuttosto che spendere il 2% di commissioni con i fondi delle banche o tenere i soldi fermi in conto corrente, se proprio non vuoi pensare a nulla, allora meglio MoneyFarm: almeno la commissione è limitata all’1%, che non è poco, ma può avere senso per delegare completamente la gestione.  
@@ -201,7 +212,7 @@ A parte la solita ovvia premessa "ognuno ha una situazione diversa, non esiste u
 
 * **UN SOLO ETF**, LA SCELTA SEMPLICE  
   Se non sai da dove partire, e sicuramente se hai davanti più di vent'anni di tempo per il tuo investimento, allora un singolo ETF azionario globale dei più noti può essere una scelta appropriata per iniziare subito il tuo PAC, piuttosto che stare fermo in attesa di decidere diversamente.  
-  Cerca il modo di dire "VWCE and chill" per iniziare a informarti \- ma in generale ci sono tante scelte che più o meno si equivalgono come risultati attesi.
+  Cerca il modo di dire "VWCE and chill" per iniziare a informarti - ma in generale ci sono tante scelte che più o meno si equivalgono come risultati attesi.
 
 * **DUE ETF**, RIDUCI LA VOLATILITA’  
   Non tutti sono d’accordo con gli approcci "*and chill*": ad esempio [qui](https://curvo.eu/it/articolo/perche-non-vwce-and-chill) si parla di come abbassare la volatilità del portafoglio affiancando al VWCE un ETF obbligazionario (ovviamente rinunciando ad una parte dei rendimenti attesi, che è quasi sempre l’altra faccia della medaglia).   
@@ -217,7 +228,7 @@ A parte la solita ovvia premessa "ognuno ha una situazione diversa, non esiste u
 **CONCLUSIONI:**  
 La composizione del tuo portafoglio probabilmente sarà un’attività che ti porterà via un po’ di tempo, e anche quella più ricca di dubbi: nel momento in cui starai per fare il tuo primo click su "Acquista" capirai cosa intendo.  
 Potresti trovare tutto ciò stimolante e dedicarci ore di backtest e di ricerche, tuttavia non vale la pena di "spaccare il capello in quattro" fino a quando non avrai investito cifre consistenti: è molto più importante iniziare al più presto con una impostazione semplice e perseverare a lungo, senza disinvestire e anzi continuando a versare regolarmente, soprattutto durante le crisi dei mercati.  
-Potrai sempre modificare le tue scelte in corso d’opera quando ti sarai informato meglio, anche tra qualche anno \- oppure potrai anche tenere tutto com’è e continuare a investire sempre nello stesso portafoglio.
+Potrai sempre modificare le tue scelte in corso d’opera quando ti sarai informato meglio, anche tra qualche anno - oppure potrai anche tenere tutto com’è e continuare a investire sempre nello stesso portafoglio.
 
 ## Consulenti finanziari indipendenti
 
@@ -230,7 +241,7 @@ Utile per accertarsi che la persona che vuoi ingaggiare sia davvero un consulent
 
 [IoInvesto](https://www.ioinvesto.net)  
 [Futura SCF](https://www.futurascf.it)
-Queste sono due società che si occupano di consulenza finanziaria indipendente \- ma ce ne sono tante altre.  
+Queste sono due società che si occupano di consulenza finanziaria indipendente - ma ce ne sono tante altre.  
 La prima chiamata per analizzare la propria situazione è gratuita.  
 Magari un giorno provo.
 
@@ -376,13 +387,13 @@ Dopo aver impostato tutto come descritto sopra, ogni mese dopo l’accredito del
 1. **CONTO CORRENTE**: Porto il saldo del CC al "livello comfort", cioè una cifra che mi consenta di fare le mie spese mensili (casa bollette supermercato abbonamenti carburante assicurazioni eccetera) e di avere un buffer aggiuntivo per eventuali necessità extra: una giacenza media sempre inferiore ai 5000€ mi è molto più che sufficiente, e tra l’altro fa risparmiare i 34€ del bollo annuale sul CC (fonte: [Ministero dell'Economia e delle Finanze](https://www.dt.mef.gov.it/it/news/2012/nuove_disposizioni_bollo_titoli.html)).   
    Se dopo l’accredito dello stipendio il saldo del CC è inferiore al "livello comfort", allora per questo mese mi fermo qui e non proseguo con le operazioni descritte di seguito; se invece è superiore, allora uso l’eccedenza per il passaggio seguente.
 
-2. **FONDO DI EMERGENZA**: Con l’eccedenza in arrivo dal CC, porto il saldo del FdE verso il "livello comfort", che nel mio caso ho deciso essere pari a 6 stipendi: giudico questa una somma sufficiente a coprire le spese più consistenti che potrebbero capitarmi \- ferie, arredamenti, dentista, grandi riparazioni… cose così.  
+2. **FONDO DI EMERGENZA**: Con l’eccedenza in arrivo dal CC, porto il saldo del FdE verso il "livello comfort", che nel mio caso ho deciso essere pari a 6 stipendi: giudico questa una somma sufficiente a coprire le spese più consistenti che potrebbero capitarmi - ferie, arredamenti, dentista, grandi riparazioni… cose così.  
    Se il saldo del FdE è inferiore al "livello comfort", allora per questo mese mi fermo qui e non proseguo con le operazioni descritte di seguito; se invece diventasse superiore, allora verso solo la parte necessaria ad andare a livello e uso l’eccedenza per il passaggio seguente.
 
 3. **FONDO PENSIONE**: Verso l’eccedenza residua nel mio FP, verificando di rimanere sempre sotto la soglia di max 5164€/anno (da calcolare sempre tenendo conto anche dei contributi volontario \+ datoriale nel FPN calcolati sull'intero anno in corso), così da godere del massimo vantaggio fiscale ed avere una parte importante di risparmi investita.  
   Se ho già raggiunto i 5164€/anno di versamenti nel FP, allora non ci verso più nulla per l’anno corrente, e uso l’eccedenza per il passaggio seguente.
 
-4. **ETF**: Verso l’eccedenza residua nel mio conto titoli, e la uso per acquistare quote degli ETF in portafoglio in modo tale da ribilanciare senza vendere quote, così da minimizzare le commissioni sulle operazioni \- anzi le azzero, dato che ho scelto tutti ETF che sono senza commissioni di acquisto nel PAC Directa. Ho un foglio di calcolo che mi calcola gli importi da acquistare in base al prezzo attuale degli ETF (che si aggiorna online automaticamente), agli attuali controvalori degli ETF posseduti, e alla mia allocazione obiettivo.
+4. **ETF**: Verso l’eccedenza residua nel mio conto titoli, e la uso per acquistare quote degli ETF in portafoglio in modo tale da ribilanciare senza vendere quote, così da minimizzare le commissioni sulle operazioni - anzi le azzero, dato che ho scelto tutti ETF che sono senza commissioni di acquisto nel PAC Directa. Ho un foglio di calcolo che mi calcola gli importi da acquistare in base al prezzo attuale degli ETF (che si aggiorna online automaticamente), agli attuali controvalori degli ETF posseduti, e alla mia allocazione obiettivo.
 
 Al netto del tempo dedicato ad informarmi, e una volta aperto CD, FP e conto titoli, oggi questa gestione mi occupa indicativamente un quarto d'ora al mese: il tempo di verificare i saldi nelle app, ripetere un bonifico del mese precedente cambiando solo l'importo, e impostare il prossimo investimento del PAC Directa in modo che vengano acquistati gli importi corretti degli ETF che ho a portafoglio.
 
