@@ -193,7 +193,7 @@ params.icon = "brand-instagram"
 
 [[menu.social]]
 identifier = "youtube"
-name = "Youtube"
+name = "YouTube"
 url = "http://youtube.com/RaffaeleBianco"
 params.icon = "brand-youtube"
 
@@ -201,7 +201,7 @@ params.icon = "brand-youtube"
 identifier = "ytmusic"
 name = "YouTube Music"
 url = "http://music.youtube.com/channel/UCMwsz2fHAaRfeoezKfp0I0g"
-params.icon = "player-play"
+params.icon = "youtube-music"
 
 [[menu.social]]
 identifier = "linkedin"

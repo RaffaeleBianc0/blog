@@ -1,5 +1,5 @@
 ---
-title: "Storia di questo sito web"
+title: "Storia di questo blog"
 date: "2025-11-15"
 categories: 
   - "tecnologia"
