@@ -14,6 +14,8 @@ menu:
             icon: info-circle
 ---
 
+![Raffaele Bianco](assets/img/avatar-colori.png)
+
 Benvenuto nel mio blog, che esiste perché ogni tanto mi viene voglia di scrivere, di solito per prendere nota di qualcosa che ho fatto o che mi è piaciuta. 
 
 Ci trovi anche quasi tutta la musica che ho registrato con la batteria, con il basso, con la chitarra o con il PC.
