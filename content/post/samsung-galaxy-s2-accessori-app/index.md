@@ -8,7 +8,7 @@ tags:
 image: "images/s2.jpg"
 ---
 
-## Accessori
+# Accessori
 
 Se vi può essere utile, quanto segue lo ho visto su [www.DX.com](http://www.dx.com/), sito cinese dal quale ho già fatto almeno una ventina di acquisti, con prezzi bassi, spedizione gratuita (ma lentissima! fino a un paio di mesi), e qualità... made in China. ;-)
 
@@ -18,7 +18,7 @@ Se vi può essere utile, quanto segue lo ho visto su [www.DX.com](http://www.dx.
 
 Nello stesso sito si trovano poi custodie in similpelle, plastica, silicone, metallo, e poi batterie a durata estesa con cover posteriore sostitutiva (perché sono più spesse dell'originale), cavetti, caricabatterie da muro, caricabatterie da accendisigari auto, supporti per auto con ventosa, eccetera eccetera eccetera.
 
-## App interessanti al momento
+# App interessanti al momento
 
 - **CamScanner**: fotografi un documento, anche "da inclinato", e l'app raddrizza la scansione, migliora i livelli (il bianco e il nero diventano contrastati come si deve), crea il PDF, e con 2 click puoi mandarlo via email o archiviarlo online. Utile per fotografare gli scontrini per la nota spese. ;-)
 - **Google Goggles**: ricerche su Google partendo da una FOTO, invece che da un TESTO scritto... da provare!
@@ -32,7 +32,7 @@ Nello stesso sito si trovano poi custodie in similpelle, plastica, silicone, met
 - **AllMyTv** e **TuneIn Radio**, per guardare la TV e ascoltare la radio in streaming. Oltre alle nostre TV e radio, ci sono decine di emittenti straniere.
 - **iSlash**, fa parte di quei giochini banali per partite veloci, ma "addictive" come pochi secondo me.
 
-## Note varie
+# Note varie
 
 - Tenere premuto il tasto "home" e subito dopo anche il tasto di accensione per fare uno screenshot.
 - Usare il PC per installare le app sul telefono: basta cercarle su http://play.google.com e cliccare \[Installa\].

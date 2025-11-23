@@ -19,11 +19,12 @@ image: "images/finanza-personale.jpg"
 
 # Cosa c’è qui
 
-Ogni paragrafo è una "pillola" sul tema della finanza personale, un micro-riassunto di qualcosa che ho imparato, senza la pretesa di insegnare nulla a nessuno, né di essere esaustivo.  
-A metà 2024 mi è presa la scimmia per queste cose e parlandone con qualche amico ho pensato che una paginetta come questa potrebbe dare qualche input utile a chi, come me fino a "ieri", non si è mai interessato più di tanto ai propri risparmi.  
-E’ rimasta "work in progress" per molti mesi, un po’ per paura che ci fossero errori, o che alla fine non aggiungesse nulla a quanto già esiste online. Però poi ho pensato che, se avessi trovato io anni fa un punto di partenza come questo, sintetico, con qualche idea e qualche link per approfondire, mi sarebbe servito parecchio.  
-E allora eccoci qua! Magari sei qui perché ne abbiamo parlato e ti ho mandato il link.  
-Non troverai suggerimenti di investimento o di acquisto o altro spam molesto, quelle sono cose per professionisti, invece io qui condivido soltanto qualche appunto.
+Ogni paragrafo è una "pillola" sul tema della finanza personale, un **micro-riassunto di qualcosa che ho imparato**, senza la pretesa di insegnare nulla a nessuno né di essere esaustivo.  
+A metà 2024 mi è presa la scimmia per queste cose e ho cominciato a studiare il tema e a mettere da parte qualche appunto in un Google Document.
+Parlandone con qualche amico ho pensato che **questi appunti sarebbero forse stati utili a chi, come me fino a "ieri", non si è mai interessato più di tanto ai propri risparmi**.  
+L'idea di convertirli in questa pagina è rimasta "work in progress" per molti mesi, un po’ per paura che ci fossero errori, o che alla fine non aggiungesse nulla a quanto già esiste online. Poi però su insistente e gradito sollecito di un paio di persone ho preso coraggio e ho messo tutto online.
+Magari sei qui perché ne abbiamo parlato e ti ho mandato il link.  
+**Non troverai suggerimenti di investimento o di acquisto o altro spam molesto**, quelle sono cose per professionisti, invece io qui condivido soltanto quello che ho capito, e anche che scelte ho fatto per la mia situazione.  
 
 
 
@@ -31,7 +32,7 @@ Non troverai suggerimenti di investimento o di acquisto o altro spam molesto, qu
 
 ## Il trading non c'entra
 
-La finanza personale non è "giocare in borsa", come ho sentito dire tante volte.  
+**La finanza personale non è "giocare in borsa"**, come ho sentito dire tante volte.  
 Sono temi adiacenti perché alla fine bisogna comunque avere a che fare con i mercati finanziari, ma con due approcci che penso siano l’uno l’opposto dell’altro:
 
 * **Finanza personale** \= pianificazione, investimento, lungo periodo, rischio basso, necessaria a tutti, se non ci pensi stai facendo la cosa sbagliata.  
@@ -39,26 +40,27 @@ Sono temi adiacenti perché alla fine bisogna comunque avere a che fare con i me
 
 ## Inflazione
 
-"*Se hai dei soldi allora stai già investendo*".  
+**"*Se hai dei soldi allora stai già investendo*".**  
 La ho letta da qualche parte, e mi pare davvero molto azzeccata.  
 
-Tenere i risparmi fermi "sotto al materasso" o nel conto corrente **è una scelta di investimento**, probabilmente inconsapevole, ma comunque una scelta: stai investendo in un prodotto che ti garantisce una **perdita** regolare di potere d’acquisto, che è proprio l’inflazione, una perdita certo **piccola ma sicura al 100%**, e più soldi hai fermi più stai perdendo valore.  
-Per esempio, negli ultimi 30 anni il potere di acquisto dei soldi in Italia si è dimezzato, cioè se hai messo via una cifra 30 anni fa senza investirla, oggi ci compri circa metà cose: puoi verificarlo guardando i dati storici ufficiali [pubblicati dall’ISTAT](https://rivaluta.istat.it).  
+Tenere i risparmi fermi "sotto al materasso" o nel conto corrente **è una scelta di investimento**, probabilmente inconsapevole, ma comunque una scelta, che ti garantisce una **perdita** di potere d’acquisto, che è proprio l’inflazione, **piccola ma regolare e sicura al 100%**, e più soldi hai fermi più stai perdendo valore.  
+Per esempio, **negli ultimi 30 anni il potere di acquisto dei soldi in Italia si è dimezzato**, cioè se hai messo via una cifra 30 anni fa senza investirla, *"contanti belli al sicuro in cassaforte"*, oggi ci compri circa metà cose: puoi verificarlo guardando i dati storici ufficiali [pubblicati dall’ISTAT](https://rivaluta.istat.it).  
 
-Ah, non c’entra l’entrata in vigore dell’Euro nel 2002, come pensano in molti: l’inflazione infatti non ha subìto particolari modifiche prima durante e dopo il passaggio Lira-Euro (addirittura il primo anno con inflazione più alta di quella del 1995 è stato il 2022), e se ti ricordi aumenti di prezzo spropositati, si è trattato solo dei negozianti al dettaglio che facevano i furbetti approfittando del momento storico per arrotondamenti e aumenti creativi che si percepivano soprattutto nei piccoli importi, ma che non sono certo quelli che spostano il budget familiare a differenza di mutuo, affitto, automobile, finanziamenti, vacanze.
+Per inciso, **l’entrata in vigore dell’Euro nel 2002 non ha comportato alcun aumento dei prezzi significativo**, come invece pensano in molti: l’inflazione infatti non ha subìto particolari variazioni prima durante e dopo il passaggio Lira-Euro, addirittura il primo anno con inflazione più alta di quella del 1995 è stato il 2022.  
+Se ti ricordi aumenti di prezzo spropositati, si è trattato solo dei negozianti al dettaglio che facevano i furbetti approfittando del momento storico per arrotondamenti e aumenti creativi, che si percepivano soprattutto nei piccoli importi, ma che non sono certo quelli che spostano il budget familiare - a differenza di mutuo, affitto, automobile, finanziamenti, vacanze.
 
-## Inizia adesso
+## Interesse composto
 
-Ci sono questi fattori che danno tanto più beneficio quanto più tempo c’è a disposizione:
-
-* **Interesse composto** ("*compounding*" per dirlo con una sola parola, "rendimento sul rendimento" per dirlo con tre). Devi fare qualche esperimento per renderti conto di quanto possa impattare sulla lunga distanza, ad esempio [sul sito della Banca D’Italia](https://economiapertutti.bancaditalia.it/calcolatori/calcolatore-dell-interesse). Come tasso di interesse puoi inserire il 5%, che è un valore prudente di interesse annuo lordo medio atteso per investimenti sensati sul lungo periodo, che puoi usare per fare qualche simulazione.  
+L'interesse composto ("*compounding*" per dirlo con una sola parola, "rendimento sul rendimento" per dirlo con tre) è **il motivo principale per cui è importante iniziare il prima possibile ad investire** i propri risparmi.  
+Devi fare qualche esperimento per renderti conto di quanto possa impattare sulla lunga distanza, ad esempio [sul sito della Banca D’Italia](https://economiapertutti.bancaditalia.it/calcolatori/calcolatore-dell-interesse). Come tasso di interesse puoi inserire il 5%, che è un valore prudente di interesse annuo lordo medio atteso per investimenti sensati sul lungo periodo, che puoi usare per fare qualche simulazione.  
 Il compounding ha impatto positivo sui rendimenti, e invece mostra il suo impatto *negativo* quando si parla di costi percentuali ricorrenti: un "*costo del 2% annuo sul capitale in gestione*" è un potente campanello d’allarme.  
 
-* **Vantaggi fiscali crescenti nel tempo** dei fondi pensione: dopo i 15 anni di permanenza in fondi pensione, le tasse che pagherai al riscatto cominciano a scendere dello 0,3% all’anno: 15% se avrai 1-15 anni di contribuzione, 14,7% se avrai 16 anni di contribuzione, eccetera fino ad arrivare al 9% (la soglia minima) per 35 anni o più di contribuzione, che è quasi l’intera carriera lavorativa, quando il tuo capitale versato nel fondo pensione avrà raggiunto il suo massimo e godrà del massimo vantaggio fiscale.
-
 **CONCLUSIONI:**  
-L'ideale è **impostare la propria pianificazione finanziaria già all'arrivo dei primissimi stipendi**, come minimo aprendo un fondo pensione appena puoi (al limite anche *senza* metterci dentro soldi, l’importante è che la posizione resti aperta quanti più anni possibile), ed iniziando ad investire su un ETF azionario globale attraverso un PAC minimo, es. 50€ al mese, oppure ogni mese in cui riesci a risparmiare qualcosa.  
-Ma non è mai troppo tardi, e se hai figli puoi fare una riflessione anche per loro: potresti per esempio aprire un fondo pensione qualunque intestato a loro, anche senza versarci contributi, così intanto maturano l’anzianità di cui sopra - occhio solo al costo annuo di mantenimento anche senza fare movimenti, che sarà probabilmente di qualche decina di euro.
+Se ti avanzano dei soldi a fine mese, allora puoi già iniziare ad investire, qualunque età tu abbia.  
+Orizzonte temporale lungo, uno strumento diversificato, poco costoso e dall'andamento storicamente positivo, e non sbagli.  
+La valutazione può includere il [fondo pensione](#fondo-pensione) e gli [ETF](#gli-etf).
+
+
 
 ## Senza perderci
 
@@ -131,6 +133,8 @@ Su questo tema fondamentale, sono interessanti per esempio questi articoli de [I
 Sistema il tuo Fondo di emergenza prima di tutto, poi decidi quanti anni deve durare il tuo investimento, e in base a questa scadenza imposta la tua asset allocation.  
 Studia qualche allocazione semplice con un paio di ETF per iniziare, oppure fatti un’idea dei portafogli "classici" più semplici su [lazyportfolioetf.com](http://lazyportfolioetf.com), come il 60/40, il Permanent Portfolio, il Golden Butterfly, e mettili a confronto.
 
+
+
 ## Assicurazioni
 
 E' un tema forse un po' collaterale rispetto agli investimenti veri e propri, ma da un certo punto di vista anche questi sono soldi da "investire" con lo scopo di ottenerne in ritorno, anche se solo in circostanze ben determinate che speriamo non debbano verificarsi.  
@@ -141,6 +145,8 @@ Oltre al fondo di emergenza, è possibile valutare alcune tutele specifiche, ad 
 * **polizza responsabilità civile**: attorno ai 25€/mese per coprire qualche casistica relativa a danni fatti ad altri.  
 * **polizza LTC (Long Term Care)**: questa è più costosa, e copre di solito la non-autosufficienza che potrebbe verificarsi in tarda età.
 
+
+
 ## INPS
 
 Se sei un lavoratore dipendente, allora vai sul [sito dell'INPS](http://www.inps.it) e usa la ricerca in alto per trovare la pagina "**La mia pensione futura**", oppure eccoti la [ricerca Google già fatta](https://www.google.com/search?q=la+mia+pensione+futura).  
@@ -149,24 +155,39 @@ Significa che, se non provvedi ad integrare la pensione INPS con qualcosa in pi�
 Da queste considerazioni, ho deciso che integrare la pensione è l’obiettivo principale che mi sono dato, nella gestione delle mie finanze.  
 Fai le tue valutazioni ovviamente perché ogni caso è diverso: ad esempio potresti avere un mutuo oggi che chiuderai prima della pensione, e questo ovviamente cambia molto le valutazioni sulle spese mensili che avrai durante la pensione.
 
-## Fondo pensione
+## Fondo pensione subito
 
-Se hai risparmi che avanzano, potresti domandarti se è meglio investirli in ETF oppure in un fondo pensione, versandoci un contributo aggiuntivo volontario più consistente.  
-Taglio la testa al toro e ti dò subito la risposta che mi sembra mettere d'accordo tanti divulgatori: la soluzione migliore mediamente sembra essere quella di sfruttare contributo datoriale e deduzioni del fondo pensione fino al massimo annuo di 5164€ e spicci, e investire l'eventuale eccedenza in ETF, perché così l'anno seguente si avrà una deduzione importante (che a sua volta potrà essere investita in ETF).
+Se sei dipendente privato, allora avere un fondo pensione nel quale versare il TFR e il tuo contributo volontario minimo è una **scelta _no-brainer_ che dovresti valutare al più presto, prima ancora di pensare agli ETF**.  
 
-Ci sono dei vantaggi diversi in ciascuno dei due strumenti.
+In attesa di informarti sul perché di questa affermazione così forte, apri subito la tua posizione con un fondo pensione perché **dopo i primi 15 anni di permanenza nella previdenza complementare, le tasse che pagherai al riscatto della tua posizione cominciano a scendere dello 0,3% all’anno**: partono da un già basso 15% se avrai 1-15 anni di contribuzione, per diventare 14,7% se avrai 16 anni di contribuzione, eccetera fino ad arrivare al 9% (la soglia minima) per 35 anni o più di contribuzione.  
+35 anni sono quasi l’intera carriera lavorativa, quando il tuo capitale versato nel fondo pensione avrà raggiunto il suo massimo e godrà quindi del massimo vantaggio fiscale al riscatto.  
 
-* VANTAGGI INVESTIMENTO ETF:  
-  * **Più libertà:** Sei 100% libero di decidere quando, quanto, e su quali strumenti investire/disinvestire, mentre il fondo pensione è per sua natura più vincolato, anche su tempi e modalità di accesso al proprio capitale.  
-  * **Meno costi ricorrenti:** L’investimento in ETF ha costi ricorrenti spesso inferiori rispetto ai FP (trovi i costi degli ETF su JustETF, e dei FP sul sito COVIP - vedi capitolo "Strumenti" in questa pagina).  
-  * **Migliori rendimenti attesi:** Con un portafoglio di ETF sensato è probabile ottenere sul lungo periodo rendimenti più alti rispetto ai fondi pensione. Vedi anche capitolo "SPIVA".  
-* VANTAGGI PRINCIPALI DEI FONDI PENSIONE:  
-  * **Contributo datoriale**: se destini il TFR ad un fondo pensione negoziale (FPN) (anche detto "chiuso" o "di categoria"), e ci aggiungi un piccolo contributo volontario (circa 1-2% della tua busta paga ogni mese - dipende dal tuo CCNL di riferimento) allora ottieni un contributo extra da parte del tuo datore ogni mese (circa un altro 1-2% - dipende sempre dal tuo CCNL di riferimento). Potrebbero essere ad esempio attorno ai 50€/mese regalati, che moltiplicando per 12 mesi per 40 anni di lavoro saranno diventati 24.000€, che essendo stati investiti dal fondo saranno diventati qualcosa di più - fai qualche "conto della serva" [qui](https://extraetf.com/it/calculator/saving-plan), mettendo come durata gli anni che ti mancano dalla pensione, e come tasso di interesse annuo un prudente 2%.  
-  * **Deduzioni**: fino a max 5164€/anno versati in fondi pensione si possono dedurre dal tuo imponibile nella dichiarazione dei redditi. Contribuiscono al conteggio dei 5164€/anno anche i contributi volontari e quelli del datore di lavoro, ma non il TFR. Il vantaggio fiscale che ottieni è circa proporzionale alla tua aliquota IRPEF, quindi se versi 5164€ nel tuo FP ti trovi a spanne tra i 1000€ e i 2000€ di tasse in meno da pagare il mese dopo aver presentato il 730\.
+Poi può succedere di tutto, magari apri una tua azienda e non metti mai un euro nel fondo pensione... ma non si sa mai cosa riserva il futuro, giusto?
 
 **CONCLUSIONI:**  
-Può essere una buona idea combinare questi due tipi di investimento a lungo termine per motivi diversi, anche in base alla tua situazione lavorativa: un dipendente privato con stipendio elevato otterrà il massimo beneficio dai vantaggi fiscali dei FP (perché avrà uno scaglione IRPEF più alto, quindi maggiore detrazione in percentuale), mentre se lo stipendio è medio o basso allora potrebbe convenire fare solo il versamento minimo nel proprio FPN giusto per ottenere il contributo datoriale, e investire il resto dei risparmi in ETF. Bisogna fare i conti caso per caso.   
-Quello che è molto probabile è che aprire una posizione nel tuo FPN e versarci TFR \+ contributo volontario minimo sia più vantaggioso e sicuro rispetto a tenere il TFR in azienda.
+L'ideale è **impostare la propria pianificazione finanziaria già all'arrivo dei primissimi stipendi**, come minimo aprendo un fondo pensione appena puoi (al limite anche *senza* metterci dentro soldi, l’importante è che la posizione resti aperta quanti più anni possibile).  
+Ma non è mai troppo tardi, e se hai figli puoi fare una riflessione anche per loro: potresti per esempio aprire un fondo pensione qualunque (meglio quindi quello con il costo annuo di mantenimento più basso!) intestato a loro, anche senza versarci contributi, così intanto maturano l’anzianità di cui sopra.
+
+
+
+## Fondo pensione
+
+Se hai risparmi che avanzano, potresti domandarti se è meglio investirli in ETF oppure in un fondo pensione versandoci un contributo aggiuntivo volontario più consistente.  
+Taglio la testa al toro e ti dò subito la risposta che mi sembra mettere d'accordo tanti divulgatori: la soluzione migliore mediamente sembra essere quella di **sfruttare contributo datoriale e deduzioni del fondo pensione fino al massimo annuo di 5164€, e investire l'eventuale eccedenza in ETF**, perché così l'anno seguente si avrà una deduzione importante (che a sua volta potrà essere investita ovviamente).
+
+
+VANTAGGI INVESTIMENTO ETF:  
+* **Più libertà:** Sei 100% libero di decidere quando, quanto, e su quali strumenti investire/disinvestire, mentre il fondo pensione è per sua natura più vincolato, anche su tempi e modalità di accesso al proprio capitale.  
+* **Meno costi ricorrenti:** L’investimento in ETF ha costi ricorrenti spesso inferiori rispetto ai FP (trovi i costi degli ETF su JustETF, e dei FP sul sito COVIP - vedi capitolo "Strumenti" in questa pagina).  
+* **Migliori rendimenti attesi:** Con un portafoglio di ETF sensato è probabile ottenere sul lungo periodo rendimenti più alti rispetto ai fondi pensione.
+
+VANTAGGI PRINCIPALI DEI FONDI PENSIONE:  
+* **Contributo datoriale**: se destini il TFR ad un fondo pensione negoziale (FPN) (anche detto "chiuso" o "di categoria"), e ci aggiungi un piccolo contributo volontario (circa 1-2% della tua busta paga ogni mese - dipende dal tuo CCNL di riferimento) allora ottieni un contributo extra da parte del tuo datore ogni mese (circa un altro 1-2% - dipende sempre dal tuo CCNL di riferimento). Potrebbero essere ad esempio attorno ai 50€/mese regalati, che moltiplicando per 12 mesi per 40 anni di lavoro saranno diventati 24.000€, che essendo stati investiti dal fondo saranno diventati qualcosa di più - fai qualche "conto della serva" [qui](https://extraetf.com/it/calculator/saving-plan), mettendo come durata gli anni che ti mancano dalla pensione, e come tasso di interesse annuo un prudente 2%.  
+* **Deduzioni**: fino a max 5164€/anno versati in fondi pensione si possono dedurre dal tuo imponibile nella dichiarazione dei redditi. Contribuiscono al conteggio dei 5164€/anno anche i contributi volontari e quelli del datore di lavoro, ma non il TFR. Il vantaggio fiscale che ottieni è circa proporzionale alla tua aliquota IRPEF, quindi se versi 5164€ nel tuo FP ti trovi a spanne tra i 1000€ e i 2000€ di tasse in meno da pagare (o rimborsate, ovviamente - il vantaggio non si perde) dopo aver presentato il 730.
+
+**CONCLUSIONI:**  
+Può essere una buona idea combinare questi due tipi di investimento a lungo termine per motivi diversi, anche in base alla tua situazione lavorativa: un dipendente privato con stipendio elevato otterrà il massimo beneficio dai vantaggi fiscali dei FP (perché avrà uno scaglione IRPEF più alto, quindi maggiore deduzione in percentuale), ma in generale sembra che **anche con scaglione IRPEF minimo i FP siano la miglior destinazione per i primi 5164 euro all'anno che uno riesce a risparmiare**.  Per scrupolo dico che bisogna fare i conti caso per caso.  
+Quello che è quasi certo è che **aprire una posizione nel tuo FPN e versarci TFR + contributo volontario minimo sia più vantaggioso e sicuro rispetto a tenere il TFR in azienda**, e quindi è una scelta praticamente obbligata per portarsi a casa **più soldi** (il contributo datoriale, l'interesse sull'investimento, il risparmio fiscale quando si riscatterà il capitale alla pensione) **e più protezione sul TFR** (l'azienda può fallire, e recuperare il proprio TFR potrebbe rivelarsi problematico).
 
 ## I comparti dei FPN
 
@@ -178,21 +199,7 @@ Verifica quali comparti offre il fondo al quale hai aderito, ce ne sono sempre a
 Oppure potresti scegliere di tenere l'FPN solo per ottenere il contributo del datore, e aderire ad un secondo fondo pensione (un FPA, Fondo Pensione Aperto) tra i meno costosi nel quale versare solo contributi volontari, ma che ti offra un profilo di investimento con una quota azionaria maggiore. Fino ai famosi 5164€/anno potrebbe essere una scelta conveniente, per i benefici fiscali; oltre a quella cifra, diventano spesso più convenienti gli ETF sotto vari aspetti. Sarai sempre libero di versare nel tuo FP solo quando vorrai, e anche di chiudere un FP trasferendo tutta la tua posizione nell’altro.  
 Avere più fondi pensione inoltre facilita la possibilità di riscattare il 100% del montante accumulato sottoforma di capitale al momento della pensione: c’è un calcolo da fare (cerca online), ma a spanne se il montante supera i 100k€ allora potresti essere obbligato a riscattare il 50% del montante come capitale e il resto come rendita, e non è detto che ti interessi una rendita, magari preferisci re-investire il capitale o utilizzarlo in un altro modo perché la rendita dell’INPS ti è sufficiente, va’ a sapere: ecco che avere 50k in un fondo e 50k in un altro diventa meglio che 100k tutti in uno.
 
-## MoneyFarm
 
-Prima di passare agli ETF, per alcuni anni ho investito qualche risparmio con MoneyFarm.  
-PRO:
-
-* L'approccio "set-and-forget": ti fanno un questionario, in base alle risposte ti propongono un portafoglio di ETF scelto tra 7 modelli, e a te basta versare soldi nel tuo conto MF. Al resto pensano loro: investono negli ETF previsti dal tuo portafoglio, ribilanciano periodicamente, e in quanto sostituto di imposta pagano le tasse per conto tuo prelevando l’importo dalle eventuali plusvalenze maturate.
-
-CONTRO:
-
-* I costi ricorrenti: MF si trattiene ogni anno l’1% del capitale che hai investito, in aggiunta al TER degli ETF nel portafoglio.  
-* Troppi ribilanciamenti: in generale è meglio vendere quote il meno spesso possibile, così da lasciare che le plusvalenze continuino a maturare interessi; invece MoneyFarm ribilancia anche vendendo, e un po' troppo spesso - mi viene il sospetto che serva a loro anche per giustificare le commissioni, perché se la allocazione rimanesse la stessa per troppo tempo qualcuno si potrebbe chiedere per cosa sta pagando quell’1% aggiuntivo rispetto agli ETF sottostanti.
-
-**CONCLUSIONI:**  
-Piuttosto che spendere il 2% di commissioni con i fondi delle banche o tenere i soldi fermi in conto corrente, se proprio non vuoi pensare a nulla, allora meglio MoneyFarm: almeno la commissione è limitata all’1%, che non è poco, ma può avere senso per delegare completamente la gestione.  
-Recentemente hanno aggiunto alla loro offerta anche altri strumenti, compreso il conto titoli "standard" tramite il quale puoi acquistare ETF senza la gestione attiva di MF.
 
 ## Gli ETF
 
@@ -229,6 +236,24 @@ A parte la solita ovvia premessa "ognuno ha una situazione diversa, non esiste u
 La composizione del tuo portafoglio probabilmente sarà un’attività che ti porterà via un po’ di tempo, e anche quella più ricca di dubbi: nel momento in cui starai per fare il tuo primo click su "Acquista" capirai cosa intendo.  
 Potresti trovare tutto ciò stimolante e dedicarci ore di backtest e di ricerche, tuttavia non vale la pena di "spaccare il capello in quattro" fino a quando non avrai investito cifre consistenti: è molto più importante iniziare al più presto con una impostazione semplice e perseverare a lungo, senza disinvestire e anzi continuando a versare regolarmente, soprattutto durante le crisi dei mercati.  
 Potrai sempre modificare le tue scelte in corso d’opera quando ti sarai informato meglio, anche tra qualche anno - oppure potrai anche tenere tutto com’è e continuare a investire sempre nello stesso portafoglio.
+
+## MoneyFarm
+
+Prima di passare agli ETF, per alcuni anni ho investito qualche risparmio con MoneyFarm.  
+PRO:
+
+* L'approccio "set-and-forget": ti fanno un questionario, in base alle risposte ti propongono un portafoglio di ETF scelto tra 7 modelli, e a te basta versare soldi nel tuo conto MF. Al resto pensano loro: investono negli ETF previsti dal tuo portafoglio, ribilanciano periodicamente, e in quanto sostituto di imposta pagano le tasse per conto tuo prelevando l’importo dalle eventuali plusvalenze maturate.
+
+CONTRO:
+
+* I costi ricorrenti: MF si trattiene ogni anno l’1% del capitale che hai investito, in aggiunta al TER degli ETF nel portafoglio.  
+* Troppi ribilanciamenti: in generale è meglio vendere quote il meno spesso possibile, così da lasciare che le plusvalenze continuino a maturare interessi; invece MoneyFarm ribilancia anche vendendo, e un po' troppo spesso - mi viene il sospetto che serva a loro anche per giustificare le commissioni, perché se la allocazione rimanesse la stessa per troppo tempo qualcuno si potrebbe chiedere per cosa sta pagando quell’1% aggiuntivo rispetto agli ETF sottostanti.
+
+**CONCLUSIONI:**  
+Piuttosto che spendere il 2% di commissioni con i fondi delle banche o tenere i soldi fermi in conto corrente, se proprio non vuoi pensare a nulla, allora meglio MoneyFarm: almeno la commissione è limitata all’1%, che non è poco, ma può avere senso per delegare completamente la gestione.  
+Recentemente hanno aggiunto alla loro offerta anche altri strumenti, compreso il conto titoli "standard" tramite il quale puoi acquistare ETF senza la gestione attiva di MF.
+
+
 
 ## Consulenti finanziari indipendenti
 
