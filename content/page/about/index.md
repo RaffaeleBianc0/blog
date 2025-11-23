@@ -6,7 +6,7 @@ aliases:
   - about-me
   - contact
   - info
-lastmod: '2025-11-15'
+lastmod: '2025-11-23'
 menu:
     main: 
         weight: -90
