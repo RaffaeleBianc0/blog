@@ -1,6 +1,27 @@
 
 @import "partials/variables";
 
+/* Link color in article content only - make hrefs */
+.article-content a {
+    color: rgb(192, 231, 255);
+}
+
+.article-content a:visited {
+    color: rgb(196, 192, 255);
+}
+
+[data-scheme="light"] {
+    .article-content a {
+        color: #07a;
+    }
+
+    .article-content a:visited {
+        color: #538;
+    }
+}
+
+
+
 /* Aumenta dimensione titolo articoli */
 .article-title {
     font-size: 5.0rem; // dimensione desktop
@@ -9,7 +30,7 @@
 /* Responsive per mobile */
 @media (max-width: 720px) {
     .article-title {
-        font-size: 3.0rem;
+        font-size: 5.0rem;
     }
 }
 
