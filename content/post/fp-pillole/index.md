@@ -1,45 +1,20 @@
 ---
-title: "Finanza personale"
-date: "2025-10-07"
+title: "Pillole di finanza personale"
+date: "2025-10-04"
+lastmod: '2025-12-06'
 categories: 
-  - "altro"
+  - "finanza personale"
 image: "images/finanza-personale.jpg"
+# draft: true
 ---
 
 
-# Obiezione, vostro onore
 
-**"Non mi interessa, non mi serve"** ➡️ Ti stai raccontando una balla, come minimo perché c'è l'[inflazione](#inflazione), ma anche perché l'[INPS](#inps) ti darà una pensione bassa e devi provvedere. [Inizia adesso](#inizia-adesso)!
-
-**"Meglio non rischiare di perdere soldi"** ➡️ Proprio così, per questo devi interessartene (vedi i punti qui sopra). Comunque se vuoi azzerare il [rischio](#rischio) ci sono scelte che puoi fare [senza perderci](#senza-perderci).
-
-**"Serve troppo tempo per starci dietro"** ➡️ Se per te qualche minuto al mese è _troppo tempo_ da dedicare ai tuoi soldi, per me non sei a posto. Vedi [cosa faccio io](#cosa-faccio) come spunto.
-
-**"Meglio chiedere in banca"** ➡️ meglio per la banca di sicuro, ma i [costi](#costi) di questa scelta erodono i tuoi risparmi in un modo che non ti aspetti, oltre al fatto che la banca probabilmente investe maluccio i tuoi soldi. Non lo dico io eh, lo dice la [Standard & Poor's](#spiva).
+Ogni paragrafo qui è una "pillola" sul tema della finanza personale, un **micro-riassunto di qualcosa che ho imparato**, senza la pretesa di insegnare nulla a nessuno né di essere esaustivo.  
 
 
 
-# Cosa c’è qui
-
-Ogni paragrafo è una "pillola" sul tema della finanza personale, un **micro-riassunto di qualcosa che ho imparato**, senza la pretesa di insegnare nulla a nessuno né di essere esaustivo.  
-
-A metà 2024 mi è presa la scimmia per queste cose e ho cominciato a studiare il tema e a mettere da parte qualche appunto in un Documento Google.
-Parlandone con qualche amico ho pensato che **questi appunti sarebbero forse stati utili a chi, come me fino a "ieri", non si è mai interessato più di tanto ai propri risparmi**.  
-L'idea di convertirli in questa pagina è rimasta "work in progress" per molti mesi, un po' per paura che ci fossero errori, o che alla fine non aggiungesse nulla a quanto già esiste online. Poi però su insistente e gradito sollecito di un paio di persone ho messo tutto online.
-Magari sei qui perché ne abbiamo parlato e ti ho mandato il link.  
-
-**Non troverai suggerimenti di investimento o di acquisto o altro spam molesto**, quelle sono cose per professionisti, io qui condivido soltanto quello che ho capito, e anche le scelte che ho fatto per me stesso.
-
-
-
-
-
-
-# PILLOLE
-
-
-
-## Il trading non c'entra
+# Il trading non c'entra
 
 **La finanza personale non è "giocare in borsa"**, come ho sentito dire tante volte.  
 Sono temi adiacenti perché alla fine bisogna comunque avere a che fare con i mercati finanziari, ma con due approcci che penso siano l’uno l’opposto dell’altro:
@@ -50,7 +25,7 @@ Sono temi adiacenti perché alla fine bisogna comunque avere a che fare con i me
 
 
 
-## Inflazione
+# Inflazione
 
 **"*Se hai dei soldi allora stai già investendo*".**  
 La ho letta da qualche parte, e mi pare davvero molto azzeccata.  
@@ -64,7 +39,7 @@ L’inflazione infatti non ha subìto particolari variazioni prima durante e dop
 
 
 
-## Interesse composto
+# Interesse composto
 
 L'interesse composto ("*compounding*" per dirlo con una sola parola, "rendimento sul rendimento" per dirlo con tre) è **un motivo fondamentale per cui è importante iniziare il prima possibile ad investire**.  
 
@@ -79,7 +54,7 @@ La tua valutazione può includere il [fondo pensione](#fondo-pensione) e gli [ET
 
 
 
-## Senza perderci
+# Senza perderci
 
 Se ti mette a disagio investire una parte dei tuoi risparmi in strumenti finanziari che possono darti rendimenti elevati sul lungo periodo, ma che possono anche bruciare parte del valore in caso di crisi importanti dei mercati, allora puoi valutare **soluzioni a rischio quasi zero** che possono almeno contenere l’effetto negativo dell’inflazione, come i **conti deposito** e gli **ETF monetari**.  
 E’ il **minimo sindacale che va senz’altro usato per tenere la liquidità extra invece del conto corrente**, anche se non hai ancora confidenza con questi argomenti.   
@@ -91,7 +66,7 @@ Se in conto corrente hai più del doppio/triplo di quello che spendi normalmente
 
 
 
-## SPIVA
+# SPIVA
 
 Il [rapporto **SPIVA**](https://www.spglobal.com/spdji/en/research-insights/spiva) (_Standard & Poor’s Indices Versus Active_) ci racconta periodicamente la stragrande maggioranza (92% nel 2025) dei fondi a gestione attiva analizzati hanno rendimenti inferiori rispetto al proprio indice di riferimento su orizzonti di investimento di 10+ anni.  
 Le gestioni attive sono quelle applicate dai fondi di investimento che tipicamente ti vende la banca, e che in buona sostanza fanno peggio degli indici tracciati dagli [ETF](#gli-etf) quasi sempre, per colpa dei **costi molto più alti** che erodono i rendimenti, e del fatto stesso di essere attive, che significa transazioni di vendita/acquisto che costano, e anche scelte discrezionali del gestore che tenta di prevedere cosa renderà di più, con un tasso di successo simile al testa-o-croce (questo è documentato nella **Persistence Scorecard**, disponibile nello stesso sito).  
@@ -102,7 +77,7 @@ Ci sono dati oggettivi che dicono che hai possibilità di successo di gran lunga
 
 
 
-## Costi
+# Costi
 
 Investire ha sempre dei costi.  
 Qualunque strumento tu scelga per i tuoi investimenti, devi fare la **massima attenzione ai costi ricorrenti** (es. "*2% annuo di commissione sul capitale investito*"), perché sono quelli che ammazzano i rendimenti, fino ad arrivare ad azzerarli o addirittura a renderli *negativi* nei casi peggiori: magari i rendimenti sono bassi perché hai scelto un prodotto "sicuro" o "a capitale garantito" (tradotto: tanto obbligazionario a duration breve-media, che avrà reso il 2-3-4% all'anno) e/o un periodo storico sfortunato per i mercati, e i costi sono alti perché hai investito in strumenti che ti ha venduto la tua banca o la tua assicurazione, che ogni anno prelevano il 2% 3% o 4% del tuo capitale investito, più uno zerovirgola per costi di transazione, più un altro zerovirgola per altre voci opache, sommi tutto, e finisce che era meglio tenere i soldi fermi nel conto corrente.  
@@ -119,7 +94,7 @@ Se hai attualmente dei risparmi investiti in prodotti diversi dagli ETF, allora 
 
 
 
-## Fondo di emergenza
+# Fondo di emergenza
 
 C'è questo approccio piuttosto diffuso e che trovo sensato per investire molto più serenamente.  
 Preso atto che i risparmi vanno investiti praticamente sempre, e che l'investimento va mantenuto per tanti anni senza disinvestire affinché l’interesse composto si esprima al meglio e la volatilità si riduca, è bene disporre di **un gruzzoletto che possa essere usato in qualunque momento senza intaccare il capitale investito**, per coprire eventuali emergenze impreviste (es. cure mediche, riparazioni casa/auto, perdita del lavoro provvisoria e relativa mancanza di stipendio per qualche mese).  
@@ -150,7 +125,7 @@ Quando avrai sistemato il FdE, potrai pensare a come investire gli ulteriori ris
 
 
 
-## Rischio
+# Rischio
 
 C'è una informazione che mi ha fatto cambiare radicalmente il punto di vista sul tema "rischio": il mercato azionario, cioè "quello rischioso" del quale avevo sempre pensato "*non mi fido, meglio evitare*", per investimenti sufficientemente lunghi (15+ anni) e diversificati raramente ha fatto perdere soldi nella storia. **Si supera il 90% di risultati positivi quando si superano i 20 anni di investimento sul classico indice S&P500 americano.**  
 E questo nonostante crisi di Wall Street del 1929, due guerre mondiali, Internet bubble del 2001, crisi dei mutui subprime del 2008, pandemia Covid - tutti eventi che hanno causato importanti flessioni negative nei mercati, ma non sufficienti a trascinare sotto zero le performance di lungo periodo: **chi non ha disinvestito in preda al panico, ne è sempre uscito con più soldi di quanti ne ha investiti**.
@@ -166,7 +141,7 @@ Studia qualche **allocazione semplice** con un paio di ETF per iniziare, oppure 
 
 
 
-## Assicurazioni
+# Assicurazioni
 
 **Assicurarsi fa parte di una buona pianificazione finanziaria personale**, perché serve a tutelare la propria capacità di percepire reddito, e a tutelare il capitale già in nostro possesso.
 
@@ -181,7 +156,7 @@ Ecco qualche esempio di polizze che si possono valutare:
 
 
 
-## INPS
+# INPS
 
 Se sei un lavoratore dipendente, allora vai sul [sito dell'INPS](http://www.inps.it) e usa la ricerca in alto per trovare la pagina "**La mia pensione futura**", oppure eccoti la [ricerca Google già fatta](https://www.google.com/search?q=la+mia+pensione+futura).  
 È bene che tu scopra quanto ti manca alla pensione, e **quanto riceverai ogni mese dallo Stato**, cioè il cosiddetto "tasso di sostituzione": è la stima di quanti soldi prenderai di pensione dall’INPS rispetto al tuo ultimo stipendio presunto, e valori tipici per i dipendenti italiani previsti per il 2050 sembra siano attorno al 60%, a peggiorare negli anni seguenti.  
@@ -191,7 +166,7 @@ Fai le tue valutazioni ovviamente perché ogni caso è diverso: ad esempio potre
 
 
 
-## Fondo pensione subito
+# Fondo pensione subito
 
 Se sei dipendente privato, allora avere un fondo pensione nel quale versare il TFR e il tuo contributo volontario minimo è una **scelta _no-brainer_ che dovresti valutare al più presto, prima ancora di pensare agli ETF**.  
 
@@ -206,7 +181,7 @@ Ma non è mai troppo tardi, e se hai figli puoi fare una riflessione anche per l
 
 
 
-## Fondo pensione o ETF?
+# Fondo pensione o ETF?
 
 Se hai risparmi che avanzano, potresti domandarti se è meglio investirli in ETF oppure in un fondo pensione versandoci un contributo aggiuntivo volontario più consistente.  
 Taglio la testa al toro e ti dò subito la risposta che mi sembra mettere d'accordo tanti divulgatori: la soluzione migliore _mediamente_ sembra essere quella di **sfruttare contributo datoriale e deduzioni del fondo pensione fino al massimo annuo di 5164€, e investire l'eventuale eccedenza in ETF**.  
@@ -228,7 +203,7 @@ Quello che è quasi certo è che **aprire una posizione nel tuo FPN e versarci T
 
 
 
-## I comparti dei FPN
+# I comparti dei FPN
 
 I FPN (Fondi Pensione Negoziali, o "chiusi", o "di categoria") hanno dei comparti di investimento piuttosto conservativi, con componente azionaria mai superiore ad una certa soglia, per esempio il 65%, e oltretutto se non si esprime alcuna scelta all'adesione spesso **ti appioppano di default uno dei comparti super-conservativi**, anche 100% obbligazionario.  
 Se come me hai passato molti anni da dipendente prima di preoccupartene, allora anche tu probabilmente **hai perso centinaia/migliaia di euro "futuri" senza neanche saperlo, solo perché hai mantenuto il comparto che il fondo pre-assegna a tutti i nuovi aderenti**, e perciò i tuoi soldi sono stati investiti in larga parte in obbligazioni. O magari hai addirittura lasciato *intenzionalmente* quel comparto perché "*non metto la mia pensione a rischio, meglio le obbligazioni che sono più sicure*" (e magari ti sei beccato performance vicine allo 0%, che una volta che ci metti i costi e le tasse si traducono in *soldi persi*).  
@@ -241,7 +216,7 @@ Avere più fondi pensione inoltre facilita la possibilità di riscattare il 100%
 
 
 
-## Gli ETF
+# Gli ETF
 
 Gli ETF sono l'uovo di colombo tra gli strumenti finanziari per l’investimento a lungo termine:
 
@@ -255,7 +230,7 @@ Gli ETF sono l'uovo di colombo tra gli strumenti finanziari per l’investimento
 
 
 
-## Quanti ETF, e quali?
+# Quanti ETF, e quali?
 
 A parte la solita ovvia premessa "ognuno ha una situazione diversa, non esiste una risposta univoca", e l’altra ancora più importante "chi mai sono io per dare consigli di investimento a chicchessia, son mica un professionista", ecco qualche idea tra le più gettonate:
 
@@ -282,7 +257,7 @@ Potrai sempre modificare le tue scelte in corso d’opera quando ti sarai inform
 
 
 
-## MoneyFarm
+# MoneyFarm
 
 Prima di passare agli ETF, per alcuni anni ho investito qualche risparmio con MoneyFarm.  
 
@@ -298,7 +273,7 @@ Recentemente hanno aggiunto alla loro offerta anche altri strumenti, compreso il
 
 
 
-## Consulenti finanziari indipendenti
+# Consulenti finanziari indipendenti
 
 Investire è tutto sommato abbastanza semplice.  
 **Potresti comunque preferire il supporto di un professionista**, come minimo per farti spiegare le cose per bene e impostare una strategia.  
@@ -320,189 +295,11 @@ Magari un giorno provo.
 
 
 
-# STRUMENTI
-
-Ecco varie fonti di informazione che ritengo di qualità, e gli strumenti online che ho usato e continuo ad usare.
-
-
-
-## Finanza personale in generale
-
-[Paolo Coletti](http://www.paolocoletti.com/youtube)  
-Docente universitario, ricercatore, e content creator simpatico che produce contenuti di grande valore didattico e informativo, nettamente al di sopra della media secondo me.  
-Segnalo in particolare:
-
-* **"Educati e finanziati"**, il suo corso di finanza personale disponibile [su YouTube](https://www.youtube.com/playlist?list=PLfuzpc-H8qcdyEb5rpgYhN2P7cJGR1i9h)) e, dal 2025, anche [su un sito dedicato](https://www.educatiefinanziati.it), fondamentale per chi ha poca dimestichezza con la finanza personale, e ricchissimo di informazioni anche per chi ne sa già qualcosa. C'è anche una dispensa PDF utile per avere la versione "da leggere" dello stesso corso, la trovi nel sito.  
-* **La versione condensata in un’oretta** dello stesso corso [qui](https://www.youtube.com/watch?v=wMOP4b5saxk). Questo potrebbe essere **la primissima cosa da guardare in assoluto approcciando questi temi, e secondo me va visto da chiunque percepisca uno stipendio.**  
-* Decine di altri suoi video dove analizza quantitativamente varie ipotesi usando Excel e Python, una vera miniera di informazioni preziose e soprattutto ricavate dai dati, non da opinioni. Grande!  
-* Una community molto vivace, che si ritrova e discute su Telegram e su Reddit.
-
-[Comitato EduFin del Governo Italiano](https://www.comitatoeducazionefinanziaria.gov.it/strumenti-e-risorse/)  
-Portale divulgativo del Governo Italiano, che contiene descrizioni di tutti gli strumenti e concetti legati alla gestione dei soldi, buono per chiarirsi le idee su conti, mutui, fondi, etf, azioni, obbligazioni, eccetera.
-
-[Italia Personal Finance](http://www.italiapersonalfinance.it)  
-Community interessata al tema.  
-Il sito è un buon punto di ingresso per approcciare i temi e iniziare ad organizzarsi.
-
-
-
-## Conti deposito
-
-[Deposifire](http://www.deposifire.com)  
-Un database di conti deposito e conti correnti italiani.  
-Utile per confrontare e decidere quale conto aprire.  
-Suggerisco di verificare le condizioni aggiornate sui siti delle banche, una volta fatta la prima scrematura su Deposifire.  
-Una risorsa analoga è presente sul [Forum di FinanzaOnLine](https://forum.finanzaonline.com/), in forma di foglio di calcolo sempre aggiornato.
-
-
-
-## Fondi pensione
-
-[Ciao Elsa](http://www.ciaoelsa.com/blog)  
-Azienda italiana specializzata in fondi pensione, in particolare segnalo:
-
-* Contenuti divulgativi sul [loro canale YouTube](https://www.youtube.com/@CiaoElsa), con video snelli e molto chiari.  
-* Comparatore di fondi pensione: inserisci pochi parametri e ottieni una "classifica" utile per orientarti, se vuoi aprirne uno diverso dall’FPN associato al tuo CCNL di riferimento.  
-* Sono intermediari autorizzati tramite i quali puoi aderire online gratuitamente ad un fondo pensione anche quando questo non prevede di suo una procedura online.
-
-[COVIP Per il cittadino](http://www.covip.it/per-il-cittadino)  
-Commissione di Vigilanza sui Fondi Pensione.  
-Qui trovi informazioni fondamentali se hai intenzione di aprire un fondo pensione, compresi tutti i dati aggiornati di tutti i fondi pensione disponibili in Italia, relativamente a:
-
-* i rendimenti degli ultimi 1, 5, 10, 20 anni  
-* i costi: questa singola informazione (ISC = Indicatore Sintetico di Costo) è probabilmente la più importante per fare una scelta in tema di Fondi Pensione.
-
-
-
-## Investimenti
-
-[The Bull](https://italia-podcast.it/podcast/the-bull-il-tuo-podcast-di-finanza-personale)  
-Il motivo per cui ho iniziato a interessarmi di finanza personale, uno dei podcast più ascoltati in Italia, che affronta l'argomento in modo leggero ma mai superficiale.  
-A metà 2024 un collega mi dice "Ho iniziato ad ascoltare un podcast di finanza personale, si chiama The Bull, interessante".  
-Per anni alla parola "finanza" il mio cervello ha associato istantaneamente "cheppàlle" e il discorso è sempre finito lì.  
-Invece stavolta ho ascoltato due o tre puntate scegliendole in base al titolo, e qualcosa è scattato: ho ripreso dalla puntata n°1 e in un paio di mesi ho ascoltato i primi 140 episodi. Poi ho anche acquistato [il primo libro dell'autore](https://amzn.to/3Y7zGZ5), una trasposizione su testo della parte più formativa del podcast. E nel 2025 anche [il secondo libro](https://amzn.to/4pnnZIz), che arricchisce la trattazione con più dettagli.  
-Le prime 20-30 puntate del podcast sono forse le più importanti, e hanno un carattere didattico. In seguito vengono inseriti anche episodi di aggiornamento mensili e interviste con personaggi clamorosi nel mondo della finanza, tra giornalisti, investitori, e premi nobel.  
-A metà 2025 The Bull è anche diventato un [canale YouTube](http://www.youtube.com/@thebull_finance) ripubblicando come primi 10 video i contenuti introduttivi del podcast leggermente modificati, e a seguire altre playlist video: non male per chi non ha ascoltato il podcast, però avrei preferito che la parte video fosse usata per mostrare grafici e numeri, invece dello studio di registrazione. Continuo a preferire la versione podcast.
-
-[JustETF](http://www.JustETF.com)  
-Il sito di riferimento per scegliere gli ETF in cui investire e metterli a confronto, con i dati aggiornati e buoni contenuti divulgativi.
-
-[Dedalo Invest, pagina sui lazy portfolios](https://www.dedaloinvest.com/education/didattica-investimenti/lazy-portfolios)  
-Tra le pagine web più lunghe che io abbia visto, ma se dovessi scegliere un unico contenuto da leggere in cui ci sia il massimo delle informazioni sul tema dei "portafogli pigri"… eccolo.
-
-[Bogleheads](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy_for_non-US_investors)  
-Devo ancora approfondire, ma mi sembra un movimento di pensiero riguardante la gestione delle proprie finanze ispirato a criteri di buon senso e condivisibili. Intanto prendo nota.
-
-[Directa](http://www.Directa.it)  
-E’ un broker, cioè una piattaforma dove aprire il proprio conto titoli per comprare/vendere strumenti finanziari come gli ETF.  
-Segnalo:
-
-* Possibilità di aprire un **conto titoli DEMO** con dentro 100.000€ virtuali, con i quali operare sui valori reali del mercato sempre aggiornati e prendere confidenza con il funzionamento di tutto senza metterci soldi veri: se hai paura che sia difficile comprare o vendere gli ETF allora qua ti togli tutti i dubbi. Peccato che l’account demo duri solo un paio di settimane!  
-* E’ un’azienda italiana che opera in regime amministrato, cioè fa da sostituto d'imposta e non devo preoccuparmi di nulla nella dichiarazione dei redditi, perché le tasse su eventuali guadagni le paga già Directa.  
-* L'apertura del conto titoli si fa tutta online.  
-* Si può operare sia da app che da sito web.
-
-
-
-### Backtest
-
-Fare un backtest significa comporre un portafoglio con gli strumenti finanziari o gli indici che preferisci e metterlo alla prova nel passato sulla base dei dati storici dei mercati e delle tue scelte di investimento.
-
-* [LazyPortfolioETF.com](http://LazyPortfolioETF.com)  
-  Finora per me il migliore, nonostante il layout grafico datato che mi costringe ad usarlo solo da PC: confronti tra portafogli pre-configurati, informazioni aggiornate, e soprattutto la possibilità di comporre i propri portafogli e testarli quando preferisci nella storia passata, perché i dati storici mancanti sono sostituiti da dati ottenuti da studi accademici, dai valori degli indici corrispondenti agli ETF troppo giovani, o da ETF equivalenti.  
-  E’ per ora l’unico strumento che ho trovato che fornisce questa possibilità secondo me fondamentale, perché necessaria per fare valutazioni anche su periodi precedenti degli ultimi 10-15 anni.  
-* [PortfolioCharts](http://portfoliocharts.com)  
-  Ottimo per confrontare velocemente una propria idea con alcuni celebri portafogli.  
-* [Curvo Backtest](https://curvo.eu/backtest)  
-  Semplice da usare, incentrato su strumenti europei, offre un report sintetico interessante. Il problema più grande secondo me è anche qui legato alla mancanza di dati storici per gli ETF, per cui i backtest spesso raccontano una realtà solo degli ultimi anni.  
-
-Vale la pena fare i backtest anche e soprattutto su periodi brutti quando è possibile, ad esempio abbracciando gli anni delle peggiori crisi finanziarie come il 2001 e il 2008.
-
-
-
-### Controllare l’andamento
-
-Vista la natura a lungo termine degli investimenti, visto che non vanno prese decisioni in base alle variazioni recenti dei rendimenti, e visto che ribilanciare il portafoglio troppo spesso è controproducente, possiamo dedurre che non serve a granché guardare l’andamento del proprio portafoglio costantemente: una volta ogni 6-12 mesi probabilmente è sufficiente, oppure ogni volta prima di investire, per decidere in quale ETF del nostro portafoglio sia meglio mettere i nuovi risparmi accumulati per ottenere un "ribilanciamento senza vendere" e quindi senza tasse né commissioni.  
-Tuttavia, vedere "come sta andando" dà una certa soddisfazione ed è difficile rinunciare a questo impulso.  
-Per risolvere questa esigenza, segnalo questi strumenti:
-
-* [**Yahoo Finanza**](https://it.finance.yahoo.com/):  
-  * utilizzabile sia da web che su smartphone (App [qui](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.finance&hl=it))  
-  * su Android ha anche un comodo widget da tenere nella Home  
-* [**Wallible**](https://play.google.com/store/search?q=wallible&c=apps):  
-  * utilizzabile sia su smartphone che da web  
-  * fornisce le metriche classiche sul proprio portafoglio  
-  * consente di salvare ulteriori portafogli oltre al proprio e usarli per fare confronti e backtest  
-* [**TradingView**](http://it.tradingview.com): uno dei siti di riferimento per le informazioni tecniche sugli indici
-* [**Ticker**](https://github.com/achannarasappa/ticker) e [**Tickrs**](https://github.com/tarkah/tickrs), due utility a caratteri che io adoro, da usare solo su computer. Richiedono una certa inclinazione nerd per essere apprezzati!
-
-
-
----
-
-
-
-# COSA FACCIO
-
-Usando gli ingredienti descritti sopra, ecco qua sotto la mia "ricetta".  
-Ovviamente è solo il mio personale metodo, e non è un suggerimento su cosa dovresti fare tu.
-
-## Impostazione iniziale
-
-Prima di spostare il primo euro, ho predisposto tutto il necessario:
-
-* **Formazione:** ho ascoltato The Bull (le prime 25 puntate circa sono quelle fondamentali), e ho guardato il corso "Educati e finanziati" di Coletti su YouTube.  
-
-* **Chiusura posizioni precedenti**: Ho analizzato i prospetti informativi di un paio di prodotti di investimento che avevo acquistato anni fa senza informarmi opportunamente, ho confrontato i rendimenti ed i costi con quelli attesi dagli investimenti in FPA ed ETF, ed è emersa la conclusione limpida: meglio chiudere tutto e spostare il capitale investito su ETF, prima di farmi mangiare ulteriori rendimenti da costi ricorrenti davvero troppo alti.  
-
-* **Estinzione di debiti/finanziamenti**: Non era il mio caso, ma in questa fase iniziale ci metterei anche questo, tranne l'eventuale mutuo casa se fatto ad un tasso inferiore a quello attuale della BCE: inutile pensare ad investire per portare a casa un rendimento positivo, se dall'altra parte ci sono finanziamenti con un tasso di interesse che combatte contro questo rendimento. 
-
-* **Conto corrente**: Tengo il conto che ho già, nonostante sia più costoso di tanti altri disponibili. La banca è tra le più solide in Italia, quindi sono a posto così per ora.  
-Segnalo solo che il trasferimento di un conto corrente ad un altro istituto è gratuito per legge e la nuova banca si occupa di tutto, compreso il trasloco delle domiciliazioni (già sperimentato personalmente anni fa). Resteranno comunque da fare un po' di pratiche come l'attivazione delle nuove carte di debito e di credito e la relativa associazione a PayPal Amazon e simili, prima di chiudere definitivamente il vecchio conto. [Deposifire.com](http://Deposifire.com) può aiutare nella scelta del nuovo conto corrente.
-
-* **Fondo di emergenza**: Ho usato [Deposifire.com](https://deposifire.com/) per scegliere un conto deposito svincolato con il tasso più alto tra quelli disponibili, e l’ho aperto con il solo scopo di contenere metà del mio FdE. L'altra metà ho deciso di parcheggiarla in un ETF monetario, giusto per diversificare.
-
-* **Assicurazioni**: Avevo già provveduto qualche anno fa, e per pigrizia tengo quello che ho, perché sono polizze di una assicurazione nota che esiste da decenni. Devo valutare una LTC, ma ancora non lo ho fatto.
-
-* **FPN**: Avevo già scelto di destinare il mio TFR al FPN. Ho modificato soltanto il comparto, scegliendo quello con la maggiore componente azionaria, dato che mi aspettano ancora 20 anni di lavoro. Cambierò comparto durante i prossimi 20 anni, per aumentare progressivamente il peso della componente obbligazionaria man mano che mi avvicino alla pensione (la cosiddetta allocazione "life cycle").
-
-* **FPA**: Dato che il mio FPN per i miei gusti non ha sufficiente azionario considerando che mi mancano ancora 20 anni alla pensione, e dato che voglio versare fino a 5164€/anno nei FP per approfittare al massimo delle deduzioni, ho usato il sito COVIP per capire quale FPA rispondesse ai requisiti "*costi bassi, disponibilità di un comparto azionario, rendite degli ultimi 10-20 anni elevate*": ne sono usciti subito due vincitori, dei quali solo uno consentiva di fare la pratica di adesione online quindi la scelta è stata ovvia. Ho poi scoperto che su [CiaoElsa.com](https://ciaoelsa.com) è possibile aderire online gratuitamente anche ai fondi pensione che non hanno la procedura nel proprio sito, perché CiaoElsa fa da intermediario… ma ormai avevo già fatto tutto. Amen!
-
-* **Conto titoli**: La mia banca mi offre un conto titoli con costi imbarazzanti, quindi ho deciso di aprirne uno presso un broker. Ho confrontato i broker italiani che operano in regime amministrato (feature obbligatoria per minimizzare burocrazia e potenziali errori nel 730), cercando quello con i costi minori delle transazioni su PAC. Ho scelto Directa. Avevo già un account su Moneyfarm che da qualche tempo consentiva di comprare ETF, ma non di impostare un PAC. Nel 2025 segnalo anche TradeRepublic, che ha delle condizioni molto interessanti.
-
-* **ETF**: Come prima mossa ho investito qualcosa in un singolo ETF azionario globale tra i più noti, scelta che giudico sensata per un orizzonte temporale di più di 10 anni come il mio. Nel frattempo ho continuato a studiare il mio "portafoglio obiettivo", aggiustandolo più volte, introducendo la parte obbligazionaria, un tilt ex-usa ed uno ex-Mag7, e un po’ di oro, e sto facendo i successivi investimenti in modo da tendere a questa allocazione obiettivo.
-
-
-
-## Ogni mese
-
-Dopo aver impostato tutto come descritto sopra, ogni mese dopo l’accredito dello stipendio mi preoccupo delle mie finanze seguendo questo ordine - sembra chissà cosa a prima vista, ma è davvero banale:
-
-![](images/mermaid-diagram.png)
-
-1. **CONTO CORRENTE**: Porto il saldo del CC al "livello comfort", cioè una cifra che mi consenta di fare le mie spese mensili (casa bollette supermercato abbonamenti carburante assicurazioni eccetera) e di avere un buffer aggiuntivo per eventuali necessità extra: una giacenza media sempre inferiore ai 5000€ mi è molto più che sufficiente, e tra l’altro fa risparmiare i 34€ del bollo annuale sul CC (fonte: [Ministero dell'Economia e delle Finanze](https://www.dt.mef.gov.it/it/news/2012/nuove_disposizioni_bollo_titoli.html)).   
-    - Se dopo l’accredito dello stipendio il saldo del CC è inferiore al "livello comfort", allora per questo mese mi fermo qui e non proseguo con le operazioni descritte di seguito; se invece è superiore, allora uso l’eccedenza per il passaggio seguente.
-
-2. **FONDO DI EMERGENZA**: Con l’eccedenza in arrivo dal CC, porto il saldo del FdE verso il "livello comfort", che nel mio caso ho deciso essere pari a 6 stipendi: giudico questa una somma sufficiente a coprire le spese più consistenti che potrebbero capitarmi - ferie, arredamenti, dentista, grandi riparazioni… cose così.  
-    - Se il saldo del FdE è inferiore al "livello comfort", allora per questo mese mi fermo qui e non proseguo con le operazioni descritte di seguito; se invece diventasse superiore, allora verso solo la parte necessaria ad andare a livello e uso l’eccedenza per il passaggio seguente.
-
-3. **FONDO PENSIONE**: Verso l’eccedenza residua nel mio FP, verificando di rimanere sempre sotto la soglia di max 5164€/anno (da calcolare sempre tenendo conto anche dei contributi volontario + datoriale nel FPN calcolati sull'intero anno in corso), così da godere del massimo vantaggio fiscale ed avere una parte importante di risparmi investita.  
-    - Se ho già raggiunto i 5164€/anno di versamenti nel FP, allora non ci verso più nulla per l’anno corrente, e uso l’eccedenza per il passaggio seguente.
-
-4. **ETF**: Verso l’eccedenza residua nel mio conto titoli, e la uso per acquistare quote degli ETF in portafoglio in modo tale da ribilanciare senza vendere quote, così da minimizzare le commissioni sulle operazioni - anzi le azzero, dato che ho scelto tutti ETF che sono senza commissioni di acquisto nel PAC Directa. Mi sono fatto un semplice foglio di calcolo per aiutarmi a capire quanto la mia allocazione reale si discosta da quella obiettivo, così con un colpo d'occhio capisco cosa acquistare quel mese.
-
-Al netto del tempo dedicato ad informarmi, e una volta aperto CD, FP e conto titoli, oggi **questa gestione mi occupa indicativamente un quarto d'ora al mese**: il tempo di verificare i saldi nelle app, ripetere un bonifico del mese precedente cambiando solo l'importo, e impostare il prossimo investimento del PAC Directa in modo che vengano acquistati gli importi corretti degli ETF che ho a portafoglio.
-
-
-
 # Disclaimer
 
-Come tutti i contenuti divulgativi che parlano di questi argomenti, anche qui devo specificare quanto segue.
+Come tutti i contenuti divulgativi che parlano di questi argomenti, è opportuno specificare quanto segue.
 
-AVVISO IMPORTANTE: Il contenuto non è e non costituisce in alcun modo una consulenza finanziaria personalizzata.
-
-Tutte le informazioni, le opinioni, i dati e i pareri espressi in questo articolo sono forniti a scopo puramente informativo e non devono essere interpretati come una raccomandazione all'investimento, un'offerta di acquisto o vendita di strumenti finanziari, o una sollecitazione al pubblico risparmio ai sensi della normativa vigente (es. TUF - Testo Unico della Finanza).
-
-Prima di prendere qualsiasi decisione di investimento, è fondamentale consultare un intermediario o un consulente finanziario abilitato e qualificato che tenga conto della vostra specifica situazione finanziaria, dei vostri obiettivi e della vostra tolleranza al rischio. L'autore e il blog non si assumono alcuna responsabilità per eventuali perdite o danni derivanti dall'utilizzo delle informazioni qui contenute. Ogni decisione è a vostro rischio e pericolo.
-
-Ecco, pippone legalese finito, forse non serviva ma comunque _better safe than sorry_.
+> AVVISO IMPORTANTE:  
+_Il contenuto di questa pagina non è e non costituisce in alcun modo una consulenza finanziaria personalizzata._  
+_Tutte le informazioni, le opinioni, i dati e i pareri espressi in questo articolo sono forniti a scopo puramente informativo e non devono essere interpretati come una raccomandazione all'investimento, un'offerta di acquisto o vendita di strumenti finanziari, o una sollecitazione al pubblico risparmio ai sensi della normativa vigente (es. TUF - Testo Unico della Finanza)._  
+_Prima di prendere qualsiasi decisione di investimento, è fondamentale consultare un intermediario o un consulente finanziario abilitato e qualificato che tenga conto della vostra specifica situazione finanziaria, dei vostri obiettivi e della vostra tolleranza al rischio. L'autore e il blog non si assumono alcuna responsabilità per eventuali perdite o danni derivanti dall'utilizzo delle informazioni qui contenute. Ogni decisione è a vostro rischio e pericolo._
