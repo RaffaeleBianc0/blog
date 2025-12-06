@@ -1,6 +1,7 @@
 ---
 title: "Password!"
 date: "2016-01-30"
+lastmod: '2024-12-23'
 categories: 
   - "tecnologia"
 tags: 
@@ -9,21 +10,47 @@ tags:
 image: "images/password.webp"
 ---
 
+
+
+# UPDATE 2024
+
+Rileggere questa pagina oggi mi fa sorridere: tutto il contenuto è ampiamente superato dall'**uso di un password manager, pratica che risolve praticamente tutti i problemi di password che possiamo avere**, ed è MOLTO più semplice rispetto all'adottare le abitudini di cui scrivevo qua sotto anni fa.
+
+Oggi uso [Bitwarden](https://bitwarden.com), gratuito, funziona su Windows + Android + online, ha estensioni per tutti i browser, si sincronizza dappertutto, e fa il backup dell'intero archivio su file locale con 2 click.  
+Oltre a login+password, ci salvo dentro qualunque mia informazione riservata: numero di CIE e patente, numeri di carte di credito, PIN vari, IBAN, codice della valigia, dell'antifurto, eccetera.  
+Quando mi serve una di queste informazioni so già dove trovarla: apro Bitwarden, autenticazione con impronta istantanea, una ricerca, e in 5 secondi risolvo.
+
+In più oggi ci sono le [passkey](https://it.wikipedia.org/wiki/Password#Passwordless_o_Passkey) che, quando è possibile usarle, aumentano ulteriormente la facilità e la sicurezza dell'autenticazione rispetto all'uso di login+password.
+
+Non ricordo il motivo per cui io nel 2016 usavo già un password manager (LastPass, poi diventato tristemente famoso per un data breach mal gestito), e nonostante questo ho perso tempo ad inventarmi uno schema mentale per generare password efficaci... una cosa rende inutile l'altra. Boh!
+
+Segue comunque il mio post originale nel 2016, che include anche qualche curiosità interessante con il link alle fonti.
+
+---
+
+# Il mio post originale del 2016
+
 Già vista la famosa e illuminante vignetta di [xkcd](https://xkcd.com/936/)? Eccola:
 
 ![correct horse battery staple](images/correct-horse-battery-staple.png)
 
 Molto probabilmente usi password _[corte](http://passwordresearch.com/stats/statistic374.html)_ e _[sempre uguali](http://passwordresearch.com/stats/statistic258.html)_. Dovresti pensarci! Ti racconto di come ci ho pensato io.
 
-# Per farla breve
+## Per farla breve
 
 Versione condensata di questo articolo:
 
-> Cambia la tua **_PASSWORD_** in qualcosa come _**...2016X...PASSWORD**_, su tutti i servizi online a cui tieni (email Facebook Twitter Linkedin banca eccetera). _**2016**_ è l'anno corrente (da cambiare dopo ogni capodanno), _**X**_ è l'iniziale del servizio dove hai l'account (F per Facebook, T per Twitter, eccetera), e _**PASSWORD**_ è la parte a tua scelta. Con uno schema di questo tipo, avrai password sufficientemente lunghe, diverse su ogni sito, aggiornate ogni anno, facili da inventare e da ricordare.
+> Cambia la tua **_PASSWORD_**  
+in qualcosa come **_...2016X...PASSWORD_**  
+su tutti i servizi online a cui tieni (email Facebook Twitter Linkedin banca eccetera).  
+_**2016**_ è l'anno corrente (da cambiare dopo ogni capodanno),  
+_**X**_ è l'iniziale del servizio dove hai l'account (F per Facebook, T per Twitter, eccetera),  
+_**PASSWORD**_ è la parte a tua scelta.  
+Con uno schema di questo tipo, avrai password sufficientemente lunghe, diverse su ogni sito, aggiornate ogni anno, facili da inventare e da ricordare.
 
 Se ti interessa il _perché_, continua a leggere!
 
-# Il problema
+## Il problema
 
 Ogni volta che guardiamo la mail sul telefono, rispondiamo a un messaggio su WhatsApp, o buttiamo l'occhio alle notifiche su Twitter, stiamo usando una password. Magari è memorizzata nel dispositivo, ma la stiamo usando! E lo facciamo con con una **frequenza** pazzesca, quotidianamente. Oltre alla frequenza, anche la **diffusione** è alta - almeno, parlo per me: il mio vault [LastPass](https://lastpass.com) conta 503 siti web dove ho un account. _Cinquecentotre_. Certo, molti siti non esisteranno più, e il 90% non li uso mai, ma ad ogni modo gli account a cui tengo davvero sono senz'altro qualche decina.
 
@@ -36,17 +63,22 @@ Mettendo insieme i punti 1+2, il risultato è immediatamente questo:
 
 > _Se uso la stessa password un po' dappertutto da 10 anni, e durante questi 10 anni mi hanno rubato uno qualunque di quegli account, allora tutti i miei account sono a rischio_.
 
-Suona male, vero?
+**Suona male, vero?**
 
-Poi probabilmente l'attaccante di turno userà uno strumento che, automaticamente, appena cracka con successo un account di (per esempio) Facebook, immediatamente prova la stessa combinazione "login/email + password" su GMail Twitter Linkedin Tumblr Instagram UniCredit BNL Fineco e altre centinaia di siti. E poi, su ciascuno di quelli dove il tentativo di login va a buon fine, sceglie: o si mette da parte l'accesso ottenuto "per usi futuri", oppure cambia immediatamente la password con una a sua scelta, tagliando fuori il legittimo proprietario. **Suona _molto_ male, vero?**
+Poi probabilmente l'attaccante di turno userà uno strumento che, automaticamente, appena cracka con successo un account di (per esempio) Facebook, immediatamente prova la stessa combinazione "login/email + password" su GMail Twitter Linkedin Tumblr Instagram UniCredit BNL Fineco e altre centinaia di siti.  
+E poi, su ciascuno di quelli dove il tentativo di login va a buon fine, sceglie: o si mette da parte l'accesso ottenuto "per usi futuri", oppure cambia immediatamente la password con una a sua scelta, tagliando fuori il legittimo proprietario.  
 
-Ora, è chiaro che i miei account non sono granché interessanti da rubare rispetto a quelli di un miliardario o di una star di Hollywood. **Ma non è questo il punto.** Il punto è che questi attacchi vengono quasi sempre eseguiti su milioni di account non necessariamente "selezionati": l'esposizione a questo rischio non è correlata al portafoglio, insomma. **Siamo _tutti_ a rischio**.
+**Suona _molto_ male, vero?**
 
-# A me è successo
+Ora, è chiaro che i miei account non sono granché interessanti da rubare rispetto a quelli di un miliardario o di una star di Hollywood.  
+**Ma non è questo il punto.**  
+Il punto è che questi attacchi vengono quasi sempre eseguiti su milioni di account non necessariamente "selezionati": l'esposizione a questo rischio non è correlata al portafoglio, insomma. **Siamo _tutti_ a rischio**.
+
+## A me è successo
 
 Un bel po' di anni fa mi sono trovato 4 acquisti completati su eBay, per un totale di più di 3000€ da pagare. Acquisti che ovviamente non avevo mai fatto. Ho parlato con altre 2 persone a cui è successo, e che sono dovute passare attraverso una denuncia alla Polizia Postale per risolvere. Io sono stato più fortunato perché ho risolto semplicemente seguendo le procedure di segnalazione con eBay, però ho dovuto comunque dedicare un paio d'ore a capire quali fossero queste procedure e ad applicarle. **Avevo una password debole**, fatta solo di 9 lettere minuscole (che ovviamente ho cambiato in quell'occasione, anche perché eBay al tempo possedeva PayPal e... non si sa mai). Ma quello che era peggio è che **la stessa password l'avevo usata per _decine_ di account** su altri siti. Quindi, oltre alle 2 ore perse per eBay, ho dovuto dedicare qualche altra ora per fare il "giro" dei miei account a cambiare la password. Davvero un modo poco interessante di passare il tempo!
 
-# Le password _dovrebbero_ essere...
+## Le password _dovrebbero_ essere...
 
 Il problema n°1 delle password, "lato utente", è che devono essere **[facili da ricordare](http://passwordresearch.com/stats/statistic262.html)**. E questa caratteristica fa a botte con tutte le caratteristiche che invece sono raccomandabili, e che sono più o meno queste:
 
@@ -66,7 +98,7 @@ Il problema n°1 delle password, "lato utente", è che devono essere **[facili d
 
 Insomma creare delle password "sicure" sembra una **gigantesca rottura di scatole**, vero? :-)
 
-# La mia soluzione
+## La mia soluzione
 
 Ho pensato a una soluzione semplice, che consente allo stesso tempo
 
@@ -76,11 +108,11 @@ Ho pensato a una soluzione semplice, che consente allo stesso tempo
 
 L'idea è quella di cambiare la nostra attuale
 
-> ### _PASSWORD_
+> _PASSWORD_
 
 con qualcosa simile a
 
-> ### _...2016F...PASSWORD_
+> _...2016F...PASSWORD_
 
 ... perché:
 
@@ -100,7 +132,7 @@ con qualcosa simile a
 - La cambiamo 1 volta all'anno, e siamo indotti a farlo "automaticamente" mentre la digitiamo, ma soprattutto è **_comoda_ da cambiare**, perché non costringe a inventarsi nulla di esoterico: lo schema è sempre uguale, e il cambiamento di un solo carattere da "2016" a "2017" ha le stesse conseguenze positive sull'hash già scritte più sopra.
 - E' **sufficientemente lunga**, perché alla vostra _PASSWORD_ stiamo aggiungendo almeno 11 caratteri, quindi il totale è sicuramente >14 caratteri. Ottimo anche per quei (rari) siti più attenti che chiedono password lunghe almeno 12 caratteri.
 
-# Varianti e aggiunte
+## Varianti e aggiunte
 
 **PIN** Se ti piace di più, invece di una _PASSWORD_ puoi usare il _PIN_ del tuo telefono, ottenendo qualcosa come _**...1234...2016F**_ che totalizza comunque 15 caratteri e mantiene tutte le caratteristiche che ho descritto. Meno robusta perché c'è solo una lettera, ma tutto sommato adeguata. Magari usa più punti: in _**.....1234.....2016F**_ ci sono 19 caratteri.
 
@@ -112,7 +144,7 @@ con qualcosa simile a
 
 **LASTPASS** Per gestire le mie password in maniera comoda mentre sono al PC uso [LastPass](http://www.LastPass.com), che offre una serie di funzionalità eccellenti tra cui la compilazione automatica, l'eventuale generazione automatica di password sicure, un check del livello di sicurezza delle proprie password, indicazioni sul fatto che la stessa password sia usata su più siti, eccetera eccetera. Preferisco questo strumento, invece che memorizzare le password direttamente nel browser. Forse però sarebbe più sensato abbandonare anche questo strumento e adottare solamente la soluzione mnemonica che propongo in questo articolo, per evitare ulteriori possibilità di furto dei propri dati... ci penserò.
 
-# Link
+## Link
 
 Ecco qualche link correlato a quanto ho scritto:
 
@@ -120,7 +152,7 @@ Ecco qualche link correlato a quanto ho scritto:
 - [GRC "How big is your haystack?"](https://www.grc.com/haystack.htm): circa come sopra, ma più dettagliato, e soprattutto contiene molte considerazioni interessanti sul tema.
 - [PasswordResearch.com](http://passwordresearch.com/): soprattutto la pagina delle [Statistics](http://passwordresearch.com/stats/statindex.html#User Password Practices), per farsi un'idea di massima dei comportamenti, e il [blog](http://blog.passwordresearch.com/).
 
-# Conclusioni
+## Conclusioni
 
 Mi è sembrata un'idea semplice da mettere in pratica, ma allo stesso tempo efficace.
 

@@ -1,6 +1,6 @@
 ---
 title: "tecnologia"
-description: "Cose tecnologiche, sì insomma roba da nerd."
+description: "Cose tecnologiche, roba perlopiù da nerd."
 slug: "tecnologia"
 image: "categoria.jpg"
 style:

@@ -7,55 +7,70 @@ categories:
 image: "images/hugo-logo.png"
 ---
 
-Ti scrivo della costruzione di questo blog.  
-Sarà un post un po' tecnico, ma non troppo.
+In questo post ti racconto della ristrutturazione di questo blog nella forma attuale.
 
 # Cosa e quando
 
 Fino al 2024 questo blog era hostato su [Wordpress.com](http://Wordpress.com), se vuoi ho scritto una paginetta sulla [storia di questo sito](/blog/p/storia-di-questo-sito-web) dove ne parlo.
 
-A inizio 2024 ho scoperto gli [SSG](https://en.wikipedia.org/wiki/Static_site_generator), una categoria di software che consentono di trasformare contenuti scritti in [Markdown](https://en.wikipedia.org/wiki/Markdown) in siti web veloci e con le funzionalità che servono ad un blog.  
-In un web dove tante cose sono inutilmente ricche e complicate, mi ha un po' spiazzato scoprire che c'è ancora spazio per i siti web statici, una modalità che pensavo praticamente sparita dall'avvento del Web 2.0 dei primi anni 2000.
+A inizio 2024 ho scoperto dell'esistenza degli [SSG](https://en.wikipedia.org/wiki/Static_site_generator), che sono software che trasformano contenuti scritti in [Markdown](https://en.wikipedia.org/wiki/Markdown) in siti web veloci e con le funzionalità che servono ad un blog.  
+Mi ha colpito scoprire che c'è ancora spazio per i siti web statici, una tipologia che pensavo praticamente sparita dall'avvento del Web 2.0 dei primi anni 2000.
 
-Ci ho messo un po' di giorni a capire quale dei tanti SSG esistenti fosse quello su cui puntare, cioè quello aggiornato recentemente e regolarmente, e con una user-base la più estesa possibile, per chiedere aiuto nel caso servisse. Ha vinto [Hugo](https://gohugo.io).
+Ci ho messo un po' di giorni a capire quale dei tanti SSG esistenti fosse quello su cui puntare, cioè quello aggiornato recentemente e regolarmente, e con una user-base la più estesa possibile per chiedere aiuto nel caso servisse.  
 
-Lo ho scaricato (è un singolo eseguibile portable, che ho installato tramite [Scoop](https://scoop.sh)), ho subito provato a creare un micro-sito di prova in locale, ci ho messo meno di quanto pensassi e mi è piaciuto.
+Ha vinto [Hugo](https://gohugo.io).
+
+Lo ho scaricato (è un singolo eseguibile portable), ho subito provato a creare un micro-sito di prova in locale, ci ho messo meno di quanto pensassi e mi è piaciuto.
+
+
 
 # Perché
 
 Ho trasformato il mio blog da Wordpress a Hugo per questi motivi.
 
+
+
 ## Pubblicità
 
-Prima di tutto, sbarazzarmi della pubblicità.
+Prima di tutto, **sbarazzarmi della pubblicità**.
 
 Questo è un piccolo blog, e non mi serve chissà quale servizio per ospitarlo, basta il minimo, e il minimo quando si tratta di Wordpress significa Wordpress.com, che per offrire il suo servizio gratuito infarcisce di stramaledetta pubblicità ogni pagina di quello che scrivi.
 
-Ora, sarà la vecchiaia non lo so, ma la data economy basata sulla profilazione degli utenti a me sta dando sempre più fastidio, quindi liberarmene è stato il motivo numero 1 per la transizione a Hugo.
+Sarà la vecchiaia, ma **l'economia dell'attenzione e il sovraccarico di pubblicità che contribuisce ad alimentare mi sono diventati intollerabili**, quindi liberarmi della pubblicità almeno nelle _mie_ pagine è stato il motivo numero 1 per la transizione a Hugo.
+
+
 
 ## Performance
 
-Il motivo numero 2 sono le performance: le pagine statiche generate da Hugo si caricano in un istante, e va tutto veloce.  
+Il motivo numero 2 sono le performance: **le pagine statiche generate da Hugo si caricano in un istante**, e va tutto veloce.  
 Wordpress invece, che è un sistema super articolato per gestire siti dinamici, ad ogni click va ad interrogare un database e a costruire la pagina dinamicamente, e ci mette del tempo, lo senti quando fai click, e dopo tre click lo odi.  
-Io ho un semplice blog, i contenuti sono quelli che pubblico e sono statici, cioè non cambiano fino alla prossima pubblicazione, non mi serve un database sotto né potenza di elaborazione lato hosting per generare le pagine da zero ogni volta che il lettore clicca un link.  
+Io ho un semplice blog, i contenuti sono quelli che pubblico e sono statici, cioè non cambiano fino alla prossima pubblicazione, quindi non mi serve un database sotto né potenza di elaborazione lato hosting per generare le pagine da zero ogni volta che il lettore clicca un link.  
 Il 1996 è passato da un pezzo, oggi non è ammissibile dover *aspettare* per caricare una banale pagina web con testo e un paio di immagini.
+
+
 
 ## Markdown
 
-Motivo 3: poter editare i miei contenuti in locale, scrivendoli in Markdown dentro a [VS Code](https://code.visualstudio.com), con la sua strepitosa integrazione con [GitHub](https://github.com/RaffaeleBianc0) e tante altre funzionalità comode, ma potenzialmente anche con un qualunque editor di testo leggero che sul mio vetusto [IBM Thinkpad X60]({{< ref "pc-maggiorenne.md" >}}) sicuramente vanno meglio.
+Motivo 3: poter editare i miei contenuti in locale, scrivendoli in Markdown dentro a [VS Code](https://code.visualstudio.com), con la sua ottima integrazione con [GitHub](https://github.com/RaffaeleBianc0), ma potenzialmente anche con un qualunque editor di testo leggero da usare nel mio vetusto [IBM Thinkpad X60]({{< ref "pc-maggiorenne.md" >}}).
 
 Scrivere in Markdown usando un editor di testo, invece che scrivere direttamente in un editor [WYSIWYG](https://it.wikipedia.org/wiki/WYSIWYG) come quello di Wordpress, è un'esperienza particolare.  
-Per l'editor di testo, senza troppi pulsanti e menu, con la font a spaziatura fissa, senza automatismi, correzioni automatiche, stili, e tutte le altre cose che fanno parte della moderna stesura di testi al computer, è un po' come la versione moderna della macchina da scrivere, tiene l'occhio e la mente libera da distrazioni, e scrivo con più gusto, che alla fine è il motivo #1 di esistenza di questo blog.
+L'editor di testo, senza troppi pulsanti e menu, con la font a spaziatura fissa, senza automatismi, correzioni automatiche, stili, e tutte le altre cose che fanno parte della moderna stesura di testi al computer, è un po' come la versione moderna della macchina da scrivere: tiene l'occhio e la mente libera da distrazioni, e finisce che scrivo con più gusto.
 
-Il Markdown lo stavo già usando da un bel po', sia per rendere un po' più ricchi e strutturati i piccoli file di testo sparsi ovunque quando si lavora con i computer, sia soprattutto nell'uso quotidiano di [Obsidian](http://obsidian.md) che accompagna la mia vita lavorativa degli ultimi anni.
+Il Markdown lo stavo già usando da un bel po', sia per rendere un po' più strutturati i piccoli file di testo sparsi ovunque quando si lavora con i computer, sia soprattutto nell'uso quotidiano di [Obsidian](http://obsidian.md) che accompagna la mia vita lavorativa degli ultimi anni.
+
+
 
 ## Imparare
 
 Al quarto posto come motivo ci metto la voglia di imparare i rudimenti di Hugo di per sé, come tecnologia e approccio diversi per pubblicare contenuti.
 
+
+
 # Come
 
 Per passare da Wordpress allo stato attuale del blog, ho fatto un po' di lavoro.
+
+
 
 ## Export e conversione
 
@@ -63,6 +78,8 @@ Prima di tutto ho esportato tutto il contenuto da Wordpress su un file XML, c'è
 
 Poi ho usato [questo script](https://github.com/lonekorean/wordpress-export-to-markdown) per convertire l'XML in una struttura di file Markdown compatibile con Hugo.  
 Lo script si è preoccupato anche di fare il download delle immagini dal mio blog Wordpress, posizionandole in modo ordinato e linkandole correttamente nei file Markdown generati.
+
+
 
 ## Tema 
 
@@ -77,7 +94,7 @@ Ho scelto un [tema per Hugo](https://themes.gohugo.io) che mi piaceva ([Stack](h
 ... ed alcune che non mi aspettavo ma che ho apprezzato:
 
 * **gestione immagini** automatica (resize e carosello) 
-* **light/dark mode** (a me piace dark, ma magari sotto al sole si legge meglio light)
+* **light/dark mode** (a me piace dark, ma magari sotto all'ombrellone in spiaggia si legge meglio light)
 * **feed RSS** automatico (qualcuno li usa ancora?)
 
 Un po' di studio online e di esperimenti la sera, e a meno di qualche dettaglio questa nuova versione del sito era già pronta e navigabile in locale sul mio PC dopo poche ore.
@@ -86,14 +103,13 @@ Un po' di studio online e di esperimenti la sera, e a meno di qualche dettaglio 
 
 Per pubblicare il blog compilato con Hugo, inizialmente ho fatto il banale upload nel mio spazio FTP come facevo 30 anni fa, ma ho scoperto presto due approcci più raffinati.
 
-Per primo [**Rclone**](http://rclone.org), un potente tool da linea di comando per trasferire file verso le destinazioni più diverse, tra cui anche un banale spazio FTP come nel mio caso.  
-Ho preparato un piccolo script così da poter sincronizzare il mio blog dalla cartella "public" locale all'FTP con un click.
+Per primo [**Rclone**](http://rclone.org), un potente tool da linea di comando per sincronizzare file e cartelle con le destinazioni più diverse, tra cui anche un normale spazio FTP come nel mio caso.  
 
 Dopo poco tempo però scopro il metodo che sto usando adesso, che aggiunge a tutto il workflow qualche feature che credevo di aver perso abbandonando Wordpress:
 
 1. Modifico i miei file Markdown in locale usando VS Code, che è già il mio editor di testo preferito praticamente da quando è stato rilasciato nel 2015.  
 
-1. Con l'integrazione GitHub installata in VS Code, con un click faccio l'upload dei file nuovi e modificati nel mio repository privato "blog" su GitHub, che significa ottenere in automatico questi vantaggi:
+1. Con l'integrazione GitHub installata in VS Code, con un click faccio l'upload dei file nuovi e modificati nel mio repository privato su GitHub, che significa ottenere in automatico questi vantaggi:
     * **backup** online di tutti i file sorgente del blog
     * **versionamento** di ogni file (posso tornare indietro nella storia se qualcosa non mi piace o si rompe)
     * **editor VS Code online** per modificare i miei file da qualunque computer e aggiornare così il blog anche quando non ho il mio PC, basta premere il punto [.] sulla tastiera mentre stai visualizzando un file. Spettacolo!   
@@ -101,7 +117,7 @@ Dopo poco tempo però scopro il metodo che sto usando adesso, che aggiunge a tut
 1. Una [**GitHub Action**](https://github.com/features/actions) fa la magia ogni volta che il mio repository "sente" una modifica, e automaticamente fa queste cose in background in un paio di minuti:
     * installa l'ultima versione di Hugo in una VM di GitHub
     * ricompila in quella VM il blog
-    * fa l'upload dei soli file risultato aggiunti e modificati sul mio FTP (questo modulo ogni tanto dà errore, ma amen, riprovando funziona sempre)  
+    * fa l'upload dei soli file risultato aggiunti e modificati sul mio FTP (questo modulo ogni tanto dà errore, ma amen, prima o poi funziona sempre)  
 
 Sì, adoro quando i computer lavorano per me.
 
@@ -146,10 +162,13 @@ jobs:
 
 Cercando il modo di avere la ToC anche nella versione mobile del blog (che di default è assente nel tema Stack), ho poi trovato alcune informazioni per applicare sia quella che altre modifiche interessanti al tema, su [MomentoDiMezzo.com](https://momentodimezzo.com/en/p/blog-customization) e su [LucasLifes.com](https://blog.lucaslifes.com/categories/hugo-blog/).
 
-Mi sono anche fatto aiutare parecchio da Copilot integrato in VS Code per fare alcune modifiche minori che, senza una AI di supporto, non sarei mai stato capace di fare in tempi ragionevoli - ad esempio l'evidenziatura completa dei link al passaggio del mouse nel corpo del testo e nella ToC, ma non in altri punti. Per inciso, vedere come l'AI ha analizzato l'intero progetto Hugo e ha applicato le modifiche dove necessario, tutto direttamente in VS Code, mi ha lasciato senza parole.
+Mi sono anche fatto aiutare parecchio da **Copilot integrato in VS Code** per fare alcune modifiche minori che, senza una AI di supporto, non sarei mai stato capace di fare in tempi ragionevoli - ad esempio l'evidenziatura completa dei link al passaggio del mouse nel corpo del testo e nella ToC, ma non in altri punti.  
+Per inciso, vedere come l'AI ha analizzato l'intero progetto Hugo e ha applicato le modifiche dove necessario, tutto direttamente in VS Code, mi ha lasciato senza parole.
+
+
 
 # Godo
 
-Insomma ho scavalcato i limiti di Wordpress e oggi posso dire che le funzionalità e l'estetica di questo blog sono finalmente quelle che volevo.  
+Insomma ho scavalcato i limiti di Wordpress e posso dire che **oggi le funzionalità e l'estetica di questo blog sono proprio quelle che volevo**.  
 
 Anche il viaggio per arrivare qui è stato molto stimolante, perché ho conosciuto e usato qualche strumento che prima avevo solo sentito nominare (Hugo, GitHub, Rclone, Copilot in VS Code).

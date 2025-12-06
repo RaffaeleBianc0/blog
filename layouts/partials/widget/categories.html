@@ -6,11 +6,19 @@
      </div>
      <h2 class="widget-title section-title">{{ T "widget.categoriesCloud.title" }}</h2>
      <div class="category-label">
-         {{ range first $limit $context.Site.Taxonomies.categories.ByCount }}
-        <a href="{{ .Page.RelPermalink }}" class="font_size_{{ .Count }}"
-            style="border-left-color: {{ .Page.Params.style.background }}; filter:saturate(1.7);">
-            {{ .Page.Title }}<span class="category-count">{{ .Count }}</span>
-        </a>
+        {{ $categoryNames := slice }}
+        {{ $categories := dict }}
+        {{ range $key, $value := $context.Site.Taxonomies.categories }}
+            {{ $categoryNames = $categoryNames | append $key }}
+            {{ $categories = $categories | merge (dict $key $value) }}
+        {{ end }}
+        {{ $sorted := sort $categoryNames }}
+        {{ range first $limit $sorted }}
+            {{ $cat := index $categories . }}
+            <a href="{{ $cat.Page.RelPermalink }}" class="font_size_{{ $cat.Count }}"
+                style="border-left-color: {{ $cat.Page.Params.style.background }}; filter:saturate(1.7);">
+                {{ $cat.Page.Title }}<span class="category-count">{{ $cat.Count }}</span>
+            </a>
         {{ end }}
      </div>
 </section>

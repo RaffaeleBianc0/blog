@@ -128,11 +128,11 @@ type = "archives"
 type = "toc"
 
 [params.opengraph.twitter]
-site = "" # Your Twitter username
+site = "raffaelebianco" # Your Twitter username
 card = "summary_large_image" # Available values: summary, summary_large_image
 
 [params.defaultImage.opengraph]
-enabled = false
+enabled = true
 local = false
 src = ""
 
@@ -164,7 +164,7 @@ content.enabled = true
 #   newTab = true
 
 [[menu.main]]
-name = 'Home'
+name = 'RaffaeleBianco.it'
 url = '/../'  # Punta a www.raffaelebianco.it
 weight = -999
 identifier = "home"
@@ -184,29 +184,34 @@ identifier = "facebook"
 name = "Facebook"
 url = "http://facebook.com/RaffaeleBianco"
 params.icon = "brand-facebook"
+weight = 111
 
 [[menu.social]]
 identifier = "instagram"
 name = "Instagram"
 url = "http://instagram.com/RaffaeleBianc0"
+weight = 666
 params.icon = "brand-instagram"
 
 [[menu.social]]
 identifier = "youtube"
 name = "YouTube"
 url = "http://youtube.com/RaffaeleBianco"
+weight = 777
 params.icon = "brand-youtube"
 
 [[menu.social]]
 identifier = "ytmusic"
 name = "YouTube Music"
 url = "http://music.youtube.com/channel/UCMwsz2fHAaRfeoezKfp0I0g"
+weight = 888
 params.icon = "youtube-music"
 
 [[menu.social]]
 identifier = "linkedin"
 name = "Linkedin"
 url = "http://linkedin.com/in/RaffaeleBianco"
+weight = 999
 params.icon = "brand-linkedin"
 
 # [[menu.social]]

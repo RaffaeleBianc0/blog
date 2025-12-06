@@ -493,3 +493,16 @@ Dopo aver impostato tutto come descritto sopra, ogni mese dopo l’accredito del
 
 Al netto del tempo dedicato ad informarmi, e una volta aperto CD, FP e conto titoli, oggi **questa gestione mi occupa indicativamente un quarto d'ora al mese**: il tempo di verificare i saldi nelle app, ripetere un bonifico del mese precedente cambiando solo l'importo, e impostare il prossimo investimento del PAC Directa in modo che vengano acquistati gli importi corretti degli ETF che ho a portafoglio.
 
+
+
+# Disclaimer
+
+Come tutti i contenuti divulgativi che parlano di questi argomenti, anche qui devo specificare quanto segue.
+
+AVVISO IMPORTANTE: Il contenuto non è e non costituisce in alcun modo una consulenza finanziaria personalizzata.
+
+Tutte le informazioni, le opinioni, i dati e i pareri espressi in questo articolo sono forniti a scopo puramente informativo e non devono essere interpretati come una raccomandazione all'investimento, un'offerta di acquisto o vendita di strumenti finanziari, o una sollecitazione al pubblico risparmio ai sensi della normativa vigente (es. TUF - Testo Unico della Finanza).
+
+Prima di prendere qualsiasi decisione di investimento, è fondamentale consultare un intermediario o un consulente finanziario abilitato e qualificato che tenga conto della vostra specifica situazione finanziaria, dei vostri obiettivi e della vostra tolleranza al rischio. L'autore e il blog non si assumono alcuna responsabilità per eventuali perdite o danni derivanti dall'utilizzo delle informazioni qui contenute. Ogni decisione è a vostro rischio e pericolo.
+
+Ecco, pippone legalese finito, forse non serviva ma comunque _better safe than sorry_.
