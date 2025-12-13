@@ -4,7 +4,7 @@ date: "2025-10-05"
 lastmod: '2025-12-06'
 categories: 
   - "finanza personale"
-image: "images/finanza-personale.jpg"
+image: "images/cover.png"
 # draft: true
 ---
 

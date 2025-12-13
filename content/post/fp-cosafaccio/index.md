@@ -4,31 +4,27 @@ date: "2025-10-06"
 lastmod: '2025-12-06'
 categories: 
   - "finanza personale"
-image: "images/finanza-personale.jpg"
+image: "images/cover.png"
 # draft: true
 ---
 
 
 
-Usando gli ingredienti descritti nel post #TODO, ecco qua sotto la mia "ricetta".  
+Usando gli ingredienti del post [Strumenti per la finanza personale]({{< ref "fp-strumenti.md" >}}), ecco qua sotto la mia ricetta.  
 
-La disciplina è importante, quando si tratta di investire.  
-Per chi è indisciplinato come me, la soluzione migliore per mantenere la rotta è avere uno schema semplice da seguire in modo quasi automatico, senza doverci pensare.  
-Questo è il mio schema.
-
-Ovviamente è solo il mio personale metodo, e non è un suggerimento su cosa dovresti fare tu.
+Per chi è indisciplinato come me la soluzione migliore per mantenere la rotta è avere uno **schema semplice da seguire in modo quasi automatico**, senza doverci pensare.  
 
 
 
 # Impostazione iniziale
 
-Prima di spostare il primo euro, ho predisposto tutto il necessario:
+Prima di spostare un euro, ho predisposto tutto il necessario:
 
 * **Formazione:** ho ascoltato The Bull (le prime 25 puntate circa sono quelle fondamentali), e ho guardato il corso "Educati e finanziati" di Coletti su YouTube.  
 
 * **Chiusura posizioni precedenti**: Ho analizzato i prospetti informativi di un paio di prodotti di investimento che avevo acquistato anni fa senza informarmi opportunamente, ho confrontato i rendimenti ed i costi con quelli attesi dagli investimenti in FPA ed ETF, ed è emersa la conclusione limpida: meglio chiudere tutto e spostare il capitale investito su ETF, prima di farmi mangiare ulteriori rendimenti da costi ricorrenti davvero troppo alti.  
 
-* **Estinzione di debiti/finanziamenti**: Non era il mio caso, ma in questa fase iniziale ci metterei anche questo, tranne l'eventuale mutuo casa se fatto ad un tasso inferiore a quello attuale della BCE: inutile pensare ad investire per portare a casa un rendimento positivo, se dall'altra parte ci sono finanziamenti con un tasso di interesse che combatte contro questo rendimento. 
+* **Estinzione di debiti/finanziamenti**: Non era il mio caso, ma in questa fase iniziale ci metterei anche questo passaggio, tranne l'eventuale mutuo casa se fatto ad un tasso inferiore a quello attuale della BCE.  Inutile pensare ad investire per portare a casa un rendimento positivo, se dall'altra parte ci sono finanziamenti per i quali paghiamo un tasso di interesse che combatte contro questo rendimento. 
 
 * **Conto corrente**: Tengo il conto che ho già, nonostante sia più costoso di tanti altri disponibili. La banca è tra le più solide in Italia, quindi sono a posto così per ora.  
 Segnalo solo che il trasferimento di un conto corrente ad un altro istituto è gratuito per legge e la nuova banca si occupa di tutto, compreso il trasloco delle domiciliazioni (già sperimentato personalmente anni fa). Resteranno comunque da fare un po' di pratiche come l'attivazione delle nuove carte di debito e di credito e la relativa associazione a PayPal Amazon e simili, prima di chiudere definitivamente il vecchio conto. [Deposifire.com](http://Deposifire.com) può aiutare nella scelta del nuovo conto corrente.

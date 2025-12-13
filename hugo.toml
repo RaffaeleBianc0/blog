@@ -146,7 +146,7 @@ content.enabled = true
 
 
 
-### Custom menu
+### MENU
 ### See https://stack.jimmycai.com/config/menu
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 ### ICONE: https://tabler.io/icon, SVG da scaricare in assets/icons.
