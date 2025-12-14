@@ -22,21 +22,35 @@ Oggi è scontato avere tutto in tasca, ma nel '96, seduto davanti a un computer,
 Ricordo ancora l'**euforia dei primi scambi di messaggi sui** [**newsgroup Usenet**](https://it.wikipedia.org/wiki/Newsgroup) con ignoti che vivevano chissà dove nel mondo, discutendo di batteria, tramite un software a caratteri che si chiamava [Pine](https://en.wikipedia.org/wiki/Pine_(email_client))... era tutto incredibile, per me che passavo dal paesetto di 20mila abitanti alla città con centinaia di studenti e questo accesso ad un universo parallelo, ogni nazione sembrava vicina, a portata di mano, ogni persona raggiungibile, lo raccontavo con entusiasmo ma in pochi capivano.
 
 Appena ho realizzato che potevo avere un mio sito personale online ho imparato a farmelo.  
-**Scrivevo in HTML a mano con un editor di testo**, forse addirittura prima di scoprire gli editor con la colorazione della sintassi. Purtroppo non ho più una copia di quella versione primordiale, anche se me la ricordo vagamente con i suoi pulsanti colorati sulla sinistra.
+**Scrivevo in HTML a mano con un editor di testo**, forse addirittura prima di scoprire gli editor con la colorazione della sintassi.  
 
-Al tempo non li chiamavamo ancora "blog", penso non esistesse ancora questo concetto, li chiamavamo proprio "siti web", e per non spendere neanche una lira li pubblicavamo negli hosting gratuiti (io ricordo che usai [Lycos](https://it.wikipedia.org/wiki/Lycos)) che, ovviamente, innestavano banner pubblicitari un po' ovunque per ripagarsi le spese.
+Al tempo non li chiamavamo ancora "blog", penso non esistesse ancora questo concetto, li chiamavamo proprio "siti web".
 
-Poco tempo dopo quella prima versione, rimasi favorevolmente colpito da Frontpage (orrore!) con il quale pensavo di migliorare ed estendere il mio sito con qualche automatismo in più. Pessima decisione:
+Purtroppo non ho più una copia di quella versione primordiale, anche se me la ricordo vagamente con i suoi pulsanti colorati sulla sinistra.  
+Negli [snapshot fatti da Internet Archive](https://web.archive.org/web/20000711041401/http://www.dei.unipd.it/~raff/index.htm) mancano quasi tutti gli elementi grafici, è rimasto solo il testo.
+
+La prima pubblicazione la feci nello spazio web fornito gratuitamente dall'Università di Padova agli studenti.  
+Poi una volta lasciata l'Università ricordo che spostai tutto il contenuto prima su [Lycos](https://it.wikipedia.org/wiki/Lycos) e poi su Tiscali, che come tanti altri fornivano hosting gratuito in cambio di un po' di spazio nelle tue pagine dove infilare banner pubblicitari.
+
+
+
+# 2000: Frontpage
 
 ![](images/2000homepage.png)
 
-Presto sostituii Frontpage con Dreamweaver e persi ore preziose tentando di semplificare le porcherie nel codice HTML prodotto dall'editor Microsoft che chi ci ha lavorato ricorderà sicuramente.  
+Ad un certo punto rimasi favorevolmente colpito da Frontpage (orrore!) con il quale pensavo di migliorare ed estendere il mio sito con qualche automatismo in più. Pessima decisione!
 
-Nel 2004 ripresi tutto il sito per farlo a mano senza FrontPage né Dreamweaver, e puntando al minimalismo - pochi colori, menu senza struttura, cose così:
+Qualche tempo dopo sostituii Frontpage con Dreamweaver e persi ore preziose tentando di pulire le porcherie nel codice HTML prodotto dall'editor Microsoft che chi ci ha lavorato ricorderà sicuramente.
+
+
+
+# 2004: minimalismo
 
 ![](images/2004gardenpage.png)
 
-Ho ancora la mia Garden-Page zippata, se mi salta il matto pubblico le pagine qua dentro un giorno.
+Nel 2004 ripresi tutto il sito per farlo a mano senza FrontPage né Dreamweaver, e puntando al minimalismo, con pochi colori e il menu senza struttura.
+
+Ho ancora questa versione zippata, se mi salta il matto pubblico le pagine qua dentro un giorno.
 
 
 
@@ -80,10 +94,10 @@ Nel frattempo mi iscrivevo a Facebook e a decine di altre piattaforme Web 2.0 ne
 
 Parlando con un collega, mi suggerisce [Tophost](https://www.tophost.it) per avere un minimo di spazio online a costi davvero bassi.
 
-Quindi decido di traslocare la gestione del dominio e di **pubblicare intanto una banale landing page** simile alle migliaia che oggi si trovano fatte con [Linktr.ee](https://linktr.ee/raffaelebianco) e relativi cloni.
+Quindi decido di traslocare la gestione del dominio e di **pubblicare intanto una banale landing page** simile alle migliaia che oggi si trovano fatte con [Linktr.ee](https://linktr.ee/raffaelebianco) e relativi cloni, proprio perché ormai le poche cose che pubblicavo erano tutte nelle piattaforme mainstream (Facebook YouTube eccetera) e non mi interessava avere qualcosa più di un singolo punto di approdo da linkare alla bisogna.
 
 Per l'occasione ho studiato e provato qualche template HTML5 gratuito, ne ho trovati alcuni di molto ben fatti.  
-In quel periodo ho pensato spesso di fare un sito in formato "pagina unica", dove tutto si carica in una unica operazione e basta usare il menu per spostarsi da una zona all'altra. Considerato che avevo pochissimi contenuti, mi sembrava una soluzione snella, ma non mi ci sono mai messo.
+In quel periodo ho pensato spesso di mettere insieme un piccolo sito _single-page_, dove tutto si carica in una unica operazione e basta usare il menu per spostarsi da una zona all'altra. Considerato che avevo pochissimi contenuti, mi sembrava una soluzione snella, ma non mi ci sono mai messo.
 
 Mi sono però dedicato a **perfezionare la mia homepage**: ho smanettato un po' con i CSS, ho scoperto [Font Awesome](https://fontawesome.com), ho scovato e incorporato un paio di JavaScript già pronti per l'uso, e alla fine ne è uscita la **homepage che c'è ancora oggi su** [**RaffaeleBianco.it**](http://www.RaffaeleBianco.it).
 

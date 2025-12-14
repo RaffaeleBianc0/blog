@@ -17,7 +17,7 @@ In questo post raccolgo "pillole" sul tema della finanza personale: **micro-rias
 # Il trading non c'entra
 
 **La finanza personale non è "giocare in borsa"**.  
-Sono temi adiacenti perché bisogna comunque avere a che fare con i mercati finanziari, ma con due approcci che penso siano l’uno l’opposto dell’altro:
+Sono due temi simili solo perché in entrambi c'entrano i mercati finanziari, ma i due approcci sono l’uno l’opposto dell’altro:
 
 * **Finanza personale** = pianificazione, investimento, lungo periodo, rischio controllabile, necessaria a tutti, se non ci pensi stai facendo la cosa sbagliata ([questo articolo di MoneyFarm](https://blog.moneyfarm.com/it/investimenti/benessere-finanziario-e-salute-mentale-due-facce-della-stessa-medaglia/#10ffd276-4aa4-417d-8322-e04445708d3a) cita una revisione sistematica di 37 ricerche che vanno a fondo sul tema).  
 
