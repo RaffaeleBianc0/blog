@@ -30,7 +30,7 @@ Sono due temi simili solo perché in entrambi c'entrano i mercati finanziari, ma
 **"*Se hai dei soldi allora stai già investendo*"**, ha detto qualcuno.    
 
 Tenere i risparmi fermi "sotto al materasso" o nel conto corrente **è una scelta di investimento**, probabilmente inconsapevole, ma comunque una scelta, che ti garantisce una **perdita** di potere d’acquisto (pari all’[inflazione](https://economiapertutti.bancaditalia.it/strumenti/glossario/inflazione/)) **piccola ma regolare e sicura al 100%**. E più soldi hai fermi più stai perdendo valore.  
-Distinguere tra **valore nominale** e **valore reale** è importante quando si parla di soldi: lo spiega bene la [Banca d'Italia](https://economiapertutti.bancaditalia.it/notizie-e-rubriche/in-parole-semplici/inflazione/index.html).  
+Distinguere tra **valore nominale** e **valore reale** è importante quando si parla di soldi: lo spiega bene [questa pagina della Banca d'Italia](https://economiapertutti.bancaditalia.it/notizie-e-rubriche/in-parole-semplici/inflazione/index.html).  
 Per esempio, **negli ultimi 30 anni il potere di acquisto dei soldi in Italia si è dimezzato**, cioè se hai messo via una cifra 30 anni fa senza investirla, "i contanti al sicuro in cassaforte" per capirci, hai fatto un errore bello grosso perché oggi ci compri circa **metà cose** rispetto a 30 anni fa: puoi verificarlo guardando i dati storici ufficiali [pubblicati dall’ISTAT](https://rivaluta.istat.it).  
 
 Per inciso, l’entrata in vigore dell’Euro nel 2002 non ha avuto impatti sull'inflazione, cioè **non è vero che passando dalla Lira all'Euro i prezzi sono raddoppiati**, come invece pensano in molti.  

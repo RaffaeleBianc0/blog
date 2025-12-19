@@ -30,12 +30,13 @@ Ho analizzato i prospetti informativi di un paio di prodotti di investimento che
 ## Estinzione debiti + eventuale surroga mutuo casa
 Non era il mio caso, ma in questa fase iniziale ci metterei anche questo passaggio.
 Inutile pensare ad investire per portare a casa un rendimento positivo, se dall'altra parte ci sono finanziamenti per i quali paghiamo un tasso di interesse che combatte contro questo rendimento.  
-Riguardo al mutuo casa, se il tasso del tuo mutuo in corso è superiore di qualche zerovirgola rispetto ai preventivi che puoi fare online, allora è senz'altro opportuno chiedere alla tua banca di rivedere le condizioni in modo da allinearsi, altrimenti con pochissimo sforzo e zero spese (grazie al Decreto Bersani - cfr. [Wikipedia](https://it.wikipedia.org/wiki/Decreto_Bersani_bis#Surroga_dei_mutui_a_costo_zero) e [il decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-01-31;7) all'articolo 8) puoi surrogare il mutuo trasferendolo alla banca che ti offre il miglior TAEG oggi. Tutti gli altri parametri sono sostanzialmente ininfluenti, se non devi spostare anche il tuo conto corrente.
+
+Riguardo al mutuo casa, se il tasso del tuo mutuo in corso è superiore di qualche zerovirgola rispetto ai preventivi che puoi fare online, allora è senz'altro opportuno chiedere alla tua banca di rivedere le condizioni in modo da allinearsi, altrimenti con pochissimo sforzo e zero spese (grazie al Decreto Bersani - cfr. [Wikipedia](https://it.wikipedia.org/wiki/Decreto_Bersani_bis#Surroga_dei_mutui_a_costo_zero) e [il decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-01-31;7) all'articolo 8) puoi surrogare il mutuo trasferendolo alla banca che ti offre il miglior TAEG oggi.
 
 ## Conto corrente
 Ho deciso di tenere il conto che ho già, nonostante sia più costoso di tanti altri disponibili. La banca è tra le più solide in Italia, quindi sono a posto così per ora.  
 Segnalo solo che il trasferimento di un conto corrente ad un altro istituto è gratuito per legge ([Testo Unico Bancario](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), articolo "126 septies") e la nuova banca si occupa di tutto, compreso il trasloco delle domiciliazioni (già sperimentato personalmente anni fa).  
-Resteranno comunque da fare un po' di pratiche come l'attivazione delle nuove carte di debito e di credito e la relativa associazione a PayPal Amazon e simili, prima di chiudere definitivamente il vecchio conto.  
+Resteranno comunque da fare un po' di pratiche come l'attivazione delle nuove carte e relativa associazione a PayPal Amazon e simili, prima di chiudere definitivamente il vecchio conto.  
 [Deposifire.com](http://Deposifire.com) può aiutare nella scelta del nuovo conto corrente.
 
 ## Fondo di emergenza
@@ -73,22 +74,27 @@ Nel frattempo ho continuato a studiare il mio "portafoglio obiettivo", aggiustan
 
 Dopo aver impostato tutto come descritto sopra, ogni mese dopo l’accredito dello stipendio mi preoccupo delle mie finanze seguendo questo ordine:
 
-![](images/mermaid-diagram.png)
+![](images/mermaid-diagram-FP-first.png)
+
+## Addebiti automatici
+Dato che ho deciso di avere delle coperture assicurative, e di dedurre il massimo ogni anno tramite i versamenti nel fondo pensione, nel mio metodo ho previsto l'**addebito automatico dei premi assicurativi**, e un **versamento mensile regolare nel fondo pensione** tale per cui a fine anno, sommando i miei versamenti + il contributo datoriale, raggiungo precisamente la soglia massima deducibile (i fatidici 5164€/anno).
 
 ## Conto corrente
-Porto il saldo del CC al "livello comfort", cioè una cifra che mi consenta di coprire le mie spese mensili (casa bollette supermercato abbonamenti carburante assicurazioni eccetera) e di avere un buffer aggiuntivo per eventuali necessità extra: una giacenza media sempre inferiore ai 5000€ mi è molto più che sufficiente, e tra l’altro fa risparmiare i 34€ del bollo annuale sul CC (fonte: [Ministero dell'Economia e delle Finanze](https://www.dt.mef.gov.it/it/news/2012/nuove_disposizioni_bollo_titoli.html)).   
-- Se dopo l’accredito dello stipendio il saldo del CC è inferiore al "livello comfort", allora per questo mese mi fermo qui e non proseguo con le operazioni descritte di seguito; se invece è superiore, allora uso l’eccedenza per il passaggio seguente.
+Dopo aver considerato le uscite dovute agli addebiti automatici, verifico se il CC è al mio **"livello comfort"**, cioè una cifra che mi consenta di coprire le mie spese mensili normali (mutuo bollette supermercato abbonamenti carburante eccetera) e di avere un abbondante buffer aggiuntivo per eventuali necessità extra.  
+Una **giacenza media sempre inferiore ai 5000€** mi è molto più che sufficiente, e tra l’altro fa risparmiare i 34€ del bollo annuale sul CC (fonte: [Ministero dell'Economia e delle Finanze](https://www.dt.mef.gov.it/it/news/2012/nuove_disposizioni_bollo_titoli.html)).   
+- Se dopo gli addebiti automatici il saldo del CC è inferiore al "livello comfort", allora per questo mese mi fermo qui e non proseguo con le operazioni descritte di seguito; se invece è superiore, allora uso l’eccedenza per il passaggio seguente.
 
 ## Fondo di emergenza
-Con l’eccedenza in arrivo dal CC, porto il saldo del FdE verso il "livello comfort", che nel mio caso ho deciso essere pari a 6 stipendi: giudico questa una somma sufficiente a coprire le spese più consistenti che potrebbero capitarmi - ferie, dentista, grandi riparazioni... cose così.  
+Con l’eccedenza in arrivo dal CC, porto il **saldo del FdE verso il suo "livello comfort"**, che nel mio caso ho deciso essere pari a 6 stipendi: giudico questa una **somma sufficiente a coprire le spese più consistenti che potrebbero capitarmi** - ferie, dentista, grandi riparazioni, oppure perdita del lavoro e necessità di un buffer che copra le spese in attesa di trovare un nuovo impiego.  
 - Se il saldo del FdE è inferiore al "livello comfort", allora per questo mese mi fermo qui e non proseguo con le operazioni descritte di seguito; se invece diventasse superiore, allora verso solo la parte necessaria ad andare a livello e uso l’eccedenza per il passaggio seguente.
 
-## Fondi pensione
-Verso l’eccedenza residua nel mio FPA, verificando di rimanere sempre sotto la soglia di max 5164€/anno (da calcolare sempre tenendo conto anche dei contributi volontario + datoriale nel FPN calcolati sull'intero anno in corso), così da godere del massimo vantaggio fiscale ed avere una parte importante di risparmi investita.  
-- Se ho già raggiunto i 5164€/anno di versamenti (sommando quelli automatici nel FPN calcolati su tutto l'anno, più quelli volontari aggiuntivi nel FPA), allora non verso più nulla nel FPA per l’anno corrente, e uso l’eccedenza per il passaggio seguente.
-
 ## ETF
-Verso l’eccedenza residua nel mio conto titoli, e la uso per acquistare quote degli ETF in portafoglio in modo tale da ribilanciare senza vendere quote, così da minimizzare le commissioni sulle operazioni - anzi le azzero, dato che ho scelto tutti ETF che sono senza commissioni di acquisto nel PAC Directa. Mi sono fatto un semplice foglio di calcolo per aiutarmi a capire quanto la mia allocazione reale si discosta da quella obiettivo, così con un colpo d'occhio capisco cosa acquistare quel mese, e a fine anno se ci sono componenti che si discostano più del 5% dalla mia allocazione target allora ribilancio vendendo quote.
+Verso l’eventuale eccedenza residua nel mio conto titoli, per **acquistare quote degli ETF che ho in portafoglio**.  
+Scelgo tra i miei ETF quelli che hanno _perso_ più valore, in modo tale da ribilanciare senza vendere quote, così da tenere a zero le commissioni sulle operazioni e le tasse sulle plusvalenze.  
+Mi sono fatto un semplice foglio di calcolo per aiutarmi a capire quanto la mia allocazione attuale si discosta da quella obiettivo, così con un colpo d'occhio capisco quali ETF acquistare.  
+Se anche dopo aver acquistato quote qualche componente si discosta (in positivo o negativo) più del 5% dall'allocazione prevista, allora ribilancio più incisivamente anche vendendo quote per riportare tutto in equilibrio.
+
+
 
 # Quanto tempo serve per starci dietro?
 Al netto del tempo dedicato ad informarmi, e una volta aperto CD, FP e conto titoli, oggi **questa gestione mi occupa indicativamente un quarto d'ora al mese**: il tempo di verificare i saldi nelle app, ripetere un bonifico del mese precedente cambiando solo l'importo, e impostare il prossimo investimento del PAC Directa in modo che vengano acquistati gli importi corretti degli ETF che ho a portafoglio.
