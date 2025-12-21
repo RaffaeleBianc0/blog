@@ -3,9 +3,7 @@ title: "Scegliere lo smartphone: considerazioni ex-post"
 date: "2016-01-23"
 categories: 
   - "tecnologia"
-tags: 
-  - "android"
-  - "lg-g4"
+  - "amarcord"
 image: "images/lg-g4-red.jpg"
 ---
 

@@ -4,6 +4,7 @@ date: "2025-11-15"
 categories: 
   - "tecnologia"
   - "altro"
+  - "amarcord"
 image: "images/vintage-pc.jpg"
 ---
 

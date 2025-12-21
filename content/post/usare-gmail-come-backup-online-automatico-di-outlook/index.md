@@ -3,12 +3,9 @@ title: "GMail come backup di Outlook"
 date: "2010-01-22"
 categories: 
   - "tecnologia"
-tags: 
-  - "gmail"
+  - "amarcord"
 image: "olgm.webp"
 ---
-
-[![](images/gmail.jpg)](http://www.kevinscrate.com/blog/wp-content/uploads/2009/01/gmail.jpg)
 
 Per gestire le mail di lavoro, uso Outlook. Un po' per abitudine, un po' perché si integra senza sforzo col telefono WinMobile.
 

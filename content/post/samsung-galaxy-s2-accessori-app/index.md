@@ -3,8 +3,7 @@ title: "Samsung Galaxy S2: Accessori + App"
 date: "2013-05-18"
 categories: 
   - "tecnologia"
-tags: 
-  - "android"
+  - "amarcord"
 image: "images/s2.jpg"
 ---
 

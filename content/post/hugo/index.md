@@ -85,7 +85,7 @@ Lo script si è preoccupato anche di fare il download delle immagini dal mio blo
 
 Ho scelto un [tema per Hugo](https://themes.gohugo.io) che mi piaceva ([Stack](https://github.com/CaiJimmy/hugo-theme-stack)), perché ha una estetica ariosa che mi comunica semplicità, e una serie di caratteristiche e di funzionalità che cercavo:
 
-* **colonne fisse ai lati**, nella versione desktop (menu a sinistra, e widget a destra: quasi tutti i display dei PC sono 16:9, e tutto quello spazio ai lati del testo _deve_ essere utilizzato, dal mio punto di vista; se a uno proprio danno fastidio, è sufficiente ridurre la larghezza della finestra del browser)
+* **colonne fisse ai lati**, nella versione desktop (menu a sinistra, e widget a destra: quasi tutti i display dei PC sono 16:9, e tutto quello spazio ai lati del testo _deve_ essere utilizzato, dal mio punto di vista)
 * **layout responsive**, che su schermi più piccoli toglie i widget e sposta menu e ToC su pulsanti poco invasivi
 * **categorie** personalizzabili
 * **ToC** (Table of Contents) con evidenziatura dinamica del paragrafo visualizzato
@@ -98,6 +98,8 @@ Ho scelto un [tema per Hugo](https://themes.gohugo.io) che mi piaceva ([Stack](h
 * **feed RSS** automatico (qualcuno li usa ancora?)
 
 Un po' di studio online e di esperimenti la sera, e a meno di qualche dettaglio questa nuova versione del sito era già pronta e navigabile in locale sul mio PC dopo poche ore.
+
+
 
 ## Deploy 
 
@@ -117,7 +119,7 @@ Dopo poco tempo però scopro il metodo che sto usando adesso, che aggiunge a tut
 1. Una [**GitHub Action**](https://github.com/features/actions) fa la magia ogni volta che il mio repository "sente" una modifica, e automaticamente fa queste cose in background in un paio di minuti:
     * installa l'ultima versione di Hugo in una VM di GitHub
     * ricompila in quella VM il blog
-    * fa l'upload dei soli file risultato aggiunti e modificati sul mio FTP (questo modulo ogni tanto dà errore, ma amen, prima o poi funziona sempre)  
+    * dei file ottenuti, fa l'upload sul mio FTP solo di quelli aggiunti e modificati (questo modulo ogni tanto dà errore, ma amen, di solito al prossimo sync funziona)  
 
 Sì, adoro quando i computer lavorano per me.
 
@@ -158,11 +160,12 @@ jobs:
 ```
 
 
+
 ## Hack
 
 Cercando il modo di avere la ToC anche nella versione mobile del blog (che di default è assente nel tema Stack), ho poi trovato alcune informazioni per applicare sia quella che altre modifiche interessanti al tema, su [MomentoDiMezzo.com](https://momentodimezzo.com/en/p/blog-customization) e su [LucasLifes.com](https://blog.lucaslifes.com/categories/hugo-blog/).
 
-Mi sono anche fatto aiutare parecchio da **Copilot integrato in VS Code** per fare alcune modifiche minori che, senza una AI di supporto, non sarei mai stato capace di fare in tempi ragionevoli - ad esempio l'evidenziatura completa dei link al passaggio del mouse nel corpo del testo e nella ToC, ma non in altri punti.  
+Mi sono anche fatto aiutare parecchio da **Copilot integrato in VS Code** per fare alcune modifiche minori che, senza una AI di supporto, non sarei mai stato capace di fare in tempi ragionevoli - ad esempio l'evidenziatura completa dei link al passaggio del mouse nel corpo del testo e nella ToC.  
 Per inciso, vedere come l'AI ha analizzato l'intero progetto Hugo e ha applicato le modifiche dove necessario, tutto direttamente in VS Code, mi ha lasciato senza parole.
 
 

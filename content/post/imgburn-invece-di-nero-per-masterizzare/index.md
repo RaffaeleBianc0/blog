@@ -3,6 +3,7 @@ title: "ImgBurn"
 date: "2010-01-02"
 categories: 
   - "tecnologia"
+  - "amarcord"
 image: "images/imgburn___easy_burner_icon_replacement_by_sacrificials-d6e4jin.png"
 ---
 

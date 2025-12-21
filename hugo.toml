@@ -146,10 +146,11 @@ content.enabled = true
 
 
 
-### MENU
+### MENU ###################################################
 ### See https://stack.jimmycai.com/config/menu
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 ### ICONE: https://tabler.io/icon, SVG da scaricare in assets/icons.
+############################################################
 [menu]
 # main = [ ]
 
@@ -163,18 +164,18 @@ content.enabled = true
 #   icon = "link"
 #   newTab = true
 
-[[menu.main]]
-name = 'RaffaeleBianco.it'
-url = '/../'  # Punta a www.raffaelebianco.it
-weight = -999
-identifier = "home"
-params.icon = "home"
-params.newTab = false
+# [[menu.main]]
+# name = 'RaffaeleBianco.it'
+# url = '/../'  # Punta a www.raffaelebianco.it
+# weight = 999
+# identifier = "home"
+# params.icon = "home"
+# params.newTab = false
 
 [[menu.main]]
 name = 'RSS'
 url = '/index.xml'
-weight = 999
+weight = 888
 identifier = "rss"
 params.icon = "rss"
 params.newTab = false

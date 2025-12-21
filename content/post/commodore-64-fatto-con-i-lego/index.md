@@ -4,6 +4,7 @@ date: "2017-05-13"
 categories: 
   - "altro"
   - "tecnologia"
+  - "amarcord"
 image: "images/miniaturac64.png"
 ---
 

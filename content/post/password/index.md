@@ -4,9 +4,6 @@ date: "2016-01-30"
 lastmod: '2024-12-23'
 categories: 
   - "tecnologia"
-tags: 
-  - "password"
-  - "sicurezza"
 image: "images/password.webp"
 ---
 
@@ -18,9 +15,9 @@ Rileggere questa pagina oggi mi fa sorridere: tutto il contenuto è ampiamente s
 
 Oggi uso [Bitwarden](https://bitwarden.com), gratuito, funziona su Windows + Android + online, ha estensioni per tutti i browser, si sincronizza dappertutto, e fa il backup dell'intero archivio su file locale con 2 click.  
 Oltre a login+password, ci salvo dentro qualunque mia informazione riservata: numero di CIE e patente, numeri di carte di credito, PIN vari, IBAN, codice della valigia, dell'antifurto, eccetera.  
-Quando mi serve una di queste informazioni so già dove trovarla: apro Bitwarden, autenticazione con impronta istantanea, una ricerca, e in 5 secondi risolvo.
+Quando mi serve una di queste informazioni so già dove trovarla: apro Bitwarden, autenticazione con impronta istantanea, una ricerca, e in 10 secondi risolvo, senza mai farmi la fatidica domanda _"dove l'avrò scritto?"_.
 
-In più oggi ci sono le [passkey](https://it.wikipedia.org/wiki/Password#Passwordless_o_Passkey) che, quando è possibile usarle, aumentano ulteriormente la facilità e la sicurezza dell'autenticazione rispetto all'uso di login+password.
+In più oggi ci sono le [passkey](https://it.wikipedia.org/wiki/Password#Passwordless_o_Passkey) che, quando è possibile usarle, aumentano ulteriormente la facilità e la sicurezza dell'autenticazione rispetto all'uso di login+password, riducendo tutto a letteralmente 2 click.
 
 Non ricordo il motivo per cui io nel 2016 usavo già un password manager (LastPass, poi diventato tristemente famoso per un data breach mal gestito), e nonostante questo ho perso tempo ad inventarmi uno schema mentale per generare password efficaci... una cosa rende inutile l'altra. Boh!
 
