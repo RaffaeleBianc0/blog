@@ -292,6 +292,8 @@ Gli ETF sono l'uovo di colombo tra gli strumenti finanziari per l’investimento
 * Sono **efficaci**: spesso l’indice replicato da un ETF è quello che i fondi attivi simili tentano di superare senza quasi mai riuscirci su periodi lunghi (cfr. [SPIVA](#spiva)); in altre parole, sul lungo periodo gli ETF rendono quasi sempre di più dei fondi attivi paragonabili.  
 * Sono **senza vincoli**: puoi venderli in tempi rapidissimi, spesso meno di un secondo, e subito bonificare quei soldi verso il tuo conto corrente (a patto di acquistare gli ETF più liquidi, che tipicamente sono anche tra i più interessanti e utilizzati per gli obiettivi di risparmio di un comune investitore privato).
 
+JustETF ha [una pagina introduttiva](https://www.justetf.com/it/academy/etf-for-beginners.html) che dà una panoramica su questi strumenti.
+
 
 
 # Quanti ETF, e quali?
@@ -299,21 +301,22 @@ Gli ETF sono l'uovo di colombo tra gli strumenti finanziari per l’investimento
 A parte la solita ovvia premessa "ognuno ha una situazione diversa, non esiste una risposta univoca", e l’altra ancora più importante "chi mai sono io per dare consigli di investimento a chicchessia, son mica un professionista", ecco qualche idea tra le più gettonate:
 
 * **UN SOLO ETF**, LA SCELTA SEMPLICE  
-  Se non sai da dove partire, e soprattutto se hai davanti vent'anni di tempo o più per il tuo investimento, allora un singolo ETF azionario globale dei più noti può essere una scelta appropriata per iniziare subito il tuo PAC, piuttosto che stare fermo in attesa di decidere diversamente.  
-  Cerca il modo di dire "[VWCE and chill](https://www.google.com/search?q=VWCE+and+chill)" per iniziare a informarti - ma in generale ci sono tante scelte che più o meno si equivalgono come risultati attesi, su indici azionari globali (es. SWDA, MWRD, ACWE, IMIE - li trovi tutti su [JustETF](https://www.justetf.com/)).
+  Se non sai da dove partire, e soprattutto se hai davanti vent'anni di tempo o più per il tuo investimento, allora **un singolo ETF azionario globale dei più noti** può essere una scelta appropriata per iniziare subito il tuo PAC, piuttosto che stare fermo in attesa di decidere diversamente.  
+  Cerca il modo di dire "[VWCE and chill](https://www.google.com/search?q=VWCE+and+chill)" per iniziare a informarti - ma in generale ci sono tante scelte che più o meno si equivalgono come risultati attesi, su indici azionari globali (es. SWDA, MWRD, ACWE, IMIE - li trovi tutti su [JustETF](https://www.justetf.com/), informati e confrontali).
 
 * **DUE ETF**, RIDUCI LA VOLATILITA’  
   Non tutti sono d’accordo con gli approcci *chill*: ad esempio [qui](https://curvo.eu/it/articolo/perche-non-vwce-and-chill) si parla di come abbassare la volatilità del portafoglio affiancando al VWCE un ETF obbligazionario (ovviamente rinunciando ad una parte dei rendimenti attesi, che è quasi sempre l’altra faccia della medaglia).  
-  Abbassare la volatilità significa aumentare la probabilità che i nostri investimenti rendano quanto ci aspettiamo.  
-  Dovrai allora scegliere la proporzione tra i 2 ETF (es. 75% azionario e 25% obbligazionario, ma ci sono dei **metodi per scegliere queste proporzioni** in base alla tua situazione personale che è importante valutare), e anche quale ETF obbligazionario acquistare.  
-  **Gli ETF obbligazionari sono una categoria molto differente rispetto agli azionari**: non mi dilungo qui, ma è necessario farsi un'idea della loro relazione stretta con i tassi delle banche centrali e con il rischio valutario.  
+  Abbassare la volatilità aumenta la probabilità che i nostri investimenti rendano quanto ci aspettiamo.  
+  Dovrai allora scegliere la proporzione tra i 2 ETF nel tuo portafoglio, e anche quale ETF obbligazionario acquistare.  
+  Per esempio, una allocazione tradizionale in finanza è 60% azionario e 40% obbligazionario, ma ci sono dei **metodi per scegliere queste proporzioni** in base alla tua situazione personale, che tengono conto di tanti fattori come la tua età, il tasso BCE attuale, il tipo di reddito del tuo lavoro.  
+  **Gli ETF obbligazionari sono una categoria di asset molto differente rispetto a quella degli azionari**: non mi dilungo qui, ma è necessario farsi un'idea della loro relazione stretta con i tassi delle banche centrali e con il rischio valutario.  
   C’è chi sceglie ad esempio un ETF obbligazionario governativo europeo a duration media:  
-  * **governativo** (cioè composto solo di titoli di stato, e privo di obbligazioni societarie) perché gli stati tendono a fallire molto meno delle aziende e perché la tassazione italiana sui guadagni di queste obbligazioni è solo del 12,5% invece che del 26%;  
-  * **europeo** perché questo fattore geografico aggiunge diversificazione al tuo portafoglio, se la parte azionaria è fortemente sbilanciata su aziende USA (come accade tipicamente per gli ETF azionari globali);  
-  * **a duration media** (3-5 anni ad esempio) perché duration breve significa meno volatilità, che è uno dei motivi per integrare un ETF obbligazionario, mentre duration lunga storicamente è servito a controbilanciare i drawdown dell'azionario, specie su orizzonte lungo, ma con rischio maggiore in caso di tasso BCE in crescita: 3-5 anni è una duration intermedia, un compromesso tra queste due posizioni che dovrebbe mitigare la volatilità senza reagire troppo al tasso BCE.
+  * **governativo** (cioè composto solo di titoli di stato, e privo di obbligazioni societarie) perché gli stati tendono a fallire molto meno delle aziende e perché la tassazione italiana sui guadagni di queste obbligazioni è molto favorevole (12,5% invece di 26%);  
+  * **europeo** perché questo fattore aggiunge diversificazione geografica al tuo portafoglio, se la parte azionaria è fortemente sbilanciata su aziende USA (come accade tipicamente per gli ETF azionari globali _market cap weighted_); e anche perché la valuta è l'euro, quindi il valore dell'ETF non è soggetto al cambio valutario, il che di solito è desiderabile per la componente del tuo portafoglio che serve a mitigare il rischio;  
+  * **a duration media** (3-5 anni ad esempio) perché duration breve significa meno volatilità, che è uno dei motivi per integrare un ETF obbligazionario, mentre duration lunga storicamente è servito a controbilanciare i drawdown dell'azionario, specie su orizzonte lungo, ma con rischio maggiore in caso di crescita del tasso BCE: 3-5 anni è una duration intermedia, un compromesso tra queste due posizioni che dovrebbe mitigare la volatilità senza reagire troppo al tasso BCE.
 
 * **TRE O PIU’ ETF**, DIVERSIFICA  
-  Per costruire un portafoglio ancora più diversificato e personalizzato, può essere utile [questo questionario di JustETF](https://www.justetf.com/it/etf-strategy-builder.html), che ti darà come risultato un portafoglio di 4-5 ETF diversi che potrebbero essere adatti alle risposte che hai dato, da usare come traccia iniziale per fare qualche ragionamento. Oro, materie prime, azioni small-cap, bitcoin... qua si apre un mondo, ma non è affatto necessario complicare le cose per raggiungere risultati migliori sul lungo periodo, anzi.
+  Per costruire un portafoglio ancora più diversificato e personalizzato, può essere utile [questo questionario di JustETF](https://www.justetf.com/it/etf-strategy-builder.html), che ti darà come risultato un portafoglio di 4-5 ETF diversi che potrebbero essere adatti alle risposte che hai dato, da usare come traccia iniziale per fare qualche ragionamento. Oro, materie prime, azioni small-cap, bitcoin... qua si apre un mondo, e c'è da studiare un po'; ma non è affatto necessario complicare le cose per raggiungere risultati migliori sul lungo periodo, anzi.
 
 **CONCLUSIONI:**  
 La composizione del tuo portafoglio probabilmente sarà un’attività che ti porterà via un po’ di tempo, e anche quella più ricca di dubbi e revisioni: nel momento in cui starai per fare il tuo primo click su "Acquista" capirai cosa intendo.  
@@ -327,14 +330,14 @@ Potrai sempre modificare le tue scelte in corso d’opera quando ti sarai inform
 Prima di passare agli ETF, per alcuni anni ho investito qualche risparmio con MoneyFarm.  
 
 PRO PRINCIPALE:  
-**L'approccio "set-and-forget"**: ti fanno un questionario, in base alle risposte ti propongono un portafoglio di ETF scelto tra 7 modelli, e a te basta versare soldi nel tuo conto MF. Al resto pensano loro: investono negli ETF previsti dal tuo portafoglio, ribilanciano periodicamente, e in quanto sostituto di imposta pagano le tasse per conto tuo prelevando l’importo dalle eventuali plusvalenze maturate.
+**L'approccio _set-and-forget_**: ti fanno un questionario, in base alle risposte ti propongono un portafoglio di ETF scelto tra 7 modelli, e a te basta versare soldi nel tuo conto MF. Al resto pensano loro: investono negli ETF previsti dal tuo portafoglio, ribilanciano periodicamente, e in quanto sostituto di imposta pagano le tasse per conto tuo prelevando l’importo dalle eventuali plusvalenze maturate.
 
 CONTRO PRINCIPALE:  
-**1% di costo ricorrente annuo**, che MF si trattiene ogni anno **in aggiunta ai TER degli ETF** nel portafoglio.  
+**1% di costo ricorrente annuo**, che MF si trattiene ogni anno **in aggiunta ai TER degli ETF** che hanno selezionato per il tuo portafoglio.  
 
 **CONCLUSIONI:**  
-Lo "sforzo" per aprire un normale conto titoli e acquistare un paio di ETF è più o meno lo stesso di aprire un account su MoneyFarm, e ti fa risparmiare quell'1% ogni anno.  
-Quanto pesa quell'1% su 15 anni, se investi 300€ al mese con un rendimento annuo del 5%? 6000€. Sono più belli in tasca che versati in commissioni.
+Lo sforzo per aprire un normale conto titoli e acquistare un paio di ETF è più o meno lo stesso di aprire un account su MoneyFarm, e **risparmi quell'1% ogni anno**.  
+Quanto pesa quell'1% su 15 anni, se investi 300€ al mese con un rendimento annuo del 5%? Pesa circa l'8% sul capitale finale, cioè circa 6000€, che secondo me sono più belli in tasca invece che versati in commissioni.
 
 
 
@@ -342,10 +345,11 @@ Quanto pesa quell'1% su 15 anni, se investi 300€ al mese con un rendimento ann
 
 Investire è tutto sommato abbastanza semplice; la parte più complessa è affrontare la pigrizia per imparare le poche nozioni necessarie.  
 **Potresti comunque preferire il supporto di un professionista**, per farti spiegare le cose per bene e impostare una strategia.  
-I motivi per cui rivolgersi ad un consulente finanziario **indipendente** invece che alle banche sono abbastanza noti: sostanzialmente se cerchi consulenza finanziaria allora è meglio trovarla **priva di conflitto d’interessi**, perché a te interessano gli strumenti _migliori sul mercato_, e non quelli che vuole venderti la banca.
+L'importante è che sia un consulente finanziario **autonomo**, che guadagna sulla consulenza che ti offre, e non un dipendente di una banca o di una società di investimento, che guadagna una provvigione sul capitale che investi negli strumenti che ti vende.  
+Sostanzialmente la consulenza finanziaria deve essere **priva di conflitto d’interessi**, perché a te interessano gli strumenti _migliori sul mercato_, non quelli che vuole venderti qualcuno.
 
 Sul sito dell'[Organismo di vigilanza e tenuta dell'albo unico dei Consulenti Finanziari - OCF](https://www.organismocf.it/) trovi l’**elenco aggiornato di tutti i consulenti finanziari indipendenti/autonomi iscritti all’Albo**.  
-Utile per accertarsi che la persona che vuoi ingaggiare sia davvero un consulente indipendente, prima di procedere.
+E' utile per accertarsi che la persona che vuoi ingaggiare sia davvero un consulente indipendente, prima di procedere.
 
 [IoInvesto](https://www.ioinvesto.net)  
 [Futura SCF](https://www.futurascf.it)  

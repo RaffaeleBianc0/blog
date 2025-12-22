@@ -10,7 +10,7 @@ image: "images/cover.png"
 
 
 
-Usando gli ingredienti del post [Strumenti per la finanza personale]({{< ref "fp-strumenti.md" >}}), ecco qua sotto la mia ricetta.  
+Usando gli _ingredienti_ del post [Strumenti per la finanza personale]({{< ref "fp-strumenti.md" >}}), ecco qua sotto la mia _ricetta_.  
 
 Per chi è indisciplinato come me la soluzione migliore per mantenere la rotta è avere uno **schema semplice da seguire in modo quasi automatico**, senza doverci pensare.  
 
@@ -18,24 +18,47 @@ Per chi è indisciplinato come me la soluzione migliore per mantenere la rotta �
 
 # Impostazione iniziale
 
-Prima di spostare un euro, ho predisposto tutto il necessario.
+Prima di spostare un euro, ho predisposto tutto il necessario.  
+Di seguito, invece di limitarmi alla cronaca cruda di quello che ho fatto, aggiungerò qualche dettaglio utile e metterò in ordine diverso quello che ho fatto, in modo che diventi una specie di vademecum.
 
 ## Formazione
-Ho ascoltato The Bull (le prime 25 puntate circa sono quelle fondamentali), e ho guardato il corso "Educati e finanziati" del professor Coletti su YouTube.  
+Il percorso introduttivo minimo che suggerirei oggi è questo:
+1. ["Educati e finanziati" condensato in un'oretta](https://www.youtube.com/watch?v=wMOP4b5saxk): introduzione perfetta ai temi principali, da seguire senza prendere appunti, solo per sgranchire la mente su quanto seguirà.
+1. ["**Educati e finanziati**"](https://www.educatiefinanziati.it), il corso vero e proprio di Paolo Coletti.  
+Questo ti porterà via un po' più tempo, ma lo stile di Coletti renderà tutto facile e leggero, fidati!  
+Il sito contiene sia i video che una dispensa con tutti i contenuti, così non ti serve prendere appunti.  
+Trovi il corso anche in formato podcast nelle varie piattaforme.
+1. [The Bull](https://italia-podcast.it/podcast/the-bull-il-tuo-podcast-di-finanza-personale): se sei consumatore di podcast come il sottoscritto, allora anche The Bull di Riccardo Spada merita la tua attenzione. Le prime 25 puntate circa sono quelle fondamentali.
+
 Nel marasma di contenuti sul tema disponibili online, a gusto mio questi due autori sono quelli che centrano meglio l'obiettivo per noi neofiti, combinando chiarezza, precisione, buon senso, e leggerezza.  
 
+## FPN
+Il primo tema di cui preoccuparsi secondo me è il fondo pensione.  
+Versarci il TFR + il contributo minimo è la scelta ovvia che avevo già fatto molti anni prima, ma non avevo ancora cambiato il comparto: **ho selezionato il comparto con la maggiore componente azionaria**, che mi sembra il più appropriato dato che mi aspettano ancora 20 anni di lavoro.  
+Probabilmente cambierò comparto durante i prossimi 20 anni, per aumentare progressivamente il peso della componente obbligazionaria man mano che mi avvicino alla pensione (la cosiddetta **allocazione "life cycle"**).
+
+## FPA
+Dato che il mio FPN per i miei gusti non ha sufficiente azionario considerando che mi mancano ancora 20 anni alla pensione, e dato che **voglio versare fino a 5164€/anno nei FP per approfittare al massimo delle deduzioni**, ho usato il sito COVIP per capire quale FPA rispondesse ai requisiti "*costi bassi, disponibilità di un comparto fortemente azionario, rendite degli ultimi 10-20 anni elevate*".  
+Ne sono usciti subito due vincitori, dei quali solo uno consentiva di fare la pratica di adesione online quindi la scelta è stata ovvia.  
+_Ho poi scoperto che su [CiaoElsa.com](https://ciaoelsa.com) è possibile aderire online gratuitamente anche ai fondi pensione che non hanno la procedura nel proprio sito, perché CiaoElsa fa da intermediario... ma ormai avevo già fatto tutto. Amen!_
+
 ## Chiusura posizioni precedenti
-Ho analizzato i prospetti informativi di un paio di prodotti di investimento che avevo acquistato anni fa (quando ancora non mi interessavo a questi temi), ho confrontato i rendimenti ed i costi con quelli attesi dagli investimenti in FPA ed ETF, ed è emersa la conclusione limpida: meglio chiudere tutto e spostare il capitale investito su ETF, prima di farmi mangiare ulteriori rendimenti da costi ricorrenti davvero troppo alti.  
+Ho analizzato i prospetti informativi di un paio di prodotti che avevo acquistato anni fa (quando ancora non mi interessavo a questi temi), ho confrontato i rendimenti ed i costi con quelli attesi dagli investimenti in FPA ed ETF, ed è emersa la conclusione limpida: meglio chiudere tutto e spostare il capitale investito su ETF, prima di farmi mangiare ulteriori rendimenti da costi ricorrenti davvero troppo alti.  
 
 ## Estinzione debiti + eventuale surroga mutuo casa
 Non era il mio caso, ma in questa fase iniziale ci metterei anche questo passaggio.
 Inutile pensare ad investire per portare a casa un rendimento positivo, se dall'altra parte ci sono finanziamenti per i quali paghiamo un tasso di interesse che combatte contro questo rendimento.  
 
-Riguardo al mutuo casa, se il tasso del tuo mutuo in corso è superiore di qualche zerovirgola rispetto ai preventivi che puoi fare online, allora è senz'altro opportuno chiedere alla tua banca di rivedere le condizioni in modo da allinearsi, altrimenti con pochissimo sforzo e zero spese (grazie al Decreto Bersani - cfr. [Wikipedia](https://it.wikipedia.org/wiki/Decreto_Bersani_bis#Surroga_dei_mutui_a_costo_zero) e [il decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-01-31;7) all'articolo 8) puoi surrogare il mutuo trasferendolo alla banca che ti offre il miglior TAEG oggi.
+Riguardo al mutuo casa, se il tasso del tuo mutuo in corso è superiore di qualche zerovirgola rispetto ai preventivi che puoi fare online, allora è senz'altro opportuno chiedere alla tua banca di rivedere le condizioni in modo da allinearsi, altrimenti con pochissimo sforzo e zero spese (grazie al **Decreto Bersani** - cfr. [Wikipedia](https://it.wikipedia.org/wiki/Decreto_Bersani_bis#Surroga_dei_mutui_a_costo_zero) e [il decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-01-31;7) all'articolo 8) puoi surrogare il mutuo trasferendolo alla banca che ti offre il miglior TAEG oggi.
+
+## Budgeting
+Per tracciare le mie spese e farmi un'idea di quanto riesco a risparmiare mediamente, ho usato la app [**Wallet** di Budgetbakers](https://budgetbakers.com/en/products/wallet/) perché si collega al mio conto corrente per leggere saldo e transazioni, le categorizza automaticamente, e fornisce report e statistiche molto utili. Il tutto funziona al meglio soprattutto se si evita di usare il contante, così ogni singola uscita è una voce categorizzata e non si perdono informazioni - ma questa è già la mia abitudine da molti anni.  
+A livello metodologico, ho deciso di adottare il _reverse budgeting_ dando priorità al risparmio nei fondi pensione (obiettivo 5164€/anno) rispetto alle spese personali e agli eventuali investimenti.  
+Aggiungo una nota folkloristica: il solo fatto di poter controllare le spese in 5 secondi aprendo una app ha aggiunto un certo grado di consapevolezza su come spendo i soldi che prima non avevo, e trovo utile poter guardare i report automatici a fine mese confrontando i vari mesi a colpo d'occhio.
 
 ## Conto corrente
 Ho deciso di tenere il conto che ho già, nonostante sia più costoso di tanti altri disponibili. La banca è tra le più solide in Italia, quindi sono a posto così per ora.  
-Segnalo solo che il trasferimento di un conto corrente ad un altro istituto è gratuito per legge ([Testo Unico Bancario](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), articolo "126 septies") e la nuova banca si occupa di tutto, compreso il trasloco delle domiciliazioni (già sperimentato personalmente anni fa).  
+Segnalo che il trasferimento di un conto corrente ad un altro istituto è gratuito per legge ([Testo Unico Bancario](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), articolo "126 septies") e la nuova banca si occupa di tutto, compreso il trasloco delle domiciliazioni (già sperimentato personalmente anni fa).  
 Resteranno comunque da fare un po' di pratiche come l'attivazione delle nuove carte e relativa associazione a PayPal Amazon e simili, prima di chiudere definitivamente il vecchio conto.  
 [Deposifire.com](http://Deposifire.com) può aiutare nella scelta del nuovo conto corrente.
 
@@ -47,26 +70,17 @@ L'altra metà ho deciso di parcheggiarla in un ETF monetario, giusto per diversi
 Avevo già provveduto qualche anno fa, e per pigrizia tengo quello che ho, perché sono polizze di una assicurazione nota che esiste da decenni.  
 Devo valutare una LTC, ma ancora non lo ho fatto.
 
-## FPN
-Avevo già scelto di destinare il mio TFR al FPN molti anni fa.  
-Ho modificato soltanto il comparto scegliendo quello con la maggiore componente azionaria, dato che mi aspettano ancora 20 anni di lavoro.  
-Probabilmente cambierò comparto durante i prossimi 20 anni, per aumentare progressivamente il peso della componente obbligazionaria man mano che mi avvicino alla pensione (la cosiddetta allocazione "life cycle").
-
-## FPA
-Dato che il mio FPN per i miei gusti non ha sufficiente azionario considerando che mi mancano ancora 20 anni alla pensione, e dato che voglio versare fino a 5164€/anno nei FP per approfittare al massimo delle deduzioni, ho usato il sito COVIP per capire quale FPA rispondesse ai requisiti "*costi bassi, disponibilità di un comparto azionario, rendite degli ultimi 10-20 anni elevate*".  
-Ne sono usciti subito due vincitori, dei quali solo uno consentiva di fare la pratica di adesione online quindi la scelta è stata ovvia.  
-Ho poi scoperto che su [CiaoElsa.com](https://ciaoelsa.com) è possibile aderire online gratuitamente anche ai fondi pensione che non hanno la procedura nel proprio sito, perché CiaoElsa fa da intermediario... ma ormai avevo già fatto tutto. Amen!
-
 ## Conto titoli
-La mia banca mi offre un conto titoli con costi imbarazzanti, quindi ho deciso di aprirne uno presso un broker.  
-Ho confrontato i broker italiani che operano in regime amministrato (feature obbligatoria per minimizzare burocrazia e potenziali errori nel 730), cercando quello con i costi minori delle transazioni tramite PAC.  
+La mia banca mi offre un conto titoli con costi imbarazzanti, quindi ho deciso di **aprirne uno presso un broker**.  
+Ho confrontato i broker italiani che operano in regime amministrato (feature obbligatoria per minimizzare burocrazia e potenziali errori nel 730), cercando quello con i costi minori per le transazioni tramite PAC.  
 Ho scelto Directa.  
 Avevo già un account su Moneyfarm che da qualche tempo consentiva di comprare ETF, ma non di impostare un PAC.  
-Nel 2025 è diventato interessante anche TradeRepublic.
+Nel 2025 è diventato interessante anche TradeRepublic, tenendo conto che l'azienda non è italiana.
 
 ## ETF
-Come prima mossa ho investito qualcosa in un singolo ETF azionario globale tra i più noti, scelta che in generale mi sembra sensata per un orizzonte temporale di più di 10 anni come il mio.  
-Nel frattempo ho continuato a studiare il mio "portafoglio obiettivo", aggiustandolo più volte in base alle nuove nozioni che imparavo man mano e mettendolo alla prova con decine di backtest su [LazyPortfolioEtf.com](https://www.lazyportfolioetf.com/): ho introdotto una parte obbligazionaria, un tilt ex-usa, e un po’ di oro, e quando investo acquisto quote degli ETF in modo da tendere a questa allocazione obiettivo.
+Come primo investimento ho acquistato qualche quota di un ETF azionario globale tra i più noti, scelta che in generale mi sembra sensata per un orizzonte temporale di più di 10 anni come il mio.  
+Nel frattempo ho continuato a studiare il mio "portafoglio obiettivo", aggiustandolo più volte in base alle nuove nozioni che imparavo man mano e mettendolo alla prova con decine di backtest su [LazyPortfolioEtf.com](https://www.lazyportfolioetf.com/): oltre alla seconda metà del mio FdE in un ETF monetario, ho introdotto una parte obbligazionaria, un tilt ex-usa, e un po’ di oro, il tutto secondo pesi calcolati sulla base della mia età, del tasso BCE, e del tipo di lavoro che faccio.  
+Quando investo acquisto quote degli ETF in modo da tendere a mantenere questi pesi.
 
 
 
