@@ -1,7 +1,6 @@
 {{/* Simbolino a fianco ai link che iniziano per http */}}
 <a class="link" href="{{ .Destination | safeURL }}" {{ with .Title}} title="{{ . }}" {{ end }}{{ if strings.HasPrefix
-	.Destination "http" }} target="_blank" rel="noopener" {{ end }}>{{ .Text | safeHTML }}
-	{{ if strings.HasPrefix .Destination "http" }}
+	.Destination "http" }} target="_blank" rel="noopener" {{ end }}>{{ .Text | safeHTML }}{{- if strings.HasPrefix .Destination "http" -}}
 	<span style="white-space: nowrap;">
 		<svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
 			focusable="false">
@@ -10,4 +9,4 @@
 				fill="currentColor" />
 		</svg>
 	</span>
-	{{ end }}</a>
+{{- end -}}</a>

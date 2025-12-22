@@ -11,13 +11,13 @@ image: "images/finanza-personale.jpg"
 
 # Obiezione, vostro onore
 
-**"Non mi interessa, non mi serve"** ➡️ Ti stai raccontando una balla, come minimo perché c'è l'[inflazione](#inflazione) e, se sei dipendente, perché l'[INPS](#inps) ti darà una pensione bassa. [Inizia adesso](#fondo-pensione-subito)!
+**"Non mi interessa, non mi serve"** ➡️ Ti stai raccontando una balla e non lo sai, come minimo perché c'è l'[inflazione](#inflazione) e, se sei dipendente, perché l'[INPS](#inps) ti darà una pensione bassa. [Inizia adesso](#fondo-pensione-subito)!
 
 **"Meglio non rischiare di perdere soldi"** ➡️ Proprio così, per questo devi interessartene (vedi i punti qui sopra). Comunque se vuoi azzerare il [rischio](#rischio) ci sono scelte che puoi fare [senza perderci](#senza-perderci).
 
-**"Serve troppo tempo per starci dietro"** ➡️ Qualche minuto al mese, guarda [cosa faccio io]({{< ref "fp-cosafaccio.md" >}}) per esempio.
+**"Serve troppo tempo per starci dietro"** ➡️ Scherzi?! Ti basta qualche minuto al mese, guarda [cosa faccio io]({{< ref "fp-cosafaccio.md" >}}) per esempio.
 
-**"Meglio chiedere in banca"** ➡️ Meglio per la banca di sicuro, ma i [costi](#costi) di questa scelta erodono i tuoi risparmi con un'efficacia che non ti aspetti, oltre al fatto che la banca probabilmente investe i tuoi soldi in modo sub-ottimale. Non lo dico io eh, [lo dice la Standard & Poor's](#spiva).
+**"Meglio chiedere in banca"** ➡️ Meglio per la banca di sicuro, ma i [costi](#costi) di questa scelta rosicchiano i tuoi risparmi con una voracità che non ti aspetteresti, e la banca non è proprio bravissima a investire i tuoi soldi. Non lo dico io eh, [lo dice la Standard & Poor's](#spiva).
 
 
 
@@ -28,35 +28,33 @@ E quando studio, prendo appunti.
 Parlandone con qualche amico ho pensato che **questi appunti sarebbero forse stati utili a chi, come me fino a "ieri", non si è mai interessato più di tanto ai propri risparmi**.  
 L'idea di pubblicare tutto online è rimasta _work in progress_ per molti mesi, per paura che ci fossero errori o che alla fine non aggiungessero nulla a quanto già esiste online. Poi però su insistente e gradito sollecito di un paio di persone... ecco qua.  
 Magari sei qui perché ne abbiamo parlato e ti ho mandato il link.  
-Alcuni contenuti sono centrati sulla mia situazione, cioè quella di dipendente privato con orizzonte di investimento lungo; però credo che la maggior parte delle informazioni siano valide in generale.  
+Alcuni contenuti sono centrati sulla mia situazione, cioè quella di dipendente privato con orizzonte di investimento lungo; però credo che la maggior parte delle informazioni siano utili in generale.  
 
 Questo post è il primo della serie, dove ho raccolto "pillole" sul tema della finanza personale, cioè **micro-riassunti di qualcosa che ho imparato**.  
 Non c'è pretesa di insegnare nulla né di essere esaustivo, ma magari innesco un po' di curiosità.  
 **Non troverai suggerimenti di investimento o di acquisto o altro spam molesto**, quelle sono cose per professionisti.  
 
-Cliccando sulla [categoria "Finanza personale"](/blog/categories/finanza-personale) trovi altri post, nei quali condivido gli [strumenti]({{< ref "fp-strumenti.md" >}}) che ho trovato utili per capirci qualcosa, e anche [cosa faccio io]({{< ref "fp-cosafaccio.md" >}}) nella pratica.
+Cliccando sulla [categoria "Finanza personale"](/blog/categories/finanza-personale) trovi altri post, per esempio riguardo agli [strumenti]({{< ref "fp-strumenti.md" >}}) che ho trovato utili, e a [cosa faccio io]({{< ref "fp-cosafaccio.md" >}}) nella pratica.
 
 
 
 # Il trading non c'entra
 
 **"Investire" non è sinonimo di "giocare in borsa"**.  
-Sono due temi simili solo perché in entrambi c'entrano i mercati finanziari, ma i due approcci sono l’uno l’opposto dell’altro:
+I due temi hanno in comune l'interazione con i mercati finanziari, ma gli approcci sono l’uno l’opposto dell’altro:
 
 * **Investire** = pianificazione, lungo periodo, rischio controllabile, necessaria a tutti, se non ci pensi stai facendo la cosa sbagliata ([questo articolo di MoneyFarm](https://blog.moneyfarm.com/it/investimenti/benessere-finanziario-e-salute-mentale-due-facce-della-stessa-medaglia/#10ffd276-4aa4-417d-8322-e04445708d3a) cita una revisione sistematica di 37 ricerche che vanno a fondo sul tema).  
 
-* **Trading** = scommessa, breve periodo, rischio alto, gioco d'azzardo, se non ci pensi stai facendo la cosa giusta nella grande maggioranza dei casi (almeno l'80%, [secondo Il Sole 24 Ore](https://www.quotidiano.ilsole24ore.com/art.php?t=S24&e=SOLE&i=20220121&artid=1788969#:~:text=Il%20trader%20fai%20da%20te,L'80%25%20%C3%A8%20in%20perdita))
+* **Trading** = scommessa, breve periodo, rischio elevato, gioco d'azzardo, se non ci pensi stai facendo la cosa giusta nella grande maggioranza dei casi (almeno l'80%, [secondo Il Sole 24 Ore](https://www.quotidiano.ilsole24ore.com/art.php?t=S24&e=SOLE&i=20220121&artid=1788969#:~:text=Il%20trader%20fai%20da%20te,L'80%25%20%C3%A8%20in%20perdita))
 
 
 
 # Inflazione
 
-**"*Se hai dei soldi allora stai già investendo*"**, ha detto qualcuno.    
-
-**L'inflazione secondo me è il motivo universale che dovrebbe portare chiunque a investire**.  
+**L'inflazione è il motivo universale che rende necessario per tutti investire**.  
 E' un concetto che andrebbe spiegato ai bambini, per non farli arrivare fino alla mia età senza preoccuparsene.
 
-Tenere i risparmi fermi "sotto al materasso" o nel conto corrente **è una scelta di investimento**, probabilmente inconsapevole, ma comunque una scelta, che ti garantisce una **perdita** di potere d’acquisto (pari appunto all’[inflazione](https://economiapertutti.bancaditalia.it/strumenti/glossario/inflazione/)) **piccola ma regolare e sicura al 100%**. E più soldi hai fermi più stai perdendo valore.  
+**"*Se hai dei soldi allora stai già investendo*"**, ha detto qualcuno: tenere i risparmi fermi "sotto al materasso" o nel conto corrente **è una scelta di investimento**, probabilmente inconsapevole, ma comunque una scelta, che ti garantisce una **perdita** di potere d’acquisto (pari appunto all’[inflazione](https://economiapertutti.bancaditalia.it/strumenti/glossario/inflazione/)) **piccola, lenta, ma regolare e sicura al 100%**. E più soldi hai fermi più stai perdendo valore.  
 
 Distinguere tra **valore nominale** e **valore reale** è importante quando si parla di soldi: lo spiega bene [questa pagina della Banca d'Italia](https://economiapertutti.bancaditalia.it/notizie-e-rubriche/in-parole-semplici/inflazione/index.html).  
 Per esempio, **negli ultimi 30 anni il potere di acquisto dei soldi in Italia si è dimezzato**, cioè se hai messo via una cifra 30 anni fa senza investirla, "i contanti al sicuro in cassaforte" per capirci, hai fatto un errore bello grosso perché oggi ci compri circa **metà cose** rispetto a 30 anni fa: puoi verificarlo guardando i dati storici ufficiali [pubblicati dall’ISTAT](https://rivaluta.istat.it).  
@@ -65,7 +63,7 @@ Per inciso, l’entrata in vigore dell’Euro nel 2002 non c'entra nulla con que
 L’inflazione infatti non ha subìto particolari variazioni prima durante e dopo il passaggio Lira-Euro: trovi i dati per esempio su [Rivaluta.it](https://www.rivaluta.it/serie-inflazione-media.asp), un sito che elabora in modo efficace le [serie storiche dei dati ISTAT](https://seriestoriche.istat.it/).
 
 **CONCLUSIONI:**  
-Se stai accumulando risparmi in banca o nel salvadanaio, allora il loro valore si sta consumando lentamente: ci sono strumenti [senza rischio](#senza-perderci) che sono perfetti per controllare questo problema.
+Se stai accumulando risparmi in banca o nel salvadanaio, allora il loro valore si sta consumando lentamente: ci sono [strumenti praticamente senza rischio](#senza-perderci) che sono perfetti per controllare questo problema.
 
 
 
@@ -75,25 +73,25 @@ L'[interesse composto](https://it.wikipedia.org/wiki/Tasso_d%27interesse#Interes
 
 E' una questione puramente matematica, alla quale magari non hai mai pensato.  
 Puoi fare qualche simulazione per renderti conto di quanto possa impattare sulla lunga distanza, ad esempio usando [questo calcolatore di interesse sul sito della Banca D’Italia](https://economiapertutti.bancaditalia.it/calcolatori/calcolatore-dell-interesse): come tasso di interesse puoi inserire il 5%, che è un valore prudente di interesse annuo lordo medio atteso per investimenti sensati sul lungo periodo.  
-Il compounding ha impatto positivo sui rendimenti, e invece mostra il suo impatto *negativo* quando si parla di costi percentuali ricorrenti: se leggi "*costo del 2% annuo sul capitale investito*" allora è meglio cercare qualcos'altro.  
+Il compounding ha impatto positivo sui rendimenti, e invece mostra il suo impatto *negativo* quando si parla di costi percentuali ricorrenti: ecco perché se leggi "*costo del 2% annuo sul capitale investito*" allora è meglio cercare qualcos'altro.  
 
 **CONCLUSIONI:**  
-Se riesci a risparmiare, qualunque cifra sia, anche 50€ al mese, è una buona idea versarla in strumenti diversificati, poco costosi e dall'andamento storicamente positivo sul lungo termine: la tua pianificazione può includere sia i [fondi pensione](#fondo-pensione) che gli [ETF](#gli-etf).
+Se riesci a risparmiare e non hai spese previste, qualunque cifra sia è una buona idea versarla in strumenti diversificati, poco costosi e dal rendimento storicamente positivo sul lungo termine: la tua pianificazione può includere i [fondi pensione](#fondo-pensione) e gli [ETF](#gli-etf).
 
 
 
 # Senza perderci
 
-Se ti mette a disagio investire una parte dei tuoi risparmi in strumenti finanziari che possono darti rendimenti elevati sul lungo periodo, ma che possono anche bruciare parte del valore in caso di crisi importanti dei mercati, allora puoi valutare **soluzioni a rischio quasi zero** che possono almeno contenere l’effetto negativo dell’inflazione, come i **conti deposito** e gli **ETF monetari**.  
+Se ti mette a disagio investire una parte dei tuoi risparmi in strumenti finanziari troppo volatili, allora puoi valutare **soluzioni a rischio quasi zero** che possono almeno contenere l’effetto negativo dell’inflazione, come i **conti deposito** e gli **ETF monetari**.  
 
 E’ il **minimo sindacale da usare per tenere la liquidità extra invece del conto corrente**, anche se non hai ancora confidenza con questi argomenti.   
 Mentre scrivo (2024) questi strumenti rendono tra il 2% e il 3% annuo lordo, ma in generale il loro rendimento dipende strettamente dall’andamento del [tasso di interesse della Banca Centrale Europea](https://www.euribor-rates.eu/it/tasso-interesse-bce/).  
 
 Esempi con 10000€ depositati, rendimento lordo del 2,3% annuo pari a 230€ lordi:
 
-* **Conto deposito**: la tassazione sui guadagni è del 26% per i conti deposito, quindi ti restano 170€ netti.
+* **Conto deposito**: la tassazione sui guadagni è del 26% per i conti deposito, quindi ti restano 170€ netti. Da questo va sottratto il costo del conto deposito (se previsto) e il bollo statale pari allo 0,2% del saldo finale (20€ nel nostro esempio).
 
-* **ETF monetario** (es. [XEON](https://www.justetf.com/it/etf-profile.html?isin=LU0290358497)): la tassazione sui guadagni è circa del 13% per XEON, quindi ti restano 200€ netti.
+* **ETF monetario** (es. [XEON](https://www.justetf.com/it/etf-profile.html?isin=LU0290358497)): la tassazione sui guadagni è circa del 13% per XEON, quindi ti restano 200€ netti. Da questo va sottratto il costo del conto titoli (dipende da dove lo hai aperto).
 
 ETF monetari e conti deposito sono utili anche per parcheggiare i risparmi mentre stai ancora studiando come investirli: l’importante è ottenere un minimo di rendimento, tutto qua. Non ci diventerai ricco, ma almeno non perderai potere d’acquisto.  
 
@@ -109,9 +107,9 @@ Il [rapporto **SPIVA**](https://www.spglobal.com/spdji/en/research-insights/spiv
 Le gestioni attive sono quelle applicate dai fondi di investimento che tipicamente ti vende la banca, e che in buona sostanza fanno peggio degli indici tracciati dagli [ETF](#gli-etf) quasi sempre, per questi motivi soprattutto:
 
 * i **costi molto più alti** (10-20 volte tanto), che ovviamente vanno sottratti ai rendimenti
-* il fatto stesso di essere gestioni _attive_, che significa transazioni di vendita/acquisto che costano, e scelte discrezionali del gestore che tenta di prevedere cosa renderà di più, con un tasso di successo simile al testa-o-croce (questo è documentato nella **Persistence Scorecard**, disponibile nello stesso sito).  
+* il fatto stesso di essere gestioni _attive_, che significa transazioni di vendita/acquisto che costano, e scelte discrezionali del gestore che tenta di prevedere cosa renderà di più, con un tasso di successo simile al testa-o-croce (questo è documentato nella [**Persistence Scorecard**](https://www.spglobal.com/spdji/en/spiva/article/europe-persistence-scorecard)).    
 
-Nonostante queste informazioni siano documentate e pubbliche, la maggioranza degli investimenti in fondi in Italia è ancora effettuata su fondi attivi (fonte: [CONSOB](https://www.consob.it/documents/11973/287812/rf2024.pdf/f6025c22-1683-e191-ea3f-5e1f8acb8e99)): potrebbe essere correlato al fatto che gli italiani non sono brillanti sul fronte dell’educazione finanziaria (fonte: [Investimi.com](https://investimi.com/educazione-finanziaria-italia/#Confronto_educazione_finanziaria_italiana_e_mondiale)), oppure che sono in tanti a cercare di battere il mercato su scadenze *più brevi* dei 10 anni, oppure che i consulenti finanziari che lavorano nelle banche sono... bravi venditori.  
+Nonostante queste informazioni siano documentate e pubbliche, la maggioranza degli investimenti in fondi in Italia è ancora effettuata su fondi attivi (fonte: [CONSOB](https://www.consob.it/documents/11973/287812/rf2024.pdf/f6025c22-1683-e191-ea3f-5e1f8acb8e99)): potrebbe essere correlato al fatto che gli italiani non sono brillanti sul fronte dell’educazione finanziaria (fonte: [Investimi.com](https://investimi.com/educazione-finanziaria-italia/#Confronto_educazione_finanziaria_italiana_e_mondiale)), oppure sono mediamente pigri e disposti a rinunciare a metà del guadagno pur di togliersi il pensiero, oppure che sono in tanti a cercare di battere il mercato su scadenze *più brevi* dei 10 anni, oppure che i consulenti finanziari che lavorano nelle banche sono... bravi venditori.  
 
 **CONCLUSIONI:**  
 Ci sono dati oggettivi che dicono che hai possibilità di successo di gran lunga migliori se investi in **strumenti economici che replicano passivamente degli indici diversificati**, che è proprio ciò che fanno gli ETF più grandi, **evitando i prodotti a gestione attiva**, come i prodotti che tipicamente vendono le banche.
@@ -122,18 +120,18 @@ Ci sono dati oggettivi che dicono che hai possibilità di successo di gran lunga
 
 Investire ha sempre dei costi.  
 Qualunque strumento tu scelga per i tuoi investimenti, devi fare la massima attenzione ai **costi ricorrenti** (es. "_2% annuo di commissione sul capitale investito_"), perché sono quelli che ammazzano i rendimenti, fino ad arrivare ad azzerarli o addirittura a renderli *negativi* nei casi peggiori.  
-Magari i rendimenti sono bassi perché hai scelto un prodotto "sicuro" o "a capitale garantito" (es. obbligazionario a duration breve, che avrà reso 0-1-2% all'anno) e/o un periodo storico sfortunato per i mercati, e i costi sono alti perché hai investito in strumenti che ti ha venduto la banca o peggio l'assicuratore, che ogni anno prelevano il 2% 3% o 4% del tuo capitale investito, più uno zerovirgola per costi di transazione, più un altro zerovirgola per altre voci opache, sommi tutto, e finisce che era davvero meglio tenere i soldi sotto al materasso.
+Magari hai avuto **rendimenti bassi** perché hai scelto un prodotto "sicuro" o "a capitale garantito" e/o un periodo storico sfortunato per i mercati, e **i costi sono alti** perché hai investito in strumenti che ti ha venduto la banca o l'assicuratore, che ogni anno prelevano il 2% 3% o 4% del tuo capitale investito, più uno zerovirgola per costi di transazione, più un altro zerovirgola per altre voci opache, sommi tutto, e finisce che era davvero meglio tenere i soldi sotto al materasso.
 
-Il costo medio dei fondi azionari italiani è del 2% annuo sul capitale investito (fonte: [Banca d’Italia](https://economiapertutti.bancaditalia.it/notizie/parliamo-di-investimenti-c-fondo-e-fondo/)).  
-Se pensi **_"che sarà mai il 2%"_**, allora è fondamentale che tu ti renda conto dell’**impatto devastante sul lungo periodo** di questo numeretto apparentemente innocuo sul rendimento di un investimento.  
-Per farlo puoi ad esempio usare un calcolatore online di interesse composto come [questo](https://extraetf.com/it/calculator/compound-interest), e confrontare un 5% di rendimento annuo e un 3%, che è lo stesso rendimento al quale hai tolto il famoso 2% di costi.  Scegli l'orizzonte temporale che più fa al caso tuo, 10-15-20 anni, vedi tu - se ti interessano scadenze inferiori ai 10 anni, allora sei sulla pagina sbagliata.  
+Il costo medio dei fondi azionari italiani è attorno al 2% annuo sul capitale investito (fonte: [Banca d’Italia](https://economiapertutti.bancaditalia.it/notizie/parliamo-di-investimenti-c-fondo-e-fondo/)).  
+Se pensi **_"che sarà mai il 2%"_**, allora è davvero importante che tu ti renda conto dell’**impatto devastante sul lungo periodo** di questo numeretto apparentemente innocuo sul rendimento di un investimento.  
+Per farlo puoi ad esempio usare un calcolatore online di interesse composto come [questo](https://extraetf.com/it/calculator/compound-interest): mettici come valori per esempio il 5% di rendimento annuo e il 3%, così da tener conto di quel 2% medio di costi che dicevo sopra.  Scegli l'orizzonte temporale che più fa al caso tuo, 10-15-20 anni, vedi tu - se ti interessano scadenze inferiori ai 10 anni, allora sei sulla pagina sbagliata.  
 Vedrai subito che su una vita di risparmi si perdono facilmente (decine di) migliaia di euro. 
 
-Come si legge spesso, **il rendimento è sempre una incognita, ma il costo ricorrente è una certezza**.  
+Come si legge spesso, **il rendimento è sempre una incognita, ma i costi sono una certezza**.  
 
 **CONCLUSIONI:**  
 Se hai investito in prodotti diversi dagli ETF, allora è il momento di dedicare un quarto d'ora a leggere i **prospetti informativi** di quello che hai comprato: guarda il capitolo sui rendimenti degli ultimi anni e soprattutto **il capitolo sui costi**, per legge ci sono sempre entrambi, e fai qualche conto sul calcolatore linkato qui sopra.  
-Paragonalo per esempio al [SWDA](https://www.justetf.com/it/etf-profile.html?isin=IE00B4L5Y983#grafico), uno degli ETF azionari più acquistati, che ha reso circa l'87% dal 2021 al 2025 compresi con un costo annuo dello 0,2% sul capitale investito. 
+Paragonalo per esempio al [SWDA](https://www.justetf.com/it/etf-profile.html?isin=IE00B4L5Y983#grafico), uno degli ETF azionari più acquistati nel mondo, che ha reso circa l'87% dal 2021 al 2025 compresi con un costo annuo dello 0,2% sul capitale investito. 
 
 
 
@@ -166,7 +164,7 @@ Un’altra scelta possibile è un **ETF monetario europeo** (mentre scrivo il pi
 In generale il rendimento tra i vari strumenti monetari non cambia granché, dato che un po' tutti dipendono dal [tasso di interesse deciso dalla BCE](https://www.euribor-rates.eu/it/tasso-interesse-bce/): ci sono stati anni in cui il tasso BCE era vicino allo 0%, per cui tanto valeva tenere il fondo di emergenza direttamente nel conto corrente.  
 
 **CONCLUSIONI:**  
-Imposta il tuo FdE con lo strumento che ti piace di più, riempilo ad un livello che ti lasci tranquillo, e lascialo pieno come fosse un salvadanaio da rompere solo in casi di emergenza appunto.  
+Imposta il tuo FdE con lo strumento che ti piace di più, riempilo ad un livello che ti lasci tranquillo, e lascialo pieno come fosse un **salvadanaio da rompere solo in casi di emergenza** appunto.  
 Quando avrai sistemato il FdE, potrai pensare a come investire gli ulteriori risparmi.
 
 
@@ -177,7 +175,7 @@ C'è una informazione che mi ha fatto cambiare radicalmente il punto di vista su
 E questo nonostante crisi di Wall Street del 1929, due guerre mondiali, Internet bubble del 2001, crisi dei mutui subprime del 2008, pandemia Covid - tutti eventi che hanno causato importanti flessioni negative nei mercati, ma non sufficienti a trascinare sotto zero le performance di lungo periodo: **chi non ha disinvestito in preda al panico, ne è sempre uscito con più soldi di quanti ne ha investiti**.
 
 Quindi ovviamente *investire è rischiare*, ma un conto è "investire in 4 azioni e rivenderle dopo 2 anni", e un altro è "investire in un PAC su un ETF azionario globale per 15 anni": **più l'orizzonte è lungo più questo rischio si abbassa**, proprio su quegli asset che tipicamente rendono di più, cioè le azioni, che sul lungo periodo e diversificando su più titoli (come fanno gli ETF) mostrano un **andamento storicamente sempre positivo**.  
-A tutto ciò si aggiunge anche il fatto che noi comuni mortali non investiamo tutto subito all'inizio, ma facciamo un PAC (Piano di Accumulo Capitale) cioè spalmiamo l'investimento su più contributi periodici, es. una volta ogni 1-3-6 mesi, e **questo approccio diminuisce ulteriormente la volatilità media** e quindi il rischio di avere risultati negativi.  
+A tutto ciò si aggiunge anche il fatto che noi comuni mortali non investiamo tutto subito all'inizio, ma facciamo un PAC (Piano di Accumulo Capitale) cioè spalmiamo l'investimento su più contributi periodici man mano che riusciamo a mettere da parte qualche risparmio, es. una volta ogni 1-3-6 mesi, e **questo approccio diminuisce ulteriormente la volatilità media** e quindi il rischio di avere risultati negativi.  
 
 Su questo tema fondamentale sono interessanti per esempio:
 * questo [breve documento di J.P. Morgan](https://am.jpmorgan.com/content/dam/jpm-am-aem/emea/it/it/insights/market-insights/le-regole-d%E2%80%99oro-degli-investimenti-a-lungo-termine.pdf)
@@ -199,8 +197,8 @@ E' un tema forse un po' collaterale rispetto agli investimenti veri e propri, ma
 Ecco qualche esempio di polizze che si possono valutare:
 
 * **polizza infortuni**: attorno ai 25€/mese per coprire gli incidenti più tipici che mi ostacolerebbero/impedirebbero l'attività lavorativa.  
-* **polizza TCM (Temporanea Caso Morte)**: attorno ai 10€/mese per coprire la più nefasta delle eventualità, rimborsando un certo capitale al beneficiario designato.  
-* **polizza responsabilità civile**: attorno ai 25€/mese per coprire qualche casistica relativa a danni fatti ad altri.  
+* **polizza TCM (Temporanea Caso Morte)**: attorno ai 20€/mese per coprire la più nefasta delle eventualità, rimborsando un certo capitale al beneficiario designato.  
+* **polizza responsabilità civile**: attorno ai 15€/mese per coprire qualche casistica relativa a danni fatti ad altri.  
 * **polizza LTC (Long Term Care)**: questa è più costosa, e copre di solito la non-autosufficienza che potrebbe verificarsi in tarda età.
 
 
@@ -209,12 +207,12 @@ Ecco qualche esempio di polizze che si possono valutare:
 
 Se sei un lavoratore dipendente, allora vai sul [sito dell'INPS](http://www.inps.it) e usa la ricerca in alto per trovare la pagina "**La mia pensione futura**", oppure eccoti la [ricerca Google già fatta](https://www.google.com/search?q=la+mia+pensione+futura).  
 
-È bene che tu scopra quanto ti manca alla pensione, e **quanto riceverai ogni mese dallo Stato**, espresso come "tasso di sostituzione": è la stima di quanti soldi prenderai di pensione dall’INPS rispetto al tuo ultimo stipendio presunto, e valori tipici per i dipendenti italiani previsti per il 2050 sembra siano attorno al 60%, a peggiorare negli anni seguenti.  
-Significa che, se non provvedi ad integrare la pensione INPS con qualcosa in più, appena andrai in pensione i tuoi introiti mensili saranno poco più di *metà* di quanto percepivi come stipendio il mese prima, quando stavi per salutare i colleghi.  
+È bene che tu scopra quanto ti manca alla pensione, e **quanto riceverai ogni mese dallo Stato**, espresso come "tasso di sostituzione": è la stima di quanti soldi prenderai di pensione dall’INPS rispetto al tuo ultimo stipendio presunto, e valori tipici per i dipendenti italiani previsti per il 2050 sembra siano attorno al 60%.  
+Significa che, se non provvedi ad integrare la pensione INPS con qualcosa in più, appena andrai in pensione i tuoi introiti mensili saranno poco più di *metà* di quanto percepivi come stipendio il mese prima, quando stavi per salutare i tuoi colleghi.  
 
-Da queste considerazioni, ho deciso che integrare la pensione è l’obiettivo principale che mi sono dato, nella gestione delle mie finanze.  
+Da queste considerazioni, ho deciso che **integrare la pensione è l’obiettivo principale che mi sono dato** nella gestione delle mie finanze.  
 
-Fai le tue valutazioni ovviamente perché ogni caso è diverso: ad esempio potresti avere un mutuo oggi che finirai di pagare _prima_ della pensione, e questo ovviamente cambia molto le valutazioni sulle spese mensili che avrai da lì in avanti.
+Fai le tue valutazioni ovviamente perché ogni caso è diverso: ad esempio potresti avere un mutuo oggi che finirai di pagare _prima_ della pensione, e questo ovviamente cambia le valutazioni sulle uscite mensili che avrai da lì in avanti.
 
 
 
@@ -223,23 +221,22 @@ Fai le tue valutazioni ovviamente perché ogni caso è diverso: ad esempio potre
 Se sei dipendente privato, allora avere un fondo pensione nel quale versare il TFR e il tuo contributo volontario minimo è ritenuta una **scelta _no-brainer_ che dovresti valutare al più presto**, prima ancora di pensare a tutti gli altri temi di finanza personale.  
 In [questo articolo su CiaoElsa.com](https://www.ciaoelsa.com/blog/tfr-in-azienda-o-tfr-nel-fondo-pensione-vantaggi-fiscali) è spiegato bene, anche con un video se preferisci.
 
-Se non l'hai già fatto, allora valuta di aprire subito la tua posizione con un fondo pensione perché **dopo i primi 15 anni di permanenza nella previdenza complementare, le tasse che pagherai al riscatto della tua posizione cominciano a scendere dello 0,3% all’anno**: partono da un già basso 15% se avrai 1-15 anni di contribuzione, per diventare 14,7% se avrai 16 anni di contribuzione, eccetera fino ad arrivare al 9% (la soglia minima) per 35 anni o più di contribuzione.  
+Se non l'hai già fatto, valuta di aprire subito la tua posizione con un fondo pensione perché **dopo i primi 15 anni di permanenza nella previdenza complementare, le tasse che pagherai al riscatto della tua posizione cominciano a scendere dello 0,3% all’anno**: partono da un già basso 15% se avrai 1-15 anni di contribuzione, per diventare 14,7% se avrai 16 anni di contribuzione, eccetera fino ad arrivare al 9% (la soglia minima) per 35 anni o più di contribuzione.  
 35 anni sono quasi l’intera carriera lavorativa, quando il tuo capitale versato nel fondo pensione avrà raggiunto il suo massimo e godrà quindi del massimo vantaggio fiscale al riscatto.  
 Esempio: ipotizzando di aver raggiunto un montante di 150.000€ alla pensione (valore a caso), la differenza tra 15% e 9% di tasse fa ballare di 9000€ quello che ti sarà erogato.  
 
-Poi può succedere di tutto, magari aprirai una tua azienda e non metterai mai un euro nel fondo pensione... ma non si sa mai cosa riserva il futuro, giusto?
-
 **CONCLUSIONI:**  
 L'ideale è **impostare la propria pianificazione finanziaria già all'arrivo dei primissimi stipendi**, come minimo aprendo un fondo pensione (al limite anche *senza* metterci dentro soldi, l’importante è che la posizione resti aperta quanti più anni possibile).  
-Ma non è mai troppo tardi, e se hai figli puoi fare una riflessione anche per loro: potresti per esempio aprire un fondo pensione qualunque (meglio quindi quello con il costo annuo di mantenimento più basso!) intestato a loro, anche senza versarci contributi, così intanto maturano l’anzianità di cui sopra.
+Ma non è mai troppo tardi, e se hai figli puoi fare una riflessione anche per loro: potresti per esempio aprire un fondo pensione qualunque (magari quello con il costo annuo più basso) intestato a loro, anche senza versarci contributi, così intanto maturano l’anzianità di cui sopra. 
 
 
 
 # Fondo pensione o ETF?
 
-Se hai risparmi che avanzano, e un orizzonte lungo, potresti domandarti se è meglio investirli in ETF oppure in un fondo pensione, tramite versamenti aggiuntivi volontari.  
-Taglio la testa al toro e ti dò subito la risposta che mi sembra mettere d'accordo tanti divulgatori: la soluzione migliore _mediamente_ sembra essere quella di **sfruttare contributo datoriale e deduzioni del fondo pensione fino al massimo annuo di 5164€, e investire l'eventuale eccedenza in ETF**.  
-Facendo questo, oltre ai soldi che ti arrivano dal datore di lavoro, l'anno seguente avrai anche una importante deduzione in dichiarazione dei redditi: soldi in tasca che altrimenti non avresti.
+Se hai risparmi che avanzano, e un orizzonte lungo, potresti domandarti se è meglio investirli in ETF oppure fare versamenti volontari in un fondo pensione.  
+Taglio la testa al toro e ti dò subito la risposta verso cui convergono tanti divulgatori: la soluzione migliore _mediamente_ sembra essere quella di **sfruttare contributo datoriale e deduzioni del fondo pensione fino al massimo annuo di 5164€, e investire eventuale ulteriori risparmi in ETF**.  
+Facendo questo, oltre ai soldi che ti arrivano dal datore di lavoro, l'anno seguente avrai anche una importante deduzione in dichiarazione dei redditi: soldi in tasca che altrimenti non avresti.  
+Le tasse su questi versamenti saranno pagate al momento del riscatto e saranno più basse (9-15%).
 
 In [questo post di CiaoElsa.com](https://www.ciaoelsa.com/blog/fondo-pensione-o-etf-cosa-conviene) ci sono le informazioni che servono su questo tema.
 
@@ -253,7 +250,7 @@ VANTAGGI PRINCIPALI DEI FONDI PENSIONE:
 * **Deduzioni**: fino a max 5164€/anno versati in fondi pensione si possono dedurre dal tuo imponibile nella dichiarazione dei redditi. Contribuiscono al conteggio dei 5164€/anno anche i contributi volontari e quelli del datore di lavoro, ma non il TFR. Il vantaggio fiscale che ottieni è circa proporzionale alla tua aliquota IRPEF, quindi se versi 5164€ nel tuo FP ti trovi a spanne tra i 1000€ e i 2000€ in più in tasca dopo aver presentato il 730.
 
 **CONCLUSIONI:**  
-Può essere una buona idea **combinare questi due tipi di investimento a lungo termine** per motivi diversi, da verificare anche in base alla tua situazione lavorativa: un dipendente privato con stipendio elevato otterrà il massimo beneficio dai vantaggi fiscali dei FP (perché avrà uno scaglione IRPEF più alto, quindi maggiore deduzione in percentuale), ma in generale sembra che **anche con scaglione IRPEF minimo i FP siano la miglior destinazione per i primi 5164 euro all'anno che uno riesce a risparmiare**.  Per scrupolo dico che bisogna fare i conti caso per caso.  
+Può essere una buona idea **combinare questi due tipi di investimento a lungo termine** per motivi diversi, da verificare anche in base alla tua situazione lavorativa: un dipendente privato con stipendio elevato otterrà il massimo beneficio dai vantaggi fiscali dei FP (perché avrà uno scaglione IRPEF più alto, quindi maggiore deduzione in percentuale), ma in generale sembra che **anche con scaglione IRPEF minimo i FP siano la miglior destinazione per i primi 5164 euro all'anno che uno riesce a risparmiare**.  
 Quello che è quasi certo è che **aprire una posizione nel tuo FPN e versarci TFR + contributo volontario minimo sia più vantaggioso e sicuro rispetto a tenere il TFR in azienda**, e quindi è una scelta quasi obbligata per portarsi a casa **più soldi** (il contributo datoriale, l'interesse sull'investimento, il risparmio fiscale al momento del riscatto) **e più protezione sul TFR** (l'azienda può fallire, e recuperare il proprio TFR potrebbe rivelarsi problematico).
 
 
@@ -261,7 +258,8 @@ Quello che è quasi certo è che **aprire una posizione nel tuo FPN e versarci T
 # I comparti dei FPN
 
 I FPN (Fondi Pensione Negoziali, o "chiusi", o "di categoria") hanno dei comparti di investimento piuttosto conservativi, con componente azionaria mai superiore ad una certa soglia, per esempio il 65%, e oltretutto se non si esprime alcuna scelta all'adesione spesso **ti appioppano di default uno dei comparti super-conservativi**, anche 100% obbligazionario.  
-Se come me hai passato molti anni da dipendente prima di preoccupartene, allora anche tu probabilmente **hai perso centinaia/migliaia di euro "futuri" senza neanche saperlo, solo perché hai mantenuto il comparto che il fondo pre-assegna a tutti i nuovi aderenti**, e perciò i tuoi soldi sono stati investiti in larga parte in obbligazioni. O magari hai addirittura lasciato *intenzionalmente* quel comparto perché "*non metto la mia pensione a rischio, meglio le obbligazioni che sono più sicure*" (e magari ti sei beccato performance vicine allo 0%, che una volta che ci metti i costi e le tasse si traducono in *soldi persi*).  
+Se come me hai passato molti anni da dipendente prima di preoccupartene, allora anche tu probabilmente **hai perso centinaia/migliaia di euro "futuri" senza neanche saperlo, solo perché hai mantenuto il comparto che il fondo pre-assegna a tutti i nuovi aderenti**, e perciò i tuoi soldi sono stati investiti in larga parte in obbligazioni.  
+O magari hai addirittura lasciato *intenzionalmente* quel comparto perché "*non metto la mia pensione a rischio, meglio le obbligazioni che sono più sicure*" (e magari ti sei beccato performance vicine allo 0%, che una volta che ci metti i costi e le tasse si traducono letteralmente in *soldi persi*).  
 
 **CONCLUSIONI:**  
 **Verifica quali comparti offre il fondo al quale hai aderito**, ce ne sono sempre almeno 3 tra cui scegliere, a volte 4 o 5, ed eventualmente cambia: se ti mancano più di 10 anni alla pensione, allora potresti ad esempio valutare uno dei comparti con maggior componente azionaria tra quelli disponibili.  
@@ -273,10 +271,10 @@ Se come me hai passato molti anni da dipendente prima di preoccupartene, allora 
 Valuta l'opportunità di aprire DUE fondi pensione, a seconda di quanto hai versato fino ad oggi e di quanto ti manca alla pensione.
 
 Un buon motivo è che **riscattare il montante come capitale è tendenzialmente meglio che riceverlo come rendita**: in [questo video di Paolo Coletti](https://www.youtube.com/watch?v=9ydgezcEGRk) ci sono un po' di conti che lo dimostrano.  
-Per poter riscattare il 100% del montante accumulato sottoforma di capitale al momento della pensione c’è un calcolo da fare (cerca online), ma a spanne se il montante supera i 100k€ allora potresti essere obbligato a riscattare il 50% del montante come capitale e il resto obbligatoriamente come rendita.  
-Il punto è che questo conteggio si applica al singolo fondo, e non alla somma di tutti: ecco perché avere 50k in un fondo e 50k in un altro diventa meglio che 100k tutti in uno. 
+Per poter riscattare il 100% del montante accumulato sottoforma di capitale al momento della pensione c’è un calcolo da fare (cerca online), ma a spanne se il montante supera i 100k€ allora **potresti essere obbligato a riscattare il 50% del montante come capitale e il resto obbligatoriamente come rendita**.  
+Il punto è che questo conteggio si applica al _singolo_ fondo, e non alla somma di tutti: ecco perché avere 50k in un fondo e 50k in un altro può essere meglio che 100k tutti in uno. 
 
-Un altro motivo è il **profilo di investimento**: di norma gli FPN limitano la parte azionaria al 60% sul comparto più aggressivo che propongono, ma se ti mancano più di 10 anni alla pensione magari ti interessa spingere un po' di più sulla parte azionaria.
+Un altro motivo è il **profilo di investimento**: di norma gli FPN limitano la parte azionaria al 60% sul comparto più aggressivo che propongono, ma se ti mancano più di 10 anni alla pensione magari ti interessa una percentuale azionaria più alta.  
 Con questo obiettivo, potresti scegliere di tenere l'FPN solo perché è lì che ottieni il contributo del datore, e aderire ad un secondo fondo pensione (un FPA, Fondo Pensione Aperto) che sia poco costoso, nel quale versare solo contributi volontari tramite semplici bonifici, e che ti offra un profilo di investimento con una quota azionaria maggiore.  
 
 La soglia dei famosi 5164€/anno per massimizzare la deduzione si raggiunge sommando i contributi volontari e datoriali su tutti i fondi pensione che hai sottoscritto.
@@ -342,7 +340,7 @@ Quanto pesa quell'1% su 15 anni, se investi 300€ al mese con un rendimento ann
 
 # Consulenti finanziari indipendenti
 
-Investire è tutto sommato abbastanza semplice.  
+Investire è tutto sommato abbastanza semplice; la parte più complessa è affrontare la pigrizia per imparare le poche nozioni necessarie.  
 **Potresti comunque preferire il supporto di un professionista**, per farti spiegare le cose per bene e impostare una strategia.  
 I motivi per cui rivolgersi ad un consulente finanziario **indipendente** invece che alle banche sono abbastanza noti: sostanzialmente se cerchi consulenza finanziaria allora è meglio trovarla **priva di conflitto d’interessi**, perché a te interessano gli strumenti _migliori sul mercato_, e non quelli che vuole venderti la banca.
 
