@@ -218,3 +218,11 @@ strong, b {
     color: var(--body-text-color);
     font-size: 1.25em;
 }
+
+/* Rimuovi evidenziatura per link che contengono immagini */
+.article-content a:has(img):hover {
+    background-color: transparent !important;
+    color: inherit !important;
+    border-radius: 0 !important;
+    text-decoration: none !important;
+}
