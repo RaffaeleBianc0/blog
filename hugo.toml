@@ -62,7 +62,7 @@ favicon = "favicon.ico" # e.g.: favicon placed in `static/favicon.ico` of your s
     default = "Licensed under CC BY-NC-SA 4.0"
 
   [params.comments]
-  enabled = false
+  enabled = true
   provider = "cusdis"
 
     [params.comments.disqusjs]

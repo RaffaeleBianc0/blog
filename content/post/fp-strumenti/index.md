@@ -34,6 +34,27 @@ Il sito è un ottimo punto di ingresso per approcciare i temi e iniziare ad orga
 
 
 
+# Budgeting
+
+Tracciare entrate e uscite finanziarie può essere davvero noioso, se fatto manualmente come una volta: foglio di calcolo, e tanta disciplina per scrivere ogni spesa in una nuova riga.
+
+Se oggi avessi dovuto farla ancora così, avrei senz'altro rinunciato prima ancora di iniziare.
+
+Oggi però esiste il protocollo [Open Banking](https://it.wikipedia.org/wiki/Open_banking), usato dal 2019 da molte banche dell'Unione Europea, che consente di leggere saldo e transazioni del tuo conto corrente da un'altra applicazione in modo automatico e sicuro.  
+Questo significa **automatizzare completamente il data-entry**, a patto di usare sempre una carta collegata al conto per fare le proprie spese, così che ogni spesa sia una transazione separata.
+
+Ho provato un po' di app per il budgeting scartando tutte quelle che non supportano Open Banking, che quando ho fatto i test erano tutte meno due, delle quali una forniva questa funzionalità fondamentale solamente tramite abbonamento mensile.  
+Considerando che per le mie esigenze il budgeting è stato più una curiosità che una esigenza, non mi andava di spenderci dei soldi, quindi il mio personale vincitore è stato automaticamente [**Wallet** di Budgetbakers](https://budgetbakers.com/en/products/wallet/).  
+
+Features interessanti: 
+* Supporta Open Banking.
+* L'accesso ai propri dati su Wallet è disponibile anche tramite webapp su PC, dove può essere più comodo filtrarli, fare ricerche, esportarli.
+* E' possibile gestire fino a 3 conti nella versione free. Esempio: conto corrente personale nella Banca1, conto corrente di famiglia nella Banca2, contanti in tasca. Questo aiuta a controllare più conti e ad avere statistiche e report di dettaglio oppure aggregati in modo molto intuitivo.  
+
+Se hai solamente un conto corrente, allora verifica prima di tutto se la app della tua banca fornisce già questo tipo di funzionalità (in sintesi: categorizzazione automatica e statistiche/report): potrebbe essere tutto già fatto e disponibile da molto tempo, e ti basterà in questo caso semplicemente abituarti a pagare tutto con la carta per avere dati precisi.
+
+
+
 # Conti deposito
 
 [Deposifire](http://www.deposifire.com)  

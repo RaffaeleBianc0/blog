@@ -212,3 +212,9 @@ strong, b {
     font-weight: 900;
     color: var(--bold-text-color);
 }
+
+/* Stile per il titolo dei commenti */
+.comments-title {
+    color: var(--body-text-color);
+    font-size: 1.25em;
+}
