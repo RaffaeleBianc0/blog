@@ -226,3 +226,9 @@ strong, b {
     border-radius: 0 !important;
     text-decoration: none !important;
 }
+
+/* Evidenziazione menu sinistra su hover */
+.left-sidebar .menu li a:hover {
+    color: var(--accent-color);
+    font-weight: bold;
+}
