@@ -11,7 +11,7 @@ image: "images/finanza-personale.jpg"
 
 # Obiezione, vostro onore
 
-**"Non mi interessa, non mi serve"** ➡️ Ti stai raccontando una balla e non lo sai, come minimo perché c'è l'[inflazione](#inflazione) e, se sei dipendente, perché l'[INPS](#inps) ti darà una pensione bassa. [Inizia adesso](#fondo-pensione-subito)!
+**"Non mi interessa, non mi serve"** ➡️ Ti stai raccontando una balla, come minimo perché c'è l'[inflazione](#inflazione) e, se sei dipendente, perché l'[INPS](#inps) ti darà una pensione bassa. [Inizia adesso](#fondo-pensione-subito)!
 
 **"Meglio non rischiare di perdere soldi"** ➡️ Proprio così, per questo devi interessartene (vedi i punti qui sopra). Comunque se vuoi azzerare il [rischio](#rischio) ci sono scelte che puoi fare [senza perderci](#senza-perderci).
 
@@ -203,81 +203,11 @@ Ecco qualche esempio di polizze che si possono valutare:
 
 
 
-# INPS
+# Fondi pensione
 
-Se sei un lavoratore dipendente, allora vai sul [sito dell'INPS](http://www.inps.it) e usa la ricerca in alto per trovare la pagina "**La mia pensione futura**", oppure eccoti la [ricerca Google già fatta](https://www.google.com/search?q=la+mia+pensione+futura).  
+Il tema è di primaria importanza soprattutto se sei un lavoratore dipendente, e credo che dovresti affrontarlo prima di pensare all'investimento in altre forme.
 
-È bene che tu scopra quanto ti manca alla pensione, e **quanto riceverai ogni mese dallo Stato**, espresso come "tasso di sostituzione": è la stima di quanti soldi prenderai di pensione dall’INPS rispetto al tuo ultimo stipendio presunto, e valori tipici per i dipendenti italiani previsti per il 2050 sembra siano attorno al 60%.  
-Significa che, se non provvedi ad integrare la pensione INPS con qualcosa in più, appena andrai in pensione i tuoi introiti mensili saranno poco più di *metà* di quanto percepivi come stipendio il mese prima, quando stavi per salutare i tuoi colleghi.  
-
-Da queste considerazioni, ho deciso che **integrare la pensione è l’obiettivo principale che mi sono dato** nella gestione delle mie finanze.  
-
-Fai le tue valutazioni ovviamente perché ogni caso è diverso: ad esempio potresti avere un mutuo oggi che finirai di pagare _prima_ della pensione, e questo ovviamente cambia le valutazioni sulle uscite mensili che avrai da lì in avanti.
-
-
-
-# Fondo pensione subito
-
-Se sei dipendente privato, allora avere un fondo pensione nel quale versare il TFR e il tuo contributo volontario minimo è ritenuta una **scelta _no-brainer_ che dovresti valutare al più presto**, prima ancora di pensare a tutti gli altri temi di finanza personale.  
-In [questo articolo su CiaoElsa.com](https://www.ciaoelsa.com/blog/tfr-in-azienda-o-tfr-nel-fondo-pensione-vantaggi-fiscali) è spiegato bene, anche con un video se preferisci.
-
-Se non l'hai già fatto, valuta di aprire subito la tua posizione con un fondo pensione perché **dopo i primi 15 anni di permanenza nella previdenza complementare, le tasse che pagherai al riscatto della tua posizione cominciano a scendere dello 0,3% all’anno**: partono da un già basso 15% se avrai 1-15 anni di contribuzione, per diventare 14,7% se avrai 16 anni di contribuzione, eccetera fino ad arrivare al 9% (la soglia minima) per 35 anni o più di contribuzione.  
-35 anni sono quasi l’intera carriera lavorativa, quando il tuo capitale versato nel fondo pensione avrà raggiunto il suo massimo e godrà quindi del massimo vantaggio fiscale al riscatto.  
-Esempio: ipotizzando di aver raggiunto un montante di 150.000€ alla pensione (valore a caso), la differenza tra 15% e 9% di tasse fa ballare di 9000€ quello che ti sarà erogato.  
-
-**CONCLUSIONI:**  
-L'ideale è **impostare la propria pianificazione finanziaria già all'arrivo dei primissimi stipendi**, come minimo aprendo un fondo pensione (al limite anche *senza* metterci dentro soldi, l’importante è che la posizione resti aperta quanti più anni possibile).  
-Ma non è mai troppo tardi, e se hai figli puoi fare una riflessione anche per loro: potresti per esempio aprire un fondo pensione qualunque (magari quello con il costo annuo più basso) intestato a loro, anche senza versarci contributi, così intanto maturano l’anzianità di cui sopra. 
-
-
-
-# Fondo pensione o ETF?
-
-Se hai risparmi che avanzano, e un orizzonte lungo, potresti domandarti se è meglio investirli in ETF oppure fare versamenti volontari in un fondo pensione.  
-Taglio la testa al toro e ti dò subito la risposta verso cui convergono tanti divulgatori: la soluzione migliore _mediamente_ sembra essere quella di **sfruttare contributo datoriale e deduzioni del fondo pensione fino al massimo annuo di 5164€, e investire eventuale ulteriori risparmi in ETF**.  
-Facendo questo, oltre ai soldi che ti arrivano dal datore di lavoro, l'anno seguente avrai anche una importante deduzione in dichiarazione dei redditi: soldi in tasca che altrimenti non avresti.  
-Le tasse su questi versamenti saranno pagate al momento del riscatto e saranno più basse (9-15%).
-
-In [questo post di CiaoElsa.com](https://www.ciaoelsa.com/blog/fondo-pensione-o-etf-cosa-conviene) ci sono le informazioni che servono su questo tema.
-
-VANTAGGI INVESTIMENTO ETF:  
-* **Più libertà:** Sei 100% libero di decidere quando, quanto, e come investire/disinvestire, mentre il fondo pensione è per sua natura più vincolato, anche su tempi e modalità di accesso al proprio capitale.  
-* **Meno costi ricorrenti:** L’investimento in ETF ha costi ricorrenti spesso inferiori rispetto ai FP (trovi i costi degli ETF su [JustETF](https://www.justetf.com), e dei FP sul [sito COVIP](https://www.covip.it)).  
-* **Migliori rendimenti attesi:** Con un portafoglio di ETF sensato è stato possibile fino ad oggi ottenere sul lungo periodo rendimenti un po' più alti rispetto ai fondi pensione; tuttavia questi dati storici non garantiscono nulla sul futuro, come sempre.
-
-VANTAGGI PRINCIPALI DEI FONDI PENSIONE:  
-* **Contributo datoriale**: se destini il TFR ad un fondo pensione negoziale (FPN) (anche detto "chiuso" o "di categoria"), e ci aggiungi un piccolo contributo volontario (circa 1-2% della tua busta paga ogni mese - il valore è determinato dal tuo CCNL di riferimento) allora **ottieni un contributo extra da parte del tuo datore ogni mese** (circa un altro 1-2% - dipende sempre dal tuo CCNL di riferimento). Potrebbero essere ad esempio attorno ai 50€/mese regalati, che moltiplicando per 12 mesi per 40 anni di lavoro, e con un (prudente) tasso di interesse annuo del 2%, saranno diventati circa 36.000€ in più alla pensione - fai il conto in base alla tua situazione [qui](https://extraetf.com/it/calculator/saving-plan).  
-* **Deduzioni**: fino a max 5164€/anno versati in fondi pensione si possono dedurre dal tuo imponibile nella dichiarazione dei redditi. Contribuiscono al conteggio dei 5164€/anno anche i contributi volontari e quelli del datore di lavoro, ma non il TFR. Il vantaggio fiscale che ottieni è circa proporzionale alla tua aliquota IRPEF, quindi se versi 5164€ nel tuo FP ti trovi a spanne tra i 1000€ e i 2000€ in più in tasca dopo aver presentato il 730.
-
-**CONCLUSIONI:**  
-Può essere una buona idea **combinare questi due tipi di investimento a lungo termine** per motivi diversi, da verificare anche in base alla tua situazione lavorativa: un dipendente privato con stipendio elevato otterrà il massimo beneficio dai vantaggi fiscali dei FP (perché avrà uno scaglione IRPEF più alto, quindi maggiore deduzione in percentuale), ma in generale sembra che **anche con scaglione IRPEF minimo i FP siano la miglior destinazione per i primi 5164 euro all'anno che uno riesce a risparmiare**.  
-Quello che è quasi certo è che **aprire una posizione nel tuo FPN e versarci TFR + contributo volontario minimo sia più vantaggioso e sicuro rispetto a tenere il TFR in azienda**, e quindi è una scelta quasi obbligata per portarsi a casa **più soldi** (il contributo datoriale, l'interesse sull'investimento, il risparmio fiscale al momento del riscatto) **e più protezione sul TFR** (l'azienda può fallire, e recuperare il proprio TFR potrebbe rivelarsi problematico).
-
-
-
-# I comparti dei FPN
-
-I FPN (Fondi Pensione Negoziali, o "chiusi", o "di categoria") hanno dei comparti di investimento piuttosto conservativi, con componente azionaria mai superiore ad una certa soglia, per esempio il 65%, e oltretutto se non si esprime alcuna scelta all'adesione spesso **ti appioppano di default uno dei comparti super-conservativi**, anche 100% obbligazionario.  
-Se come me hai passato molti anni da dipendente prima di preoccupartene, allora anche tu probabilmente **hai perso centinaia/migliaia di euro "futuri" senza neanche saperlo, solo perché hai mantenuto il comparto che il fondo pre-assegna a tutti i nuovi aderenti**, e perciò i tuoi soldi sono stati investiti in larga parte in obbligazioni.  
-O magari hai addirittura lasciato *intenzionalmente* quel comparto perché "*non metto la mia pensione a rischio, meglio le obbligazioni che sono più sicure*" (e magari ti sei beccato performance vicine allo 0%, che una volta che ci metti i costi e le tasse si traducono letteralmente in *soldi persi*).  
-
-**CONCLUSIONI:**  
-**Verifica quali comparti offre il fondo al quale hai aderito**, ce ne sono sempre almeno 3 tra cui scegliere, a volte 4 o 5, ed eventualmente cambia: se ti mancano più di 10 anni alla pensione, allora potresti ad esempio valutare uno dei comparti con maggior componente azionaria tra quelli disponibili.  
-
-
-
-# Più fondi pensione
-
-Valuta l'opportunità di aprire DUE fondi pensione, a seconda di quanto hai versato fino ad oggi e di quanto ti manca alla pensione.
-
-Un buon motivo è che **riscattare il montante come capitale è tendenzialmente meglio che riceverlo come rendita**: in [questo video di Paolo Coletti](https://www.youtube.com/watch?v=9ydgezcEGRk) ci sono un po' di conti che lo dimostrano.  
-Per poter riscattare il 100% del montante accumulato sottoforma di capitale al momento della pensione c’è un calcolo da fare (cerca online), ma a spanne se il montante supera i 100k€ allora **potresti essere obbligato a riscattare il 50% del montante come capitale e il resto obbligatoriamente come rendita**.  
-Il punto è che questo conteggio si applica al _singolo_ fondo, e non alla somma di tutti: ecco perché avere 50k in un fondo e 50k in un altro può essere meglio che 100k tutti in uno. 
-
-Un altro motivo è il **profilo di investimento**: di norma gli FPN limitano la parte azionaria al 60% sul comparto più aggressivo che propongono, ma se ti mancano più di 10 anni alla pensione magari ti interessa una percentuale azionaria più alta.  
-Con questo obiettivo, potresti scegliere di tenere l'FPN solo perché è lì che ottieni il contributo del datore, e aderire ad un secondo fondo pensione (un FPA, Fondo Pensione Aperto) che sia poco costoso, nel quale versare solo contributi volontari tramite semplici bonifici, e che ti offra un profilo di investimento con una quota azionaria maggiore.  
-
-La soglia dei famosi 5164€/anno per massimizzare la deduzione si raggiunge sommando i contributi volontari e datoriali su tutti i fondi pensione che hai sottoscritto.
+Ho raccolto tutti i paragrafi su questo tema in un [post "Fondi pensione"]({{< ref "fp-fondipensione.md" >}}) dedicato.
 
 
 
@@ -290,7 +220,7 @@ Gli ETF sono l'uovo di colombo tra gli strumenti finanziari per l’investimento
 * Sono **diversificati**: alcuni indici, e quindi i corrispondenti ETF, sono composti di centinaia o migliaia di titoli; e la diversificazione è il cardine fondamentale in qualunque investimento a lungo termine.  
 * Sono **economici**: un ETF investe automaticamente acquistando e vendendo titoli esattamente con le rispettive proporzioni che questi hanno nell'indice che l’ETF stesso replica. Questo significa che non serve un professionista che prende decisioni attive su dove allocare l’investimento, ma basta un software, e i costi si abbattono: gli ETF costano tipicamente 0,07%-0,40% annuo di quanto investi, contro l’1-3% dei fondi attivi.   
 * Sono **efficaci**: spesso l’indice replicato da un ETF è quello che i fondi attivi simili tentano di superare senza quasi mai riuscirci su periodi lunghi (cfr. [SPIVA](#spiva)); in altre parole, sul lungo periodo gli ETF rendono quasi sempre di più dei fondi attivi paragonabili.  
-* Sono **senza vincoli**: puoi venderli in tempi rapidissimi, spesso meno di un secondo, e subito bonificare quei soldi verso il tuo conto corrente (a patto di acquistare gli ETF più liquidi, che tipicamente sono anche tra i più interessanti e utilizzati per gli obiettivi di risparmio di un comune investitore privato).
+* Sono **senza vincoli**: puoi venderli molto velocemente, spesso in meno di un secondo, e subito bonificare quei soldi verso il tuo conto corrente (a patto di acquistare gli ETF più liquidi, che tipicamente sono anche tra i più interessanti e utilizzati per gli obiettivi di risparmio di un comune investitore privato).
 
 JustETF ha [una pagina introduttiva](https://www.justetf.com/it/academy/etf-for-beginners.html) che dà una panoramica su questi strumenti.
 
