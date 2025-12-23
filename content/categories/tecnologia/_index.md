@@ -1,6 +1,6 @@
 ---
 title: "tecnologia"
-description: "Cose tecnologiche, roba perlopiù da nerd."
+description: "Roba perlopiù da nerd, madò quanto mi piace però."
 slug: "tecnologia"
 image: "categoria.jpg"
 style:
