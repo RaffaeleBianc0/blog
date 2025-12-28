@@ -9,24 +9,25 @@ image: "images/vintage-pc.jpg"
 
 Ogni tanto queste pagine cambiano forma, perché le uso anche come palestra per smanettare con qualche strumento nuovo nei periodi nerd che ogni tanto mi prendono.
 
-Ecco quindi la **storia di questo sito da quando è nato ad oggi**, attraverso tutte le sue reincarnazioni, in un impeto di amarcord che mi ha fatto venir voglia di scrivere un po' di ricordi.
+Ecco quindi la **storia di questo sito da quando è nato ad oggi**, attraverso tutte le sue reincarnazioni, in un impeto di amarcord che mi ha fatto venir voglia di scrivere un po'.
 
 
 
 # 1996: HTML artigianale
 
-Era circa il 1996, avevo iniziato l'università a Padova e, come più o meno tutti i miei compagni di corso, frequentavo il [DEI](https://www.dei.unipd.it), il Dipartimento di Elettronica e Informatica dell'Università.  
+Era il 1996, avevo iniziato da poco l'università a Padova e, come più o meno tutti i miei compagni di corso, frequentavo il [DEI](https://www.dei.unipd.it), il Dipartimento di Elettronica e Informatica dell'università.  
 In particolare il laboratorio che c'era appena dentro a sinistra, con dentro un vago sentore di persone che si lavano poco e una quindicina di [SPARCstation](https://en.wikipedia.org/wiki/SPARCstation), sulle quali **muovevo i miei primissimi passi sia su UNIX che su Internet**.  
 
 In quel periodo Internet stava iniziando ad entrare nelle case italiane, ma ancora in nessuna di qualcuno che io conoscessi.  
-Oggi è scontato avere tutto in tasca, ma nel '96, seduto davanti a un computer, ero per la prima volta in contatto col mondo intero.  
+A casa avevamo un solo PC con DOS + Windows 3.1, perché Windows 95 sarebbe arrivato con il nuovo PC qualche mese più tardi, insieme alla connettività tramite modem analogico.  
+Oggi è scontato avere tutto in tasca, ma nel '96, seduto davanti a un computer così diverso da quello che avevo a casa, ero per la prima volta in contatto col mondo intero.  
 
-Ricordo ancora l'**euforia dei primi scambi di messaggi sui** [**newsgroup Usenet**](https://it.wikipedia.org/wiki/Newsgroup) con ignoti che vivevano chissà dove nel mondo, discutendo di batteria, tramite un software a caratteri che si chiamava [Pine](https://en.wikipedia.org/wiki/Pine_(email_client))... era tutto incredibile, per me che passavo dal paesetto di 20mila abitanti alla città con centinaia di studenti e questo accesso ad un universo parallelo, ogni nazione sembrava vicina, a portata di mano, ogni persona raggiungibile, lo raccontavo con entusiasmo ma in pochi capivano.
+Ricordo ancora l'**euforia dei primi scambi di messaggi sui** [**newsgroup Usenet**](https://it.wikipedia.org/wiki/Newsgroup) con ignoti che vivevano chissà dove nel mondo, discutendo di batteria, tramite un software a caratteri che si chiamava [Pine](https://en.wikipedia.org/wiki/Pine_(email_client))... era tutto incredibile, per me che passavo dal paesetto di 20mila abitanti alla città con centinaia di studenti e questo accesso al Mondo, ogni nazione sembrava vicina, a portata di mano, ogni persona raggiungibile, lo raccontavo con entusiasmo ma in pochi capivano.
 
 Appena ho realizzato che potevo avere un mio sito personale online ho imparato a farmelo.  
 **Scrivevo in HTML a mano con un editor di testo**, forse addirittura prima di scoprire gli editor con la colorazione della sintassi.  
 
-Al tempo non li chiamavamo ancora "blog", penso non esistesse ancora questo concetto, erano semplicemente "siti web".
+Al tempo non li chiamavamo ancora "blog", penso non esistesse ancora questo concetto, erano semplicemente "pagine web".
 
 Purtroppo non ho più una copia di quella versione primordiale, anche se me la ricordo vagamente con i suoi pulsanti colorati sulla sinistra. Sono passati più di 30 anni, e il layout "menu a sinistra sempre disponibile" continua ad essere quello che preferisco sullo schermo di un computer.  
 Negli [snapshot fatti da Internet Archive](https://web.archive.org/web/20000711041401/http://www.dei.unipd.it/~raff/index.htm) mancano quasi tutti gli elementi grafici, è rimasto solo il testo.  
@@ -40,9 +41,9 @@ Poi una volta lasciata l'Università ricordo che spostai tutto il contenuto prim
 
 ![](images/2000homepage.png)
 
-Ad un certo punto rimasi favorevolmente colpito da Frontpage (orrore!) con il quale pensavo di migliorare ed estendere il mio sito con qualche automatismo in più, ricordo che ero rimasto affascinato dal fatto che gestiva automaticamente il menu man mano che aggiungevo pagine.
+Ad un certo punto rimasi favorevolmente colpito da Microsoft Frontpage (orrore!) con il quale pensavo di migliorare ed estendere il mio sito con qualche automatismo in più, ricordo che ero rimasto affascinato dal fatto che gestiva automaticamente il menu man mano che aggiungevo pagine.
 
-Qualche tempo dopo sostituii Frontpage con Dreamweaver e persi ore preziose tentando di pulire le porcherie nel codice HTML prodotto dall'editor Microsoft che chi ci ha lavorato ricorderà sicuramente: ogni volta che mettevi mano e salvavi, il file si gonfiava di metadati completamente inutili che appesantivano tutto e rendevano impossibile una manutenzione manuale dei file HTML.
+Qualche tempo dopo sostituii Frontpage con Dreamweaver e persi ore preziose tentando di pulire le porcherie nel codice HTML prodotto dall'editor Microsoft che chi ci ha lavorato ricorderà sicuramente: ogni volta che mettevi mano e salvavi, il file si gonfiava di metadati inutili che appesantivano tutto e rendevano praticamente impossibile una manutenzione manuale dei file HTML.
 
 
 
@@ -101,9 +102,10 @@ Nel frattempo mi iscrivevo a Facebook e a decine di altre piattaforme Web 2.0 ne
 
 Una delle tante piattaforme Web 2.0 dove mi sono fatto l'account è Blogger, il servizio di Google che ospita blog.  
 
-Ci ho trasportato un po' di cose che avevo scritto già ai tempi di e107, per provare l'esperienza di un vero blog.
+Ci ho trasportato un po' di cose che avevo scritto già ai tempi di e107, per provare l'esperienza di un vero blog.  
+E ci ho scritto qualcosa di nuovo.
 
-[E' tutto ancora online](https://raffaelebianco.blogspot.com/), anche se abbandonato.
+[E' tutto ancora online](https://raffaelebianco.blogspot.com/), anche se abbandonato dal 2013.
 
 
 
@@ -127,7 +129,7 @@ Mi sono però dedicato a **perfezionare la mia homepage**: ho smanettato un po' 
 ![](images/2015wordpress.png)
 
 Girovagando online mi sono imbattuto in [Wordpress](https://www.wordpress.com).  
-Anche questo fa parte dei CMS che avevo scoperto più di 10 anni prima, ma l'estetica moderna, i temi e i plugin mi hanno conquistato.
+Anche questo fa parte dei CMS, categoria che avevo scoperto più di 10 anni prima, ma l'estetica moderna, i temi e i plugin mi hanno conquistato.
 
 E allora ho traslocato alcuni post da Blogger, così da imparare a muovermi un po' anche in Wordpress, che è probabilmente il leader del suo settore.  
 
