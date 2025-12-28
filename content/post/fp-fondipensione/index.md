@@ -10,7 +10,7 @@ image: "images/cover.png"
 
 
 
-Ho voluto separare il tema dei fondi pensione dagli [altri post sulla finanza personale](/blog/categories/finanza-personale) perché è un capitolo importante che si può affrontare indipendentemente dagli altri.
+Ho voluto separare il tema dei fondi pensione dagli [altri post sulla finanza personale](/blog/categories/finanza-personale) perché è un capitolo importante che si può affrontare indipendentemente dagli altri, e che **interessa tutti i lavoratori dipendenti**, anche chi non ha intenzione di fare altri tipi di investimento.
 
 
 
@@ -39,15 +39,9 @@ Il confronto tra questa tassazione con quella applicata al tradizionale "TFR in 
 **Esempio:**  
 Ipotizzando di aver raggiunto un montante di 150.000€ alla pensione (che è un valore plausibile), la differenza tra 15% e 9% di tasse fa ballare di 9000€ l'importo che ti sarà erogato.  
 
-**CONCLUSIONI:**  
-L'ideale è **impostare la propria pianificazione finanziaria per il lungo termine già all'arrivo dei primissimi stipendi**, come minimo aprendo un FP.  
-Al limite puoi anche non alimentarlo, e versarci solo lo stretto necessario per tenerlo aperto: dipende dal costo annuo del fondo che sceglierai, ad esempio 20€/anno; **l’importante è che la posizione resti aperta quanti più anni possibile**, per avvicinarsi ai 35 (o superarli) quando andrai in pensione.  
-
-Quando vorrai potrai cambiare FP liberamente, trasportando il montante accumulato e conservando l'anzianità maturata.  
-**Esempio:**  
-**2005**: inizi a lavorare per un'azienda del settore metalmeccanico: il FPN è Cometa, e ci versi TFR + contributo volontario minimo, così da ottenere il contributo datoriale.  
-**2020**: cambi lavoro e passi ad un'azienda del settore commercio: il FPN in questo caso è Fon.Te, e per continuare a godere del contributo datoriale devi aprire una posizione con Fon.Te.  
-**A te la scelta** sulla tua posizione Cometa: puoi lasciarla lì ferma a maturare interessi fino alla pensione (può essere utile avere [più di un fondo pensione](#più-fondi-pensione)), oppure puoi trasferire il capitale maturato da Cometa a Fon.Te chiudendo la posizione Cometa e conservando la data di prima adesione che viene trasferita in Fon.Te, oppure puoi riscattare completamente il capitale che hai su Cometa (la scelta peggiore, soprattutto per le tasse che si pagano su questa operazione).
+**LE MIE CONCLUSIONI:**  
+Avrei dovuto **impostare la mia pianificazione finanziaria per il lungo termine già all'arrivo dei primissimi stipendi**, come minimo aprendo un FP.  
+Avrei potuto anche versarci solo lo stretto necessario per tenerlo aperto (dipende dal costo annuo del fondo, ad esempio 20€/anno); ma **avrei oggi quasi raggiunto i 35 anni di permanenza nella previdenza complementare**.  
 
 
 
@@ -59,7 +53,7 @@ Se come me hai passato molti anni da dipendente prima di preoccupartene, allora 
 
 O magari hai addirittura lasciato *intenzionalmente* quel comparto perché "*non metto la mia pensione a rischio, meglio le obbligazioni che sono più sicure*" (e magari ti sei beccato performance vicine allo 0%, che una volta che ci metti i costi e le tasse si traducono letteralmente in *soldi persi*).  
 
-**CONCLUSIONI:**  
+**LE MIE CONCLUSIONI:**  
 **Verifica quali comparti offre il fondo al quale hai aderito**, ce ne sono sempre almeno 3 tra cui scegliere, a volte 4 o 5, ed eventualmente cambia: se ti mancano più di 10 anni alla pensione, allora potresti ad esempio valutare uno dei comparti con maggior componente azionaria tra quelli disponibili.  
 
 
@@ -74,6 +68,19 @@ Significa che, se non provvedi ad integrare la pensione INPS con qualcosa in pi�
 Da queste considerazioni, ho deciso che **integrare la pensione è l’obiettivo principale che mi sono dato** nella gestione delle mie finanze, e di conseguenza mi impegno a versare una parte consistente di quello che riesco a risparmiare in un FP.  
 
 Fai le tue valutazioni ovviamente perché ogni caso è diverso: ad esempio potresti avere un mutuo oggi che finirai di pagare _prima_ della pensione, e questo ovviamente cambia le valutazioni sulle uscite mensili che avrai da lì in avanti.
+
+
+
+# Da un FP all'altro
+
+Si può cambiare FP liberamente, trasportando il montante accumulato e conservando l'anzianità maturata.  
+
+Questa nozione mi è servita quando, cambiando lavoro, è cambiato anche il settore di appartenenza dell'azienda e di conseguenza è cambiato anche il FPN (dato che è associato 1-a-1 con il settore), e per godere del contributo datoriale è necessario scegliere di versare il TFR proprio nel FPN.
+
+**Esempio:**  
+**2005**: inizi a lavorare per un'azienda del settore metalmeccanico: il FPN è Cometa, e ci versi TFR + contributo volontario minimo, così da ottenere il contributo datoriale.  
+**2020**: cambi lavoro e passi ad un'azienda del settore commercio: il FPN in questo caso è Fon.Te, e per continuare a godere del contributo datoriale devi aprire una posizione con Fon.Te.  
+**A te la scelta** sulla tua posizione Cometa: puoi lasciarla lì ferma a maturare interessi fino alla pensione (può essere utile avere [più di un fondo pensione](#più-fondi-pensione)), oppure puoi trasferire il capitale maturato da Cometa a Fon.Te chiudendo la posizione Cometa e conservando la data di prima adesione che viene trasferita in Fon.Te, oppure puoi riscattare completamente il capitale che hai su Cometa (la scelta peggiore, soprattutto per le tasse che si pagano su questa operazione).
 
 
 
@@ -132,7 +139,7 @@ VANTAGGI PRINCIPALI DEI FONDI PENSIONE:
 * **Contributo datoriale**: se destini il TFR ad un FPN, e ci aggiungi un piccolo contributo volontario (circa 1-2% della tua busta paga ogni mese - il valore è determinato dal tuo CCNL di riferimento) allora **ottieni un contributo extra da parte del tuo datore ogni mese** (circa un altro 1-2% - dipende sempre dal tuo CCNL di riferimento). Potrebbero essere ad esempio attorno ai 50€/mese regalati, che moltiplicando per 12 mesi per 40 anni di lavoro, e con un (prudente) tasso di interesse annuo del 2%, saranno diventati circa 36.000€ in più alla pensione - fai il conto in base alla tua situazione [qui](https://extraetf.com/it/calculator/saving-plan).  
 * **Deduzioni**: fino a max 5164€/anno versati in fondi pensione si possono dedurre dal tuo imponibile nella dichiarazione dei redditi. Contribuiscono al conteggio dei 5164€/anno anche i contributi volontari e quelli del datore di lavoro, ma non il TFR. Il vantaggio fiscale che ottieni è circa proporzionale alla tua aliquota IRPEF, quindi se versi 5164€ nel tuo FP ti trovi a spanne tra i 1000€ e i 2000€ in più in tasca dopo aver presentato il 730.
 
-**CONCLUSIONI:**  
+**LE MIE CONCLUSIONI:**  
 Può essere una buona idea **combinare questi due tipi di investimento a lungo termine** per i motivi descritti sopra, da verificare anche in base alla tua situazione lavorativa: un dipendente privato con stipendio elevato otterrà il massimo beneficio dai vantaggi fiscali dei FP (perché avrà uno scaglione IRPEF più alto, quindi maggiore deduzione in percentuale), ma in generale sembra che **anche con scaglione IRPEF minimo i FP siano la miglior destinazione per i primi 5164 euro all'anno che uno riesce a risparmiare**.  
 Quello che sembra quasi certo è che **aprire una posizione nel tuo FPN e versarci TFR + contributo volontario minimo sia più vantaggioso e sicuro rispetto a tenere il TFR in azienda**, e quindi è una scelta quasi obbligata per portarsi a casa **più soldi** (il contributo datoriale, l'interesse sull'investimento, il risparmio fiscale al momento del riscatto) **e più protezione sul TFR** (l'azienda può fallire, e recuperare il proprio TFR potrebbe rivelarsi problematico).
 
