@@ -1,5 +1,6 @@
 ---
 title: "Hugo"
+description: "No, non l'aperitivo altoatesino"
 date: "2024-02-09"
 lastmod: '2025-11-22'
 categories: 
@@ -7,15 +8,16 @@ categories:
 image: "images/hugo-logo.png"
 ---
 
-No, non l'aperitivo altoatesino.  
 In questo post ti racconto della ristrutturazione di questo blog nella forma attuale.
+
+
 
 # Cosa e quando
 
 Fino al 2024 questo blog era hostato su [Wordpress.com](http://Wordpress.com), ne parlo nella [storia di questo sito](/blog/p/storia-di-questo-sito-web).
 
-A inizio 2024 ho scoperto dell'esistenza degli [SSG](https://en.wikipedia.org/wiki/Static_site_generator) (_Static Site Generators_), che sono software che trasformano contenuti scritti in [Markdown](https://en.wikipedia.org/wiki/Markdown) in siti web veloci e con le funzionalità che servono ad un blog.  
-Nel 2024 c'è ancora spazio per i siti web statici?! E io che pensavo fossero praticamente spariti dall'avvento del Web 2.0 dei primi anni 2000!
+A inizio 2024 ho scoperto dell'esistenza degli [SSG](https://en.wikipedia.org/wiki/Static_site_generator) (_Static Site Generators_), software che trasformano contenuti scritti in [Markdown](https://en.wikipedia.org/wiki/Markdown) in siti web veloci e con le funzionalità che servono ad un blog.  
+E io che pensavo che i siti web statici fossero praticamente spariti dall'avvento del Web 2.0 dei primi anni 2000!
 
 Ci ho messo un po' di giorni a capire quale dei tanti SSG esistenti fosse quello su cui puntare, cioè quello aggiornato recentemente e regolarmente, e con una user-base la più estesa possibile per chiedere aiuto nel caso servisse.  
 
@@ -35,9 +37,9 @@ Ho trasformato il mio blog da Wordpress a Hugo per questi motivi.
 
 Prima di tutto, **sbarazzarmi della pubblicità**.
 
-Questo è un piccolo blog, e non mi serve chissà quale servizio per ospitarlo, basta il minimo, e il minimo quando si tratta di Wordpress significa Wordpress.com, che per offrire il suo servizio gratuito infarcisce di stramaledetta pubblicità ogni pagina di quello che scrivi.
+**L'economia dell'attenzione, con la pubblicità ovunque e la profilazione costante, mi sono diventate intollerabili**, quindi liberarmi di tutto questo almeno nelle _mie_ pagine è stato il motivo numero 1 per la transizione a Hugo. Quasi una scelta etica.
 
-Sarà la vecchiaia, ma **l'economia dell'attenzione, con tutta la pubblicità e la profilazione costante mi sono diventate intollerabili**, quindi liberarmi di tutto questo almeno nelle _mie_ pagine è stato il motivo numero 1 per la transizione a Hugo. Quasi una scelta etica.
+Questo è un piccolo blog, e non mi serve chissà quale servizio per ospitarlo, basta il minimo, e il minimo quando si tratta di Wordpress significa Wordpress.com, che per offrire il suo servizio gratuito infarcisce di stramaledetta pubblicità ogni pagina di quello che scrivi.
 
 
 
@@ -48,6 +50,15 @@ Wordpress invece, che è un sistema super articolato per gestire siti dinamici, 
 
 Io ho un semplice blog, i contenuti li pubblico solo io e sono statici, cioè non cambiano fino alla prossima pubblicazione, quindi non mi serve un database sotto né potenza di elaborazione lato hosting per generare le pagine da zero ogni volta che il lettore clicca un link.  
 Il 1996 è passato da un pezzo, oggi non è ammissibile dover *aspettare* per caricare una banale pagina web con testo e un paio di immagini.
+
+
+
+## Sicurezza
+
+Per risolvere il problema della pubblicità avrei potuto semplicemente installare Wordpress nel mio hosting.  
+Ma non volevo cadere di nuovo nella [trappola sistemistica che ho già vissuto anni fa con i CMS]({{< ref "storia-del-sito.md#2005-cms" >}}): voglio solo pubblicare quello che scrivo, senza star dietro ai problemi di sicurezza di un database mysql, o dei plugin di Wordpress.
+
+La scelta più sicura è sbarazzarsi di quelle dipendenze, e un sito statico mi sembra l'opzione più centrata per ottenere questo risultato.
 
 
 

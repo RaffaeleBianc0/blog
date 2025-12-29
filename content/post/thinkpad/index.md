@@ -1,5 +1,6 @@
 ---
 title: "ThinkPad ricondizionati"
+description: "Guida ragionata su come acquistare un notebook ricondizionato di qualità spendendo il giusto"
 date: "2023-10-17"
 categories: 
   - "tecnologia"

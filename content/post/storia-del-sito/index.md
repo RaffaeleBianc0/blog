@@ -1,5 +1,7 @@
 ---
 title: "Storia di questo blog"
+description: "Quasi un diario dei miei esperimenti con il web dal 1996 ad oggi"
+lastmod: "2025-12-29"
 date: "2025-11-15"
 categories: 
   - "tecnologia"
@@ -96,7 +98,7 @@ Nel frattempo mi iscrivevo a Facebook e a decine di altre piattaforme Web 2.0 ne
 
 
 
-# 2010: Blogger
+# 2009: Blogger
 
 ![](images/2010blogspot.png)
 

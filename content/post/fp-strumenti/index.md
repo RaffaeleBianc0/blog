@@ -1,5 +1,6 @@
 ---
 title: "Strumenti per la finanza personale"
+description: "Le fonti di informazione e gli strumenti online che ho usato e continuo ad usare"
 date: "2025-10-05"
 lastmod: '2025-12-20'
 categories: 
@@ -7,10 +8,6 @@ categories:
 image: "images/cover.png"
 # draft: true
 ---
-
-
-
-Ecco le fonti di informazione e gli strumenti online che ho usato e continuo ad usare sul tema [finanza personale](../../categories/finanza-personale), per una autogestione fai-da-te un po' più consapevole.
 
 
 

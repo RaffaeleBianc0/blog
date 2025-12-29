@@ -1,5 +1,6 @@
 ---
 title: "\"Polisportiva Stradazza\" (Il Dallas)"
+description: "Singolo tratto dall'album \"iosonodinamite\" del 2022"
 date: "2022-04-10"
 categories: 
   - "batteria"

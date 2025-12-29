@@ -1,5 +1,6 @@
 ---
 title: "\"iosonodinamite\" (Il Dallas)"
+description: "Ho suonato la batteria in questo album pubblicato nel 2022"
 date: "2022-05-23"
 categories: 
   - "musica"

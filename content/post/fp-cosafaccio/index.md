@@ -1,5 +1,6 @@
 ---
 title: "Finanza personale in pratica"
+description: "Per chi è indisciplinato come me, la soluzione migliore per mantenere la rotta è avere uno schema semplice da seguire senza doverci pensare"
 date: "2025-10-06"
 lastmod: '2025-12-06'
 categories: 
@@ -12,7 +13,7 @@ image: "images/cover.png"
 
 Usando gli _ingredienti_ del post [Strumenti per la finanza personale]({{< ref "fp-strumenti.md" >}}), ecco qua sotto la mia _ricetta_.  
 
-Per chi è indisciplinato come me la soluzione migliore per mantenere la rotta è avere uno **schema semplice da seguire in modo quasi automatico**, senza doverci pensare.  
+  
 
 
 

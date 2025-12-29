@@ -1,5 +1,6 @@
 ---
 title: "PC maggiorenne"
+description: "Useresti un computer di 18 anni fa?"
 date: "2024-01-13"
 categories: 
   - "tecnologia"
@@ -8,7 +9,10 @@ image: "images/x60.jpg"
 ---
 
 
-Useresti oggi un computer di DICIOTTO anni fa? Io lo ho fatto per qualche giorno e adesso te lo racconto, perché ho sotto le dita una tastiera che... mo' ti dico, aspetta.
+Useresti oggi un computer di DICIOTTO anni fa?  
+Io lo ho fatto per qualche giorno e adesso te lo racconto, perché ho sotto le dita una tastiera che... mo' ti dico, aspetta.
+
+
 
 # L'acquisto
 
