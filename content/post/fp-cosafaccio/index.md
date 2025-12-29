@@ -1,6 +1,6 @@
 ---
-title: "Finanza personale in pratica"
-description: "Per chi è indisciplinato come me, la soluzione migliore per mantenere la rotta è avere uno schema semplice da seguire senza doverci pensare"
+title: "Schema pratico per gestire le proprie finanze"
+description: "Per chi è indisciplinato come me, la soluzione migliore per mantenere la rotta è avere uno schema semplice da seguire"
 date: "2025-10-06"
 lastmod: '2025-12-06'
 categories: 

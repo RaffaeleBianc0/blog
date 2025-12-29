@@ -48,7 +48,7 @@ Features interessanti:
 * L'accesso ai propri dati su Wallet è disponibile anche tramite webapp su PC, dove può essere più comodo filtrarli, fare ricerche, esportarli.
 * E' possibile gestire fino a 3 conti nella versione free. Esempio: conto corrente personale nella Banca1, conto corrente di famiglia nella Banca2, contanti in tasca. Questo aiuta a controllare più conti e ad avere statistiche e report di dettaglio oppure aggregati in modo molto intuitivo.  
 
-Se hai solamente un conto corrente, allora verifica prima di tutto se la app della tua banca fornisce già questo tipo di funzionalità (in sintesi: categorizzazione automatica e statistiche/report): potrebbe essere tutto già fatto e disponibile da molto tempo, e ti basterà in questo caso semplicemente abituarti a pagare tutto con la carta per avere dati precisi.
+Se hai solamente un conto corrente, allora verifica prima di tutto se la app della tua banca fornisce già questo tipo di funzionalità (in sintesi: categorizzazione automatica e statistiche/report): potrebbe essere tutto già fatto e disponibile, e ti basterà in questo caso semplicemente abituarti a pagare tutto con la carta per avere dati precisi.
 
 
 

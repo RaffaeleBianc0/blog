@@ -102,7 +102,7 @@ Nel frattempo mi iscrivevo a Facebook e a decine di altre piattaforme Web 2.0 ne
 
 ![](images/2010blogspot.png)
 
-Una delle tante piattaforme Web 2.0 dove mi sono fatto l'account è Blogger, il servizio di Google che ospita blog.  
+Una delle tante piattaforme Web 2.0 dove mi sono fatto l'account è Blogger, il servizio di Google.  
 
 Ci ho trasportato un po' di cose che avevo scritto già ai tempi di e107, per provare l'esperienza di un vero blog.  
 E ci ho scritto qualcosa di nuovo.
@@ -122,7 +122,7 @@ Quindi decido di traslocare la gestione del dominio e di **pubblicare intanto un
 Per l'occasione ho studiato e provato qualche template HTML5 gratuito, ne ho trovati alcuni di molto ben fatti.  
 In quel periodo ho pensato spesso di mettere insieme un piccolo sito _single-page_, dove tutto si carica in una unica operazione e basta usare il menu per spostarsi da una zona all'altra. Considerato che avevo pochissimi contenuti, mi sembrava una soluzione snella, ma non mi ci sono mai messo.
 
-Mi sono però dedicato a **perfezionare la mia homepage**: ho smanettato un po' con i CSS, ho scoperto [Font Awesome](https://fontawesome.com), ho scovato e incorporato un paio di JavaScript già pronti per l'uso, e alla fine ne è uscita la **homepage che c'è ancora oggi su [RaffaeleBianco.it](http://www.RaffaeleBianco.it)**.
+Mi sono però dedicato a **perfezionare la mia homepage**: ho smanettato un po' con i CSS, ho scoperto [Font Awesome](https://fontawesome.com), ho scovato e incorporato un paio di JavaScript già pronti per l'uso, e alla fine ne è uscita la **pagina che c'è ancora oggi su [RaffaeleBianco.it](http://www.RaffaeleBianco.it)**, con un po' di foto in movimento sullo sfondo e i miei link.
 
 
 
