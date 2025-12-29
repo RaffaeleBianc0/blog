@@ -22,20 +22,20 @@ In particolare il laboratorio che c'era appena dentro a sinistra, con dentro un 
 
 In quel periodo Internet stava iniziando ad entrare nelle case italiane, ma ancora in nessuna di qualcuno che io conoscessi.  
 A casa avevamo un solo PC con DOS + Windows 3.1, perché Windows 95 sarebbe arrivato con il nuovo PC qualche mese più tardi, insieme alla connettività tramite modem analogico.  
-Oggi è scontato avere tutto in tasca, ma nel '96, seduto davanti a un computer così diverso da quello che avevo a casa, ero per la prima volta in contatto col mondo intero.  
 
-Ricordo ancora l'**euforia dei primi scambi di messaggi sui** [**newsgroup Usenet**](https://it.wikipedia.org/wiki/Newsgroup) con ignoti che vivevano chissà dove nel mondo, discutendo di batteria, tramite un software a caratteri che si chiamava [Pine](https://en.wikipedia.org/wiki/Pine_(email_client))... era tutto incredibile, per me che passavo dal paesetto di 20mila abitanti alla città con centinaia di studenti e questo accesso al Mondo, ogni nazione sembrava vicina, a portata di mano, ogni persona raggiungibile, lo raccontavo con entusiasmo ma in pochi capivano.
+Oggi è scontato avere tutto nello smartphone in tasca, ma nel '96, seduto davanti a un computer così diverso da quello che avevo a casa, ero per la prima volta in contatto col mondo intero.  
+Ricordo ancora l'**euforia dei primi scambi di messaggi sui** [**newsgroup Usenet**](https://it.wikipedia.org/wiki/Newsgroup) con ignoti che vivevano chissà dove nel mondo, discutendo di batteria, tramite un software a caratteri che si chiamava [Pine](https://en.wikipedia.org/wiki/Pine_(email_client))... era tutto incredibile, per me che passavo dal paesetto di 20mila abitanti alla città con centinaia di studenti e questo accesso al Mondo, ogni nazione sembrava vicina, a portata di mano, ogni persona raggiungibile.
 
 Appena ho realizzato che potevo avere un mio sito personale online ho imparato a farmelo.  
-**Scrivevo in HTML a mano con un editor di testo**, forse addirittura prima di scoprire gli editor con la colorazione della sintassi.  
+**Scrivevo in HTML a mano con un editor di testo**, sicuramente prima di scoprire gli editor con la colorazione della sintassi.  
 
 Al tempo non li chiamavamo ancora "blog", penso non esistesse ancora questo concetto, erano semplicemente "pagine web".
 
-Purtroppo non ho più una copia di quella versione primordiale, anche se me la ricordo vagamente con i suoi pulsanti colorati sulla sinistra. Sono passati più di 30 anni, e il layout "menu a sinistra sempre disponibile" continua ad essere quello che preferisco sullo schermo di un computer.  
+Purtroppo non ho più una copia di quella versione primordiale, anche se me la ricordo vagamente con i suoi pulsanti colorati sulla sinistra. Sono passati più di 30 anni, e il layout "menu a sinistra fisso" continua ad essere quello che preferisco sullo schermo di un computer.  
 Negli [snapshot fatti da Internet Archive](https://web.archive.org/web/20000711041401/http://www.dei.unipd.it/~raff/index.htm) mancano quasi tutti gli elementi grafici, è rimasto solo il testo.  
 
-La prima pubblicazione la feci nello spazio web fornito dall'Università di Padova agli studenti.  
-Poi una volta lasciata l'Università ricordo che spostai tutto il contenuto prima su [Lycos](https://it.wikipedia.org/wiki/Lycos) e poi su Tiscali, o viceversa: tanti provider del tempo fornivano hosting gratuito in cambio di un po' di spazio nelle tue pagine dove infilare banner pubblicitari.
+Per la prima pubblicazione sfruttai lo spazio web fornito dall'Università di Padova agli studenti.  
+Poi, dopo aver cambiato Università, ricordo che spostai tutto il contenuto prima su [Lycos](https://it.wikipedia.org/wiki/Lycos) e poi su Tiscali, o viceversa: tanti provider del tempo fornivano hosting gratuito in cambio di un po' di spazio nelle tue pagine dove infilare banner pubblicitari.
 
 
 
@@ -43,9 +43,9 @@ Poi una volta lasciata l'Università ricordo che spostai tutto il contenuto prim
 
 ![](images/2000homepage.png)
 
-Ad un certo punto rimasi favorevolmente colpito da Microsoft Frontpage (orrore!) con il quale pensavo di migliorare ed estendere il mio sito con qualche automatismo in più, ricordo che ero rimasto affascinato dal fatto che gestiva automaticamente il menu man mano che aggiungevo pagine.
+Ad un certo punto rimasi favorevolmente colpito da **Microsoft Frontpage** _(orrore!)_ con il quale pensavo di migliorare ed estendere il mio sito con qualche automatismo in più: ricordo che ero rimasto affascinato dal fatto che gestiva automaticamente il menu man mano che aggiungevo pagine.
 
-Qualche tempo dopo sostituii Frontpage con Dreamweaver e persi ore preziose tentando di pulire le porcherie nel codice HTML prodotto dall'editor Microsoft che chi ci ha lavorato ricorderà sicuramente: ogni volta che mettevi mano e salvavi, il file si gonfiava di metadati inutili che appesantivano tutto e rendevano praticamente impossibile una manutenzione manuale dei file HTML.
+Qualche tempo dopo sostituii Frontpage con Dreamweaver e **persi ore preziose tentando di pulire le porcherie nel codice HTML prodotto dall'editor Microsoft** che chi ci ha lavorato ricorderà sicuramente: ogni volta che mettevi mano e salvavi, il file si gonfiava di tag inutili che appesantivano tutto e rendevano praticamente impossibile una manutenzione manuale dei file HTML.
 
 
 
@@ -53,7 +53,7 @@ Qualche tempo dopo sostituii Frontpage con Dreamweaver e persi ore preziose tent
 
 ![](images/2004gardenpage.png)
 
-Nel 2004 ripresi tutto il sito per farlo a mano senza FrontPage né Dreamweaver, e puntando al minimalismo, con pochi colori e il menu senza struttura.
+Nel 2004 **ripresi tutto il sito per farlo a mano** senza FrontPage né Dreamweaver, e puntando al minimalismo, con pochi colori e il menu senza struttura.
 
 Ho ancora questa versione zippata, se mi salta il matto pubblico le pagine qua dentro un giorno.
 
@@ -64,9 +64,9 @@ Ho ancora questa versione zippata, se mi salta il matto pubblico le pagine qua d
 ![](images/2005e107.png)
 
 La prima versione [dinamica](https://it.wikipedia.org/wiki/Pagina_web_dinamica) del mio sito vide la luce nel periodo d'oro dei forum online, nei primi anni 2000.  
-L'idea che il mio sito web potesse **accogliere contributi di altre persone** mi entusiasmava.
+L'idea che il mio sito web potesse **accogliere contributi di altre persone** mi entusiasmava, volevo realizzarlo assolutamente.
 
-Imparai cosa fosse uno [stack LAMP](https://it.wikipedia.org/wiki/LAMP), come installarne uno, come smanettarci per quello che serviva a me, comprese modifiche, backup e restore dei database MySQL, e testai qualche [CMS opensource](https://www.opensourcecms.com).
+Imparai cosa fosse uno [stack LAMP](https://it.wikipedia.org/wiki/LAMP), come installarne uno, come smanettarci per quello che serviva a me, comprese modifiche, backup e restore dei database MySQL così da poter sperimentare senza problemi, e testai qualche [CMS opensource](https://www.opensourcecms.com).
 
 Ne scelsi uno che si chiamava [e107](https://e107.org), chissà perché, con questo nome strambo poi.  
 Sicuramente mi interessava il fatto che era farcito di funzionalità, per esempio mettevo a disposizione i miei script fatti in VBS nell'area Download, linkavo le news di altri siti tramite RSS, avevo il feed della mia mailing list "rb_barze" tramite la quale giravo barzellette a qualche decina di iscritti, ma soprattutto potevo avere **il mio forum personale**.  
@@ -76,12 +76,12 @@ Al tempo poi i social proprio non esistevano, quindi il mio chiodo fisso di inte
 Ci smanettai un bel po', fino a pubblicare online il sito con l'aiuto di un amico che mi hostava questi esperimenti gratuitamente.  
 **Sognavo interazioni con visitatori ed amici** ai quali giravo il link dei nuovi articoli che a volte scrivevo invece di rispondere a una domanda che mi avevano fatto, chissà che qualcun altro si unisse alla conversazione e tutto fosse utile a tutti. 
 
-Qualche rimasuglio resta nella [Internet Archive Wayback Machine](https://web.archive.org/web/20060512224437/http://rb.asdasd.it/news.php), ma non c'è la grafica né i contenuti oltre la pagina visualizzata, il che è abbastanza normale trattandosi di un sito dinamico.
+Qualche rimasuglio resta nella [Internet Archive Wayback Machine](https://web.archive.org/web/20060512224437/http://rb.asdasd.it/news.php), ma non c'è la grafica né i contenuti oltre la pagina che viene visualizzata.
 
 Una continua serie di **problemi di sicurezza di e107** richiedeva molta più dedizione di quella che ero disposto a mettere in campo, perché bisognava installare le patch di e107 e spesso qualcosa si rompeva, richiedendo ore di analisi e tentativi per provare a ripristinare quello che fino al giorno prima andava perfettamente.  
 La frustrazione causata da tutto questo mi portò ad **abbandonare completamente il progetto e cancellare tutto**.  
 
-Nel frattempo, passato qualche anno **i tempi erano maturi per MySpace e tutta l'ondata del** [**Web 2.0**](https://it.wikipedia.org/wiki/Web_2.0).  
+Nel frattempo, passato qualche anno **i tempi erano maturi per MySpace e tutta l'ondata del [Web 2.0](https://it.wikipedia.org/wiki/Web_2.0)**.  
 Dopo l'iscrizione a MySpace pensavo che in futuro avrei pubblicato eventualmente solo su piattaforme di quel tipo, perché non avrei dovuto più pensare alla gestione ma solo al contenuto, e dove l'interazione tra persone mi sembrava il motivo d'essere di quella ondata di nuovi servizi - quanta ingenuità! il vero motivo d'essere è guadagnare sulle pubblicità propinate, naturalmente.
 
 
@@ -122,7 +122,7 @@ Quindi decido di traslocare la gestione del dominio e di **pubblicare intanto un
 Per l'occasione ho studiato e provato qualche template HTML5 gratuito, ne ho trovati alcuni di molto ben fatti.  
 In quel periodo ho pensato spesso di mettere insieme un piccolo sito _single-page_, dove tutto si carica in una unica operazione e basta usare il menu per spostarsi da una zona all'altra. Considerato che avevo pochissimi contenuti, mi sembrava una soluzione snella, ma non mi ci sono mai messo.
 
-Mi sono però dedicato a **perfezionare la mia homepage**: ho smanettato un po' con i CSS, ho scoperto [Font Awesome](https://fontawesome.com), ho scovato e incorporato un paio di JavaScript già pronti per l'uso, e alla fine ne è uscita la **homepage che c'è ancora oggi su** [**RaffaeleBianco.it**](http://www.RaffaeleBianco.it).
+Mi sono però dedicato a **perfezionare la mia homepage**: ho smanettato un po' con i CSS, ho scoperto [Font Awesome](https://fontawesome.com), ho scovato e incorporato un paio di JavaScript già pronti per l'uso, e alla fine ne è uscita la **homepage che c'è ancora oggi su [RaffaeleBianco.it](http://www.RaffaeleBianco.it)**.
 
 
 

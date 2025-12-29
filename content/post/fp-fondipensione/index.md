@@ -28,7 +28,8 @@ Se sei dipendente privato allora **versare il TFR più il tuo contributo volonta
 In [questo articolo su Ciao Elsa](https://www.ciaoelsa.com/blog/meglio-tfr-in-azienda-o-tfr-nel-fondo-pensione) è spiegato bene, anche se le conclusioni sono espresse in modo molto neutrale (_è una decisione personale_ e _dipende dalle tue esigenze_).
 
 Quando conviene aprire la propria posizione in un FP?  
-_Subito_, per tutti i motivi che rendono i fondi pensione un'ottima scelta:
+_Subito_, per tutti i motivi che rendono i fondi pensione una scelta conveniente:
+
 1. **Vantaggi fiscali crescenti**  
 Dopo i primi 15 anni di permanenza nella previdenza complementare **le tasse che pagherai al riscatto della tua posizione scendono dello 0,3% all’anno**: partono dal 15% se avrai maturato 1-15 anni di contribuzione, per diventare 14,7% ai 16 anni di contribuzione, eccetera fino ad arrivare al 9% (la soglia minima) per 35 anni o più di contribuzione.  
 Il confronto tra questa tassazione (9-15%) con quella applicata al tradizionale "TFR in azienda" (23-43%) è un punto a netto favore del FP.  
@@ -45,7 +46,7 @@ Se scegli di incrementare l'accantonamento per la pensione versando qualcosa in 
 Contribuiscono al conteggio dei 5164€/anno i contributi volontari e quelli del datore di lavoro, ma non il TFR. E se hai più FP, devi sommare i contributi su tutti (cioè la soglia dei 5164€ è _per persona_, non per singolo fondo).  
 Il vantaggio fiscale che ottieni è circa proporzionale alla tua aliquota IRPEF, quindi **se versi 5164€ nel tuo FP ti trovi a spanne tra i 1200€ e i 2200€ in più in tasca** dopo aver presentato il 730.
 
-1. **Rendimenti sul lungo periodo**
+1. **Rendimenti sul lungo periodo**  
 Come tutti gli investimenti con componente azionaria negli ultimi 100 anni, **anche i FP sul lungo periodo mostrano un rendimento atteso positivo e una volatilità decrescente al crescere del tempo di permanenza** (a patto di scegliere un [comparto](#cambia-comparto) che contenga anche strumenti azionari, che di norma è la scelta più indicata anche nei prospetti informativi per chi ha tanti anni di lavoro di fronte).  
 Quindi: più tempo ci stai dentro, più guadagni, e più è _probabile_ che guadagni.  
 Quando si avvicinerà l'età di pensionamento, eventualmente potrai valutare di spostare il capitale su un comparto più prudente, così da proteggere i risultati ottenuti negli anni.
@@ -72,14 +73,13 @@ Dato che mi mancavano circa 20 anni alla pensione, ho modificato il mio profilo 
 
 # Il tasso di sostituzione
 
-Se sei un lavoratore dipendente, allora **dovresti scoprire quanto riceverai ogni mese dallo Stato quando andrai in pensione**.
+Se sei un lavoratore dipendente, allora **dovresti scoprire quanto riceverai ogni mese dallo Stato quando andrai in pensione**: vai sul [Portale INPS](http://www.inps.it) e usa la ricerca in alto per trovare la pagina "**La mia pensione futura**", oppure eccoti la [ricerca Google già fatta](https://www.google.com/search?q=la+mia+pensione+futura+site%3Ainps.it&num=1).  
 
-Vai sul [sito dell'INPS](http://www.inps.it) e usa la ricerca in alto per trovare la pagina "**La mia pensione futura**", oppure eccoti la [ricerca Google già fatta](https://www.google.com/search?q=la+mia+pensione+futura).  
+Potrai verificare il tuo **"tasso di sostituzione"**, cioè la stima di quanti soldi prenderai di pensione dall’INPS rispetto al tuo ultimo stipendio presunto.  
+I valori tipici per i dipendenti italiani previsti per il 2050 sono **attorno al 60%**.  
+Significa che, se non provvedi ad integrare la pensione INPS con qualcosa in più, appena andrai in pensione **i tuoi introiti mensili saranno quasi dimezzati** rispetto allo stipendio che avevi il mese prima, quando stavi organizzando il brindisi di saluto coi colleghi.  
 
-Potrai verificare il tuo **"tasso di sostituzione"**, cioè la stima di quanti soldi prenderai di pensione dall’INPS rispetto al tuo ultimo stipendio presunto, e valori tipici per i dipendenti italiani previsti per il 2050 sono **attorno al 60%**.  
-Significa che, se non provvedi ad integrare la pensione INPS con qualcosa in più, appena andrai in pensione **i tuoi introiti mensili saranno quasi dimezzati** rispetto allo stipendio che avevi il mese prima, quando stavi per salutare i tuoi colleghi.  
-
-**LE MIE CONCLUSIONI:**
+**LE MIE CONCLUSIONI:**  
 Con quella pagina del sito INPS ancora davanti al naso, ho deciso che **integrare la pensione è il mio obiettivo principale nella gestione delle mie finanze**.  
 Combinando questo obiettivo con i vantaggi fiscali, che sono sicuri, ho scelto di dirottare una parte consistente di quello che riesco a risparmiare in un FP, tramite versamenti volontari.  
 
