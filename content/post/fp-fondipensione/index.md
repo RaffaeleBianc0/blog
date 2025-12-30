@@ -179,9 +179,22 @@ In sostanza, se hai figli potresti valutare di aprire un FP qualunque intestato 
 
 # Ciao Elsa
 
-Avrai notato che molto del materiale che linko in questo post proviene da [Ciao Elsa](https://www.ciaoelsa.com/), un'azienda italiana che si occupa di previdenza complementare facendo attività di divulgazione e di consulenza.
+Avrai notato che molto del materiale che linko in questo post proviene da [Ciao Elsa](https://www.ciaoelsa.com/), un'azienda italiana che si occupa di previdenza complementare facendo attività di divulgazione e consulenza.
 
-Per approfondire raccomando caldamente il loro [blog con decine di post e video preziosi](https://www.ciaoelsa.com/blog) che ti spiegano tutto quello che c'è da sapere per fare una scelta sensata.
+Per approfondire i temi sulla previdenza integrativa, raccomando caldamente il loro [blog con decine di post e video preziosi](https://www.ciaoelsa.com/blog) che ti spiegano tutto quello che c'è da sapere per fare scelte consapevoli.
+
+Ciao Elsa è anche **intermediario autorizzato che ti consente di aderire online** ad alcuni fondi pensione anche quando questi non prevedono una procedura online nel proprio sito.
+
+
+
+# Covip
+
+[COVIP](http://www.covip.it) è la Commissione di Vigilanza sui FP.  
+Qui trovi informazioni fondamentali se hai intenzione di aprire un FP.  
+In particolare segnalo la pagina ["Per il cittadino"](http://www.covip.it/per-il-cittadino), dove trovi tutti i dati aggiornati di tutti i FP disponibili in Italia relativamente a:
+
+* i **rendimenti** degli ultimi 1, 5, 10, 20 anni (per quello che contano)  
+* i **costi**: questa singola informazione (ISC = Indicatore Sintetico di Costo) è probabilmente la più importante da valutare.
 
 
 
