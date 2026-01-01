@@ -182,13 +182,16 @@ Dopo aver sistemato il FdE, ho iniziato a investire gli ulteriori risparmi con s
 
 # Rischio
 
-C'è una informazione che mi ha fatto cambiare radicalmente il punto di vista sul tema "rischio": il mercato azionario, cioè "quello rischioso" del quale avevo sempre pensato "*non mi fido, meglio evitare*", per investimenti sufficientemente lunghi (15+ anni) e diversificati raramente ha fatto perdere soldi nella storia. **Si supera il 90% di risultati positivi quando si superano i 20 anni di investimento sul classico indice S&P500 americano.**  
-E questo nonostante crisi di Wall Street del 1929, due guerre mondiali, Internet bubble del 2001, crisi dei mutui subprime del 2008, pandemia Covid - tutti eventi che hanno causato importanti flessioni negative nei mercati, ma non sufficienti a trascinare sotto zero le performance di lungo periodo: **chi non ha disinvestito in preda al panico, ne è sempre uscito con più soldi di quanti ne ha investiti**.
+C'è una informazione che mi ha fatto cambiare radicalmente il punto di vista sul tema "rischio": il mercato azionario, cioè "quello rischioso" del quale avevo sempre pensato "*non mi fido, meglio evitare*", per investimenti sufficientemente lunghi (15+ anni) e diversificati raramente ha fatto perdere soldi nella storia.  
+
+**Si supera il 90% di risultati positivi quando si superano i 20 anni di investimento sul classico indice S&P500 americano**, nonostante crisi di Wall Street del 1929, due guerre mondiali, Internet bubble del 2001, crisi dei mutui subprime del 2008, pandemia Covid - tutti eventi che hanno causato importanti flessioni negative nei mercati, ma non sufficienti a trascinare sotto zero le performance di lungo periodo: **chi non ha disinvestito in preda al panico, ne è sempre uscito con più soldi di quanti ne ha investiti**.
 
 Quindi ovviamente *investire è rischiare*, ma un conto è "investire in 4 azioni e rivenderle dopo 2 anni", e un altro è "investire in un PAC su un ETF azionario globale per 15 anni": **più l'orizzonte è lungo più questo rischio si abbassa**, proprio su quegli asset che tipicamente rendono di più, cioè le azioni, che sul lungo periodo e diversificando su più titoli (come fanno gli ETF) mostrano un **andamento storicamente sempre positivo**.  
 A tutto ciò si aggiunge anche il fatto che noi comuni mortali non investiamo tutto subito all'inizio, ma facciamo un PAC (Piano di Accumulo Capitale) cioè spalmiamo l'investimento su più contributi periodici man mano che riusciamo a mettere da parte qualche risparmio, es. una volta ogni 1-3-6 mesi, e **questo approccio diminuisce ulteriormente la volatilità media** e quindi il rischio di avere risultati negativi.  
 
-Su questo tema fondamentale sono interessanti per esempio:
+Su questo tema fondamentale mi sono piaciuti:
+* questo [articolo di Morningstar](https://global.morningstar.com/it/mercati/cosa-insegnano-150-anni-tra-panico-ed-euforia-a-wall-street)
+* questo [articolo di JustETF](https://www.justetf.com/it/academy/100-anni-rendimenti-cosa-ci-dicono.html)
 * questo [breve documento di J.P. Morgan](https://am.jpmorgan.com/content/dam/jpm-am-aem/emea/it/it/insights/market-insights/le-regole-d%E2%80%99oro-degli-investimenti-a-lungo-termine.pdf)
 * questo [articolo de Il Sole 24 Ore](https://www.econopoly.ilsole24ore.com/2017/01/25/investire-in-azioni-ma-quanto-e-lungo-il-lungo-periodo/)
 * questo [post di Leonardo Poggi](https://poggileonardo.com/2020/03/i-rendimenti-storici-del-mercato-azionario/).

@@ -1,6 +1,7 @@
 ---
 title: "\"Runaway\" bass cover"
 date: "2020-05-01"
+description: "Giri di basso sempre groovosissimi, che tengono su tutto il brano"
 categories: 
   - "basso"
   - "musica"

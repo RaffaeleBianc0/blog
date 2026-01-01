@@ -1,6 +1,7 @@
 ---
 title: "\"Come on come over\" bass cover"
 date: "2020-05-12"
+description: "Il funk '70 è sempre fighissimo. Senti che bomba il basso nel ritornello!"
 categories: 
   - "basso"
   - "musica"

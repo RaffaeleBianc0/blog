@@ -1,5 +1,6 @@
 ---
 title: "Warmup alla batteria"
+description: "Questo è quello che succede quando suoni a casaccio da solo"
 date: "2015-07-11"
 categories: 
   - "batteria"

@@ -2,7 +2,7 @@
 title: "Fondi pensione"
 description: "Probabilmente il primo argomento di finanza personale da affrontare"
 date: "2025-12-23"
-lastmod: '2025-12-28'
+lastmod: '2026-01-01'
 categories: 
   - "finanza personale"
 image: "images/cover.png"
@@ -11,12 +11,29 @@ image: "images/cover.png"
 
 
 
-Ho voluto scrivere questo post separandolo dagli altri argomenti di [finanza personale](/blog/categories/finanza-personale), perché è un tema importante che secondo me **tutti noi lavoratori dipendenti dovremmo affrontare** appena possibile.
+Ho voluto separare l'argomento "fondi pensione" dagli altri sulla [finanza personale](/blog/categories/finanza-personale) perché **riguarda tutte le persone che lavorano**, e perché ci sono un paio di considerazioni che tutti dovrebbero fare appena possibile durante la carriera lavorativa, per massimizzare i vantaggi sul lungo termine.  
+Io queste consideazioni le ho fatte con 15 anni di ritardo, e non voglio nemmeno fare i conti su quanti soldi ho perso nella mia pensione futura.
 
-Di seguito userò spesso queste abbreviazioni:
-* **FP** = Fondo Pensione, che può essere FPN o FPA.
-* **FPN** = Fondo Pensione Negoziale (anche detto "chiuso" o "di categoria"): è quello associato al CCNL di riferimento della tua azienda - Cometa per i metalmeccanici, Fon.Te per il commercio, eccetera.
+Di seguito userò queste abbreviazioni:
+* **FP** = Fondo Pensione, che può essere di due tipi: FPN o FPA. Esiste anche una terza categoria, i PIP (Piani Integrativi Pensionistici) venduti dalle assicurazioni, ma sono talmente poco convenienti che non ha praticamente senso valutarli.  
+* **FPN** = Fondo Pensione Negoziale (anche detto "chiuso" o "di categoria"): è quello associato al CCNL di riferimento della tua azienda - ad esempio è Fondo Cometa per i metalmeccanici, Fondo Fon.Te per il commercio, eccetera.
 * **FPA** = Fondo Pensione Aperto, chiamato così perché chiunque può aprire la propria posizione, per esempio anche se versa già nell'FPN, o se lavora in proprio, o se è disoccupato.
+
+
+
+# [TL;DR](https://it.wikipedia.org/wiki/TL;DR)
+
+In estrema sintesi, riassumo il percorso che ho fatto personalmente sul tema.
+
+1. Scelgo di [destinare al FPN il TFR + il contributo minimo](#fondo-pensione-subito), per aggiudicarmi il contributo datoriale.  
+
+1. Dalla mia area personale sul sito del FPN, [seleziono il comparto con la componente azionaria più opportuna](#cambia-comparto) in base a quanti anni di lavoro ho davanti (posso seguire il consiglio che leggo nel prospetto informativo del FPN, nei capitoli che descrivono i comparti disponibili).  
+
+1. Se riesco a risparmiare, allora prima di tutto decido se il [tasso di sostituzione](#il-tasso-di-sostituzione) sul sito INPS mi sarà sufficiente quando andrò in pensione (spoiler: no).  
+
+1. Faccio i conti a spanne di quanto riuscirò a versare, per sapere il totale che potrò aver versato nel FPN quando andrò in pensione (sommando tutte le componenti: TFR + contributo minimo + contributo datoriale + contributo volontario): se supererò i 100k circa, allora sfruttando i dati che trovo sul sito della [COVIP](#covip) [seleziono un FPA poco costoso](#più-fondi-pensione) dove versare i miei contributi volontari. Verserò in modo da non superare la soglia annua di massima deducibilità per i FP, che è di 5164€ calcolati sommando contributo minimo + contributo datoriale nel FPN, più i contributi volontari nel FPA.  
+
+1. Se riesco a risparmiare tanto da superare quella soglia, allora per investire l'eccedenza a lungo termine utilizzerò degli [ETF]({{< ref "fp-finanzapersonale.md#gli-etf">}}).
 
 
 
@@ -54,7 +71,7 @@ Quando si avvicinerà l'età di pensionamento, eventualmente potrai valutare di 
 
 **LE MIE CONCLUSIONI:**  
 Quando a fine mese riesco a risparmiare qualcosa, lo verso nel mio FP, stando attento a non superare a fine anno la soglia massima per la deducibilità.  
-Avrei dovuto **impostare la mia pianificazione finanziaria per il lungo termine già all'arrivo dei primissimi stipendi** anni fa, ma... non è mai troppo tardi: i vantaggi fiscali ogni anno sono comunque importanti.  
+Avrei dovuto **impostare la mia pianificazione finanziaria per il lungo termine già all'arrivo dei primissimi stipendi** anni fa, ma... non è mai troppo tardi: i vantaggi fiscali ogni anno sono comunque interessanti.  
 
 
 
@@ -121,9 +138,8 @@ Paolo Coletti dimostra in questo video che **riscattare il montante come capital
 {{< youtube 9ydgezcEGRk >}}
 
 Per poter riscattare tutto il montante sottoforma di capitale al pensionamento c’è una **soglia** che il montante non dovrà aver superato al momento del pensionamento.  
-Questa soglia andrà calcola nell'anno del pensionamento, perché dipende da un parametro che può variare di anno in anno.  
-Nel 2025 questa soglia è **poco più di 100.000€**.  
-Raggiungere un montante di 100.000€ nell'arco di una vita lavorativa, soprattutto scegliendo di versare contributi volontari aggiuntivi, è piuttosto probabile.
+Questa soglia andrà calcola nell'anno del pensionamento, perché dipende dall'Assegno Sociale dell'anno di pensionamento e dai coefficienti di trasformazione legati a età e sesso - ma non serve fare i calcoli precisi in largo anticipo, l'importante è avere un'idea di massima: nel 2025 questa soglia è **attorno ai 100.000€**.  
+Raggiungere un montante di 100.000€ nell'arco di una vita lavorativa, soprattutto scegliendo di versare contributi volontari aggiuntivi, è molto probabile.
 
 **Fortunatamente questo calcolo va fatto _per ogni singolo FP_**, cioè non si fa considerando la _somma_ dei montanti se hai più FP: ecco che avere 50k in un fondo e 50k in un altro ti garantisce di rimanere in entrambi i FP sotto la soglia dei 100k, e di poter quindi decidere _liberamente_ se vuoi ricevere l'intera prestazione come 100% capitale da ciascun FP, senza essere obbligati alla formula "50% capitale + 50% rendita".  
 

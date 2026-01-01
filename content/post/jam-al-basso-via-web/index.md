@@ -1,6 +1,7 @@
 ---
 title: "Jam al basso via web"
 date: "2020-04-25"
+description: "Jam session via web, registrate in pochissimo tempo, per fronteggiare al meglio l'isolamento da lockdown"
 categories: 
   - "basso"
   - "musica"
