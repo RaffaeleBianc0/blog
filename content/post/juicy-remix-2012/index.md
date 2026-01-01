@@ -1,6 +1,7 @@
 ---
 title: "Juicy (mix 2012)"
 date: "2012-10-31"
+description: "Ho rifatto il mix da zero, partendo dalle tracce grezze registrate in sala prove"
 categories: 
   - "batteria"
   - "musica"

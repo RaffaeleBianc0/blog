@@ -1,6 +1,6 @@
 ---
 title: "Schema pratico per gestire le proprie finanze"
-description: "Per chi è indisciplinato come me, la soluzione migliore per mantenere la rotta è avere uno schema semplice da seguire"
+description: "Per chi è indisciplinato come me, la soluzione migliore per mantenere la rotta è avere delle istruzioni facili da seguire"
 date: "2025-10-06"
 lastmod: '2025-12-06'
 categories: 
@@ -11,16 +11,25 @@ image: "images/cover.png"
 
 
 
-Usando gli _ingredienti_ del post [Strumenti per la finanza personale]({{< ref "fp-strumenti.md" >}}), ecco qua sotto la mia _ricetta_.  
+Usando gli _ingredienti_ del post [Strumenti per la finanza personale]({{< ref "fp-strumenti.md" >}}), ecco qua sotto la mia personale _ricetta_.  
 
-  
+
+
+# [TL;DR](https://it.wikipedia.org/wiki/TL;DR)
+
+1. Ho **imparato** le nozioni di base in qualche ora.
+1. Ho **attivato gli account** necessari (FPN,FPA, conto deposito, conto titoli).
+1. Ho **chiuso vecchi strumenti costosi** e spostato il capitale distribuendolo nei nuovi strumenti appena attivati, secondo una regola.
+1. Ho **mantenuto conto corrente e assicurazioni** che già avevo.
+1. Ho **investito in ETF** nel modo più semplice per cominciare.
+1. Ogni mese seguo uno **schema semplice** che mi richiede pochi minuti.
 
 
 
 # Impostazione iniziale
 
 Prima di spostare un euro, ho predisposto tutto il necessario.  
-Di seguito, invece di limitarmi alla cronaca cruda di quello che ho fatto, aggiungerò qualche dettaglio utile e metterò in ordine diverso le cose, in modo che diventi una specie di vademecum.
+Per raccontartelo, invece di limitarmi alla cronaca cruda di quello che ho fatto, ho aggiunto qualche dettaglio utile e ho ordinato i paragrafi in modo che diventi una specie di vademecum da cui poter prendere spunto.
 
 ## Formazione
 Nella quantità di contenuti sul tema che ho guardato, ascoltato, e letto online, credo che gli autori che seguono siano quelli che centrano meglio l'obiettivo per noi neofiti, combinando chiarezza, precisione, buon senso, e leggerezza.  
@@ -33,20 +42,27 @@ Trovi il corso anche in formato podcast nelle varie piattaforme.
 1. [The Bull](https://italia-podcast.it/podcast/the-bull-il-tuo-podcast-di-finanza-personale): se sei consumatore di podcast come il sottoscritto, allora anche "The Bull" di Riccardo Spada merita la tua attenzione.  
 Parla soprattutto di temi legati all'investimento.  
 Le prime 25 puntate circa sono quelle fondamentali.
-1. [Infografiche COVIP sui fondi pensione](https://www.covip.it/per-il-cittadino/educazione-previdenziale/infografiche-sulla-previdenza-complementare): danno velocemente un sacco di informazioni preziose.
+1. [Ciao Elsa](https://www.ciaoelsa.com/) per informarsi sui fondi pensione, in particolare i video che ho linkato nel [mio post sul tema]({{< ref "fp-fondipensione.md" >}}).
 
 ## FPN
 Il primo tema di cui preoccuparsi secondo me è il fondo pensione.  
+E questo vale anche se non si vuole investire nulla.
+
 Versare il TFR + il contributo minimo nel proprio FPN è la scelta ovvia che avevo già fatto molti anni prima, ma non avevo ancora cambiato il comparto: **ho selezionato il comparto con la maggiore componente azionaria**, che mi sembra il più appropriato dato che mi aspettano ancora 20 anni di lavoro.  
 Probabilmente cambierò comparto durante i prossimi 20 anni, per aumentare progressivamente il peso della componente obbligazionaria man mano che mi avvicino alla pensione (la cosiddetta **allocazione "life cycle"**).
 
 ## FPA
-Dato che il mio FPN per i miei gusti non ha sufficiente azionario considerando che mi mancano ancora 20 anni alla pensione, e dato che **voglio versare fino a 5164€/anno nei FP per approfittare al massimo delle deduzioni**, ho usato il sito COVIP per capire quale FPA rispondesse ai requisiti "*costi bassi, disponibilità di un comparto fortemente azionario, rendite degli ultimi 10-20 anni elevate*".  
-Ne sono usciti subito due vincitori, dei quali solo uno consentiva di fare la pratica di adesione online quindi la scelta è stata ovvia.  
+Dato che:
+- il mio FPN per i miei gusti non ha sufficiente azionario considerando che mi mancano ancora 20 anni alla pensione
+- voglio versare fino a 5164€/anno nei FP per **approfittare al massimo delle deduzioni**
+- voglio restare sotto al limite dei 100k di montante nel FPN
+
+ho usato le tabelle disponibili nel [sito COVIP](https://www.covip.it/per-il-cittadino/) per capire quale FPA rispondesse ai requisiti *"costi bassi, disponibilità di un comparto fortemente azionario, rendite degli ultimi 10-20 anni più elevate"*.  
+Ne sono usciti subito due vincitori (soprattutto per merito dei costi più bassi), dei quali solo uno consentiva di fare l'adesione online quindi la scelta è stata ovvia.  
 _Ho poi scoperto che su [Ciao Elsa](https://ciaoelsa.com) è possibile aderire online gratuitamente anche ai fondi pensione che non hanno la procedura nel proprio sito, perché CiaoElsa fa da intermediario... ma ormai avevo già fatto tutto. Amen!_
 
 ## Chiusura posizioni precedenti
-Ho analizzato i prospetti informativi di un paio di prodotti che avevo acquistato anni fa (quando ancora non mi interessavo a questi temi), ho confrontato i rendimenti ed i costi con quelli attesi dagli investimenti in FPA ed ETF, ed è emersa la conclusione limpida: meglio chiudere tutto e spostare il capitale investito su ETF, prima di farmi mangiare ulteriori rendimenti da costi ricorrenti davvero troppo alti.  
+Ho analizzato i prospetti informativi di un paio di prodotti che avevo acquistato anni fa (quando ancora non mi interessavo a questi temi), ho confrontato i rendimenti ed i costi con quelli attesi dagli investimenti in FPA ed ETF, ed è emersa la conclusione limpida: meglio chiudere tutto e spostare il capitale investito, prima di farmi mangiare ulteriori rendimenti da costi ricorrenti davvero esagerati.  
 
 ## Estinzione debiti + eventuale surroga mutuo casa
 Non era il mio caso, ma in questa fase iniziale ci metterei anche questo passaggio.
@@ -55,21 +71,22 @@ Inutile pensare ad investire per portare a casa un rendimento positivo, se dall'
 Riguardo al mutuo casa, se il tasso del tuo mutuo in corso è superiore di qualche decimale rispetto ai preventivi che puoi fare online, allora è senz'altro opportuno chiedere alla tua banca di rivedere le condizioni in modo da allinearsi, altrimenti con pochissimo sforzo e zero spese (grazie al **Decreto Bersani** - cfr. [Wikipedia](https://it.wikipedia.org/wiki/Decreto_Bersani_bis#Surroga_dei_mutui_a_costo_zero) e [il decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-01-31;7) all'articolo 8) puoi surrogare il mutuo trasferendolo alla banca che ti offre il miglior TAEG oggi.
 
 ## Budgeting
-Per tracciare le mie spese e farmi un'idea di quanto riesco a risparmiare mediamente, ho usato la app [**Wallet** di Budgetbakers](https://budgetbakers.com/en/products/wallet/) perché si collega al mio conto corrente una volta al giorno per leggere saldo e transazioni, le categorizza automaticamente, e fornisce report e statistiche molto utili.  
-Da anni cerco di evitare l'uso del contante, e questa abitudine rende il lavoro di Wallet **totalmente automatico**, perché ogni singola spesa è una voce già categorizzata e non si perdono informazioni; tutte le poche e piccole transazioni che faccio con i contanti semplicemente non le traccio, ma chi apprezza la precisione totale può inserirle manualmente nella app.  
+Per tracciare le mie spese e farmi un'idea di quanto riesco a risparmiare mediamente ogni mese, ho usato la app [**Wallet** di Budgetbakers](https://budgetbakers.com/en/products/wallet/) perché si collega al mio conto corrente una volta al giorno per leggere saldo e transazioni, le categorizza automaticamente, e fornisce report e statistiche molto utili.  
+Da anni evito il più possibile l'uso del contante, e questa abitudine rende il lavoro di Wallet **totalmente automatico**, perché ogni singola spesa è una voce già categorizzata e non si perdono informazioni; le poche e piccole transazioni che faccio con i contanti semplicemente non le traccio, ma chi apprezza la precisione totale può inserirle manualmente nella app.  
 
-A livello metodologico, ho deciso di adottare il _reverse budgeting_: do priorità al risparmio nei fondi pensione (obiettivo: 5164€/anno) rispetto alle spese personali e agli investimenti in ETF.  
+A livello metodologico, ho deciso di adottare il **reverse budgeting**: do priorità al risparmio nei fondi pensione (obiettivo: 5164€/anno) rispetto alle spese personali e agli investimenti. Questo significa che ogni mese verso sempre automaticamente una quota fissa nel FPA, mettendo in secondo piano il resto.  
 
 Il solo fatto di poter controllare le spese in 5 secondi aprendo una app mi ha regalato un certo grado di consapevolezza su come spendo i soldi che prima non avevo, e che mi fa ragionare un po' di più su cosa vale davvero la pena acquistare e cosa no; e trovo utile poter guardare i report automatici a fine mese confrontando i vari mesi a colpo d'occhio.
 
 ## Conto corrente
 Ho deciso di tenere il conto che ho già, nonostante sia più costoso di tanti altri disponibili. La banca è tra le più solide in Italia, quindi sono a posto così per ora.  
 
-Se avessi dovuto cambiare conto corrente, allora avrei fatto come ho fatto anni fa per scegliere il mio conto attuale: privilegiare la **solidità della banca**, che è misurata da alcuni indicatori (per il 2025 ad esempio c'è [questo articolo di Milano Finanza](https://www.milanofinanza.it/news/quali-sono-le-banche-piu-sicure-ecco-le-pagelle-bce-e-i-dati-di-bilancio-dei-principali-istituti-in-italia-202511211804564119)), e in secondo luogo i **bassi costi**. La disponibilità di una sede fisica vicina credo sia irrilevante oggi, si fa tutto online senza problemi.
+Se avessi dovuto cambiare conto corrente, allora avrei fatto come ho fatto anni fa per scegliere il mio conto attuale: privilegiare la **solidità della banca**, che è misurata da alcuni indicatori (per il 2025 ad esempio c'è [questo articolo di Milano Finanza](https://www.milanofinanza.it/news/quali-sono-le-banche-piu-sicure-ecco-le-pagelle-bce-e-i-dati-di-bilancio-dei-principali-istituti-in-italia-202511211804564119)), e in secondo luogo i **bassi costi**. La disponibilità di una sede fisica vicina credo sia irrilevante oggi, si fa tutto online senza problemi, anzi penso che sia un plus notevole poter evitare l'impiegato di banca che prova a venderti cose.
 
 Segnalo che **il trasferimento di un conto corrente ad un altro istituto è gratuito** per legge ([Testo Unico Bancario](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), articolo "126 septies") e la nuova banca si occupa di tutto, compreso il trasloco delle domiciliazioni (già sperimentato personalmente anni fa).  
 Resteranno comunque da fare un po' di pratiche come l'attivazione delle nuove carte e relativa associazione a PayPal Amazon e simili, prima di chiudere definitivamente il vecchio conto.  
-[Deposifire.com](http://Deposifire.com) può aiutare nella scelta del nuovo conto corrente.
+
+Il [forum di FinanzaOnLine](https://forum.finanzaonline.com/forums/banking-carte-di-credito-conti-deposito-e-corren.7/) può aiutare davvero molto nella scelta del nuovo conto corrente: c'è un post molto frequentato con un enorme foglio di calcolo aggiornatissimo con tutte le informazioni su tutti i conti correnti.
 
 ## Fondo di emergenza
 Ho usato [Deposifire.com](https://deposifire.com/) per scegliere un conto deposito svincolato con il tasso di interesse più alto tra quelli disponibili, e l’ho aperto con il solo scopo di contenere metà del mio FdE.  
@@ -86,7 +103,7 @@ La mia banca mi offre un conto titoli con costi imbarazzanti, quindi ho deciso d
 Ho confrontato i broker italiani che operano in regime amministrato (feature obbligatoria per minimizzare burocrazia e potenziali errori nel 730), cercando quello con i costi minori per le transazioni tramite PAC.  
 Ho scelto **Directa**.  
 Avevo già un account su Moneyfarm che da qualche tempo consentiva di comprare ETF, ma non di impostare un PAC gratuito.  
-Nel 2025 è diventato interessante anche **TradeRepublic**, tenendo conto che l'azienda non è italiana.
+Nel 2025 è diventato interessante anche **TradeRepublic**, tenendo presente che l'azienda non è italiana.
 
 ## ETF
 Come primo investimento ho acquistato qualche quota di un ETF azionario globale tra i più noti, scelta che in generale mi sembra sensata per un orizzonte temporale di più di 10 anni come il mio.  
@@ -115,9 +132,9 @@ Con l’eccedenza in arrivo dal CC, porto il **saldo del FdE verso il suo "livel
 
 ## ETF
 Verso l’eventuale eccedenza residua nel mio conto titoli, per **acquistare quote degli ETF che ho in portafoglio**.  
-Scelgo tra i miei ETF quelli che hanno _perso_ più valore, in modo tale da ribilanciare senza vendere quote, così da tenere a zero le commissioni sulle operazioni e le tasse sulle plusvalenze.  
+Scelgo tra i miei ETF quelli che hanno performato _peggio_, in modo tale da ribilanciare senza vendere quote: questo fa sì che non ci siano commissioni né tasse sulle plusvalenze da pagare.  
 Mi sono fatto un semplice foglio di calcolo per aiutarmi a capire quanto la mia allocazione attuale si discosta da quella obiettivo, così con un colpo d'occhio capisco quali ETF acquistare.  
-Se anche dopo aver acquistato quote qualche componente si discosta (in positivo o negativo) più del 5% dall'allocazione prevista, allora ribilancio più incisivamente anche vendendo quote per riportare tutto in equilibrio.
+Finché il capitale investito è abbastanza piccolo, questa tecnica _"forward only"_ funziona; quando capiterà che, pur acquistando quote degli ETF meno performanti del mio portafoglio, l'allocazione reale mostrerà scostamenti maggiori del 10% rispetto alla allocazione obiettivo, allora ribilancerò più incisivamente anche vendendo quote, per riportare tutto in equilibrio.
 
 
 

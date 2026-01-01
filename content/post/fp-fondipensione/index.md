@@ -208,11 +208,14 @@ Ciao Elsa è anche **intermediario autorizzato che ti consente di aderire online
 # Covip
 
 [COVIP](http://www.covip.it) è la Commissione di Vigilanza sui FP.  
-Nel sito trovi informazioni fondamentali se hai intenzione di aprire un FP.  
-In particolare segnalo la pagina ["Per il cittadino"](http://www.covip.it/per-il-cittadino), dove trovi tutti i dati aggiornati di tutti i FP disponibili in Italia relativamente a:
+Nel sito trovi informazioni fondamentali se hai intenzione di aprire un FP.
 
-* i **rendimenti** degli ultimi 1, 5, 10, 20 anni (per quello che contano)  
-* i **costi**: questa singola informazione (ISC = Indicatore Sintetico di Costo) è probabilmente la più importante da valutare.
+Le [infografiche](https://www.covip.it/per-il-cittadino/educazione-previdenziale/infografiche-sulla-previdenza-complementare): danno velocemente un sacco di informazioni preziose.
+
+Segnalo anche la pagina ["Per il cittadino"](http://www.covip.it/per-il-cittadino), dove trovi tutti i dati aggiornati di tutti i FP disponibili in Italia relativamente a:
+
+* i **rendimenti** degli ultimi 1, 5, 10, 20 anni  
+* i **costi**: questa singola informazione (**ISC** = Indicatore Sintetico di Costo) è probabilmente la più importante da valutare.
 
 
 

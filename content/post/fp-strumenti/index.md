@@ -57,7 +57,7 @@ Se hai solamente un conto corrente, allora **verifica prima di tutto se la app d
 Un database di conti deposito e conti correnti italiani.  
 Utile per confrontare e decidere quale conto aprire.  
 Suggerisco di verificare le condizioni aggiornate sui siti delle banche, una volta fatta la prima scrematura su Deposifire.  
-Una risorsa analoga è presente sul [Forum di FinanzaOnLine](https://forum.finanzaonline.com/), in forma di foglio di calcolo sempre aggiornato.
+Una risorsa analoga è presente sul [forum di FinanzaOnLine](https://forum.finanzaonline.com/forums/banking-carte-di-credito-conti-deposito-e-corren.7/), in forma di foglio di calcolo sempre aggiornato.
 
 
 
