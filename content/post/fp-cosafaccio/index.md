@@ -18,11 +18,11 @@ Usando gli _ingredienti_ del post [Strumenti per la finanza personale]({{< ref "
 # [TL;DR](https://it.wikipedia.org/wiki/TL;DR)
 
 1. Ho **imparato** le nozioni di base in qualche ora.
-1. Ho **attivato gli account** necessari (FPN,FPA, conto deposito, conto titoli).
+1. Ho **attivato gli account** necessari (FPN, FPA, conto deposito, conto titoli).
 1. Ho **chiuso vecchi strumenti costosi** e spostato il capitale distribuendolo nei nuovi strumenti appena attivati, secondo una regola.
 1. Ho **mantenuto conto corrente e assicurazioni** che già avevo.
 1. Ho **investito in ETF** nel modo più semplice per cominciare.
-1. Ogni mese seguo uno **schema semplice** che mi richiede pochi minuti.
+1. Ogni mese faccio **un paio di operazioni molto semplici**, che mi richiedono pochi minuti.
 
 
 
@@ -32,16 +32,16 @@ Prima di spostare un euro, ho predisposto tutto il necessario.
 Per raccontartelo, invece di limitarmi alla cronaca cruda di quello che ho fatto, ho aggiunto qualche dettaglio utile e ho ordinato i paragrafi in modo che diventi una specie di vademecum da cui poter prendere spunto.
 
 ## Formazione
-Nella quantità di contenuti sul tema che ho guardato, ascoltato, e letto online, credo che gli autori che seguono siano quelli che centrano meglio l'obiettivo per noi neofiti, combinando chiarezza, precisione, buon senso, e leggerezza.  
+Nella quantità di contenuti sul tema che ho guardato, ascoltato, e letto online, credo che questi siano quelli che centrano meglio l'obiettivo per noi neofiti, combinando chiarezza, precisione, buon senso, e leggerezza.  
 
-1. ["Educati e finanziati" condensato in un'oretta](https://www.youtube.com/watch?v=wMOP4b5saxk): introduzione perfetta ai temi principali, da seguire senza prendere appunti, solo per sgranchire la mente su quanto seguirà.
+1. ["Educati e finanziati" condensato in un'oretta](https://www.youtube.com/watch?v=wMOP4b5saxk): introduzione perfetta ai temi principali, da guardare senza prendere appunti, solo per sgranchire la mente su quanto seguirà.
 1. ["**Educati e finanziati**"](https://www.educatiefinanziati.it), il corso vero e proprio di Paolo Coletti.  
 Questo ti porterà via un po' più tempo, ma lo stile di Coletti renderà tutto facile e leggero, fidati!  
 Il sito contiene sia i video che una dispensa con tutti i contenuti.  
 Trovi il corso anche in formato podcast nelle varie piattaforme.
 1. [The Bull](https://italia-podcast.it/podcast/the-bull-il-tuo-podcast-di-finanza-personale): se sei consumatore di podcast come il sottoscritto, allora anche "The Bull" di Riccardo Spada merita la tua attenzione.  
 Parla soprattutto di temi legati all'investimento.  
-Le prime 25 puntate circa sono quelle fondamentali.
+Le prime 10 puntate circa sono quelle fondamentali, oppure ascolta per prima la puntata n°20 per avere un riassunto in 20 minuti e farti un'idea.
 1. [Ciao Elsa](https://www.ciaoelsa.com/) per informarsi sui fondi pensione, in particolare i video che ho linkato nel [mio post sul tema]({{< ref "fp-fondipensione.md" >}}).
 
 ## FPN
