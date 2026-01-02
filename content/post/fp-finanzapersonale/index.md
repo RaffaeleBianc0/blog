@@ -25,17 +25,17 @@ image: "images/finanza-personale.jpg"
 # Cosa c’è qui
 
 A metà 2024 mi è presa la scimmia per queste cose e ho cominciato a studiare il tema.  
-E quando studio, prendo appunti.  
+E quando studio prendo appunti, sennò mi dimentico tutto.  
 Parlandone con qualche amico ho pensato che **questi appunti sarebbero forse stati utili a chi, come me fino a "ieri", non si è mai interessato più di tanto ai propri risparmi**.  
 L'idea di pubblicare tutto online è rimasta _work in progress_ per molti mesi, per paura che ci fossero errori o che alla fine non aggiungessero nulla a quanto già esiste online. Poi però su insistente e gradito sollecito di un paio di persone... ecco qua.  
 Magari sei qui perché ne abbiamo parlato e ti ho mandato il link.  
 Alcuni contenuti sono centrati sulla mia situazione, cioè quella di dipendente privato con orizzonte di investimento lungo; però credo che la maggior parte delle informazioni siano utili in generale.  
 
 Questo post è il primo della serie, dove ho raccolto "pillole" sul tema della finanza personale, cioè **micro-riassunti di qualcosa che ho imparato**.  
-Non c'è pretesa di insegnare nulla né di essere esaustivo, ma magari innesco un po' di curiosità.  
+Non c'è pretesa di insegnare nulla né di essere esaustivo, ma magari innesco un po' di curiosità su argomenti che potresti aver snobbato per colpa di qualche pregiudizio, chissà.  
 **Non troverai suggerimenti di investimento o di acquisto o altro spam molesto**, quelle sono cose per professionisti.  
 
-Cliccando sulla [categoria "Finanza personale"](/blog/categories/finanza-personale) trovi altri post, per esempio riguardo agli [strumenti]({{< ref "fp-strumenti.md" >}}) che ho trovato utili, e a [cosa faccio io]({{< ref "fp-cosafaccio.md" >}}) nella pratica. Ma se dovessi scegliere cosa leggere subito dopo questo post, allora direi [quello sui fondi pensione]({{< ref "fp-fondipensione.md" >}}).
+Cliccando sulla [categoria "Finanza personale"](/blog/categories/finanza-personale) trovi altri post sullo stesso tema.
 
 
 
@@ -296,9 +296,10 @@ Sostanzialmente la consulenza finanziaria deve essere **priva di conflitto d’i
 Sul sito dell'[Organismo di vigilanza e tenuta dell'albo unico dei Consulenti Finanziari - OCF](https://www.organismocf.it/) trovi l’**elenco aggiornato di tutti i consulenti finanziari indipendenti/autonomi iscritti all’Albo**.  
 E' utile per accertarsi che la persona che vuoi ingaggiare sia davvero un consulente indipendente, prima di procedere.
 
-[IoInvesto](https://www.ioinvesto.net)  
 [Futura SCF](https://www.futurascf.it)  
-Queste sono due società che si occupano di consulenza finanziaria indipendente - ma ce ne sono tante altre.  
+[IoInvesto](https://www.ioinvesto.net)  
+Queste sono due società che si occupano di consulenza finanziaria indipendente.  
+Ce ne sono tante altre, ma segnalo queste perché fanno una buona attività divulgativa tramite video su YouTube.  
 La prima chiamata per analizzare la propria situazione è gratuita.  
 Magari un giorno provo.
 

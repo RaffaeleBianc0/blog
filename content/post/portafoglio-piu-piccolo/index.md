@@ -32,10 +32,10 @@ Questo è il mio portafoglio _definitivo_, il [SECRID Slimwallet](https://www.
 Confrontando le misure, ecco i risultati:
 
 | Portafoglio | Spessore | Volume
-|------|----------|-------
-Vecchio     | 100% |   100%   |  100%
-Provvisorio |  61% |    57%   |   35%
-Nuovo       |  54% |    42%   |   23%
+|-------------|----------:|-------:
+Vecchio       |  100%    |  100%
+Provvisorio   |   57%    |   35%
+Nuovo         |   42%    |   23%
 
 Insomma: spessore di _metà_ e un volume di _un quarto_ rispetto al portafoglio ciccione che avevo!  
 C'è da dire che questo portafoglio è uno dei più **spessi** tra quelli che avevo individuato (vedi sotto): rinunciando al _card-protector_ in alluminio è possibile ottenere misure ancora più contenute.

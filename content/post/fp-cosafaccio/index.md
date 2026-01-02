@@ -62,13 +62,14 @@ Ne sono usciti subito due vincitori (soprattutto per merito dei costi più bassi
 _Ho poi scoperto che su [Ciao Elsa](https://ciaoelsa.com) è possibile aderire online gratuitamente anche ai fondi pensione che non hanno la procedura nel proprio sito, perché CiaoElsa fa da intermediario... ma ormai avevo già fatto tutto. Amen!_
 
 ## Chiusura posizioni precedenti
-Ho analizzato i prospetti informativi di un paio di prodotti che avevo acquistato anni fa (quando ancora non mi interessavo a questi temi), ho confrontato i rendimenti ed i costi con quelli attesi dagli investimenti in FPA ed ETF, ed è emersa la conclusione limpida: meglio chiudere tutto e spostare il capitale investito, prima di farmi mangiare ulteriori rendimenti da costi ricorrenti davvero esagerati.  
+Ho analizzato i prospetti informativi di un paio di prodotti che avevo acquistato anni fa (quando ancora non mi interessavo a questi temi), **ho confrontato i rendimenti ed i costi con quelli attesi dagli investimenti in FPA ed ETF**, ed è emersa la conclusione limpida: meglio chiudere tutto e spostare il capitale investito, prima di farmi mangiare ulteriori rendimenti da costi ricorrenti davvero esagerati.  
 
 ## Estinzione debiti + eventuale surroga mutuo casa
 Non era il mio caso, ma in questa fase iniziale ci metterei anche questo passaggio.
 Inutile pensare ad investire per portare a casa un rendimento positivo, se dall'altra parte ci sono finanziamenti per i quali paghiamo un tasso di interesse che combatte contro questo rendimento.  
 
-Riguardo al mutuo casa, se il tasso del tuo mutuo in corso è superiore di qualche decimale rispetto ai preventivi che puoi fare online, allora è senz'altro opportuno chiedere alla tua banca di rivedere le condizioni in modo da allinearsi, altrimenti con pochissimo sforzo e zero spese (grazie al **Decreto Bersani** - cfr. [Wikipedia](https://it.wikipedia.org/wiki/Decreto_Bersani_bis#Surroga_dei_mutui_a_costo_zero) e [il decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-01-31;7) all'articolo 8) puoi surrogare il mutuo trasferendolo alla banca che ti offre il miglior TAEG oggi.
+Riguardo al mutuo casa, se il tasso del tuo mutuo in corso è superiore di qualche decimale rispetto ai preventivi che puoi fare online, allora sul lungo periodo **stai già perdendo migliaia di euro**, fai bene i conti.  
+Chiedi senz'altro alla tua banca di rivedere le condizioni in modo da allinearsi, altrimenti con pochissimo sforzo e zero spese (grazie al **Decreto Bersani** - cfr. [Wikipedia](https://it.wikipedia.org/wiki/Decreto_Bersani_bis#Surroga_dei_mutui_a_costo_zero) e [il decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-01-31;7) all'articolo 8) puoi surrogare il mutuo trasferendolo alla banca che ti offre il miglior TAEG oggi su un mutuo a tasso fisso.  
 
 ## Budgeting
 Per tracciare le mie spese e farmi un'idea di quanto riesco a risparmiare mediamente ogni mese, ho usato la app [**Wallet** di Budgetbakers](https://budgetbakers.com/en/products/wallet/) perché si collega al mio conto corrente una volta al giorno per leggere saldo e transazioni, le categorizza automaticamente, e fornisce report e statistiche molto utili.  

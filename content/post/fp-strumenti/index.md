@@ -37,9 +37,9 @@ Una parte consistente del budgeting consiste nel **tracciare entrate e uscite fi
 E' una attività che può essere davvero molto noiosa, se fatta manualmente come la facevo una volta: foglio di calcolo, e tanta disciplina per riportare ogni spesa in una nuova riga.
 
 Fortunatamente dal 2019 molte banche dell'UE adottano il protocollo [Open Banking](https://it.wikipedia.org/wiki/Open_banking), che consente di leggere saldo e transazioni del tuo conto corrente da un'altra applicazione in modo automatico e sicuro.  
-Questo significa **automatizzare completamente il data-entry**, eliminando il fastidio alla radice. L'unica accortezza è quella di usare sempre una carta collegata al conto per fare le proprie spese, così che ogni spesa sia una transazione separata; se al contrario prelevi il contante per pagare con quello, allora sei costretto a registrare gli scontrini manualmente.
+Questo significa **automatizzare completamente il data-entry**, eliminando il fastidio alla radice. L'unica accortezza è quella di usare sempre una carta collegata al conto per fare le proprie spese, così che ogni spesa sia una transazione separata; se al contrario prelevi il contante per pagare con quello, allora sei costretto a registrare quelle spese manualmente.
 
-Ho provato alcune **app per il budgeting che supportano Open Banking**: quando ho fatto i test erano solo due, delle quali una forniva questa funzionalità fondamentale solamente tramite abbonamento mensile.  
+Ho provato alcune app per il budgeting: quando ho fatto i test quelle che supportavano Open Banking erano solo due, delle quali una forniva questa funzionalità fondamentale solamente tramite abbonamento mensile.  
 Considerando che per le mie esigenze il budgeting è stato più una curiosità che una esigenza, non mi andava di spenderci dei soldi, quindi il mio personale vincitore è stato automaticamente [**Wallet** di Budgetbakers](https://budgetbakers.com/en/products/wallet/).  
 
 Features interessanti: 
@@ -47,17 +47,17 @@ Features interessanti:
 * E' possibile gestire fino a 3 conti nella versione free. Esempio: conto corrente personale nella Banca1, conto corrente di famiglia nella Banca2, contanti in tasca. Questo aiuta a controllare più conti e ad avere statistiche e report di dettaglio oppure aggregati in modo molto intuitivo.  
 * L'accesso ai propri dati su Wallet è disponibile anche tramite webapp, così puoi interagire da PC dove può essere più comodo filtrarli, fare ricerche, esportarli.
 
-Se hai solamente un conto corrente, allora **verifica prima di tutto se la app della tua banca fornisce già le funzionalità** di categorizzazione automatica e statistiche/report sui tuoi movimenti: potrebbe essere tutto già pronto per l'uso, e ti basterà in questo caso semplicemente abituarti a pagare tutto con la carta per avere dati precisi e sempre aggiornati.
+Se hai solamente un conto corrente, allora **verifica prima di tutto se la app della tua banca fornisce già le funzionalità** di categorizzazione automatica e statistiche/report sui tuoi movimenti: potrebbe essere tutto già pronto per l'uso, e ti basterà in questo caso semplicemente abituarti a pagare tutto con la carta per avere dati precisi e sempre aggiornati.  
+Due esempi sono UniCredit e Intesa Sanpaolo.
 
 
 
 # Conti deposito
 
+Foglio di calcolo nel [forum di FinanzaOnLine](https://forum.finanzaonline.com/forums/banking-carte-di-credito-conti-deposito-e-corren.7/)  
 [Deposifire](http://www.deposifire.com)  
-Un database di conti deposito e conti correnti italiani.  
-Utile per confrontare e decidere quale conto aprire.  
-Suggerisco di verificare le condizioni aggiornate sui siti delle banche, una volta fatta la prima scrematura su Deposifire.  
-Una risorsa analoga è presente sul [forum di FinanzaOnLine](https://forum.finanzaonline.com/forums/banking-carte-di-credito-conti-deposito-e-corren.7/), in forma di foglio di calcolo sempre aggiornato.
+Queste due risorse sono comodissime per scegliere quale conto deposito aprire.  
+Trattandosi di dati alimentati da utenti volonterosi, una volta fatta una scelta è sempre opportuno verificare le condizioni aggiornate sul sito ufficiale dell'istituto bancario.
 
 
 
@@ -75,7 +75,7 @@ A metà 2024 un collega mi dice "Ho iniziato ad ascoltare un podcast di finanza 
 Per anni alla parola "finanza" il mio cervello ha associato istantaneamente "cheppàlle" e il discorso è sempre finito lì.  
 Invece stavolta ho ascoltato due o tre puntate scegliendole in base al titolo, e qualcosa è scattato: ho ripreso dalla puntata n°1 e in un paio di mesi ho ascoltato i primi 140 episodi.  
 Poi ho acquistato [il primo libro](https://amzn.to/3Y7zGZ5) dell'autore, una trasposizione su testo della parte più formativa del podcast. E a fine 2025 anche [il secondo libro](https://amzn.to/4pnnZIz), che riassume brevemente il primo e arricchisce la trattazione con più dettagli.  
-Le prime 20-30 puntate del podcast sono forse le più importanti, e hanno un carattere didattico. In seguito vengono inseriti anche episodi di aggiornamento mensili e interviste con personaggi clamorosi nel mondo della finanza, tra giornalisti, investitori, e premi nobel.  
+Le prime 10 puntate del podcast sono forse le più importanti, e hanno un carattere didattico. Più avanti nel podcast vengono inseriti anche episodi di aggiornamento mensili e interviste con personaggi clamorosi nel mondo della finanza, tra giornalisti, investitori, e premi nobel.  
 Da metà 2025 The Bull è anche un [canale YouTube](http://www.youtube.com/@thebull_finance): non male, ma personalmente continuo a preferire la versione podcast.
 
 [JustETF](http://www.JustETF.com)  
@@ -85,8 +85,8 @@ Il sito di riferimento per scegliere gli ETF in cui investire e metterli a confr
 Tra le pagine web più lunghe che io abbia visto, ma se dovessi scegliere un unico contenuto da leggere in cui ci sia **il massimo delle informazioni sul tema dei "portafogli pigri"**... eccolo.
 
 [Bogleheads](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy_for_non-US_investors)  
-Una community di investitori che seguono la filosofia semplice ed efficace di John Bogle, il fondatore di Vanguard, cioè **costi bassi, diversificazione, gestione passiva tramite fondi indicizzati/ETF e un approccio di lungo termine**: è tutto perfettamente aderente alle scelte che voglio fare personalmente.  
-La pagina che ho linkato è un vademecum perfetto di come comportarsi nell'investimento.
+Una community di investitori che seguono la filosofia semplice ed efficace di John Bogle, il fondatore di Vanguard, cioè **costi bassi, diversificazione, gestione passiva tramite fondi indicizzati/ETF e un approccio di lungo termine**: è tutto perfettamente aderente alle scelte che ho fatto personalmente.  
+La pagina che ho linkato è un vademecum perfetto su come comportarsi quando si investe.
 
 [Directa](http://www.Directa.it)  
 E’ un broker, cioè una piattaforma dove aprire il proprio conto titoli per comprare/vendere strumenti finanziari come gli ETF.  
@@ -114,33 +114,33 @@ E’ per ora l’unico strumento che ho trovato che fornisce questa possibilità
 Ottimo per confrontare velocemente una propria idea con alcuni celebri portafogli.  
 
 [Curvo Backtest](https://curvo.eu/backtest)  
-Semplice da usare, incentrato su strumenti europei, offre un report sintetico interessante. Il problema più grande secondo me è anche qui legato alla mancanza di dati storici per gli ETF, per cui i backtest spesso raccontano una realtà solo degli ultimi anni.  
+Semplice da usare, incentrato su strumenti europei, offre un report sintetico interessante. Il problema più grande secondo me è anche qui legato alla mancanza di dati storici per gli ETF, per cui i backtest spesso raccontano una realtà limitata agli ultimi anni.  
+Interessante la possibilità di selezionare anche gli indici, oltre agli ETF.
 
 
 
 ## Portfolio tracking
 
-Vista la natura a lungo termine degli investimenti, visto che non vanno prese decisioni in base alle variazioni recenti dei rendimenti, e visto che ribilanciare il portafoglio troppo spesso è controproducente, possiamo dedurre che **non serve a granché guardare l’andamento del proprio portafoglio costantemente**: una volta ogni 6-12 mesi probabilmente sarebbe sufficiente, oppure ogni volta prima di investire, per decidere in quale ETF del nostro portafoglio sia meglio mettere i nuovi risparmi accumulati per ottenere un "ribilanciamento senza vendere" evitando tasse e commissioni.  
-Tuttavia, vedere _come sta andando_ dà una certa soddisfazione ed è difficile rinunciare a questo impulso.  
+Vista la natura a lungo termine degli investimenti, visto che non vanno prese decisioni in base alle variazioni recenti dei rendimenti, e visto che ribilanciare il portafoglio troppo spesso è controproducente (per vari motivi documentati), si deduce che **non serve a granché guardare l’andamento del proprio portafoglio costantemente**: una volta ogni 6-12 mesi probabilmente sarebbe sufficiente, oppure ogni volta prima di investire, per decidere in quale ETF del nostro portafoglio sia meglio mettere i nuovi risparmi accumulati per ottenere un "ribilanciamento senza vendere" evitando tasse e commissioni.  
+
+Tuttavia, è davvero difficile resistere all'impulso di vedere _come sta andando oggi_.  
 Per risolvere questa esigenza, segnalo questi strumenti:
 
 [**Yahoo Finanza**](https://it.finance.yahoo.com/):  
 * utilizzabile sia da web che [su smartphone](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.finance&hl=it)
 * su Android ha anche un comodo widget da tenere nella Home  
 * consente di importare la storia delle proprie transazioni da un file CSV
-* mostra anche i profitti/perdite già realizzati a seguito di vendite
+* mostra anche i profitti/perdite _già realizzati_ (a seguito di vendite di quote già avvenute)
 
 [**Ticker**](https://github.com/achannarasappa/ticker) e [**Tickrs**](https://github.com/tarkah/tickrs), due tool con interfaccia a caratteri da usare solo su PC.  
-Richiedono una certa inclinazione nerd per essere apprezzati (infatti io li adoro), ma come spesso accade l'interfaccia minimale dei tool a caratteri veicola l'essenziale in modo molto efficace.
+Richiedono una certa inclinazione nerd per essere apprezzati (infatti li adoro), ma come spesso accade l'interfaccia minimale dei tool a caratteri veicola l'essenziale in modo molto efficace.
 
 [**Wallible**](https://play.google.com/store/search?q=wallible&c=apps) _(a pagamento)_:  
 * utilizzabile sia su smartphone che da web  
 * fornisce le metriche classiche sul proprio portafoglio (Sharpe Ratio, volatilità, eccetera)  
-* consente di salvare ulteriori portafogli oltre al proprio e usarli per fare confronti e backtest  
+* consente di salvare ulteriori portafogli oltre al proprio, e di usarli per fare confronti e backtest  
 
 [**TradingView**](http://it.tradingview.com): uno dei siti di riferimento per le informazioni tecniche sugli indici.
-
-
 
 
 

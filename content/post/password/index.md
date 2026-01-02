@@ -33,7 +33,7 @@ Già vista la famosa e illuminante vignetta di [xkcd](https://xkcd.com/936/)? 
 
 Molto probabilmente usi password _[corte](http://passwordresearch.com/stats/statistic374.html)_ e _[sempre uguali](http://passwordresearch.com/stats/statistic258.html)_. Dovresti pensarci! Ti racconto di come ci ho pensato io.
 
-## Per farla breve
+## [TL;DR](https://it.wikipedia.org/wiki/TL;DR)
 
 Versione condensata di questo articolo:
 

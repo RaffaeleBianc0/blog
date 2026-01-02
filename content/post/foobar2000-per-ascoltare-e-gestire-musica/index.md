@@ -14,16 +14,16 @@ Per ascoltare la musica al PC (e per tenerla ordinata) uso da tempo con soddisfa
 
 Le caratteristiche sono ovviamente descritte sul sito [http://www.foobar2000.org](http://www.foobar2000.org/), ma per quanto mi riguarda i punti di forza che sfrutto quasi quotidianamente sono:
 
-- supporto nativo per tanti formati, tra cui quelli che incontro più spesso (.mp3 .ogg .flac .wav, e anche .cue)
-- transcodifica (da ogg a mp3, ad esempio)
-- tagging (per quanto rudimentale, fa il suo)
+- supporto nativo per tanti formati, tra cui quelli che incontro più spesso (.mp3 .ogg .flac .wav)
+- transcodifica (da flac a mp3, ad esempio)
+- tagging
 - supporto all'mp3gain
-- azioni "furbe" personalizzabili e associabili ai tasti (esempi: Alt+N per passare alla "Next" canzone, Alt+M per Muovere il file in una cartella, Alt+D per "Delete"-are un brano...)
+- azioni "furbe" personalizzabili e associabili ai tasti (esempi: Alt+N per passare alla "Next" canzone, Alt+M per Muovere il file in una cartella, Alt+D per "Delete"-are un brano)
 - supporto ai tasti "multimedia" del mio notebook (play stop mute next previous eccetera)
 - possibilità di installarlo portable
 - plugin opzionali per fare un milione di cose (più o meno utili ^\_^)
-- è freeware.
+- è freeware
 
-Dato che nasce un po' scarno di suo, segnalo anche che tra le funzioni c'è la "skinnabilità" - non la uso, perché tendenzialmente non è che se ascolto musica devo _guardare_ il software... sto sicuramente facendo altro, oppure sto proprio _ascoltando_ e basta.
+Dato che nasce un po' scarno come estetica, segnalo anche che tra le funzioni c'è la "skinnabilità" - non la uso, perché tendenzialmente non è che se ascolto musica devo _guardare_ il software... sto sicuramente facendo altro, oppure sto proprio _ascoltando_ e basta.
 
 Non mi vengono in mente motivi per cui usare un'alternativa, al momento, quindi... consigliato.
