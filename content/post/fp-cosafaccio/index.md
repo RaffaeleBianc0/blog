@@ -2,7 +2,7 @@
 title: "Schema pratico per gestire le proprie finanze"
 description: "Per chi è indisciplinato come me, la soluzione migliore per mantenere la rotta è avere delle istruzioni facili da seguire"
 date: "2025-10-06"
-lastmod: '2025-12-06'
+lastmod: '2026-01-03'
 categories: 
   - "finanza personale"
 image: "images/cover.png"
@@ -21,6 +21,8 @@ Usando gli _ingredienti_ del post [Strumenti per la finanza personale]({{< ref "
 1. Ho **attivato gli account** necessari (FPN, FPA, conto deposito, conto titoli).
 1. Ho **chiuso vecchi strumenti costosi** e spostato il capitale distribuendolo nei nuovi strumenti appena attivati, secondo una regola.
 1. Ho **mantenuto conto corrente e assicurazioni** che già avevo.
+1. Ho **impostato il FPN**: destinazione del TFR, versamento del contributo minimo, selezione del comparto più aggressivo.
+1. Ho impostato un **versamento mensile nel FPA**.
 1. Ho **investito in ETF** nel modo più semplice per cominciare.
 1. Ogni mese faccio **un paio di operazioni molto semplici**, che mi richiedono pochi minuti.
 
@@ -54,7 +56,7 @@ Probabilmente cambierò comparto durante i prossimi 20 anni, per aumentare progr
 ## FPA
 Dato che:
 - il mio FPN per i miei gusti non ha sufficiente azionario considerando che mi mancano ancora 20 anni alla pensione
-- voglio versare fino a 5164€/anno nei FP per **approfittare al massimo delle deduzioni**
+- voglio versare fino a 5300€/anno nei FP per **approfittare al massimo delle deduzioni**
 - voglio restare sotto al limite dei 100k di montante nel FPN
 
 ho usato le tabelle disponibili nel [sito COVIP](https://www.covip.it/per-il-cittadino/) per capire quale FPA rispondesse ai requisiti *"costi bassi, disponibilità di un comparto fortemente azionario, rendite degli ultimi 10-20 anni più elevate"*.  
@@ -75,7 +77,7 @@ Chiedi senz'altro alla tua banca di rivedere le condizioni in modo da allinearsi
 Per tracciare le mie spese e farmi un'idea di quanto riesco a risparmiare mediamente ogni mese, ho usato la app [**Wallet** di Budgetbakers](https://budgetbakers.com/en/products/wallet/) perché si collega al mio conto corrente una volta al giorno per leggere saldo e transazioni, le categorizza automaticamente, e fornisce report e statistiche molto utili.  
 Da anni evito il più possibile l'uso del contante, e questa abitudine rende il lavoro di Wallet **totalmente automatico**, perché ogni singola spesa è una voce già categorizzata e non si perdono informazioni; le poche e piccole transazioni che faccio con i contanti semplicemente non le traccio, ma chi apprezza la precisione totale può inserirle manualmente nella app.  
 
-A livello metodologico, ho deciso di adottare il **reverse budgeting**: do priorità al risparmio nei fondi pensione (obiettivo: 5164€/anno) rispetto alle spese personali e agli investimenti. Questo significa che ogni mese verso sempre automaticamente una quota fissa nel FPA, mettendo in secondo piano il resto.  
+A livello metodologico, ho deciso di adottare il **reverse budgeting**: do priorità al risparmio nei fondi pensione (obiettivo: 5300€/anno) rispetto alle spese personali e agli investimenti. Questo significa che ogni mese verso sempre automaticamente una quota fissa nel FPA, mettendo in secondo piano il resto.  
 
 Il solo fatto di poter controllare le spese in 5 secondi aprendo una app mi ha regalato un certo grado di consapevolezza su come spendo i soldi che prima non avevo, e che mi fa ragionare un po' di più su cosa vale davvero la pena acquistare e cosa no; e trovo utile poter guardare i report automatici a fine mese confrontando i vari mesi a colpo d'occhio.
 
@@ -120,7 +122,7 @@ Dopo aver impostato tutto come descritto sopra, ogni mese dopo l’accredito del
 ![](images/mermaid-diagram-FP-first.png)
 
 ## Addebiti automatici
-Dato che ho deciso di avere delle coperture assicurative, e di dedurre il massimo ogni anno tramite i versamenti nel fondo pensione, nel mio metodo ho previsto l'**addebito automatico dei premi assicurativi**, e un **versamento mensile regolare nel fondo pensione** tale per cui a fine anno, sommando i miei versamenti + il contributo datoriale, raggiungo la soglia massima deducibile (i fatidici 5164€/anno).
+Dato che ho deciso di avere delle coperture assicurative, e di dedurre il massimo ogni anno tramite i versamenti nel fondo pensione, nel mio metodo ho previsto l'**addebito automatico dei premi assicurativi**, e un **versamento mensile regolare nel fondo pensione** tale per cui a fine anno, sommando i miei versamenti + il contributo datoriale, raggiungo la soglia massima deducibile (i fatidici 5300€/anno).
 
 ## Conto corrente
 Dopo aver considerato le uscite dovute agli addebiti automatici, verifico se il CC è al mio **"livello comfort"**, cioè una cifra che mi consenta di coprire le mie spese mensili normali (mutuo bollette supermercato abbonamenti carburante eccetera) e di avere un abbondante buffer aggiuntivo per eventuali necessità extra.  
