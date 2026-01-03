@@ -11,13 +11,13 @@ image: "images/cover.png"
 
 
 
-Ho voluto separare l'argomento "fondi pensione" dagli altri sulla [finanza personale](/blog/categories/finanza-personale) perché **riguarda tutte le persone che lavorano**, e perché ci sono un paio di considerazioni che tutti dovrebbero fare appena possibile durante la carriera lavorativa, per massimizzare i vantaggi sul lungo termine.  
-Io queste consideazioni le ho fatte con 15 anni di ritardo, e non voglio nemmeno fare i conti su quanti soldi ho perso nella mia pensione futura.
+Ho voluto separare l'argomento "fondi pensione" dagli altri sulla [finanza personale](/blog/categories/finanza-personale) perché **riguarda tutte le persone che lavorano**, e perché ci sono un paio di considerazioni che tutti - soprattutto i lavoratori dipendenti - dovrebbero fare appena possibile durante la carriera lavorativa, per massimizzare i vantaggi sul lungo termine.  
+Io queste considerazioni le ho fatte con 15 anni di ritardo, e non voglio nemmeno fare i conti su quanti soldi ho perso nella mia pensione futura.
 
 Di seguito userò queste abbreviazioni:
 * **FP** = Fondo Pensione, che può essere di due tipi: FPN o FPA. Esiste anche una terza categoria, i PIP (Piani Integrativi Pensionistici) venduti dalle assicurazioni, ma sono talmente poco convenienti che non ha praticamente senso valutarli.  
-* **FPN** = Fondo Pensione Negoziale (anche detto "chiuso" o "di categoria"): è quello associato al CCNL di riferimento della tua azienda - ad esempio è Fondo Cometa per i metalmeccanici, Fondo Fon.Te per il commercio, eccetera.
-* **FPA** = Fondo Pensione Aperto, chiamato così perché chiunque può aprire la propria posizione, per esempio anche se versa già nell'FPN, o se lavora in proprio, o se è disoccupato.
+* **FPN** = Fondo Pensione **Negoziale** (anche detto "chiuso" o "di categoria"): è quello associato al CCNL di riferimento della tua azienda - ad esempio è Fondo Cometa per i metalmeccanici, Fondo Fon.Te per il commercio, eccetera.
+* **FPA** = Fondo Pensione **Aperto**, chiamato così perché chiunque può aprire la propria posizione, per esempio anche se versa già nell'FPN, o se lavora in proprio, o se è disoccupato.
 
 
 
@@ -25,15 +25,15 @@ Di seguito userò queste abbreviazioni:
 
 In estrema sintesi, riassumo il percorso che ho fatto personalmente sul tema.
 
-1. Scelgo di [destinare al FPN il TFR + il contributo minimo](#fondo-pensione-subito), per aggiudicarmi il contributo datoriale.  
+1. Scelgo di [destinare al FPN il TFR + il contributo minimo](#fondo-pensione-subito), unico modo per aggiudicarmi il contributo datoriale, che mese dopo mese diventerà una bella somma a fine carriera.  
 
-1. Dalla mia area personale sul sito del FPN, [seleziono il comparto con la componente azionaria più opportuna](#cambia-comparto) in base a quanti anni di lavoro ho davanti (posso seguire il consiglio che leggo nel prospetto informativo del FPN, nei capitoli che descrivono i comparti disponibili).  
+1. Dalla mia area personale sul sito del FPN, [seleziono il comparto con la componente azionaria più opportuna](#cambia-comparto) in base a quanti anni di lavoro ho davanti (seguo il consiglio che leggo nel prospetto informativo del FPN, nei capitoli che descrivono i comparti disponibili).  
 
-1. Se riesco a risparmiare, allora prima di tutto decido se il [tasso di sostituzione](#il-tasso-di-sostituzione) sul sito INPS mi sarà sufficiente quando andrò in pensione (spoiler: no).  
+1. Decido se il [tasso di sostituzione](#il-tasso-di-sostituzione) sul sito INPS mi sarà sufficiente quando andrò in pensione (spoiler: no).  
 
-1. Faccio i conti a spanne di quanto riuscirò a versare, per sapere il totale che potrò aver versato nel FPN quando andrò in pensione (sommando tutte le componenti: TFR + contributo minimo + contributo datoriale + contributo volontario): se supererò i 100k circa, allora sfruttando i dati che trovo sul sito della [COVIP](#covip) [seleziono un FPA poco costoso](#più-fondi-pensione) dove versare i miei contributi volontari. Verserò in modo da non superare la soglia annua di massima deducibilità per i FP, che è di 5164€ calcolati sommando contributo minimo + contributo datoriale nel FPN, più i contributi volontari nel FPA.  
+1. Faccio una stima approssimativa di quanto riuscirò a versare lungo l'intera carriera nel FPN, sommando tutte le componenti (TFR + contributo minimo + contributo datoriale + contributo volontario): se supererò i 100k circa, allora sfruttando i dati che trovo sul sito della [COVIP](#covip) [seleziono un FPA poco costoso](#più-fondi-pensione) da sottoscrivere, e ci verso i miei contributi volontari. Verserò in modo da non superare la soglia annua di massima deducibilità per i FP, che è di 5164€ calcolati sommando i contributi minimo + datoriale nel FPN, più i contributi volontari nel FPA.  
 
-1. Se riesco a risparmiare tanto da superare quella soglia, allora per investire l'eccedenza a lungo termine utilizzerò degli [ETF]({{< ref "fp-finanzapersonale.md#gli-etf">}}).
+1. Se riesco a risparmiare tanto da superare quella soglia, allora per investire l'eccedenza a lungo termine utilizzerò degli [ETF]({{< ref "fp-finanzapersonale.md#gli-etf">}}) - ma questa è una scelta del tutto facoltativa.
 
 
 
@@ -41,17 +41,16 @@ In estrema sintesi, riassumo il percorso che ho fatto personalmente sul tema.
 
 {{< youtube f_flfAXRPX0 >}}
 
-Se sei dipendente privato e ti mancano ancora tanti anni alla pensione, allora **versare il TFR più il tuo contributo volontario minimo nel FPN è ritenuta una scelta _no-brainer_**.  
-Tenerlo in azienda (ammesso che tu possa) ha più senso se sei prossimo alla pensione.  
-In [questo articolo su Ciao Elsa](https://www.ciaoelsa.com/blog/meglio-tfr-in-azienda-o-tfr-nel-fondo-pensione) è spiegato bene.
+Se sei dipendente privato e ti mancano ancora tanti anni alla pensione (diciamo indicativamente più di 10), allora **versare il TFR più il tuo contributo volontario minimo nel FPN è ritenuta una scelta _no-brainer_**.  
+Tenerlo in azienda ([ammesso che ti sia consentito](https://www.covip.it/per-il-cittadino/educazione-previdenziale/faq/quali-sono-scelte-possibili-lavoratori-dipendenti-del)) potrebbe avere più senso se sei prossimo alla pensione (e non avevi mai optato per il versamento in un FP).  
+In [questo articolo su Ciao Elsa](https://www.ciaoelsa.com/blog/meglio-tfr-in-azienda-o-tfr-nel-fondo-pensione) è tutto spiegato bene.
 
 Quando conviene aprire la propria posizione in un FP?  
 _Subito_, idealmente appena uno inizia a lavorare, ma va bene anche lungo la carriera lavorativa, perché ci sono questi vantaggi:
 
 1. **Contributo datoriale**  
-Sono soldi extra che ti vengono versati nel FP dal datore di lavoro, e che puoi ottenere solo grazie all'adesione al tuo FPN.  
-Infatti se destini il TFR al FPN, e ci versi il contributo volontario minimo (circa 0,5-1,5% della tua busta paga ogni mese - dipende dal tuo CCNL di riferimento) allora **ottieni un contributo extra da parte del tuo datore ogni mese** (circa 1,5-2,5% - dipende sempre dal tuo CCNL di riferimento).  
-Potrebbero essere ad esempio attorno ai 50€/mese regalati, che moltiplicando per 12 mesi per 40 anni di lavoro, e con un prudente tasso di interesse annuo del 2%, saranno diventati circa 36.000€ in più alla pensione - fai il conto in base alla tua situazione [qui](https://extraetf.com/it/calculator/saving-plan).  
+Lo puoi ottenere solo se destini al FPN il TFR più il cosiddetto "contributo volontario minimo" (circa 0,5-1,5% prelevato dalla tua busta paga ogni mese - dipende dal tuo CCNL di riferimento): **ottieni il "contributo datoriale", cioè soldi in più che il tuo datore di lavoro è obbligato a versare nel tuo FPN**, pari a circa 1,5-2,5% della tua busta paga (dipende sempre dal tuo CCNL di riferimento).  
+Il contributo datoriale non è _tolto_ dalla tua busta paga, ma _aggiunto_ nel tuo montante del FPN. Potrebbero essere ad esempio attorno ai 50€/mese regalati, che moltiplicando per 12 mesi per 40 anni di lavoro, e con un prudente tasso di interesse annuo del 2%, saranno diventati circa 36.000€ in più alla pensione - fai il conto in base alla tua situazione [qui](https://extraetf.com/it/calculator/saving-plan).  
 
 1. **Vantaggi fiscali crescenti**  
 Dopo i primi 15 anni di permanenza nella previdenza complementare **le tasse che pagherai al riscatto della tua posizione scendono dello 0,3% all’anno**: partono dal 15% se avrai maturato 1-15 anni di contribuzione, per diventare 14,7% ai 16 anni di contribuzione, eccetera fino ad arrivare al 9% (la soglia minima) per 35 anni o più di contribuzione.  
