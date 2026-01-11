@@ -11,11 +11,12 @@ image: "images/cover.png"
 
 
 
-Ho voluto separare l'argomento "fondi pensione" dagli altri sulla [finanza personale](/blog/categories/finanza-personale) perché **riguarda tutte le persone che lavorano**, e perché ci sono un paio di considerazioni che tutti - soprattutto i lavoratori dipendenti - dovrebbero fare appena possibile durante la carriera lavorativa, per massimizzare i vantaggi sul lungo termine.  
+Ho voluto dedicare questa pagina autonoma al tema "fondi pensione" perché **riguarda tutte le persone che lavorano**, anche chi sceglie di non occuparsi degli altri aspetti della [finanza personale](/blog/categories/finanza-personale).  
+Ci sono un paio di considerazioni che tutti - soprattutto noi lavoratori dipendenti - dovremmo fare appena possibile durante la carriera lavorativa, per massimizzare i vantaggi sul lungo termine.  
 Io queste considerazioni le ho fatte con 15 anni di ritardo, e non voglio nemmeno fare i conti su quanti soldi ho perso nella mia pensione futura a causa di questa negligenza.
 
 Di seguito userò queste abbreviazioni:
-* **FP** = Fondo Pensione, che può essere di due tipi: FPN o FPA. Esiste anche una terza categoria, i PIP (Piani Integrativi Pensionistici) venduti dalle assicurazioni, ma sono talmente poco convenienti che non ha praticamente senso valutarli.  
+* **FP** = Fondo Pensione, che può essere di due tipi: FPN o FPA (vedi sotto). Esiste anche una terza categoria, i PIP (Piani Integrativi Pensionistici) venduti dalle assicurazioni, ma sono talmente poco convenienti che non ha praticamente senso valutarli.  
 * **FPN** = Fondo Pensione **Negoziale** (anche detto "chiuso" o "di categoria"): è quello associato al CCNL di riferimento della tua azienda - ad esempio è Fondo Cometa per i metalmeccanici, Fondo Fon.Te per il commercio, eccetera.
 * **FPA** = Fondo Pensione **Aperto**, chiamato così perché chiunque può aprire la propria posizione, per esempio anche se versa già nell'FPN, o se lavora in proprio, o se è disoccupato.
 
@@ -31,9 +32,9 @@ In estrema sintesi, riassumo il percorso che ho fatto personalmente sul tema.
 
 1. Decido se il [tasso di sostituzione](#il-tasso-di-sostituzione) sul sito INPS mi sarà sufficiente quando andrò in pensione (spoiler: no).  
 
-1. Faccio una stima approssimativa di quanto riuscirò a versare lungo l'intera carriera nel FPN, sommando tutte le componenti (TFR + contributo minimo + contributo datoriale + contributo volontario): se supererò i 100k circa, allora sfruttando i dati che trovo sul sito della [COVIP](#covip) [seleziono un FPA poco costoso](#più-fondi-pensione) da sottoscrivere, e ci verso i miei contributi volontari. Verserò in modo da non superare la soglia annua di massima deducibilità per i FP, che dal 2026 è di 5300€ calcolati sommando i contributi minimo + datoriale nel FPN, più i contributi volontari nel FPA.  
+1. Faccio una stima approssimativa di quanto riuscirò a versare lungo l'intera carriera nel FPN, sommando tutte le componenti (TFR + contributo minimo + contributo datoriale + contributo volontario): se supererò i 100k circa, allora userò i dati che trovo sul sito della [COVIP](#covip) per [selezionare un FPA poco costoso](#più-fondi-pensione) nel quale versare qualcosa per integrare la pensione. Verserò in modo da non superare la soglia annua di massima deducibilità per i FP, che dal 2026 è di 5300€/anno calcolati sommando i contributi minimo + datoriale nel FPN, più i contributi volontari nel FPA.  
 
-1. Se riesco a risparmiare tanto da superare quella soglia, allora per investire l'eccedenza a lungo termine utilizzerò degli [ETF]({{< ref "fp-finanzapersonale.md#gli-etf">}}) - ma questa è una scelta del tutto facoltativa e indipendente dal tema di questa pagina.
+1. Se riesco a risparmiare più di quei 5300€/anno, allora per investire l'eccedenza a lungo termine utilizzerò degli [ETF]({{< ref "fp-finanzapersonale.md#gli-etf">}}) - ma questa è una scelta del tutto facoltativa e indipendente dal tema di questa pagina.
 
 
 
@@ -41,17 +42,18 @@ In estrema sintesi, riassumo il percorso che ho fatto personalmente sul tema.
 
 {{< youtube f_flfAXRPX0 >}}
 
-Se sei dipendente privato e ti mancano ancora tanti anni alla pensione (diciamo indicativamente più di 10), allora **versare il TFR più il tuo contributo volontario minimo nel FPN è una scelta quasi ovvia**.  
+Se sei dipendente privato e ti mancano ancora "tanti" anni alla pensione (diciamo indicativamente più di 10), allora **versare il TFR più il tuo contributo volontario minimo nel FPN è ritenuta la scelta più conveniente**.  
 Tenerlo in azienda ([ammesso che ti sia consentito](https://www.covip.it/per-il-cittadino/educazione-previdenziale/faq/quali-sono-scelte-possibili-lavoratori-dipendenti-del)) potrebbe avere più senso solo se sei prossimo alla pensione.  
 In [questo articolo su Ciao Elsa](https://www.ciaoelsa.com/blog/meglio-tfr-in-azienda-o-tfr-nel-fondo-pensione) è tutto spiegato bene.
 
 Quando conviene aprire la propria posizione in un FP?  
-_Subito_, idealmente appena uno inizia a lavorare, ma va bene anche lungo la carriera lavorativa, perché i vantaggi dei FP sono oggettivi e validi sia ogni singolo anno sia al traguardo finale:
+_Subito_, idealmente appena uno inizia a lavorare, ma va bene anche lungo la carriera lavorativa, perché i vantaggi dei FP sono oggettivi e validi sia ogni singolo anno sia al traguardo finale. Eccoli:
 
 1. **Contributo datoriale**  
-Lo puoi ottenere solo se destini al FPN il TFR più il cosiddetto "contributo volontario minimo" (circa 0,5-1,5% prelevato dalla tua busta paga ogni mese - dipende dal tuo CCNL di riferimento): **il "contributo datoriale" sono soldi in più che il tuo datore di lavoro è obbligato a versare nel tuo FPN**, pari a circa 1,5-2,5% della tua busta paga (dipende sempre dal tuo CCNL di riferimento).  
+Lo puoi ottenere solo se scegli di destinare al FPN il TFR e di versarci anche il cosiddetto "contributo volontario minimo" (circa 0,5-1,5% prelevato dalla tua busta paga ogni mese - dipende dal tuo CCNL di riferimento): **il "contributo datoriale" sono soldi in più che il tuo datore di lavoro è obbligato a versare nel tuo FPN**, pari a circa 1,5-2,5% della tua busta paga (dipende sempre dal tuo CCNL di riferimento).  
 Il contributo datoriale non è _tolto_ dalla tua busta paga, ma _aggiunto_ da parte del datore nel tuo montante del FPN: insomma è come un piccolo aumento, solo che invece di averlo in tasca te lo ritrovi già investito nel FPN.  
-Potrebbero essere ad esempio attorno ai 50€/mese regalati, che moltiplicando per 12 mesi per 40 anni di lavoro, e con un prudente tasso di interesse annuo del 2%, saranno diventati circa 36.000€ in più alla pensione - fai il conto in base alla tua situazione [qui](https://extraetf.com/it/calculator/saving-plan).  
+**Esempio:**  
+Ipotizzando che il contributo datoriale sia di 50€/mese, per 20 anni di lavoro che ti mancano, e con un prudente tasso di interesse annuo del 2%, alla pensione ti ritroverai circa 15.000€ in più solo grazie a questa componente - fai il conto in base alla tua situazione per esempio [qui](https://extraetf.com/it/calculator/saving-plan).  
 
 1. **Vantaggi fiscali crescenti**  
 Dopo i primi 15 anni di permanenza nella previdenza complementare **le tasse che pagherai al riscatto della tua posizione scendono dello 0,3% all’anno**: partono dal 15% se avrai maturato 1-15 anni di contribuzione, per diventare 14,7% ai 16 anni di contribuzione, eccetera fino ad arrivare al 9% (la soglia minima) per 35 anni o più di contribuzione.  
@@ -65,12 +67,12 @@ Quindi: più tempo ci stai dentro, più guadagni, e più è _probabile_ che guad
 Quando si avvicinerà l'età di pensionamento, eventualmente potrai valutare di spostare il capitale su un comparto più prudente, così da proteggere i risultati ottenuti fino a quel punto.
 
 1. **Deduzioni**  
-Lo scrivo qui per ultimo, ma si tratta di un vantaggio davvero interessante: **puoi dedurre dal tuo imponibile fino a max 5300€/anno che avrai versato in FP**.  
+Lo scrivo qui per ultimo, ma si tratta di un vantaggio davvero interessante: **puoi dedurre dal tuo imponibile fino a max 5300€/anno che avrai versato in FP** _(nuova soglia dal 2026, fino al 2025 erano 5164€)_.  
 Significa che nella dichiarazione dei redditi, ogni anno nel quale avrai aggiunto soldi alla tua pensione, il tuo imponibile verrà decurtato della stessa cifra. Il beneficio arriva 2 mesi dopo aver presentato la dichiarazione dei redditi: **un rimborso dallo Stato in busta paga**.  
 Contribuiscono al conteggio dei 5300€/anno i contributi volontari e quelli del datore di lavoro, ma non il TFR. E se hai più FP, devi sommare i contributi su tutti (cioè la soglia dei 5300€ è _per persona_, non per singolo FP).  
 Il rimborso che riceverai è circa proporzionale alla tua aliquota IRPEF, quindi **ogni anno, se versi 5300€ nel tuo FP, ti trovi a spanne tra i 1200€ e i 2200€ in più in tasca**.  
-Ecco 2 esempi pratici per lo scaglione IRPEF intermedio (33%):
-- Mino ha versato **solamente il contributo minimo**, pari a 30€/mese, quindi l'azienda ha aggiunto il contributo datoriale pari a 50€/mese; quindi in un anno avrà versato (30+50)*12 = 960€, e il 33% di 960€ è **316€ circa** che gli vengono rimborsati in busta paga 2 mesi dopo la presentazione del 730;
+Ecco 2 esempi pratici per lo scaglione IRPEF intermedio (33% - _anche questo valore è stato aggiornato nel 2026, prima era 35%_):
+- Mino ha versato nel 2025 **solamente il contributo minimo**, pari a 30€/mese, quindi l'azienda ha aggiunto il contributo datoriale pari a 50€/mese; quindi nell'intero 2025 ha versato (30+50)*12 = 960€, e il 33% di 960€ è **316€ circa** che gli vengono rimborsati in busta paga 2 mesi dopo la presentazione del 730 a metà 2026;
 - Massimo, che è un collega di Mino con lo stesso stipendio, ha scelto invece di integrare la propria pensione versando nel FP 360€ ogni mese: il totale è 360*12 = 4320€/anno, che si sommano ai 960€ dell'esempio precedente per arrivare a 5280€, a filo della soglia dei 5300€/anno. Il 33% di 5280€ è **1740€ circa**, che per Massimo è come una quattordicesima.
 
 **LE MIE CONCLUSIONI:**  
@@ -82,11 +84,12 @@ Avrei dovuto **impostare la mia pianificazione finanziaria per il lungo termine 
 
 # Cambia comparto
 
-I FPN hanno dei comparti di investimento piuttosto conservativi, con componente azionaria mai superiore ad una certa soglia, per esempio il 65%, e oltretutto se non si esprime alcuna scelta all'adesione fino al 2025 **ti appioppavano di default uno dei comparti super-conservativi**, a volte anche 100% obbligazionario.  
+I FPN hanno dei comparti di investimento piuttosto conservativi, con componente azionaria mai superiore ad una certa soglia (per esempio il 65%).  
+Oltretutto, se non si esprime alcuna scelta all'adesione, fino al 2025 **ti appioppavano di default uno dei comparti super-conservativi**, a volte anche 100% obbligazionario.  
 
 Se come me hai passato molti anni da dipendente prima di preoccupartene, allora anche tu probabilmente **hai perso centinaia/migliaia di euro "futuri" senza neanche saperlo, solo perché hai mantenuto il comparto che il fondo pre-assegna a tutti i nuovi aderenti**, e perciò i tuoi soldi sono stati investiti in larga parte in obbligazionario.  
 
-O magari hai addirittura mantenuto *intenzionalmente* quel comparto perché *"non metto la mia pensione a rischio, meglio l'obbligazionario che è più sicuro"* e magari ti sei beccato performance vicine allo 0%, che se ci calcoli i costi e le tasse rischiano di tradursi in *soldi persi*.  
+O magari hai addirittura mantenuto *intenzionalmente* quel comparto perché *"non metto la mia pensione a rischio, meglio l'opzione più sicura"* e magari ti sei beccato performance vicine allo 0%, che se ci sommi costi e tasse rischiano di tradursi in *soldi persi*.  
 
 **LE MIE CONCLUSIONI:**  
 Ho **verificato quali comparti offriva il FPN al quale avevo aderito**, ce n'erano 5, ed ero stato assegnato al più conservativo per prassi.  
@@ -99,7 +102,7 @@ Dato che mi mancavano circa 20 anni alla pensione, ho modificato il mio profilo 
 Se sei un lavoratore dipendente, allora **devi scoprire quanti soldi riceverai ogni mese come pensione**: vai sul [Portale INPS](http://www.inps.it) e usa la ricerca in alto per trovare la pagina **"La mia pensione futura"**, oppure eccoti la [ricerca Google già fatta](https://www.google.com/search?q=la+mia+pensione+futura+site%3Ainps.it&num=1).  
 
 Potrai verificare il tuo **"tasso di sostituzione"**, cioè la stima di quanti soldi prenderai di pensione dall’INPS rispetto al tuo ultimo stipendio presunto.  
-I valori tipici per i dipendenti italiani previsti per il 2050 sono **attorno al 60%**.  
+I valori stimati per i dipendenti italiani che andranno in pensione vicino al 2050 sono **attorno al 60%**.  
 Significa che, se non provvedi ad integrare la pensione INPS, appena finirai di lavorare **i tuoi introiti mensili saranno quasi dimezzati** rispetto allo stipendio che avevi il mese prima, quando stavi organizzando il brindisi di saluto coi colleghi.  
 
 **LE MIE CONCLUSIONI:**  
@@ -119,7 +122,7 @@ Questa nozione mi è servita quando, cambiando lavoro, è cambiato anche il sett
 **2020**: cambi lavoro e passi ad un'azienda del settore commercio: il FPN in questo caso è Fon.Te, e per continuare a godere del contributo datoriale devi aprire una posizione con Fon.Te.  
 
 **A te la scelta sulla tua posizione nel vecchio FP** (Cometa nell'esempio):  
-- puoi **mantenerla aperta** senza ulteriori versamenti, e maturerà interessi fino alla pensione (può infatti essere utile avere [più di un fondo pensione](#più-fondi-pensione) per vari motivi, inoltre Cometa è tra i FP più economici in assoluto)
+- puoi **mantenerla aperta**, e maturerà interessi fino alla pensione; puoi scegliere di non farci ulteriori versamenti, oppure invece di usarlo per i versamenti volontari (ci sono dei motivi che rendono utile avere [più di un fondo pensione](#più-fondi-pensione), e inoltre Cometa è tra i FP più economici in assoluto)
 - puoi **trasferire il capitale** da Cometa a Fon.Te chiudendo la posizione Cometa e conservando la data di prima adesione che viene trasferita in Fon.Te
 - puoi **riscattare completamente il capitale** che hai su Cometa (la scelta peggiore, soprattutto per le tasse che si pagano su questa operazione).
 
@@ -132,7 +135,7 @@ Questa nozione mi è servita quando, cambiando lavoro, è cambiato anche il sett
 Ci sono almeno un paio di motivi per **aprire un secondo fondo pensione**.
 
 ## Motivo 1
-Il primo motivo è **garantirti la libertà di riscattare la tua posizione interamente in forma di capitale**.  
+Il primo motivo è **garantirti la libertà di riscattare la tua posizione interamente in forma di capitale** quando andrai in pensione.  
 Questo video spiega benissimo questo tema:
 
 {{< youtube w7a4sIcq7XU >}}
@@ -144,7 +147,7 @@ Paolo Coletti dimostra in questo video che **riscattare il montante come capital
 {{< youtube 9ydgezcEGRk >}}
 
 Per poter riscattare tutto il montante sottoforma di capitale al pensionamento c’è una **soglia** che il montante non dovrà aver superato al momento del pensionamento.  
-Questa soglia andrà calcolata nell'anno del pensionamento, perché dipende dal valore dell'Assegno Sociale di quell'anno e dai coefficienti di trasformazione legati a età e sesso - ma non serve fare i calcoli precisi in largo anticipo, l'importante è avere un'idea di massima: nel 2025 questa soglia è **attorno ai 100.000€**.  
+Questa soglia andrà calcolata nell'anno del pensionamento, perché dipende dal valore dell'Assegno Sociale di quell'anno e dai coefficienti di trasformazione legati a età e sesso - ma non serve fare i calcoli precisi in largo anticipo, l'importante è avere un'idea di massima: nel 2025 questa soglia era **attorno ai 100.000€**.  
 Raggiungere un montante di 100.000€ nell'arco di una vita lavorativa, soprattutto scegliendo di versare contributi volontari aggiuntivi, è molto probabile.
 
 Fortunatamente **questo calcolo va fatto _per ogni singolo FP_**, cioè non si fa considerando la _somma_ dei montanti se hai più FP: ecco che avere 50k in un fondo e 50k in un altro ti garantisce di rimanere in entrambi i FP sotto la soglia dei 100k, e di poter quindi decidere _liberamente_ se vuoi ricevere l'intera prestazione come 100% capitale da ciascun FP, senza essere _obbligati_ al riscatto "50% capitale + 50% rendita".  
