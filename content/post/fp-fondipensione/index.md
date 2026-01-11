@@ -67,13 +67,13 @@ Quindi: più tempo ci stai dentro, più guadagni, e più è _probabile_ che guad
 Quando si avvicinerà l'età di pensionamento, eventualmente potrai valutare di spostare il capitale su un comparto più prudente, così da proteggere i risultati ottenuti fino a quel punto.
 
 1. **Deduzioni**  
-Lo scrivo qui per ultimo, ma si tratta di un vantaggio davvero interessante: **puoi dedurre dal tuo imponibile fino a max 5300€/anno che avrai versato in FP** _(nuova soglia dal 2026, fino al 2025 erano 5164€)_.  
+Lo scrivo qui per ultimo, ma si tratta di un vantaggio davvero interessante: **ogni anno, puoi dedurre fino a max 5300€ che avrai versato nei FP** _(nuova soglia dal 2026, fino al 2025 erano 5164€)_.  
 Significa che nella dichiarazione dei redditi, ogni anno nel quale avrai aggiunto soldi alla tua pensione, il tuo imponibile verrà decurtato della stessa cifra. Il beneficio arriva 2 mesi dopo aver presentato la dichiarazione dei redditi: **un rimborso dallo Stato in busta paga**.  
 Contribuiscono al conteggio dei 5300€/anno i contributi volontari e quelli del datore di lavoro, ma non il TFR. E se hai più FP, devi sommare i contributi su tutti (cioè la soglia dei 5300€ è _per persona_, non per singolo FP).  
 Il rimborso che riceverai è circa proporzionale alla tua aliquota IRPEF, quindi **ogni anno, se versi 5300€ nel tuo FP, ti trovi a spanne tra i 1200€ e i 2200€ in più in tasca**.  
-Ecco 2 esempi pratici per lo scaglione IRPEF intermedio (33% - _anche questo valore è stato aggiornato nel 2026, prima era 35%_):
-- Mino ha versato nel 2025 **solamente il contributo minimo**, pari a 30€/mese, quindi l'azienda ha aggiunto il contributo datoriale pari a 50€/mese; quindi nell'intero 2025 ha versato (30+50)*12 = 960€, e il 33% di 960€ è **316€ circa** che gli vengono rimborsati in busta paga 2 mesi dopo la presentazione del 730 a metà 2026;
-- Massimo, che è un collega di Mino con lo stesso stipendio, ha scelto invece di integrare la propria pensione versando nel FP 360€ ogni mese: il totale è 360*12 = 4320€/anno, che si sommano ai 960€ dell'esempio precedente per arrivare a 5280€, a filo della soglia dei 5300€/anno. Il 33% di 5280€ è **1740€ circa**, che per Massimo è come una quattordicesima.
+Ecco 2 esempi pratici per lo scaglione IRPEF intermedio (33% - _anche questo valore è stato aggiornato nel 2026, prima era 35%_):  
+    - Mino ha versato nel 2025 **solamente il contributo minimo**, pari a 30€/mese, quindi l'azienda ha aggiunto il contributo datoriale pari a 50€/mese; quindi nell'intero 2025 ha versato (30+50)*12 = 960€, e il 33% di 960€ è **316€ circa** che gli vengono rimborsati in busta paga 2 mesi dopo la presentazione del 730 a metà 2026;  
+    - Massimo, che è un collega di Mino con lo stesso stipendio, ha scelto invece di integrare la propria pensione versando nel FP 360€ ogni mese: il totale è 360*12 = 4320€/anno, che si sommano ai 960€ dell'esempio precedente per arrivare a 5280€, a filo della soglia dei 5300€/anno. Il 33% di 5280€ è **1740€ circa**, che per Massimo è come una quattordicesima.
 
 **LE MIE CONCLUSIONI:**  
 Quando a fine mese riesco a risparmiare qualcosa, lo verso nel mio FP, stando attento a non superare a fine anno la soglia massima per la deducibilità.  

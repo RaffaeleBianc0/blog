@@ -11,7 +11,7 @@ image: "images/cover.png"
 
 
 
-Usando gli _ingredienti_ del post [Strumenti per la finanza personale]({{< ref "fp-strumenti.md" >}}), ecco qua sotto la mia personale _ricetta_.  
+Usando gli _ingredienti_ del post [Risorse per la finanza personale]({{< ref "fp-risorse.md" >}}), ecco qua sotto la mia personale _ricetta_.  
 
 
 

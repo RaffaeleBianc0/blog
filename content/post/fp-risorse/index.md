@@ -1,5 +1,5 @@
 ---
-title: "Strumenti per la finanza personale"
+title: "Risorse per la finanza personale"
 description: "Le fonti di informazione e gli strumenti online più utili che ho utilizzato"
 date: "2025-10-05"
 lastmod: '2025-12-20'
