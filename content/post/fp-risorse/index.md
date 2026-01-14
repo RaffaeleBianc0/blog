@@ -40,7 +40,7 @@ Fortunatamente dal 2019 molte banche dell'UE adottano il protocollo [Open Bankin
 Questo significa **automatizzare completamente il data-entry**, eliminando il fastidio alla radice. L'unica accortezza è quella di usare sempre una carta collegata al conto per fare le proprie spese, così che ogni spesa sia una transazione separata; se al contrario prelevi il contante per pagare con quello, allora sei costretto a registrare quelle spese manualmente.
 
 Ho provato alcune app per il budgeting: quando ho fatto i test quelle che supportavano Open Banking erano solo due, delle quali una forniva questa funzionalità fondamentale solamente tramite abbonamento mensile.  
-Considerando che per le mie esigenze il budgeting è stato più una curiosità che una esigenza, non mi andava di spenderci dei soldi, quindi il mio personale vincitore è stato automaticamente [**Wallet** di Budgetbakers](https://budgetbakers.com/en/products/wallet/).  
+Considerando che per la mia situazione il budgeting è stato più una curiosità che una esigenza, non mi andava di spenderci dei soldi, quindi il mio personale vincitore è stato automaticamente [**Wallet** di Budgetbakers](https://budgetbakers.com/en/products/wallet/).  
 
 Features interessanti: 
 * Supporta Open Banking (vincolo per me imprescindibile).
