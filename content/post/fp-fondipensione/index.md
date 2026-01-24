@@ -168,7 +168,7 @@ La soglia dei famosi 5300€/anno per massimizzare la deduzione si calcola somma
 # Fondo pensione o ETF?
 
 Se hai risparmi che avanzano da investire con un orizzonte lungo, potresti domandarti se è meglio investirli in ETF oppure fare versamenti volontari in un FP.  
-Taglio la testa al toro e ti dò subito la risposta verso cui convergono tanti divulgatori: la soluzione migliore _mediamente_ sembra essere quella di **ottenere la deduzione massima dai FP versandoci fino a 5300€/anno, e investire quella cifra (ed eventuali ulteriori risparmi) in ETF**.  
+Taglio la testa al toro e ti dò subito la risposta verso cui convergono tanti divulgatori: la soluzione migliore _mediamente_ sembra essere quella di **ottenere la deduzione massima dai FP versandoci fino a 5300€/anno, e investire eventuali ulteriori risparmi in ETF**.  
 Le tasse su questa somma che scegli di versare nei FP ti vengono appunto restituite grazie alla deduzione; le pagherai al pensionamento, ma saranno più basse (9-15%) rispetto a quelle che avresti pagato come IRPEF tenendo quei soldi "in tasca" (23-43%).
 
 In [questo post di Ciao Elsa](https://www.ciaoelsa.com/blog/fondo-pensione-o-etf-cosa-conviene) ci sono le informazioni che servono su questo tema.  

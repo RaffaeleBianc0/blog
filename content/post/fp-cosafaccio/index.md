@@ -79,7 +79,7 @@ Da anni evito il più possibile l'uso del contante, e questa abitudine rende il 
 
 A livello metodologico, ho deciso di adottare il **reverse budgeting**: do priorità al risparmio nei fondi pensione (obiettivo: 5300€/anno) rispetto alle spese personali e agli investimenti. Questo significa che ogni mese verso sempre automaticamente una quota fissa nel FPA, mettendo in secondo piano il resto.  
 
-Il solo fatto di poter controllare le spese in 5 secondi aprendo una app mi ha regalato un certo grado di consapevolezza su come spendo i soldi che prima non avevo, e che mi fa ragionare un po' di più su cosa vale davvero la pena acquistare e cosa no; e trovo utile poter guardare i report automatici a fine mese confrontando i vari mesi a colpo d'occhio.
+Il solo fatto di poter controllare le spese in 5 secondi aprendo una app mi ha regalato un po' più di  consapevolezza su cosa vale davvero la pena acquistare e cosa no; e trovo utile poter guardare i report automatici a fine mese confrontando i vari mesi a colpo d'occhio.
 
 ## Conto corrente
 Ho deciso di tenere il conto che ho già, nonostante sia più costoso di tanti altri disponibili. La banca è tra le più solide in Italia, quindi sono a posto così per ora.  
@@ -89,7 +89,7 @@ Se avessi dovuto cambiare conto corrente, allora avrei fatto come ho fatto anni 
 Segnalo che **il trasferimento di un conto corrente ad un altro istituto è gratuito** per legge ([Testo Unico Bancario](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), articolo "126 septies") e la nuova banca si occupa di tutto, compreso il trasloco delle domiciliazioni (già sperimentato personalmente anni fa).  
 Resteranno comunque da fare un po' di pratiche come l'attivazione delle nuove carte e relativa associazione a PayPal Amazon e simili, prima di chiudere definitivamente il vecchio conto.  
 
-Il [forum di FinanzaOnLine](https://forum.finanzaonline.com/forums/banking-carte-di-credito-conti-deposito-e-corren.7/) può aiutare davvero molto nella scelta del nuovo conto corrente: c'è un post molto frequentato con un enorme foglio di calcolo aggiornatissimo con tutte le informazioni su tutti i conti correnti.
+Il [forum di FinanzaOnLine](https://forum.finanzaonline.com/forums/banking-carte-di-credito-conti-deposito-e-corren.7/) può aiutare davvero molto nella scelta: c'è un post molto frequentato con un foglio di calcolo aggiornatissimo che contiene le informazioni utili su tutti i conti correnti.
 
 ## Fondo di emergenza
 Ho usato [Deposifire.com](https://deposifire.com/) per scegliere un conto deposito svincolato con il tasso di interesse più alto tra quelli disponibili, e l’ho aperto con il solo scopo di contenere metà del mio FdE.  

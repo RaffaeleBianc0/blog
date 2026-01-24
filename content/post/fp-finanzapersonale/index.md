@@ -221,7 +221,7 @@ Ecco qualche esempio di polizze che si possono valutare:
 
 Il tema è di **primaria importanza soprattutto se sei un lavoratore dipendente**, e credo che dovresti affrontarlo prima di pensare all'investimento in altre forme.
 
-Ho raccolto tutti i paragrafi su questo tema in un [post "Fondi pensione"]({{< ref "fp-fondipensione.md" >}}) dedicato.
+Ho raccolto quello che so di questo tema in un [post "Fondi pensione"]({{< ref "fp-fondipensione.md" >}}) dedicato.
 
 
 

@@ -9,7 +9,7 @@ categories:
 image: "images/vintage-pc.jpg"
 ---
 
-Ogni tanto queste pagine cambiano forma, perché le uso anche come palestra per smanettare con qualche strumento nuovo nei periodi nerd che ogni tanto mi prendono.
+Queste pagine hanno cambiato forma nel corso degli anni, perché le uso anche come palestra per smanettare con qualche strumento nuovo nei periodi nerd che ogni tanto mi prendono.
 
 Ecco quindi la **storia di questo sito da quando è nato ad oggi**, attraverso tutte le sue reincarnazioni, in un impeto di amarcord che mi ha fatto venir voglia di scrivere un po'.
 
@@ -27,7 +27,7 @@ Oggi è scontato avere tutto nello smartphone in tasca, ma nel '96, seduto davan
 Ricordo ancora l'**euforia dei primi scambi di messaggi sui** [**newsgroup Usenet**](https://it.wikipedia.org/wiki/Newsgroup) con ignoti che vivevano chissà dove nel mondo, discutendo di batteria, tramite un software a caratteri che si chiamava [Pine](https://en.wikipedia.org/wiki/Pine_(email_client))... era tutto incredibile, per me che passavo dal paesetto di 20mila abitanti alla città con centinaia di studenti e questo accesso al Mondo, ogni nazione sembrava vicina, a portata di mano, ogni persona raggiungibile.
 
 Appena ho realizzato che potevo avere un mio sito personale online ho imparato a farmelo.  
-**Scrivevo in HTML a mano con un editor di testo**, sicuramente prima di scoprire gli editor con la colorazione della sintassi.  
+**Scrivevo l'HTML a mano con un editor di testo**, sicuramente prima di scoprire gli editor con la colorazione della sintassi.  
 
 Al tempo non li chiamavamo ancora "blog", penso non esistesse ancora questo concetto, erano semplicemente "pagine web".
 
@@ -70,7 +70,7 @@ Imparai cosa fosse uno [stack LAMP](https://it.wikipedia.org/wiki/LAMP), come in
 
 Ne scelsi uno che si chiamava [e107](https://e107.org), chissà perché, con questo nome strambo poi.  
 Sicuramente mi interessava il fatto che era farcito di funzionalità, per esempio mettevo a disposizione i miei script fatti in VBS nell'area Download, linkavo le news di altri siti tramite RSS, avevo il feed della mia mailing list "rb_barze" tramite la quale giravo barzellette a qualche decina di iscritti, ma soprattutto potevo avere **il mio forum personale**.  
-Al tempo ero un assiduo frequentatore di forum, strumento che ancora oggi resta nettamente superiore rispetto ai social per discutere in modo più costruttivo e trovare informazioni utili.  
+In quegli anni ero un assiduo frequentatore di forum, strumento che ancora oggi resta nettamente superiore rispetto ai social quando vuoi discutere in modo più costruttivo e trovare informazioni utili.  
 Al tempo poi i social proprio non esistevano, quindi il mio chiodo fisso di interagire online con chi veniva a leggersi i miei contenuti aveva la sua massima espressione in questo tipo di strumento.
 
 Ci smanettai un bel po', fino a pubblicare online il sito con l'aiuto di un amico che mi hostava questi esperimenti gratuitamente.  
@@ -111,13 +111,13 @@ E ci ho scritto qualcosa di nuovo.
 
 
 
-# 2014: landing page su Tophost
+# 2014: landing page
 
 ![](images/2014landingpage.png)
 
 Parlando con un collega, mi suggerisce [Tophost](https://www.tophost.it) per avere un minimo di spazio online a costi davvero bassi.
 
-Quindi decido di traslocare la gestione del dominio e di **pubblicare intanto una banale landing page** simile alle migliaia che oggi si trovano fatte con [Linktr.ee](https://linktr.ee/raffaelebianco) e relativi cloni, proprio perché ormai le poche cose che pubblicavo erano tutte nelle piattaforme mainstream (Facebook YouTube eccetera) e non mi interessava avere qualcosa più di un singolo punto di approdo da linkare alla bisogna.
+Quindi decido di traslocare la gestione del dominio e di **pubblicare intanto una banale landing page** simile alle migliaia che oggi si trovano fatte con [Linktr.ee](https://linktr.ee/raffaelebianco) e relativi cloni, proprio perché ormai le poche cose che pubblicavo erano tutte nei social e non mi interessava avere qualcosa più di un singolo punto di approdo da linkare alla bisogna.
 
 Per l'occasione ho studiato e provato qualche template HTML5 gratuito, ne ho trovati alcuni di molto ben fatti.  
 In quel periodo ho pensato spesso di mettere insieme un piccolo sito _single-page_, dove tutto si carica in una unica operazione e basta usare il menu per spostarsi da una zona all'altra. Considerato che avevo pochissimi contenuti, mi sembrava una soluzione snella, ma non mi ci sono mai messo.
