@@ -19,7 +19,7 @@ Usando gli _ingredienti_ del post [Risorse per la finanza personale]({{< ref "fp
 
 1. Ho **imparato** le nozioni di base in qualche ora.
 1. Ho **attivato gli account** necessari (FPN, FPA, conto deposito, conto titoli).
-1. Ho **chiuso vecchi strumenti costosi** e spostato il capitale distribuendolo nei nuovi strumenti appena attivati, secondo una regola.
+1. Ho **chiuso vecchi strumenti costosi** e spostato il capitale distribuendolo opportunamente nei nuovi strumenti appena attivati.
 1. Ho **mantenuto conto corrente e assicurazioni** che già avevo.
 1. Ho **impostato il FPN**: destinazione del TFR, versamento del contributo minimo, selezione del comparto più aggressivo.
 1. Ho impostato un **versamento mensile nel FPA**.

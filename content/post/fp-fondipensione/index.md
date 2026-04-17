@@ -11,7 +11,7 @@ image: "images/cover.png"
 
 
 
-Ho voluto dedicare questa pagina autonoma al tema "fondi pensione" perché **riguarda tutte le persone che lavorano**, anche chi sceglie di non occuparsi degli altri aspetti della [finanza personale](/blog/categories/finanza-personale).  
+Ho voluto dedicare questa pagina al tema "fondi pensione" perché **riguarda tutte le persone che lavorano**, anche chi sceglie di non occuparsi degli altri aspetti della [finanza personale](/blog/categories/finanza-personale) di cui ho scritto.  
 Ci sono un paio di considerazioni che tutti - soprattutto noi lavoratori dipendenti - dovremmo fare appena possibile durante la carriera lavorativa, per massimizzare i vantaggi sul lungo termine.  
 Io queste considerazioni le ho fatte con 15 anni di ritardo, e non voglio nemmeno fare i conti su quanti soldi ho perso nella mia pensione futura a causa di questa negligenza.
 
@@ -24,7 +24,8 @@ Di seguito userò queste abbreviazioni:
 
 # [TL;DR](https://it.wikipedia.org/wiki/TL;DR)
 
-In estrema sintesi, riassumo il percorso che ho fatto personalmente sul tema.
+Questo è il riassunto veloce del percorso che ho fatto personalmente sul tema.  
+Poi più sotto trovi informazioni più dettagliate.
 
 1. Scelgo di [destinare al FPN il TFR + il contributo minimo](#fondo-pensione-subito), unico modo per aggiudicarmi il contributo datoriale ogni mese, a cui non ha senso rinunciare.  
 
@@ -32,7 +33,7 @@ In estrema sintesi, riassumo il percorso che ho fatto personalmente sul tema.
 
 1. Decido se il [tasso di sostituzione](#il-tasso-di-sostituzione) sul sito INPS mi sarà sufficiente quando andrò in pensione (spoiler: no).  
 
-1. Faccio una stima approssimativa di quanto riuscirò a versare lungo l'intera carriera nel FPN, sommando tutte le componenti (TFR + contributo minimo + contributo datoriale + contributo volontario): se supererò i 100k circa, allora userò i dati che trovo sul sito della [COVIP](#covip) per [selezionare un FPA poco costoso](#più-fondi-pensione) nel quale versare qualcosa per integrare la pensione. Verserò in modo da non superare la soglia annua di massima deducibilità per i FP, che dal 2026 è di 5300€/anno calcolati sommando i contributi minimo + datoriale nel FPN, più i contributi volontari nel FPA.  
+1. Faccio una stima approssimativa di quanto riuscirò ad accumulare lungo l'intera carriera nel FPN, sommando tutte le componenti (TFR + contributo minimo + contributo datoriale + contributo volontario + rendimento stimato): se supererò i 100k circa, allora userò i dati che trovo sul sito della [COVIP](#covip) per [selezionare un FPA poco costoso](#più-fondi-pensione) nel quale versare qualcosa per integrare la pensione. Verserò in modo da non superare la soglia annua di massima deducibilità per i FP, che dal 2026 è di 5300€/anno calcolati sommando i contributi minimo + datoriale nel FPN, più i contributi volontari nel FPA.  
 
 1. Se riesco a risparmiare più di quei 5300€/anno, allora per investire l'eccedenza a lungo termine utilizzerò degli [ETF]({{< ref "fp-finanzapersonale.md#gli-etf">}}) - ma questa è una scelta del tutto facoltativa e indipendente dal tema di questa pagina.
 
@@ -231,11 +232,16 @@ Segnalo anche la pagina ["Per il cittadino"](http://www.covip.it/per-il-cittadin
 
 # Novità 2026
 
+{{< youtube 6QwJ4JLxzTU >}}
+
+
 La [Legge di Bilancio 2026](https://documenti.camera.it/leg19/dossier/pdf/AS0477.pdf) ha portato alcune novità che sono correlate con il tema dei fondi pensione, tra le quali le più rilevanti secondo me sono:
 
-- **IRPEF**: riduzione della seconda aliquota dal 35% al 33%.  
+- **Innalzamento della quota capitale**: la quota massima del montante accumulato che può essere liquidata sotto forma di capitale sale dal 50% al 60%. Di conseguenza, la quota minima destinata obbligatoriamente alla rendita scende al 40%, sempre nell'ipotesi di aver superato la soglia dei circa 100k€ di montante accumulato.
 
 - **Deducibilità**: la soglia massima è stata alzata da 5164€ a 5300€.
+
+- **IRPEF**: riduzione della seconda aliquota dal 35% al 33%.  
 
 
 

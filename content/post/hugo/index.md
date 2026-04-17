@@ -64,7 +64,7 @@ La scelta più sicura è sbarazzarsi di quelle dipendenze, e un sito statico mi 
 
 ## Markdown
 
-Motivo 3: poter editare i miei contenuti in locale, scrivendoli in Markdown dentro a [VS Code](https://code.visualstudio.com), con la sua ottima integrazione con [GitHub](https://github.com/RaffaeleBianc0), ma potenzialmente anche con un qualunque editor di testo leggero da usare nel mio vetusto [IBM Thinkpad X60]({{< ref "pc-maggiorenne.md" >}}).
+Poi avevo voglia di editare i miei contenuti in locale, scrivendoli in Markdown dentro a [VS Code](https://code.visualstudio.com), con la sua ottima integrazione con [GitHub](https://github.com/RaffaeleBianc0), ma potenzialmente anche con un qualunque editor di testo leggero da usare nel mio vetusto [IBM Thinkpad X60]({{< ref "pc-maggiorenne.md" >}}).
 
 **Scrivere in Markdown usando un editor di testo**, invece che scrivere direttamente in un editor [WYSIWYG](https://it.wikipedia.org/wiki/WYSIWYG) come quello di Wordpress, è un'esperienza particolare.  
 L'editor di testo, senza troppi pulsanti e menu, con la font a spaziatura fissa, senza automatismi, correzioni automatiche, stili, e tutte le altre cose che fanno parte della moderna stesura di testi al computer, è un po' come **la versione moderna della macchina da scrivere**: tiene l'occhio e la mente libera da distrazioni, e finisce che **scrivo con più gusto**.
@@ -75,7 +75,7 @@ Il Markdown lo stavo già usando da un bel po', sia per rendere un po' più stru
 
 ## Imparare
 
-Al quarto posto come motivo ci metto la voglia di imparare i rudimenti di Hugo di per sé, come tecnologia e approccio diversi per pubblicare contenuti.
+Come ultima motivazione ci metto la voglia di imparare i rudimenti di Hugo di per sé, come tecnologia e approccio diversi per pubblicare contenuti.
 
 
 

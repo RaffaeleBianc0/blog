@@ -44,7 +44,7 @@ Cliccando sulla [categoria "Finanza personale"](/blog/categories/finanza-persona
 **"Investire" non è sinonimo di "giocare in borsa"**.  
 I due temi hanno in comune l'interazione con i mercati finanziari, ma gli approcci sono l’uno l’opposto dell’altro:
 
-* **Investire** = pianificazione, lungo periodo, rischio controllabile, necessaria a tutti, se non ci pensi stai facendo la cosa sbagliata ([questo articolo di MoneyFarm](https://blog.moneyfarm.com/it/investimenti/benessere-finanziario-e-salute-mentale-due-facce-della-stessa-medaglia/#10ffd276-4aa4-417d-8322-e04445708d3a) cita una revisione sistematica di 37 ricerche che vanno a fondo sul tema).  
+* **Investire** = pianificazione, lungo periodo, rischio controllabile, necessario a tutti, se non ci pensi stai facendo la cosa sbagliata ([questo articolo di MoneyFarm](https://blog.moneyfarm.com/it/investimenti/benessere-finanziario-e-salute-mentale-due-facce-della-stessa-medaglia/#10ffd276-4aa4-417d-8322-e04445708d3a) cita una revisione sistematica di 37 ricerche che vanno a fondo sul tema).  
 
 * **Trading** = scommessa, breve periodo, rischio elevato, gioco d'azzardo, se non ci pensi stai facendo la cosa giusta nella grande maggioranza dei casi (almeno l'80%, [secondo Il Sole 24 Ore](https://www.quotidiano.ilsole24ore.com/art.php?t=S24&e=SOLE&i=20220121&artid=1788969#:~:text=Il%20trader%20fai%20da%20te,L'80%25%20%C3%A8%20in%20perdita))
 
@@ -213,7 +213,7 @@ Ecco qualche esempio di polizze che si possono valutare:
 * **polizza infortuni**: attorno ai 25€/mese per coprire gli incidenti più tipici che mi ostacolerebbero/impedirebbero l'attività lavorativa.  
 * **polizza TCM (Temporanea Caso Morte)**: attorno ai 20€/mese per coprire la più nefasta delle eventualità, rimborsando un certo capitale al beneficiario designato.  
 * **polizza responsabilità civile**: attorno ai 15€/mese per coprire qualche casistica relativa a danni fatti ad altri.  
-* **polizza LTC (Long Term Care)**: questa è più costosa, e copre di solito la non-autosufficienza che potrebbe verificarsi in tarda età.
+* **polizza LTC (Long Term Care)**: questa credo sia più costosa (devo ancora informarmi), e copre la perdita dell'autosufficienza.
 
 
 
