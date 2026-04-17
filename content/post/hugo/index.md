@@ -14,7 +14,7 @@ In questo post ti racconto della ristrutturazione di questo blog nella forma att
 
 # Cosa e quando
 
-Fino al 2024 questo blog era hostato su [Wordpress.com](http://Wordpress.com), ne parlo nella [storia di questo sito](/blog/p/storia-di-questo-sito-web).
+Fino al 2024 questo blog era hostato su [Wordpress.com](http://Wordpress.com), ne parlo nella [storia di questo sito](/blog/p/storia-di-questo-sito-web/#2015-blog-su-wordpress).
 
 A inizio 2024 ho scoperto dell'esistenza degli [SSG](https://en.wikipedia.org/wiki/Static_site_generator) (_Static Site Generators_), software che trasformano contenuti scritti in [Markdown](https://en.wikipedia.org/wiki/Markdown) in siti web veloci e con le funzionalità che servono ad un blog.  
 E io che pensavo che i siti web statici fossero praticamente spariti dall'avvento del Web 2.0 dei primi anni 2000!

@@ -17,11 +17,11 @@ Ecco quindi la **storia di questo sito da quando è nato ad oggi**, attraverso t
 
 # 1996: HTML artigianale
 
-Era il 1996, avevo iniziato da poco l'università a Padova e, come più o meno tutti i miei compagni di corso, frequentavo il [DEI](https://www.dei.unipd.it), il Dipartimento di Elettronica e Informatica dell'università.  
+Era il 1996, avevo iniziato da poco l'università a Padova, e come tanti miei compagni di corso frequentavo il [DEI](https://www.dei.unipd.it), il Dipartimento di Elettronica e Informatica dell'università.  
 In particolare il laboratorio che c'era appena dentro a sinistra, con dentro un vago sentore di persone che si lavano poco e una quindicina di [SPARCstation](https://en.wikipedia.org/wiki/SPARCstation), sulle quali **muovevo i miei primissimi passi sia su UNIX che su Internet**.  
 
 In quel periodo Internet stava iniziando ad entrare nelle case italiane, ma ancora in nessuna di qualcuno che io conoscessi.  
-A casa avevamo un solo PC con DOS + Windows 3.1, perché Windows 95 sarebbe arrivato con il nuovo PC qualche mese più tardi, insieme alla connettività tramite modem analogico.  
+A casa avevamo un solo PC con DOS + Windows 3.1, perché Windows 95 sarebbe arrivato con il nuovo PC qualche mese più tardi, insieme al modem analogico.  
 
 Oggi è scontato avere tutto nello smartphone in tasca, ma nel '96, seduto davanti a un computer così diverso da quello che avevo a casa, ero per la prima volta in contatto col mondo intero.  
 Ricordo ancora l'**euforia dei primi scambi di messaggi sui** [**newsgroup Usenet**](https://it.wikipedia.org/wiki/Newsgroup) con ignoti che vivevano chissà dove nel mondo, discutendo di batteria, tramite un software a caratteri che si chiamava [Pine](https://en.wikipedia.org/wiki/Pine_(email_client))... era tutto incredibile, per me che passavo dal paesetto di 20mila abitanti alla città con centinaia di studenti e questo accesso al Mondo, ogni nazione sembrava vicina, a portata di mano, ogni persona raggiungibile.
@@ -35,7 +35,7 @@ Purtroppo non ho più una copia di quella versione primordiale, anche se me la r
 Negli [snapshot fatti da Internet Archive](https://web.archive.org/web/20000711041401/http://www.dei.unipd.it/~raff/index.htm) mancano quasi tutti gli elementi grafici, è rimasto solo il testo.  
 
 Per la prima pubblicazione sfruttai lo spazio web fornito dall'Università di Padova agli studenti.  
-Poi, dopo aver cambiato Università, ricordo che spostai tutto il contenuto prima su [Lycos](https://it.wikipedia.org/wiki/Lycos) e poi su Tiscali, o viceversa: tanti provider del tempo fornivano hosting gratuito in cambio di un po' di spazio nelle tue pagine dove infilare banner pubblicitari.
+Poi, dopo aver cambiato Università, spostai tutto su [Lycos](https://it.wikipedia.org/wiki/Lycos) e su Tiscali, non ricordo in che ordine: tanti provider del tempo fornivano hosting gratuito in cambio di un po' di spazio nelle tue pagine dove infilare banner pubblicitari.
 
 
 
@@ -45,7 +45,7 @@ Poi, dopo aver cambiato Università, ricordo che spostai tutto il contenuto prim
 
 Ad un certo punto rimasi favorevolmente colpito da **Microsoft Frontpage** _(orrore!)_ con il quale pensavo di migliorare ed estendere il mio sito con qualche automatismo in più: ricordo che ero rimasto affascinato dal fatto che gestiva automaticamente il menu man mano che aggiungevo pagine.
 
-Qualche tempo dopo sostituii Frontpage con Dreamweaver e **persi ore preziose tentando di pulire le porcherie nel codice HTML prodotto dall'editor Microsoft** che chi ci ha lavorato ricorderà sicuramente: ogni volta che mettevi mano e salvavi, il file si gonfiava di tag inutili che appesantivano tutto e rendevano praticamente impossibile una manutenzione manuale dei file HTML.
+Qualche tempo dopo sostituii Frontpage con Dreamweaver e **persi ore preziose tentando di pulire le porcherie che l'editor Microsoft aveva innestato nel mio codice HTML**, chi lo ha usato si ricorderà sicuramente: il file si gonfiava di tag che appesantivano tutto e rendevano praticamente impossibile una manutenzione manuale.
 
 
 
