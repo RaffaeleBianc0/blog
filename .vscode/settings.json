@@ -1,5 +1,8 @@
 {
 	"github-actions.workflows.pinned.workflows": [
 		".github/workflows/deploy.yml"
-	]
+	],
+	"chat.tools.terminal.autoApprove": {
+		"hugo": true
+	}
 }

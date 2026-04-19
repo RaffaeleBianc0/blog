@@ -148,9 +148,66 @@ footer.site-footer {
 
 
 
+
+/* Ingigantisce i titoli degli anni nella pagina Archivi */
+.archives-date {
+  font-size: 3em;
+  line-height: 1.05;
+  margin-bottom: 1rem;
+}
+
+.template-archives > header {
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.archives-group {
+  margin-top: 2rem;
+}
+
+/* Homepage cards: usa lo stesso colore del menu laterale sinistro */
+.homepage .article-meta,
+.homepage .article-meta time,
+.homepage .article-meta a,
+.homepage .article-meta span {
+  color: var(--body-text-color) !important;
+}
+
+.homepage .article-meta svg {
+  stroke: var(--body-text-color) !important;
+  width: 20px !important;
+  height: 20px !important;
+}
+
+/* Forza dimensione icona calendario a 24px nelle schede homepage */
+.homepage .article-meta .icon-tabler-calendar-time {
+  width: 24px !important;
+  height: 24px !important;
+}
+
+/* Applico stesso colore e dimensione icona anche alle intestazioni dei singoli post */
+.article-page footer.article-meta,
+.article-page footer.article-meta time,
+.article-page footer.article-meta a,
+.article-page footer.article-meta span {
+  color: var(--body-text-color) !important;
+}
+
+.article-page footer.article-meta svg {
+  stroke: var(--body-text-color) !important;
+  width: 20px !important;
+  height: 20px !important;
+}
+
+/* Forza dimensione icona calendario a 24px nei singoli post */
+.article-page footer.article-meta .icon-tabler-calendar-time {
+  width: 24px !important;
+  height: 24px !important;
+}
+
 // =============================
 // Code Blocks
-// =============================
 /* Custom variable, modify the height here as needed */
 $codeblock-max-height: 25em;
 
@@ -194,8 +251,10 @@ $codeblock-max-height: 25em;
     font-size: 14px;
     font-family: var(--code-font-family);
 }
+
 // =============================
 // END Code Blocks
+
 // =============================
 
 
@@ -255,3 +314,7 @@ kbd {
         color: #333;
     }
 }
+
+
+
+

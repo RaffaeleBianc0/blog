@@ -1,0 +1,10 @@
+{{- $iconFile := resources.GetMatch (printf "icons/%s.svg" .) -}}
+{{- if $iconFile -}}
+    {{- $content := $iconFile.Content -}}
+    {{- if eq . "date" -}}
+        {{- $content = replace $content `width="56" height="56"` `width="24" height="24"` -}}
+    {{- end -}}
+    {{- $content | safeHTML -}}
+{{- else -}}
+    {{- errorf "Error: icon '%s.svg' is not found under 'assets/icons' folder" . -}}
+{{- end -}}
