@@ -64,7 +64,7 @@ La scelta più sicura è sbarazzarsi di quelle dipendenze, e un sito statico mi 
 
 ## Markdown
 
-Poi avevo voglia di editare i miei contenuti in locale, scrivendoli in Markdown dentro a [VS Code](https://code.visualstudio.com), con la sua ottima integrazione con [GitHub](https://github.com/RaffaeleBianc0), ma potenzialmente anche con un qualunque editor di testo leggero da usare nel mio vetusto [IBM Thinkpad X60]({{< ref "pc-maggiorenne.md" >}}).
+Poi avevo voglia di editare i miei contenuti scrivendoli in Markdown dentro a [VS Code](https://code.visualstudio.com), ma potenzialmente anche con un qualunque editor di testo leggero da usare nel mio vetusto [IBM Thinkpad X60]({{< ref "pc-maggiorenne.md" >}}).
 
 **Scrivere in Markdown usando un editor di testo**, invece che scrivere direttamente in un editor [WYSIWYG](https://it.wikipedia.org/wiki/WYSIWYG) come quello di Wordpress, è un'esperienza particolare.  
 L'editor di testo, senza troppi pulsanti e menu, con la font a spaziatura fissa, senza automatismi, correzioni automatiche, stili, e tutte le altre cose che fanno parte della moderna stesura di testi al computer, è un po' come **la versione moderna della macchina da scrivere**: tiene l'occhio e la mente libera da distrazioni, e finisce che **scrivo con più gusto**.
@@ -124,7 +124,7 @@ Dopo poco tempo però scopro il metodo che sto usando adesso, che aggiunge a tut
 
 1. Modifico i miei file Markdown in locale usando VS Code, che è già il mio editor di testo preferito praticamente da quando è stato rilasciato nel 2015.  
 
-1. Con l'integrazione GitHub installata in VS Code, con un click faccio l'**upload dei file nuovi e modificati nel mio repository privato su GitHub**, che significa ottenere in automatico questi vantaggi:
+1. Con l'integrazione [GitHub](https://github.com/RaffaeleBianc0) installata in VS Code, con un click faccio l'**upload dei file nuovi e modificati nel mio repository privato su GitHub**, che significa ottenere in automatico questi vantaggi:
     * **backup** online di tutti i file sorgente del blog
     * **versionamento** di ogni file (posso tornare indietro nella storia se qualcosa non mi piace o si rompe)
     * **editor VS Code online** per modificare i miei file da qualunque computer e aggiornare così il blog anche quando non ho il mio PC, basta premere il punto {{< tasto "." >}} sulla tastiera mentre stai visualizzando un file. Spettacolo!  
@@ -176,15 +176,17 @@ jobs:
 
 ## Hack
 
-Cercando il modo di avere la ToC anche nella versione mobile del blog (che di default è assente nel tema Stack), ho poi trovato alcune informazioni per applicare sia quella che altre modifiche interessanti al tema, su [MomentoDiMezzo.com](https://momentodimezzo.com/en/p/blog-customization) e su [LucasLifes.com](https://blog.lucaslifes.com/categories/hugo-blog/).
+Cercando il modo di avere la ToC anche nella versione mobile del blog (che di default è assente nel tema Stack), ho poi trovato alcune informazioni per applicare sia quella che altre modifiche interessanti al tema, in questi blog:
+- [MomentoDiMezzo.com](https://momentodimezzo.com/en/p/blog-customization)
+- [LucasLifes.com](https://blog.lucaslifes.com/categories/hugo-blog/)
 
-Mi sono anche fatto aiutare parecchio da **Copilot integrato in VS Code** per fare alcune modifiche minori che, senza una AI di supporto, non sarei mai stato capace di fare in tempi ragionevoli - ad esempio l'evidenziatura completa dei link al passaggio del mouse nel corpo del testo e nella ToC.  
-Per inciso, vedere come l'AI ha analizzato l'intero progetto Hugo e ha applicato le modifiche dove necessario, tutto direttamente in VS Code, mi ha lasciato senza parole.
+Mi sono anche fatto aiutare parecchio da **Copilot integrato in VS Code** per fare una tonnellata di modifiche minori che, senza una AI di supporto, non sarei mai stato capace di fare in tempi ragionevoli.  
+Per inciso, vedere come l'AI ha analizzato l'intero progetto Hugo e ha applicato le modifiche dove necessario, tutto direttamente in VS Code, mi ha lasciato senza parole. E ripercorrere le modifiche che ha fatto mi ha insegnato molto su come funziona Hugo.
 
 
 
 # Godo
 
-Insomma ho scavalcato i limiti di Wordpress e posso dire che **oggi le funzionalità e l'estetica di questo blog sono proprio quelle che volevo**.  
+Insomma ho scavalcato i limiti di Wordpress e posso dire che **oggi le funzionalità e l'estetica di questo blog sono quelle che volevo**.  
 
-Anche il viaggio per arrivare qui è stato molto stimolante, perché ho conosciuto e usato qualche strumento che prima avevo solo sentito nominare (Hugo, GitHub, Rclone, Copilot in VS Code).
+Anche il viaggio per arrivare qui è stato molto stimolante, perché ho conosciuto e usato qualche strumento che prima avevo solo sentito nominare (Hugo, GitHub, Rclone, Copilot).

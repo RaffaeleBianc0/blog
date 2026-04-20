@@ -221,7 +221,7 @@ Ciao Elsa è anche **intermediario autorizzato che ti consente di aderire online
 [COVIP](http://www.covip.it) è la Commissione di Vigilanza sui FP.  
 Nel sito trovi informazioni fondamentali se hai intenzione di aprire un FP.
 
-Le [infografiche](https://www.covip.it/per-il-cittadino/educazione-previdenziale/infografiche-sulla-previdenza-complementare): danno velocemente un sacco di informazioni preziose.
+Le [infografiche](https://www.covip.it/per-il-cittadino/educazione-previdenziale/infografiche-sulla-previdenza-complementare) danno velocemente un sacco di informazioni preziose.
 
 Segnalo anche la pagina ["Per il cittadino"](http://www.covip.it/per-il-cittadino), dove trovi tutti i dati aggiornati di tutti i FP disponibili in Italia relativamente a:
 
@@ -235,7 +235,7 @@ Segnalo anche la pagina ["Per il cittadino"](http://www.covip.it/per-il-cittadin
 {{< youtube 6QwJ4JLxzTU >}}
 
 
-La [Legge di Bilancio 2026](https://documenti.camera.it/leg19/dossier/pdf/AS0477.pdf) ha portato alcune novità che sono correlate con il tema dei fondi pensione, tra le quali le più rilevanti secondo me sono:
+La [Legge di Bilancio 2026](https://documenti.camera.it/leg19/dossier/pdf/AS0477.pdf) ha portato alcune novità sui fondi pensione, tra le quali le più rilevanti secondo me sono:
 
 - **Innalzamento della quota capitale**: la quota massima del montante accumulato che può essere liquidata sotto forma di capitale sale dal 50% al 60%. Di conseguenza, la quota minima destinata obbligatoriamente alla rendita scende al 40%, sempre nell'ipotesi di aver superato la soglia dei circa 100k€ di montante accumulato.
 
@@ -251,10 +251,11 @@ La [Legge di Bilancio 2026](https://documenti.camera.it/leg19/dossier/pdf/AS0477
 
 # Disclaimer
 
-Come tutti i contenuti divulgativi che parlano di questi argomenti, è opportuno specificare quanto segue.
-
-> AVVISO IMPORTANTE:  
-_Il contenuto di questa pagina non è e non costituisce in alcun modo una consulenza finanziaria personalizzata._  
-_Tutte le informazioni, le opinioni, i dati e i pareri espressi in questo articolo sono forniti a scopo puramente informativo e non devono essere interpretati come una raccomandazione all'investimento, un'offerta di acquisto o vendita di strumenti finanziari, o una sollecitazione al pubblico risparmio ai sensi della normativa vigente (es. TUF - Testo Unico della Finanza)._  
-_Prima di prendere qualsiasi decisione di investimento, è fondamentale consultare un intermediario o un consulente finanziario abilitato e qualificato che tenga conto della vostra specifica situazione finanziaria, dei vostri obiettivi e della vostra tolleranza al rischio._  
-_L'autore e il blog non si assumono alcuna responsabilità per eventuali perdite o danni derivanti dall'utilizzo delle informazioni qui contenute. Ogni decisione è a vostro rischio e pericolo._  
+> _Il presente contenuto ha scopi esclusivamente divulgativi e informativi, e non costituisce in alcun modo consulenza finanziaria, legale o fiscale._  
+_Ogni analisi o opinione espressa è da intendersi come una valutazione impersonale e non rappresenta una sollecitazione all'acquisto o alla vendita di strumenti finanziari._  
+_L'investimento in borsa comporta rischi elevati, inclusa la possibilità di perdere l'intero capitale inizialmente investito._  
+_Le performance passate riportate in questo blog non devono essere interpretate come garanzia o indicazione di risultati futuri._  
+_Prima di effettuare qualsiasi operazione, è indispensabile consultare un consulente finanziario abilitato che possa valutare la tua specifica situazione patrimoniale e tolleranza al rischio._  
+_L'autore non garantisce l'accuratezza o la completezza delle informazioni fornite e non si assume alcuna responsabilità per perdite o danni derivanti dall'utilizzo di tali dati._  
+_Eventuali decisioni prese sulla base delle informazioni contenute nel sito sono ad esclusivo rischio e pericolo dell'utente._  
+_L'autore potrebbe detenere posizioni sugli strumenti citati, configurando un potenziale conflitto di interessi che il lettore deve tenere in considerazione._  
