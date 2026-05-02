@@ -123,7 +123,7 @@ Interessante la possibilità di selezionare anche gli indici, oltre agli ETF.
 
 Vista la natura a lungo termine degli investimenti, visto che non vanno prese decisioni in base alle variazioni recenti dei rendimenti, e visto che ribilanciare il portafoglio troppo spesso è controproducente (per vari motivi documentati), si deduce che **non serve a granché guardare l’andamento del proprio portafoglio costantemente**: una volta ogni 6-12 mesi probabilmente sarebbe sufficiente, oppure ogni volta prima di investire, per decidere in quale ETF del nostro portafoglio sia meglio mettere i nuovi risparmi accumulati per ottenere un "ribilanciamento senza vendere" evitando tasse e commissioni.  
 
-Tuttavia, è davvero difficile resistere all'impulso di vedere _come sta andando oggi_.  
+... Ma chi è che davvero resiste all'impulso di vedere _come sta andando oggi_?!  
 Per risolvere questa esigenza, segnalo questi strumenti:
 
 [**Yahoo Finanza**](https://it.finance.yahoo.com/):  
@@ -138,9 +138,7 @@ Richiedono una certa inclinazione nerd per essere apprezzati (infatti li adoro),
 [**Wallible**](https://play.google.com/store/search?q=wallible&c=apps) _(a pagamento)_:  
 * utilizzabile sia su smartphone che da web  
 * fornisce le metriche classiche sul proprio portafoglio (Sharpe Ratio, volatilità, eccetera)  
-* consente di salvare ulteriori portafogli oltre al proprio, e di usarli per fare confronti e backtest  
-
-[**TradingView**](http://it.tradingview.com): uno dei siti di riferimento per le informazioni tecniche sugli indici.
+* consente di salvare ulteriori portafogli oltre al proprio, e di usarli per fare confronti e backtest
 
 
 

@@ -1,0 +1,35 @@
+{{ $posts := where .Site.RegularPages "Section" "post" }}
+{{ $postCount := len $posts }}
+{{ $totalWords := 0 }}
+{{ $totalReadingTime := 0 }}
+
+{{ range $posts }}
+  {{ $totalWords = add $totalWords .WordCount }}
+  {{ $totalReadingTime = add $totalReadingTime .ReadingTime }}
+{{ end }}
+
+
+
+<div class="blog-stats">
+  <ul style="list-style: none; padding: 0;">
+    <li>📜 <strong>Totale articoli:</strong> {{ $postCount }}</li>
+    <li>✍️ <strong>Parole scritte:</strong> {{ $totalWords }}</li>
+    <li>☕ <strong>Tempo di lettura totale:</strong> 
+        {{ if ge $totalReadingTime 60 }}
+            {{ div $totalReadingTime 60 }} ore e {{ mod $totalReadingTime 60 }} minuti
+        {{ else }}
+            {{ $totalReadingTime }} minuti
+        {{ end }}
+    </li>
+    <li>📊 <strong>Media parole per post:</strong> {{ if gt $postCount 0 }}{{ div $totalWords $postCount }}{{ else }}0{{ end }}</li>
+    <li>🏷️ <strong>Argomenti:</strong> {{ len .Site.Taxonomies.categories }} categorie e {{ len .Site.Taxonomies.tags }} tag</li>
+    <li>🔄 <strong>Ultimo aggiornamento:</strong> {{ if gt $postCount 0 }}{{ (index $posts.ByLastmod.Reverse 0).Lastmod.Format "02/01/2006" }}{{ else }}N/A{{ end }}</li>
+    <li>📅 <strong>Anni di attività:</strong> {{ if gt $postCount 0 }}{{ sub now.Year (index $posts.ByDate 0).Date.Year }}{{ else }}0{{ end }}</li>
+    {{ $firstPost := index $posts.ByDate 0 }}
+    {{ $monthsActive := div (sub now.Unix $firstPost.Date.Unix) 2592000 }} {{/* 2592000 = secondi in un mese */}}
+    {{ if gt $monthsActive 0 }}
+      <li>📅 <strong>Frequenza:</strong> {{ lang.FormatNumberCustom 2 (div (float $postCount) $monthsActive) }} post al mese</li>
+    {{ end }}
+
+  </ul>
+</div>

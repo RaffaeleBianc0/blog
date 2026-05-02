@@ -50,7 +50,7 @@ Le prime 10 puntate circa sono quelle fondamentali, oppure ascolta per prima la 
 Il primo tema di cui preoccuparsi secondo me è il fondo pensione.  
 E questo vale anche se non si vuole investire nulla.
 
-Versare il TFR + il contributo minimo nel proprio FPN è la scelta ovvia che avevo già fatto molti anni prima, ma non avevo ancora cambiato il comparto: **ho selezionato il comparto con la maggiore componente azionaria**, che mi sembra il più appropriato dato che mi aspettano ancora 20 anni di lavoro.  
+Versare il TFR + il contributo minimo nel mio FPN è la scelta ovvia che avevo già fatto molti anni prima, ma non avevo ancora cambiato il comparto: **ho selezionato il comparto con la maggiore componente azionaria**, che mi sembra il più appropriato dato che mi aspettano ancora 20 anni di lavoro.  
 Probabilmente cambierò comparto durante i prossimi 20 anni, per aumentare progressivamente il peso della componente obbligazionaria man mano che mi avvicino alla pensione (la cosiddetta **allocazione "life cycle"**).
 
 ## FPA
@@ -70,8 +70,8 @@ Ho analizzato i prospetti informativi di un paio di prodotti che avevo acquistat
 Non era il mio caso, ma in questa fase iniziale ci metterei anche questo passaggio.
 Inutile pensare ad investire per portare a casa un rendimento positivo, se dall'altra parte ci sono finanziamenti per i quali paghiamo un tasso di interesse che combatte contro questo rendimento.  
 
-Riguardo al mutuo casa, se il tasso del tuo mutuo in corso è superiore di qualche decimale rispetto ai preventivi che puoi fare online, allora sul lungo periodo **stai già perdendo migliaia di euro**, fai bene i conti.  
-Chiedi senz'altro alla tua banca di rivedere le condizioni in modo da allinearsi, altrimenti con pochissimo sforzo e zero spese (grazie al **Decreto Bersani** - cfr. [Wikipedia](https://it.wikipedia.org/wiki/Decreto_Bersani_bis#Surroga_dei_mutui_a_costo_zero) e [il decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-01-31;7) all'articolo 8) puoi surrogare il mutuo trasferendolo alla banca che ti offre il miglior TAEG oggi su un mutuo a tasso fisso.  
+Riguardo al mutuo casa, se il tasso del mutuo in corso è superiore di qualche decimale rispetto ai preventivi che si possono fare online, allora sul lungo periodo **si stanno già perdendo migliaia di euro**.  
+Bisogna chiedere senz'altro alla propria banca di rivedere le condizioni in modo da allinearsi, altrimenti con pochissimo sforzo e zero spese (grazie al **Decreto Bersani** - cfr. [Wikipedia](https://it.wikipedia.org/wiki/Decreto_Bersani_bis#Surroga_dei_mutui_a_costo_zero) e [il decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-01-31;7) all'articolo 8) si fa una surroga del mutuo, trasferendolo alla banca che offre un miglior TAEG oggi.  
 
 ## Budgeting
 Per tracciare le mie spese e farmi un'idea di quanto riesco a risparmiare mediamente ogni mese, ho usato la app [**Wallet** di Budgetbakers](https://budgetbakers.com/en/products/wallet/) perché si collega al mio conto corrente una volta al giorno per leggere saldo e transazioni, le categorizza automaticamente, e fornisce report e statistiche molto utili.  
@@ -79,7 +79,7 @@ Da anni evito il più possibile l'uso del contante, e questa abitudine rende il 
 
 A livello metodologico, ho deciso di adottare il **reverse budgeting**: do priorità al risparmio nei fondi pensione (obiettivo: 5300€/anno) rispetto alle spese personali e agli investimenti. Questo significa che ogni mese verso sempre automaticamente una quota fissa nel FPA, mettendo in secondo piano il resto.  
 
-Il solo fatto di poter controllare le spese in 5 secondi aprendo una app mi ha regalato un po' più di  consapevolezza su cosa vale davvero la pena acquistare e cosa no; e trovo utile poter guardare i report automatici a fine mese confrontando i vari mesi a colpo d'occhio.
+Il solo fatto di poter controllare le spese in 5 secondi aprendo una app mi ha regalato un po' più di consapevolezza su cosa vale davvero la pena acquistare e cosa no; e trovo utile poter guardare i report automatici a fine mese confrontando i vari mesi a colpo d'occhio.
 
 ## Conto corrente
 Ho deciso di tenere il conto che ho già, nonostante sia più costoso di tanti altri disponibili. La banca è tra le più solide in Italia, quindi sono a posto così per ora.  
@@ -99,7 +99,7 @@ L'altra metà ho deciso di parcheggiarla in un ETF monetario, giusto per diversi
 Avevo già provveduto qualche anno fa, e per pigrizia tengo quello che ho, perché sono polizze di una assicurazione nota che esiste da decenni.  
 Devo valutare una LTC, ma ancora non lo ho fatto.
 
-Se non avessi alcuna copertura, allora oggi quasi certamente sceglierei tra le compagnie più grandi che consentono di stipulare tutto online.
+Se non avessi alcuna copertura, allora oggi probabilmente sceglierei tra le compagnie più grandi e che consentono di operare online.
 
 ## Conto titoli
 La mia banca mi offre un conto titoli con costi imbarazzanti, quindi ho deciso di **aprirne uno presso un broker**.  
@@ -111,7 +111,7 @@ Nel 2025 è diventato interessante anche **TradeRepublic**, tenendo presente che
 ## ETF
 Come primo investimento ho acquistato qualche quota di un ETF azionario globale tra i più noti, scelta che in generale mi sembra sensata per un orizzonte temporale di più di 10 anni come il mio.  
 Nel frattempo ho continuato a studiare il mio "portafoglio obiettivo", aggiustandolo più volte in base alle nuove nozioni che imparavo man mano e mettendolo alla prova con decine di backtest su [LazyPortfolioEtf.com](https://www.lazyportfolioetf.com/): oltre alla seconda metà del mio FdE in un ETF monetario, ho introdotto una parte obbligazionaria, un tilt ex-usa, e un po’ di oro, il tutto secondo pesi calcolati sulla base della mia età, del tasso BCE, e del tipo di lavoro che faccio.  
-Quando investo acquisto quote degli ETF in modo da tendere a mantenere questi pesi.
+Quando investo acquisto quote degli ETF in modo da tendere a mantenere i pesi che ho deciso per i vari componenti.
 
 
 
@@ -137,7 +137,7 @@ Con l’eccedenza in arrivo dal CC, porto il **saldo del FdE verso il suo "livel
 Verso l’eventuale eccedenza residua nel mio conto titoli, per **acquistare quote degli ETF che ho in portafoglio**.  
 Scelgo tra i miei ETF quelli che hanno performato _peggio_, in modo tale da ribilanciare senza vendere quote: questo fa sì che non ci siano commissioni né tasse sulle plusvalenze da pagare.  
 Mi sono fatto un semplice foglio di calcolo per aiutarmi a capire quanto la mia allocazione attuale si discosta da quella obiettivo, così con un colpo d'occhio capisco quali ETF acquistare.  
-Finché il capitale investito è abbastanza piccolo, questa tecnica _"forward only"_ funziona; quando capiterà che, pur acquistando quote degli ETF meno performanti del mio portafoglio, l'allocazione reale mostrerà scostamenti maggiori del 10% rispetto alla allocazione obiettivo, allora ribilancerò più incisivamente anche vendendo quote, per riportare tutto in equilibrio.
+Finché il capitale investito è ancora piccolo, questa tecnica _"forward only"_ funziona; quando capiterà che, pur acquistando quote degli ETF meno performanti del mio portafoglio, l'allocazione reale mostrerà scostamenti maggiori del 10% rispetto alla allocazione obiettivo, allora ribilancerò più incisivamente anche vendendo quote, per riportare tutto in equilibrio.
 
 
 

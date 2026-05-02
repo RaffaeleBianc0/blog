@@ -14,7 +14,7 @@ image: "images/finanza-personale.jpg"
 
 **"Non mi interessa, non mi serve"** ➡️ Ti stai raccontando una balla, come minimo perché c'è l'[inflazione](#inflazione) e, se sei dipendente, perché l'[INPS](#inps) ti darà una pensione bassa. [Inizia adesso](#interesse-composto)!
 
-**"Meglio non rischiare di perdere soldi"** ➡️ Proprio così, per questo devi interessartene (vedi i punti qui sopra). Comunque se vuoi quasi azzerare il [rischio](#rischio) ci sono scelte che puoi fare [senza perderci](#senza-perderci).
+**"Meglio non rischiare di perdere soldi"** ➡️ Proprio così, per questo devi interessartene (vedi i punti qui sopra). Comunque se questo [rischio](#rischio) ti mette a disagio, ci sono [opzioni molto prudenti](#senza-perderci).
 
 **"Serve troppo tempo per starci dietro"** ➡️ Scherzi?! Ti basta qualche minuto al mese, per esempio [io faccio così]({{< ref "fp-cosafaccio.md" >}}).
 
@@ -32,7 +32,7 @@ Magari sei qui perché ne abbiamo parlato e ti ho mandato il link.
 Alcuni contenuti sono centrati sulla mia situazione, cioè quella di dipendente privato con orizzonte di investimento lungo; però credo che la maggior parte delle informazioni siano utili in generale.  
 
 Questo post è il primo della serie, dove ho raccolto "pillole" sul tema della finanza personale, cioè **micro-riassunti di qualcosa che ho imparato**.  
-Non c'è pretesa di insegnare nulla né di essere esaustivo, ma magari innesco un po' di curiosità su argomenti che potresti aver snobbato per colpa di qualche pregiudizio, chissà.  
+Non c'è pretesa di insegnare nulla né di essere esaustivo, ma magari innesco un po' di curiosità su argomenti che potresti aver snobbato per colpa di qualche pregiudizio.  
 **Non troverai suggerimenti di investimento o di acquisto o altro spam molesto**, quelle sono cose per professionisti.  
 
 Cliccando sulla [categoria "Finanza personale"](/blog/categories/finanza-personale) trovi altri post sullo stesso tema.
@@ -58,7 +58,7 @@ E' un concetto che andrebbe spiegato ai bambini, per non farli arrivare fino all
 **"*Se hai dei soldi allora stai già investendo*"**, ha detto qualcuno: tenere i risparmi fermi "sotto al materasso" o nel conto corrente **è una scelta di investimento**, probabilmente inconsapevole, ma comunque una scelta, che ti garantisce una **perdita** di potere d’acquisto (pari appunto all’[inflazione](https://economiapertutti.bancaditalia.it/strumenti/glossario/inflazione/)) **piccola, lenta, ma regolare e sicura al 100%**. E più soldi hai fermi più stai perdendo valore.  
 
 Distinguere tra **valore nominale** e **valore reale** è importante quando si parla di soldi: lo spiega bene [questa pagina della Banca d'Italia](https://economiapertutti.bancaditalia.it/notizie-e-rubriche/in-parole-semplici/inflazione/index.html).  
-Per esempio, **negli ultimi 30 anni il potere di acquisto dei soldi in Italia si è dimezzato**, cioè se hai messo via una cifra 30 anni fa senza investirla, "i contanti al sicuro in cassaforte" per capirci, hai fatto un errore bello grosso perché oggi ci compri circa **metà cose** rispetto a 30 anni fa: puoi verificarlo guardando i dati storici ufficiali [pubblicati dall’ISTAT](https://rivaluta.istat.it).  
+Per esempio, **negli ultimi 30 anni il potere di acquisto dei soldi in Italia si è dimezzato**, cioè se hai messo via una cifra 30 anni fa senza investirla, "i contanti al sicuro in cassaforte" per capirci (trasformati da lira in euro ovviamente), hai fatto un errore bello grosso perché oggi ci compri circa **metà cose** rispetto a 30 anni fa: puoi verificarlo guardando i dati storici ufficiali [pubblicati dall’ISTAT](https://rivaluta.istat.it).  
 
 Per inciso, l’entrata in vigore dell’Euro nel 2002 non c'entra nulla con questo tema, perché **non è vero che passando dalla Lira all'Euro i prezzi sono raddoppiati**, l'avrai sentito dire tante volte.  
 L’inflazione infatti non ha subìto particolari variazioni prima durante e dopo il passaggio Lira-Euro: trovi i dati per esempio su [Rivaluta.it](https://www.rivaluta.it/serie-inflazione-media.asp), un sito che elabora in modo efficace le [serie storiche dei dati ISTAT](https://seriestoriche.istat.it/).
@@ -74,7 +74,7 @@ L'[interesse composto](https://it.wikipedia.org/wiki/Tasso_d%27interesse#Interes
 
 E' una questione puramente matematica, alla quale magari non hai mai pensato.  
 Puoi fare qualche simulazione per renderti conto di quanto possa impattare sulla lunga distanza, ad esempio usando [questo calcolatore di interesse sul sito della Banca D’Italia](https://economiapertutti.bancaditalia.it/calcolatori/calcolatore-dell-interesse): come tasso di interesse puoi inserire il 5%, che è un valore prudente di interesse annuo lordo medio atteso per investimenti sensati sul lungo periodo.  
-Il compounding ha impatto positivo sui rendimenti, e invece mostra il suo **impatto *negativo* quando si parla di costi ricorrenti**: ecco perché se leggi "*costo del 2% annuo sul capitale investito*" allora è meglio cercare qualcos'altro.  
+Il compounding ha impatto positivo sui rendimenti, e invece mostra il suo **impatto *negativo* quando si parla di costi ricorrenti**: ecco perché se leggi "*costo del 2% annuo sul capitale investito*" deve venirti un brivido freddo.  
 
 **LE MIE CONCLUSIONI:**  
 Una volta fatto un minimo di budgeting per capire quanto potevo risparmiare, ho studiato i più importanti strumenti che consentono di investire questa cifra in modo diversificato, poco costoso e con un rendimento storicamente positivo sul lungo termine: [fondi pensione]({{< ref "fp-fondipensione.md" >}}) ed [ETF](#gli-etf).
@@ -83,12 +83,30 @@ Una volta fatto un minimo di budgeting per capire quanto potevo risparmiare, ho 
 
 # Senza perderci
 
-Se ti mette a disagio investire una parte dei tuoi risparmi in strumenti finanziari troppo volatili, allora puoi valutare **soluzioni a rischio quasi zero** che possono almeno contenere l’effetto negativo dell’inflazione, come i **conti deposito** e gli **ETF monetari**.  
+Se ti mette a disagio investire una parte dei tuoi risparmi in strumenti finanziari troppo volatili, allora puoi valutare **soluzioni molto più prudenti** che possono almeno contenere l’effetto negativo dell’inflazione, come i **conti deposito** e gli **ETF monetari**.  
 
-E’ il **minimo sindacale da usare per tenere la liquidità extra invece del conto corrente**, anche se non hai ancora confidenza con questi argomenti.   
+Sono strumenti ottimi **per conservare la liquidità extra invece di lasciarla nel conto corrente**.   
 Mentre scrivo (2024) questi strumenti rendono tra il 2% e il 3% annuo lordo, ma in generale il loro rendimento dipende strettamente dall’andamento del [tasso di interesse della Banca Centrale Europea](https://www.euribor-rates.eu/it/tasso-interesse-bce/).  
 
-Esempi con 10000€ depositati, rendimento lordo del 2,3% annuo pari a 230€ lordi:
+Qualche highlight sul **conto deposito**:
+
+* sicuro (perché tutelato dal [FITD](https://www.fitd.it/) fino a 100k€ di giacenza, come i conti correnti)  
+* puoi riportare i soldi nel tuo conto corrente in un paio di giorni lavorativi, il tempo di un bonifico  
+* rende un minimo, 2% lordo circa nel 2025, che quasi mantiene il valore reale dei tuoi soldi nel tempo - a differenza del conto corrente che ti dà quasi sempre lo 0% di interessi.
+
+Per un confronto sui vari conti deposito disponibili nel momento in cui stai leggendo, puoi usare [Deposifire.com](https://deposifire.com/) oppure il foglio di calcolo disponibile nel [forum di FinanzaOnLine](https://forum.finanzaonline.com/forums/banking-carte-di-credito-conti-deposito-e-corren.7/).   
+Evita i conti deposito "non svincolabili" oppure quelli che svincolano i soldi dopo 30gg dalla richiesta: si chiama "fondo di emergenza" proprio perché deve aiutare nelle emergenze, che in quanto tali non possono aspettare.  
+
+Un’altra scelta possibile è un **ETF monetario europeo** (mentre scrivo il più usato è [XEON](https://www.justetf.com/it/etf-profile.html?isin=LU0290358497), con 18 miliardi di euro in gestione), che potrebbe rendere qualcosa di più del CD:
+
+* rendimento certo, regolare, quotidiano
+* costi bassissimi  
+* molto liquido (cioè le quote si vendono istantaneamente)  
+* i rendimenti sono tassati poco più del 12,5% (perché nel sottostante ci sono quasi esclusivamente titoli di stato europei), contro il 26% del CD.
+
+In generale il rendimento tra i vari strumenti monetari non cambia granché, dato che un po' tutti dipendono dal [tasso di interesse deciso dalla BCE](https://www.euribor-rates.eu/it/tasso-interesse-bce/): ci sono stati anni in cui il tasso BCE era vicino allo 0%, per cui tanto valeva tenere il fondo di emergenza direttamente nel conto corrente.  
+
+Esempi numerici con 10000€ depositati, e rendimento lordo del 2,3% annuo pari a 230€:
 
 * **Conto deposito**: 
   * costo del conto deposito (se previsto) = supponiamo 0€
@@ -102,16 +120,16 @@ Esempi con 10000€ depositati, rendimento lordo del 2,3% annuo pari a 230€ lo
   * tassazione sui guadagni = circa 13% per XEON, quindi 30€ circa
   * guadagno dopo 1 anno = 230-34-30 = 166€
 
-ETF monetari e conti deposito sono utili anche per parcheggiare i risparmi mentre stai ancora studiando come investirli: l’importante è ottenere un minimo di rendimento, tutto qua. Non ci diventi ricco, come hai visto dai conti qua sopra, ma almeno non perdi potere d’acquisto.  
+ETF monetari e conti deposito sono utili anche per parcheggiare i risparmi mentre stai ancora studiando come investirli: l’importante è ottenere un minimo di rendimento, tutto qua. Non ci diventi ricco, come hai visto dai conti qua sopra, ma almeno conservi quasi tutto il potere d’acquisto.  
 
 **LE MIE CONCLUSIONI:**  
-Dato che in conto corrente avevo più del doppio/triplo di quello che spendo normalmente in un mese, e non avevo spese pianificate, allora ho **spostato questo gruzzoletto extra in un conto deposito e in un ETF monetario** (metà e metà nel mio caso, per diversificare, ma è assolutamente una scelta individuale).
+Dato che in conto corrente avevo più del doppio/triplo di quello che spendo normalmente in un mese, e non avevo spese pianificate, ho **spostato questo gruzzoletto extra in un conto deposito e in un ETF monetario** (metà e metà nel mio caso, per diversificare, ma è assolutamente una scelta individuale).
 
 
 
 # SPIVA
 
-Il [rapporto **SPIVA**](https://www.spglobal.com/spdji/en/research-insights/spiva) (_Standard & Poor’s Indices Versus Active_) ci racconta periodicamente la stragrande maggioranza (il 92% nel 2025) dei fondi a gestione attiva analizzati hanno rendimenti inferiori rispetto al proprio indice di riferimento su orizzonti di investimento di 10+ anni.  
+Il [rapporto **SPIVA**](https://www.spglobal.com/spdji/en/research-insights/spiva) (_Standard & Poor’s Indices Versus Active_) ci racconta periodicamente che la stragrande maggioranza (il 92% nel 2025) dei fondi a gestione attiva analizzati hanno rendimenti inferiori rispetto al proprio indice di riferimento su orizzonti di investimento di 10+ anni.  
 
 Le gestioni attive sono quelle applicate dai fondi di investimento che tipicamente ti vende la banca, e che in buona sostanza fanno peggio degli indici tracciati dagli [ETF](#gli-etf) quasi sempre, per questi motivi soprattutto:
 
@@ -132,9 +150,9 @@ Qualunque strumento tu scelga per i tuoi investimenti, devi fare la massima atte
 Magari hai avuto **rendimenti bassi** perché hai scelto un prodotto "sicuro" o "a capitale garantito" e/o un periodo storico sfortunato per i mercati, e **i costi sono alti** perché hai investito in strumenti che ti ha venduto la banca o l'assicuratore, che ogni anno prelevano il 2% 3% o 4% del tuo capitale investito, più uno zerovirgola per costi di transazione, più un altro zerovirgola per altre voci opache, sommi tutto, e finisce che era davvero meglio tenere i soldi sotto al materasso.
 
 Il costo medio dei fondi azionari italiani è attorno al 2% annuo sul capitale investito (fonte: [Banca d’Italia](https://economiapertutti.bancaditalia.it/notizie/parliamo-di-investimenti-c-fondo-e-fondo/)).  
-Se pensi **_"che sarà mai il 2%"_**, allora è davvero importante che tu ti renda conto dell’**impatto devastante sul lungo periodo** di questo numeretto apparentemente innocuo sul rendimento di un investimento.  
+Se pensi **_"cosa sarà mai il 2%"_**, allora è davvero importante che tu ti renda conto dell’**impatto devastante sul lungo periodo** di questo numeretto apparentemente innocuo sul rendimento di un investimento.  
 Per farlo puoi ad esempio usare un calcolatore online di interesse composto come [questo](https://extraetf.com/it/calculator/compound-interest): mettici come valori per esempio il 5% di rendimento annuo e il 3%, così da tener conto di quel 2% medio di costi che dicevo sopra.  Scegli l'orizzonte temporale che più fa al caso tuo, 10-15-20 anni, vedi tu - se ti interessano scadenze inferiori ai 10 anni, allora sei sulla pagina sbagliata.  
-Vedrai subito che su una vita di risparmi si perdono facilmente (decine di) migliaia di euro. 
+Vedrai subito che su una vita di risparmi si perdono facilmente migliaia di euro. 
 
 Come si legge spesso, **il rendimento è sempre una incognita, ma i costi sono una certezza**.  
 
@@ -149,30 +167,12 @@ Due conti veloci con un foglio di calcolo, e la scelta mi è sembrata subito ovv
 # Fondo di emergenza
 
 C'è un approccio piuttosto diffuso e che applico personalmente per investire molto più serenamente.  
-Preso atto che i risparmi vanno investiti almeno per conservarne il potere d'acquisto, e che l'investimento a lungo termine fa esprimere al meglio l’interesse composto e riduce la volatilità, è bene disporre di **un gruzzoletto separato che possa essere usato in qualunque momento senza intaccare il capitale investito per il lungo termine**, per coprire eventuali emergenze impreviste (es. cure mediche, riparazioni casa/auto, perdita del lavoro provvisoria e relativa mancanza di stipendio per qualche mese).  
+Preso atto che i risparmi vanno investiti per conservarne almeno il potere d'acquisto, e che l'investimento a lungo termine fa esprimere al meglio l’interesse composto e riduce la volatilità, può aver senso disporre di **un gruzzoletto separato che possa essere usato in qualunque momento senza intaccare il capitale investito**, per coprire eventuali emergenze impreviste (es. cure mediche, riparazioni casa/auto, perdita del lavoro provvisoria e relativa mancanza di stipendio per qualche mese).  
 
-Quindi prima di investire si può riempire un **fondo di emergenza** con una quantità di soldi che ci lasci sereni, es. 3-5-7 stipendi, decidi tu, e che andranno prelevati solo in caso di necessità prima di toccare il portafoglio investito a lungo termine.  
-Tieni presente che comunque se il tuo portafoglio è costituito di ETF _grandi_ è disinvestibile all’istante, quindi in qualunque caso i tuoi soldi tornano nel tuo conto corrente nel tempo di un bonifico: questo fatto, per qualche investitore più audace, rende addirittura superfluo il FdE perché toglie quella cifra dal portafoglio investito; personalmente preferisco la tranquillità di avere un buffer aggiuntivo al quale attingere.
+Quindi prima di investire si può riempire un **fondo di emergenza** con una quantità di soldi che ci lasci sereni, es. 3-5-7 stipendi, ognuno decide quanto, e che andranno prelevati solo in caso di necessità prima di toccare il portafoglio investito a lungo termine.  
+Tieni presente che comunque se un portafoglio è costituito di ETF _grandi_ è disinvestibile all’istante, quindi in qualunque caso i soldi tornano nel conto corrente nel tempo di un bonifico: questo fatto, per qualche investitore più audace, rende addirittura superfluo il FdE perché toglie quella cifra dal portafoglio investito; personalmente preferisco la tranquillità di avere un buffer aggiuntivo al quale attingere.
 
 Gli strumenti in cui parcheggiare il proprio FdE sono quelli di cui ho scritto anche nel paragrafo "[Senza perderci](#senza-perderci)".
-
-Il primo è il **conto deposito**:
-
-* sicuro (perché tutelato dal [FITD](https://www.fitd.it/) fino a 100k€ di giacenza, come i conti correnti)  
-* puoi riportare i soldi nel tuo conto corrente subito, il tempo di un bonifico  
-* rende un minimo, 2% lordo circa nel 2025, che quasi mantiene il valore reale dei tuoi soldi nel tempo - a differenza del conto corrente che ti dà quasi sempre lo 0% di interessi.
-
-Per un confronto sui vari conti deposito disponibili nel momento in cui stai leggendo, puoi usare [Deposifire.com](https://deposifire.com/) oppure il foglio di calcolo disponibile nel [forum di FinanzaOnLine](https://forum.finanzaonline.com/forums/banking-carte-di-credito-conti-deposito-e-corren.7/).   
-Evita i conti deposito "non svincolabili" oppure quelli che svincolano i soldi dopo 30gg dalla richiesta: si chiama "fondo di emergenza" proprio perché deve aiutare nelle emergenze, che in quanto tali non possono aspettare.  
-
-Un’altra scelta possibile è un **ETF monetario europeo** (mentre scrivo il più usato è [XEON](https://www.justetf.com/it/etf-profile.html?isin=LU0290358497), con 18 miliardi di euro in gestione), che può rendere qualcosa di più del CD:
-
-* rendimento certo, regolare, quotidiano
-* costi bassissimi  
-* molto liquido (cioè le quote si vendono istantaneamente)  
-* i rendimenti sono tassati poco più del 12,5% (perché nel sottostante ci sono quasi esclusivamente titoli di stato europei), contro il 26% del CD.
-
-In generale il rendimento tra i vari strumenti monetari non cambia granché, dato che un po' tutti dipendono dal [tasso di interesse deciso dalla BCE](https://www.euribor-rates.eu/it/tasso-interesse-bce/): ci sono stati anni in cui il tasso BCE era vicino allo 0%, per cui tanto valeva tenere il fondo di emergenza direttamente nel conto corrente.  
 
 **LE MIE CONCLUSIONI:**  
 Ho impostato il mio FdE con 2 strumenti diversi, lo ho riempito nell'arco di qualche mese ad un livello che mi fa dormire tranquillo, e ora lo lascio pieno come fosse un **salvadanaio da rompere solo in casi di emergenza** appunto.  
@@ -187,7 +187,7 @@ C'è una informazione che mi ha fatto cambiare radicalmente il punto di vista su
 **Si supera il 90% di risultati positivi quando si superano i 20 anni di investimento sul classico indice S&P500 americano**, nonostante crisi di Wall Street del 1929, due guerre mondiali, Internet bubble del 2001, crisi dei mutui subprime del 2008, pandemia Covid - tutti eventi che hanno causato importanti flessioni negative nei mercati, ma non sufficienti a trascinare sotto zero le performance di lungo periodo: **chi non ha disinvestito in preda al panico, ne è sempre uscito con più soldi di quanti ne ha investiti**.
 
 Quindi ovviamente *investire è rischiare*, ma un conto è "investire in 4 azioni e rivenderle dopo 2 anni", e un altro è "investire in un PAC su un ETF azionario globale per 15 anni": **più l'orizzonte è lungo più questo rischio si abbassa**, proprio su quegli asset che tipicamente rendono di più, cioè le azioni, che sul lungo periodo e diversificando su più titoli (come fanno gli ETF) mostrano un **andamento storicamente sempre positivo**.  
-A tutto ciò si aggiunge anche il fatto che noi comuni mortali non investiamo tutto subito all'inizio, ma facciamo un PAC (Piano di Accumulo Capitale) cioè spalmiamo l'investimento su più contributi periodici man mano che riusciamo a mettere da parte qualche risparmio, es. una volta ogni 1-3-6 mesi, e **questo approccio diminuisce ulteriormente la volatilità media** e quindi il rischio di avere risultati negativi.  
+A tutto ciò si aggiunge anche il fatto che noi comuni mortali di solito facciamo un PAC (Piano di Accumulo Capitale) cioè spalmiamo l'investimento su più contributi periodici man mano che riusciamo a mettere da parte qualche risparmio, es. una volta ogni 1-3-6 mesi, e **questo approccio diminuisce ulteriormente la volatilità media** e quindi il rischio di avere risultati negativi.  
 
 Su questo tema fondamentale mi sono piaciuti:
 * questo [articolo di Morningstar](https://global.morningstar.com/it/mercati/cosa-insegnano-150-anni-tra-panico-ed-euforia-a-wall-street)
@@ -227,7 +227,7 @@ Ho raccolto quello che so di questo tema in un [post "Fondi pensione"]({{< ref "
 
 # Gli ETF
 
-Gli ETF sono l'uovo di colombo tra gli strumenti finanziari per l’investimento a lungo termine:
+Gli ETF sembrano l'uovo di colombo tra gli strumenti finanziari per l’investimento a lungo termine:
 
 * Sono **facili da scegliere**: piattaforme come [JustETF](https://www.justetf.com) sono perfette allo scopo, e c'è un sacco di informazione online in generale.  
 * Sono **facili da usare**: pochi click sulla app/sito del tuo broker o sul conto titoli nel tuo homebanking per acquistare e vendere quote.  
@@ -242,25 +242,25 @@ JustETF ha [una pagina introduttiva](https://www.justetf.com/it/academy/etf-for-
 
 # Quanti ETF, e quali?
 
-A parte la solita ovvia premessa "ognuno ha una situazione diversa, non esiste una risposta univoca", ecco qualche idea tra le più gettonate:
+A parte la solita ovvia premessa "ognuno ha una situazione diversa, non esiste una risposta univoca", ecco qualche idea di massima tra le più gettonate:
 
 * **UN SOLO ETF**, LA SCELTA SEMPLICE  
-  Se non sai da dove partire, e soprattutto se hai davanti vent'anni di tempo o più per il tuo investimento, allora **un singolo ETF azionario globale dei più noti** può essere una scelta appropriata per iniziare subito il tuo PAC, piuttosto che stare fermo in attesa di decidere diversamente.  
+  Se uno non sa da dove partire, e soprattutto se ha davanti tanti anni per lasciar maturare i propri investimenti, allora **un singolo ETF azionario globale dei più noti** può essere una scelta appropriata per iniziare subito un PAC, piuttosto che stare fermo in attesa di decidere diversamente.  
   Cerca il modo di dire "[VWCE and chill](https://www.google.com/search?q=VWCE+and+chill)" per iniziare a informarti - ma in generale ci sono tante scelte che più o meno si equivalgono come risultati attesi, su indici azionari globali (alcuni ticker dei più noti sono SWDA, ACWE, IMIE - li trovi tutti su [JustETF](https://www.justetf.com/), studiali e confrontali).
 
-* **DUE ETF**, RIDUCI LA VOLATILITA’  
+* **DUE ETF**, PER RIDURRE LA VOLATILITA’  
   Non tutti sono d’accordo con gli approcci *chill*: ad esempio [qui](https://curvo.eu/it/articolo/perche-non-vwce-and-chill) si parla di come **abbassare la volatilità del portafoglio affiancando al VWCE un ETF obbligazionario** (ovviamente rinunciando ad una parte dei rendimenti attesi, che è sempre l’altra faccia della medaglia).  
   Abbassare la volatilità aumenta la probabilità che i nostri investimenti rendano quanto ci aspettiamo.  
-  Dovrai allora scegliere la proporzione tra i 2 ETF nel tuo portafoglio, e anche quale ETF obbligazionario acquistare.  
-  Per esempio, una allocazione tradizionale in finanza è 60% azionario e 40% obbligazionario, ma ci sono dei **metodi per scegliere queste proporzioni** in base alla tua situazione personale, che tengono conto di tanti fattori come la tua età, il tasso BCE attuale, il tipo di reddito del tuo lavoro.  
+  C'è allora da scegliere quale ETF obbligazionario introdurre, e in quale proporzione rispetto al resto del portafoglio.  
+  Per esempio, una allocazione tradizionale in finanza è la "60/40" (60% azionario e 40% obbligazionario), ma ci sono dei **metodi per scegliere queste proporzioni** in base alla situazione personale, che tengono conto di tanti fattori come l'età, il tasso BCE attuale, il tipo di reddito da lavoro.  
   **Gli ETF obbligazionari sono una categoria di asset molto differente rispetto a quella degli azionari**: non mi dilungo qui, ma è necessario farsi un'idea della loro relazione stretta con i tassi delle banche centrali e con il rischio valutario.  
   C’è chi sceglie ad esempio un ETF obbligazionario governativo europeo a duration media:  
   * **governativo** (cioè composto solo di titoli di stato, e privo di obbligazioni societarie) perché gli stati tendono a fallire molto meno delle aziende e soprattutto perché la **tassazione italiana** sui guadagni ottenuti da obbligazioni governative è molto favorevole (12,5% invece di 26%);  
-  * **europeo** perché questo fattore aggiunge **diversificazione geografica** al tuo portafoglio, se la parte azionaria è fortemente sbilanciata su aziende USA (come accade tipicamente per gli ETF azionari globali _market cap weighted_); e anche perché la valuta è l'euro, quindi il valore dell'ETF non è soggetto al **rischio del cambio valutario**, il che di solito è desiderabile per la componente del tuo portafoglio che serve proprio a mitigare il rischio;  
+  * **europeo** perché questo fattore aggiunge **diversificazione geografica** al portafoglio, se la parte azionaria è fortemente sbilanciata su aziende USA (come accade tipicamente per gli ETF azionari globali _market cap weighted_); e anche perché la valuta è l'euro, quindi il valore dell'ETF non è soggetto al **rischio del cambio valutario**, il che di solito è desiderabile per la componente del portafoglio che serve proprio a mitigare il rischio;  
   * **a duration media** (3-5 anni ad esempio) perché duration breve significa meno volatilità, che è uno dei motivi per integrare un ETF obbligazionario, mentre duration lunga storicamente è servito a controbilanciare i drawdown dell'azionario, specie su orizzonte lungo, ma con rischio maggiore in caso di crescita del tasso BCE: 3-5 anni è una duration intermedia, un compromesso tra queste due posizioni che dovrebbe **mitigare la volatilità senza reagire troppo al tasso BCE**.
 
 * **TRE O PIU’ ETF**, DIVERSIFICA  
-  Per costruire un portafoglio ancora più diversificato e personalizzato, può essere utile [questo questionario di JustETF](https://www.justetf.com/it/etf-strategy-builder.html), che ti darà come risultato un portafoglio di 4-5 ETF diversi che potrebbero essere adatti alle risposte che hai dato, da usare come traccia iniziale per fare qualche ragionamento. Oro, materie prime, azioni small-cap, bitcoin... qua si apre un mondo, e c'è da studiare un po'; ma **non è affatto necessario complicare le cose** per raggiungere risultati migliori sul lungo periodo, anzi.
+  Per costruire un portafoglio ancora più diversificato e personalizzato, può essere utile [questo questionario di JustETF](https://www.justetf.com/it/etf-strategy-builder.html), che darà come risultato un portafoglio di 4-5 ETF diversi che potrebbero essere adatti alle risposte fornite, da usare come traccia iniziale per fare qualche ragionamento. Oro, materie prime, azioni small-cap, bitcoin... qua si apre un mondo, e c'è da studiare un po'; ma **non è affatto necessario complicare le cose** per raggiungere risultati migliori sul lungo periodo, anzi.
 
 **LE MIE CONCLUSIONI:**  
 La composizione del mio portafoglio probabilmente è l'attività che mi ha portato via più tempo, e anche quella più ricca di dubbi e revisioni: il mio primo click su "Acquista" è arrivato dopo molte settimane di studio.  
@@ -299,7 +299,7 @@ E' utile per accertarsi che la persona che vuoi ingaggiare sia davvero un consul
 [Futura SCF](https://www.futurascf.it)  
 [IoInvesto](https://www.ioinvesto.net)  
 Queste sono due società che si occupano di consulenza finanziaria indipendente.  
-Ce ne sono tante altre, ma segnalo queste perché fanno una buona attività divulgativa tramite video su YouTube.  
+Ce ne sono tante altre, segnalo queste solo come forma di ringraziamento per la loro attività divulgativa su YouTube.  
 La prima chiamata per analizzare la propria situazione è gratuita.  
 Magari un giorno provo.
 

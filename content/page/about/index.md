@@ -32,4 +32,7 @@ Sono ricordi di una fetta importante di vita, e mi piace poter (far) ascoltare c
 
 Se fai click su ["Archivi"](/blog/archivi) vedi tutti i contenuti organizzati per argomento e per anno.
 
+Qualche statistica:
+{{< stats >}}
+
 ![](rb4.jpg) ![](rb5.jpg) ![](rb6.jpg) ![](avatar-colori.png) 

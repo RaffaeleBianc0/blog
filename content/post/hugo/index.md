@@ -17,7 +17,7 @@ In questo post ti racconto della ristrutturazione di questo blog nella forma att
 Fino al 2024 questo blog era hostato su [Wordpress.com](http://Wordpress.com), ne parlo nella [storia di questo sito](/blog/p/storia-di-questo-sito-web/#2015-blog-su-wordpress).
 
 A inizio 2024 ho scoperto dell'esistenza degli [SSG](https://en.wikipedia.org/wiki/Static_site_generator) (_Static Site Generators_), software che trasformano contenuti scritti in [Markdown](https://en.wikipedia.org/wiki/Markdown) in siti web veloci e con le funzionalità che servono ad un blog.  
-E io che pensavo che i siti web statici fossero praticamente spariti dall'avvento del Web 2.0 dei primi anni 2000!
+E io che pensavo che i siti web statici fossero praticamente spariti dall'avvento del Web 2.0!
 
 Ci ho messo un po' di giorni a capire quale dei tanti SSG esistenti fosse quello su cui puntare, cioè quello aggiornato recentemente e regolarmente, e con una user-base la più estesa possibile per chiedere aiuto nel caso servisse.  
 
@@ -48,7 +48,7 @@ Questo è un piccolo blog, e non mi serve chissà quale servizio per ospitarlo, 
 Il motivo numero 2 sono le performance: **le pagine statiche generate da Hugo si caricano in un istante**, e va tutto veloce.  
 Wordpress invece, che è un sistema super articolato per gestire siti dinamici, ad ogni click va ad interrogare un database e a costruire la pagina dinamicamente, e ci mette del tempo, lo senti quando fai click, e dopo tre click sei già nervosetto.  
 
-Io ho un semplice blog, i contenuti li pubblico solo io e sono statici, cioè non cambiano fino alla prossima pubblicazione, quindi non mi serve un database sotto né potenza di elaborazione lato hosting per generare le pagine da zero ogni volta che il lettore clicca un link.  
+I contenuti di questo blog li pubblico solo io e sono statici, cioè non cambiano fino alla prossima pubblicazione, quindi non mi serve un database sotto né potenza di elaborazione lato hosting per generare le pagine da zero ogni volta che il lettore clicca un link.  
 Il 1996 è passato da un pezzo, oggi non è ammissibile dover *aspettare* per caricare una banale pagina web con testo e un paio di immagini.
 
 
@@ -67,7 +67,7 @@ La scelta più sicura è sbarazzarsi di quelle dipendenze, e un sito statico mi 
 Poi avevo voglia di editare i miei contenuti scrivendoli in Markdown dentro a [VS Code](https://code.visualstudio.com), ma potenzialmente anche con un qualunque editor di testo leggero da usare nel mio vetusto [IBM Thinkpad X60]({{< ref "pc-maggiorenne.md" >}}).
 
 **Scrivere in Markdown usando un editor di testo**, invece che scrivere direttamente in un editor [WYSIWYG](https://it.wikipedia.org/wiki/WYSIWYG) come quello di Wordpress, è un'esperienza particolare.  
-L'editor di testo, senza troppi pulsanti e menu, con la font a spaziatura fissa, senza automatismi, correzioni automatiche, stili, e tutte le altre cose che fanno parte della moderna stesura di testi al computer, è un po' come **la versione moderna della macchina da scrivere**: tiene l'occhio e la mente libera da distrazioni, e finisce che **scrivo con più gusto**.
+L'editor di testo, senza troppi pulsanti e menu, con la font a spaziatura fissa, senza automatismi, correzioni automatiche, stili, e tutte le altre cose che fanno parte della stesura di testi al computer, è un po' come **la versione moderna della macchina da scrivere**: tiene l'occhio e la mente libera da distrazioni, e finisce che **scrivo con più gusto**.
 
 Il Markdown lo stavo già usando da un bel po', sia per rendere un po' più strutturati i piccoli file di testo sparsi ovunque quando si lavora con i computer, sia soprattutto nell'uso quotidiano di [Obsidian](http://obsidian.md) che accompagna la mia vita lavorativa degli ultimi anni.
 

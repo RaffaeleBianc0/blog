@@ -25,7 +25,7 @@ Di seguito userò queste abbreviazioni:
 # [TL;DR](https://it.wikipedia.org/wiki/TL;DR)
 
 Questo è il riassunto veloce del percorso che ho fatto personalmente sul tema.  
-Poi più sotto trovi informazioni più dettagliate.
+Poi più sotto trovi più dettagli.
 
 1. Scelgo di [destinare al FPN il TFR + il contributo minimo](#fondo-pensione-subito), unico modo per aggiudicarmi il contributo datoriale ogni mese, a cui non ha senso rinunciare.  
 
@@ -43,18 +43,18 @@ Poi più sotto trovi informazioni più dettagliate.
 
 {{< youtube f_flfAXRPX0 >}}
 
-Se sei dipendente privato e ti mancano ancora "tanti" anni alla pensione (diciamo indicativamente più di 10), allora **versare il TFR più il tuo contributo volontario minimo nel FPN è ritenuta la scelta più conveniente**.  
-Tenerlo in azienda ([ammesso che ti sia consentito](https://www.covip.it/per-il-cittadino/educazione-previdenziale/faq/quali-sono-scelte-possibili-lavoratori-dipendenti-del)) potrebbe avere più senso solo se sei prossimo alla pensione.  
+Sono un dipendente privato e mi mancano ancora più di 10 anni alla pensione: con questa situazione, ho ritenuto opportuno per me **versare il TFR più il contributo volontario minimo nel FPN come punto di partenza**.  
+Tenerlo in azienda ([ammesso che mi fosse consentito](https://www.covip.it/per-il-cittadino/educazione-previdenziale/faq/quali-sono-scelte-possibili-lavoratori-dipendenti-del)) non mi sembrerebbe comunque conveniente, con un orizzonte così lungo.  
 In [questo articolo su Ciao Elsa](https://www.ciaoelsa.com/blog/meglio-tfr-in-azienda-o-tfr-nel-fondo-pensione) è tutto spiegato bene.
 
 Quando conviene aprire la propria posizione in un FP?  
-_Subito_, idealmente appena uno inizia a lavorare, ma va bene anche lungo la carriera lavorativa, perché i vantaggi dei FP sono oggettivi e validi sia ogni singolo anno sia al traguardo finale. Eccoli:
+_Subito_, idealmente appena uno inizia a lavorare, ma va bene anche lungo la carriera lavorativa, perché i vantaggi che propongono i FP sono oggettivi e validi sia ogni singolo anno sia al traguardo finale. Eccoli:
 
 1. **Contributo datoriale**  
 Lo puoi ottenere solo se scegli di destinare al FPN il TFR e di versarci anche il cosiddetto "contributo volontario minimo" (circa 0,5-1,5% prelevato dalla tua busta paga ogni mese - dipende dal tuo CCNL di riferimento): **il "contributo datoriale" sono soldi in più che il tuo datore di lavoro è obbligato a versare nel tuo FPN**, pari a circa 1,5-2,5% della tua busta paga (dipende sempre dal tuo CCNL di riferimento).  
 Il contributo datoriale non è _tolto_ dalla tua busta paga, ma _aggiunto_ da parte del datore nel tuo montante del FPN: insomma è come un piccolo aumento, solo che invece di averlo in tasca te lo ritrovi già investito nel FPN.  
 **Esempio:**  
-Ipotizzando che il contributo datoriale sia di 50€/mese, per 20 anni di lavoro che ti mancano, e con un prudente tasso di interesse annuo del 2%, alla pensione ti ritroverai circa 15.000€ in più solo grazie a questa componente - fai il conto in base alla tua situazione per esempio [qui](https://extraetf.com/it/calculator/saving-plan).  
+Ipotizzando che il contributo datoriale sia di 50€/mese, per 20 anni di lavoro che mi mancano, e con un prudente tasso di interesse annuo del 2%, alla pensione mi ritroverei circa 15.000€ in più solo grazie a questa componente - ho abbozzato questi conti con [questo calcolatore online](https://extraetf.com/it/calculator/saving-plan).  
 
 1. **Vantaggi fiscali crescenti**  
 Dopo i primi 15 anni di permanenza nella previdenza complementare **le tasse che pagherai al riscatto della tua posizione scendono dello 0,3% all’anno**: partono dal 15% se avrai maturato 1-15 anni di contribuzione, per diventare 14,7% ai 16 anni di contribuzione, eccetera fino ad arrivare al 9% (la soglia minima) per 35 anni o più di contribuzione.  
@@ -64,33 +64,33 @@ Ipotizzando di aver raggiunto nel FP un montante di 250.000€ alla pensione, la
 
 1. **Rendimenti sul lungo periodo**  
 Come gli altri investimenti con componente azionaria fatti sul lungo periodo, **anche i FP mostrano un rendimento atteso positivo e una volatilità decrescente al crescere del tempo di permanenza** (a patto di [scegliere un comparto](#cambia-comparto) che contenga anche strumenti azionari, che di norma è l'opzione suggerita anche nei prospetti informativi per chi ha tanti anni di lavoro di fronte).  
-Quindi: più tempo ci stai dentro, più guadagni, e più è _probabile_ che guadagni.  
-Quando si avvicinerà l'età di pensionamento, eventualmente potrai valutare di spostare il capitale su un comparto più prudente, così da proteggere i risultati ottenuti fino a quel punto.
+Quindi: più tempo ci sto dentro, più guadagno, e più è _probabile_ che guadagni.  
+Quando si avvicinerà l'età di pensionamento, eventualmente valuterò di spostare il capitale su un comparto più prudente, così da proteggere i risultati ottenuti fino a quel punto.  
 
 1. **Deduzioni**  
-Lo scrivo qui per ultimo, ma si tratta di un vantaggio davvero interessante: **ogni anno, puoi dedurre fino a max 5300€ che avrai versato nei FP** _(nuova soglia dal 2026, fino al 2025 erano 5164€)_.  
-Significa che nella dichiarazione dei redditi, ogni anno nel quale avrai aggiunto soldi alla tua pensione, il tuo imponibile verrà decurtato della stessa cifra. Il beneficio arriva 2 mesi dopo aver presentato la dichiarazione dei redditi: **un rimborso dallo Stato in busta paga**.  
+Lo scrivo qui per ultimo, ma si tratta di un vantaggio davvero interessante: **ogni anno, è possibile dedurre fiscalmente fino a max 5300€ versati nei FP** _(nuova soglia dal 2026, fino al 2025 erano 5164€)_.  
+Significa che nella dichiarazione dei redditi, ogni anno nel quale avrai aggiunto soldi alla tua pensione, pagherai l'IRPEF sul tuo imponibile decurtato della stessa cifra. Il beneficio arriva 2 mesi dopo aver presentato la dichiarazione dei redditi: **un rimborso dallo Stato in busta paga**.  
 Contribuiscono al conteggio dei 5300€/anno i contributi volontari e quelli del datore di lavoro, ma non il TFR. E se hai più FP, devi sommare i contributi su tutti (cioè la soglia dei 5300€ è _per persona_, non per singolo FP).  
-Il rimborso che riceverai è circa proporzionale alla tua aliquota IRPEF, quindi **ogni anno, se versi 5300€ nel tuo FP, ti trovi a spanne tra i 1200€ e i 2200€ in più in tasca**.  
+Il rimborso che riceverai è circa proporzionale alla tua aliquota IRPEF, quindi **ogni anno, se versi 5300€ nel tuo FP, ti trovi a spanne tra i 1200€ e i 2200€ di tasse in meno da pagare**.  
 Ecco 2 esempi pratici per lo scaglione IRPEF intermedio (33% - _anche questo valore è stato aggiornato nel 2026, prima era 35%_):  
     - Mino ha versato nel 2025 **solamente il contributo minimo**, pari a 30€/mese, quindi l'azienda ha aggiunto il contributo datoriale pari a 50€/mese; quindi nell'intero 2025 ha versato (30+50)*12 = 960€, e il 33% di 960€ è **316€ circa** che gli vengono rimborsati in busta paga 2 mesi dopo la presentazione del 730 a metà 2026;  
-    - Massimo, che è un collega di Mino con lo stesso stipendio, ha scelto invece di integrare la propria pensione versando nel FP 360€ ogni mese: il totale è 360*12 = 4320€/anno, che si sommano ai 960€ dell'esempio precedente per arrivare a 5280€, a filo della soglia dei 5300€/anno. Il 33% di 5280€ è **1740€ circa**, che per Massimo è come una quattordicesima.
+    - Massimo, che è un collega di Mino con lo stesso stipendio, ha la possibilità di integrare la propria pensione versando nel FP 360€ ogni mese: il totale è 360*12 = 4320€/anno, che si sommano ai 960€ calcolati nell'esempio precedente per arrivare a 5280€, a filo della soglia dei 5300€/anno. Il 33% di 5280€ è **1740€ circa**, che per Massimo è come una quattordicesima.
 
 **LE MIE CONCLUSIONI:**  
 Quando a fine mese riesco a risparmiare qualcosa, lo verso nel mio FP, stando attento a non superare a fine anno la soglia massima per la deducibilità.  
 Questo perché il mio obiettivo finanziario è integrare la pensione il più possibile.  
-Avrei dovuto **impostare la mia pianificazione finanziaria per il lungo termine già all'arrivo dei primissimi stipendi** anni fa, ma... non è mai troppo tardi: i vantaggi fiscali ogni anno sono comunque molto interessanti.  
+Avrei dovuto **impostare la mia pianificazione finanziaria per il lungo termine già all'arrivo dei primissimi stipendi** anni fa, ma... non è mai troppo tardi: i vantaggi fiscali ogni anno sono comunque una gran cosa per me.  
 
 
 
-# Cambia comparto
+# Cambiare comparto
 
 I FPN hanno dei comparti di investimento piuttosto conservativi, con componente azionaria mai superiore ad una certa soglia (per esempio il 65%).  
 Oltretutto, se non si esprime alcuna scelta all'adesione, fino al 2025 **ti appioppavano di default uno dei comparti super-conservativi**, a volte anche 100% obbligazionario.  
 
 Se come me hai passato molti anni da dipendente prima di preoccupartene, allora anche tu probabilmente **hai perso centinaia/migliaia di euro "futuri" senza neanche saperlo, solo perché hai mantenuto il comparto che il fondo pre-assegna a tutti i nuovi aderenti**, e perciò i tuoi soldi sono stati investiti in larga parte in obbligazionario.  
 
-O magari hai addirittura mantenuto *intenzionalmente* quel comparto perché *"non metto la mia pensione a rischio, meglio l'opzione più sicura"* e magari ti sei beccato performance vicine allo 0%, che se ci sommi costi e tasse rischiano di tradursi in *soldi persi*.  
+O magari hai addirittura mantenuto *intenzionalmente* quel comparto perché *"non metto la mia pensione a rischio, meglio l'opzione più sicura"* e magari ti sei beccato performance vicine allo 0%, che una volta sommati costi e tasse... spesso il risultato sono *soldi persi*.  
 
 **LE MIE CONCLUSIONI:**  
 Ho **verificato quali comparti offriva il FPN al quale avevo aderito**, ce n'erano 5, ed ero stato assegnato al più conservativo per prassi.  
@@ -100,9 +100,9 @@ Dato che mi mancavano circa 20 anni alla pensione, ho modificato il mio profilo 
 
 # Il tasso di sostituzione
 
-Se sei un lavoratore dipendente, allora **devi scoprire quanti soldi riceverai ogni mese come pensione**: vai sul [Portale INPS](http://www.inps.it) e usa la ricerca in alto per trovare la pagina **"La mia pensione futura"**, oppure eccoti la [ricerca Google già fatta](https://www.google.com/search?q=la+mia+pensione+futura+site%3Ainps.it&num=1).  
+Come lavoratore dipendente, posso sapere **quanti soldi riceverò di pensione**: basta andare sul [Portale INPS](http://www.inps.it) e usare la ricerca in alto per trovare la pagina **"La mia pensione futura"**, oppure ecco la [ricerca Google già fatta](https://www.google.com/search?q=la+mia+pensione+futura+site%3Ainps.it&num=1).  
 
-Potrai verificare il tuo **"tasso di sostituzione"**, cioè la stima di quanti soldi prenderai di pensione dall’INPS rispetto al tuo ultimo stipendio presunto.  
+Il numero forse più interessante è il proprio **"tasso di sostituzione"**, cioè la stima di quanti soldi ci vengono erogati dall'INPS come pensione rispetto al nostro ultimo stipendio presunto.  
 I valori stimati per i dipendenti italiani che andranno in pensione vicino al 2050 sono **attorno al 60%**.  
 Significa che, se non provvedi ad integrare la pensione INPS, appena finirai di lavorare **i tuoi introiti mensili saranno quasi dimezzati** rispetto allo stipendio che avevi il mese prima, quando stavi organizzando il brindisi di saluto coi colleghi.  
 
@@ -131,9 +131,9 @@ Questa nozione mi è servita quando, cambiando lavoro, è cambiato anche il sett
 
 # Più fondi pensione
 
-**Puoi aprire quanti FP vuoi**, non c'è un limite.  
+**Si possono aprire quanti FP si vogliono**, non c'è un limite.  
 
-Ci sono almeno un paio di motivi per **aprire un secondo fondo pensione**.
+Ci sono almeno un paio di motivi che ritengo validi per **aprire un secondo fondo pensione**.
 
 ## Motivo 1
 Il primo motivo è **garantirti la libertà di riscattare la tua posizione interamente in forma di capitale** quando andrai in pensione.  
@@ -151,11 +151,11 @@ Per poter riscattare tutto il montante sottoforma di capitale al pensionamento c
 Questa soglia andrà calcolata nell'anno del pensionamento, perché dipende dal valore dell'Assegno Sociale di quell'anno e dai coefficienti di trasformazione legati a età e sesso - ma non serve fare i calcoli precisi in largo anticipo, l'importante è avere un'idea di massima: nel 2025 questa soglia era **attorno ai 100.000€**.  
 Raggiungere un montante di 100.000€ nell'arco di una vita lavorativa, soprattutto scegliendo di versare contributi volontari aggiuntivi, è molto probabile.
 
-Fortunatamente **questo calcolo va fatto _per ogni singolo FP_**, cioè non si fa considerando la _somma_ dei montanti se hai più FP: ecco che avere 50k in un fondo e 50k in un altro ti garantisce di rimanere in entrambi i FP sotto la soglia dei 100k, e di poter quindi decidere _liberamente_ se vuoi ricevere l'intera prestazione come 100% capitale da ciascun FP, senza essere _obbligati_ al riscatto "50% capitale + 50% rendita".  
+Fortunatamente **questo calcolo va fatto _per ogni singolo FP_**, cioè non si fa considerando la _somma_ dei montanti se hai più FP: ecco che avere 50k in un fondo e 50k in un altro garantisce di rimanere in entrambi i FP sotto la soglia dei 100k, e di poter quindi decidere _liberamente_ se ricevere l'intera prestazione come 100% capitale da ciascun FP, senza essere _obbligati_ al riscatto "50% capitale + 50% rendita".  
 
 ## Motivo 2
-Il secondo motivo è il **profilo di investimento**: di norma gli FPN limitano la parte azionaria a circa il 60% sul comparto più aggressivo che propongono, ma se ti mancano tanti anni alla pensione potrebbe interessarti una percentuale azionaria più alta.  
-Con questo obiettivo, potresti scegliere di tenere l'FPN solo perché è lì che ottieni il contributo del datore, e aderire ad un secondo FP (che sarà per forza un FPA) che sia poco costoso, nel quale versare solo contributi volontari tramite semplici bonifici, e che ti offra un profilo di investimento con una **quota azionaria maggiore**.  
+Il secondo motivo è il **profilo di investimento**: di norma gli FPN limitano la parte azionaria a circa il 60% sul comparto più aggressivo che propongono, ma se ti mancano tanti anni alla pensione potrebbe essere interessante una percentuale azionaria più alta.  
+Con questo obiettivo, potresti scegliere di tenere l'FPN perché è lì che ottieni il contributo del datore, e aderire ad un secondo FP (che sarà per forza un FPA) che sia poco costoso, nel quale versare solo contributi volontari tramite semplici bonifici, e che ti offra un profilo di investimento con una **quota azionaria maggiore**.  
 
 La soglia dei famosi 5300€/anno per massimizzare la deduzione si calcola sommando i contributi volontari e datoriali su _tutti_ i fondi pensione che hai sottoscritto, quindi fai bene i conti se ne hai due o più.  
 
@@ -168,9 +168,9 @@ La soglia dei famosi 5300€/anno per massimizzare la deduzione si calcola somma
 
 # Fondo pensione o ETF?
 
-Se hai risparmi che avanzano da investire con un orizzonte lungo, potresti domandarti se è meglio investirli in ETF oppure fare versamenti volontari in un FP.  
-Taglio la testa al toro e ti dò subito la risposta verso cui convergono tanti divulgatori: la soluzione migliore _mediamente_ sembra essere quella di **ottenere la deduzione massima dai FP versandoci fino a 5300€/anno, e investire eventuali ulteriori risparmi in ETF**.  
-Le tasse su questa somma che scegli di versare nei FP ti vengono appunto restituite grazie alla deduzione; le pagherai al pensionamento, ma saranno più basse (9-15%) rispetto a quelle che avresti pagato come IRPEF tenendo quei soldi "in tasca" (23-43%).
+Con qualche risparmio che avanza da investire con un orizzonte lungo, è lecito chiedersi se è meglio investirli in ETF oppure fare versamenti volontari in un FP.   
+Taglio la testa al toro e ti dò la risposta verso cui convergono tanti divulgatori: la soluzione più gettonata _mediamente_ sembra essere quella di **ottenere la deduzione massima dai FP versandoci fino a 5300€/anno, e investire eventuali ulteriori risparmi in ETF**.  
+Le tasse su questa somma che scelgo di versare nei FP mi vengono appunto restituite grazie alla deduzione; le pagherò al pensionamento, ma saranno più basse (9-15%) rispetto a quelle che avrei pagato come IRPEF tenendo quei soldi "in tasca" (23-43%).
 
 In [questo post di Ciao Elsa](https://www.ciaoelsa.com/blog/fondo-pensione-o-etf-cosa-conviene) ci sono le informazioni che servono su questo tema.  
 Se preferisci, in questo video se ne parla diffusamente:
@@ -180,7 +180,7 @@ Se preferisci, in questo video se ne parla diffusamente:
 I **vantaggi dell'investimento in ETF rispetto al FP** sono sostanzialmente questi:  
 - **Più libertà:** Sei 100% libero di decidere la tua allocazione, e quando e quanto disinvestire, mentre il FP è per sua natura più vincolato (c'è chi vede questo come un vantaggio dei FP, perché facilita il risparmio a lungo termine anche per i risparmiatori meno disciplinati).  
 - **Costi ricorrenti inferiori:** L’investimento in ETF ha costi ricorrenti spesso inferiori rispetto ai FP (trovi i costi degli ETF su [JustETF](https://www.justetf.com), e dei FP sul [sito COVIP](https://www.covip.it)).  
-- **Migliori rendimenti attesi:** Con un portafoglio di ETF sensato è stato possibile fino ad oggi ottenere sul lungo periodo rendimenti un po' più alti rispetto ai fondi pensione; tuttavia questi dati storici non garantiscono nulla sul futuro, come sempre. NOTA: sul sito COVIP trovi i rendimenti storici _reali_ di tutti i FP, cioè _al netto di costi e tasse_ - da tener presente se devi fare confronti con i rendimenti degli ETF.
+- **Migliori rendimenti attesi:** Con un portafoglio di ETF sensato è stato possibile fino ad oggi ottenere sul lungo periodo rendimenti un po' più alti rispetto ai fondi pensione; tuttavia questi dati storici non garantiscono nulla sul futuro, come sempre. NOTA: sul sito COVIP trovi i rendimenti storici _reali_ di tutti i FP, cioè _al netto di costi e tasse_ - da tener presente se devi fare confronti con i rendimenti degli ETF, che invece di solito sono espressi in valori _nominali_, ai quali devi togliere tu costi e tasse.  
 
 **LE MIE CONCLUSIONI:**  
 Ho deciso di **combinare FP ed ETF come investimento a lungo termine** per i motivi descritti sopra: 
@@ -199,10 +199,10 @@ Ciao Elsa ne parla in questi 2 articoli:
 * [FAQ Ciao Elsa risponde: conviene aprire un fondo pensione per i figli?](https://www.ciaoelsa.com/blog/apertura-fondo-pensione-minorenni-figli-a-carico-deducibilita)
 
 
-In sostanza, se hai figli potresti valutare di aprire un FP qualunque intestato a loro, magari quello con il costo annuo più basso, per questi motivi: 
+In sostanza, si può valutare di aprire un FP qualunque (magari quello con il costo annuo più basso) intestato a ciascun figlio, per questi motivi: 
+- fargli maturare i fatidici 35 anni di permanenza nella previdenza complementare
 - fargli un regalo a lunghissimo termine
 - dedurre i tuoi versamenti nel loro FP (sempre fino alla soglia dei 5300€/anno, alla quale contribuiscono anche i versamenti nei _tuoi_ FP)
-- fargli maturare i fatidici 35 anni di permanenza nella previdenza complementare
 
 
 
@@ -210,7 +210,7 @@ In sostanza, se hai figli potresti valutare di aprire un FP qualunque intestato 
 
 Avrai notato che molto del materiale che linko in questo post proviene da [Ciao Elsa](https://www.ciaoelsa.com/), un'azienda italiana che si occupa di previdenza complementare facendo attività di divulgazione e consulenza.
 
-Per approfondire i temi sulla previdenza integrativa, raccomando caldamente il loro [blog con decine di post e video preziosi](https://www.ciaoelsa.com/blog) che ti spiegano tutto quello che c'è da sapere per fare scelte consapevoli.
+Per approfondire i temi sulla previdenza integrativa, il loro [blog con decine di post e video preziosi](https://www.ciaoelsa.com/blog) è davvero una risorsa preziosa.
 
 Ciao Elsa è anche **intermediario autorizzato che ti consente di aderire online** ad alcuni fondi pensione anche quando questi non prevedono una procedura online nel proprio sito.
 
@@ -226,7 +226,7 @@ Le [infografiche](https://www.covip.it/per-il-cittadino/educazione-previdenziale
 Segnalo anche la pagina ["Per il cittadino"](http://www.covip.it/per-il-cittadino), dove trovi tutti i dati aggiornati di tutti i FP disponibili in Italia relativamente a:
 
 * i **rendimenti** degli ultimi 1, 5, 10, 20 anni  
-* i **costi**: questa singola informazione (**ISC** = Indicatore Sintetico di Costo) è probabilmente la più importante da valutare.
+* i **costi**: questa singola informazione (**ISC** = Indicatore Sintetico di Costo) è probabilmente la più importante da valutare, perché i rendimenti passati non dicono nulla su quelli futuri, mentre i costi sono certi.
 
 
 
