@@ -1,6 +1,6 @@
 ---
 title: "Finanza personale"
-description: "I miei appunti sul tema che mi ha appassionato di più nel 2025, rivisti in modo che possano essere utili anche ad altri"
+description: "I miei appunti sul tema che mi ha appassionato di più nel 2025"
 date: "2025-10-01"
 lastmod: '2025-12-06'
 categories: 

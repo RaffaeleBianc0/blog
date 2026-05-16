@@ -11,11 +11,11 @@ image: "images/cover.png"
 
 
 
-Ho voluto dedicare questa pagina al tema "fondi pensione" perché **riguarda tutte le persone che lavorano**, anche chi sceglie di non occuparsi degli altri aspetti della [finanza personale](/blog/categories/finanza-personale) di cui ho scritto.  
+Questa pagina è per **tutte le persone che lavorano**, anche chi sceglie di non occuparsi degli altri aspetti della [finanza personale](/blog/categories/finanza-personale).  
 Ci sono un paio di considerazioni che tutti - soprattutto noi lavoratori dipendenti - dovremmo fare appena possibile durante la carriera lavorativa, per massimizzare i vantaggi sul lungo termine.  
 Io queste considerazioni le ho fatte con 15 anni di ritardo, e non voglio nemmeno fare i conti su quanti soldi ho perso nella mia pensione futura a causa di questa negligenza.
 
-Di seguito userò queste abbreviazioni:
+Userò spesso le abbreviazioni FP, FPN, FPA:
 * **FP** = Fondo Pensione, che può essere di due tipi: FPN o FPA (vedi sotto). Esiste anche una terza categoria, i PIP (Piani Integrativi Pensionistici) venduti dalle assicurazioni, ma sono talmente poco convenienti che non ha praticamente senso valutarli.  
 * **FPN** = Fondo Pensione **Negoziale** (anche detto "chiuso" o "di categoria"): è quello associato al CCNL di riferimento della tua azienda - ad esempio è Fondo Cometa per i metalmeccanici, Fondo Fon.Te per il commercio, eccetera.
 * **FPA** = Fondo Pensione **Aperto**, chiamato così perché chiunque può aprire la propria posizione, per esempio anche se versa già nell'FPN, o se lavora in proprio, o se è disoccupato.
@@ -24,7 +24,7 @@ Di seguito userò queste abbreviazioni:
 
 # [TL;DR](https://it.wikipedia.org/wiki/TL;DR)
 
-Questo è il riassunto veloce del percorso che ho fatto personalmente sul tema.  
+Questo è il riassunto veloce di quello che ho fatto personalmente sul tema.  
 Poi più sotto trovi più dettagli.
 
 1. Scelgo di [destinare al FPN il TFR + il contributo minimo](#fondo-pensione-subito), unico modo per aggiudicarmi il contributo datoriale ogni mese, a cui non ha senso rinunciare.  

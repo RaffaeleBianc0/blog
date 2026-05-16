@@ -37,7 +37,8 @@ Ho trasformato il mio blog da Wordpress a Hugo per questi motivi.
 
 Prima di tutto, **sbarazzarmi della pubblicità**.
 
-**L'economia dell'attenzione, con la pubblicità ovunque e la profilazione costante, mi sono diventate intollerabili**, quindi liberarmi di tutto questo almeno nelle _mie_ pagine è stato il motivo numero 1 per la transizione a Hugo. Quasi una scelta etica.
+**L'economia dell'attenzione, la pubblicità ovunque e la profilazione costante sono il cancro che ha corrotto Internet**.  
+Liberarmi di questo almeno nelle _mie_ pagine è stato il motivo numero 1 per la transizione a Hugo.
 
 Questo è un piccolo blog, e non mi serve chissà quale servizio per ospitarlo, basta il minimo, e il minimo quando si tratta di Wordpress significa Wordpress.com, che per offrire il suo servizio gratuito infarcisce di stramaledetta pubblicità ogni pagina di quello che scrivi.
 
