@@ -161,7 +161,7 @@ La soglia dei famosi 5300€/anno per massimizzare la deduzione si calcola somma
 
 ## Esempio
 * **FPN**: dalla busta paga leggi chiaramente quanti euro versi ogni mese come contributo volontario, e quanti ne versa il datore: sommali a fine anno, supponiamo che esca un totale di 1000€.  
-* **FPA**: per massimizzare la deduzione, verserai nell'FPA 5300-1000 = 4300€ entro l'anno (puoi fare uno o più bonifici; nel mio caso per esempio ho impostato un bonifico mensile ricorrente).
+* **FPA**: per massimizzare la deduzione, verserai nell'FPA 5300-1000 = 4300€ entro l'anno (puoi fare uno o più bonifici; nel mio caso per esempio ho impostato un bonifico mensile automatico).
 * Nel 730 verranno riportati automaticamente i 4300€ da considerare per la deduzione; per i rimanenti 1000€ invece la deduzione è stata già applicata direttamente in ciascuna busta paga.
 * Considerando anche i versamenti del TFR, **verifica approssimativamente se a fine carriera sia il FPN che il FPA saranno sotto la soglia dei 100k; tieni presente anche l'interesse composto atteso** per il profilo di investimento che hai selezionato su entrambi, perché se hai iniziato da giovane a fare questi versamenti allora potresti "rischiare" di superare la soglia dei 100k anche interrompendo i versamenti molto prima (beato te!): in questo caso puoi valutare l'apertura di un ulteriore FPA, per esempio quando il tuo FPA avrà raggiunto i 75k di montante.
 
