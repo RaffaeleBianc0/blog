@@ -210,7 +210,7 @@ In sostanza, si può valutare di aprire un FP qualunque (magari quello con il co
 
 Avrai notato che molto del materiale che linko in questo post proviene da [Ciao Elsa](https://www.ciaoelsa.com/), un'azienda italiana che si occupa di previdenza complementare facendo attività di divulgazione e consulenza.
 
-Per approfondire i temi sulla previdenza integrativa, il loro [blog con decine di post e video preziosi](https://www.ciaoelsa.com/blog) è davvero una risorsa preziosa.
+Per approfondire i temi sulla previdenza integrativa, il loro [blog con decine di post e video](https://www.ciaoelsa.com/blog) è davvero una risorsa preziosa.
 
 Ciao Elsa è anche **intermediario autorizzato che ti consente di aderire online** ad alcuni fondi pensione anche quando questi non prevedono una procedura online nel proprio sito.
 
