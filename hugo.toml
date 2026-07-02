@@ -31,7 +31,7 @@ page = "/:slug/"
 mainSections = [ "post" ]
 featuredImageField = "image"
 rssFullContent = true
-meta.favicon = false
+meta.favicon = true
 favicon = "favicon.ico" # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
   [params.footer]
