@@ -11,9 +11,8 @@ image: "images/cover.png"
 
 
 
-Questa pagina è per **tutte le persone che lavorano**, anche chi sceglie di non occuparsi degli altri aspetti della [finanza personale](/blog/categories/finanza-personale).  
-Ci sono un paio di considerazioni che tutti - soprattutto noi lavoratori dipendenti - dovremmo fare appena possibile durante la carriera lavorativa, per massimizzare i vantaggi sul lungo termine.  
-Io queste considerazioni le ho fatte con 15 anni di ritardo, e non voglio nemmeno fare i conti su quanti soldi ho perso nella mia pensione futura a causa di questa negligenza.
+Questa pagina è soprattutto per **chi lavora come dipendente**, anche chi sceglie di non occuparsi degli altri aspetti della [finanza personale](/blog/categories/finanza-personale).  
+Ci sono un paio di considerazioni che andrebbero fatte appena possibile durante la carriera lavorativa, per massimizzare i vantaggi sul lungo termine. Io queste considerazioni le ho fatte con 15 anni di ritardo, e non voglio nemmeno fare i conti su quanti soldi ho perso nella mia pensione futura a causa di questa negligenza.
 
 Userò spesso le abbreviazioni FP, FPN, FPA:
 * **FP** = Fondo Pensione, che può essere di due tipi: FPN o FPA (vedi sotto). Esiste anche una terza categoria, i PIP (Piani Integrativi Pensionistici) venduti dalle assicurazioni, ma sono talmente poco convenienti che non ha praticamente senso valutarli.  
@@ -102,7 +101,7 @@ Dato che mi mancavano circa 20 anni alla pensione, ho modificato il mio profilo 
 
 Come lavoratore dipendente, posso sapere **quanti soldi riceverò di pensione**: basta andare sul [Portale INPS](http://www.inps.it) e usare la ricerca in alto per trovare la pagina **"La mia pensione futura"**, oppure ecco la [ricerca Google già fatta](https://www.google.com/search?q=la+mia+pensione+futura+site%3Ainps.it&num=1).  
 
-Il numero forse più interessante è il proprio **"tasso di sostituzione"**, cioè la stima di quanti soldi ci vengono erogati dall'INPS come pensione rispetto al nostro ultimo stipendio presunto.  
+Il numero forse più interessante è il proprio **"tasso di sostituzione"**, cioè la stima di quanti soldi ci verranno erogati dall'INPS come pensione, espressa come percentuale rispetto al nostro ultimo stipendio presunto.  
 I valori stimati per i dipendenti italiani che andranno in pensione vicino al 2050 sono **attorno al 60%**.  
 Significa che, se non provvedi ad integrare la pensione INPS, appena finirai di lavorare **i tuoi introiti mensili saranno quasi dimezzati** rispetto allo stipendio che avevi il mese prima, quando stavi organizzando il brindisi di saluto coi colleghi.  
 
@@ -170,7 +169,7 @@ La soglia dei famosi 5300€/anno per massimizzare la deduzione si calcola somma
 
 Con qualche risparmio che avanza da investire con un orizzonte lungo, è lecito chiedersi se è meglio investirli in ETF oppure fare versamenti volontari in un FP.   
 Taglio la testa al toro e ti dò la risposta verso cui convergono tanti divulgatori: la soluzione più gettonata _mediamente_ sembra essere quella di **ottenere la deduzione massima dai FP versandoci fino a 5300€/anno, e investire eventuali ulteriori risparmi in ETF**.  
-Le tasse su questa somma che scelgo di versare nei FP mi vengono appunto restituite grazie alla deduzione; le pagherò al pensionamento, ma saranno più basse (9-15%) rispetto a quelle che avrei pagato come IRPEF tenendo quei soldi "in tasca" (23-43%).
+Le tasse su questa somma che scelgo di versare nei FP non le pago (questa è la deduzione); le pagherò al pensionamento, ma saranno più basse (9-15%) rispetto a quelle che avrei pagato come IRPEF tenendo quei soldi "in tasca" (23-43%).
 
 In [questo post di Ciao Elsa](https://www.ciaoelsa.com/blog/fondo-pensione-o-etf-cosa-conviene) ci sono le informazioni che servono su questo tema.  
 Se preferisci, in questo video se ne parla diffusamente:

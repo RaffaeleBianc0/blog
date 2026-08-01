@@ -1,6 +1,6 @@
 ---
-title: "Schema pratico per gestire le proprie finanze"
-description: "Per gli indisciplinati come me, la soluzione migliore per mantenere la rotta è avere delle istruzioni facili da seguire"
+title: "Uno schema pratico per gestire i soldi"
+description: "Per gli indisciplinati come me, servono istruzioni facili da seguire"
 date: "2025-10-06"
 lastmod: '2026-01-03'
 categories: 

@@ -1,5 +1,5 @@
 baseURL = 'https://www.RaffaeleBianco.it/blog/'
-languageCode = 'it-it'
+Language.Locale = 'it-it'
 title = 'Mica scrivo granché'
 theme = 'hugo-theme-stack'
 enableEmoji = true
@@ -10,7 +10,7 @@ DefaultContentLanguage = "it"
 hasCJKLanguage = false
 
 [languages.it]
-languageName = "Italiano"
+label = "Italiano"
 title = "Mica scrivo granché"
 weight = 1
 params.sidebar.subtitle = "Blog di Raffaele Bianco."
