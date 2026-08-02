@@ -32,7 +32,7 @@ mainSections = [ "post" ]
 featuredImageField = "image"
 rssFullContent = true
 meta.favicon = false
-favicon = "favicon.ico" # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+favicon = "img/favicon.ico" # sotto la cartella /assets
 
   [params.footer]
   since = 2_004

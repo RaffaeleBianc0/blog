@@ -126,16 +126,19 @@ Vista la natura a lungo termine degli investimenti, visto che non vanno prese de
 ... Ma chi è che davvero resiste all'impulso di vedere _come sta andando oggi_?!  
 Per risolvere questa esigenza, segnalo questi strumenti:
 
-[**Yahoo Finanza**](https://it.finance.yahoo.com/):  
+[**pfpeek**]({{< ref "pfpeek.md" >}}) è il mio preferito, dato che me lo sono costruito su misura; però si può usare solo da PC.
+
+[**Yahoo Finanza**](https://it.finance.yahoo.com/):
 * utilizzabile sia da web che [su smartphone](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.finance&hl=it)
 * su Android ha anche un comodo widget da tenere nella Home  
 * consente di importare la storia delle proprie transazioni da un file CSV
 * mostra anche i profitti/perdite _già realizzati_ (a seguito di vendite di quote già avvenute)
 
 [**Ticker**](https://github.com/achannarasappa/ticker) e [**Tickrs**](https://github.com/tarkah/tickrs), due tool con interfaccia a caratteri da usare solo su PC.  
-Richiedono una certa inclinazione nerd per essere apprezzati (infatti li adoro), ma come spesso accade l'interfaccia minimale dei tool a caratteri veicola l'essenziale in modo molto efficace.
+Richiedono una certa inclinazione nerd per essere apprezzati (infatti li adoro), ma come spesso accade l'interfaccia minimale dei tool a caratteri veicola l'essenziale in modo molto efficace.  
+Ho preso spunto da questi due per creare il mio [pfpeek]({{< ref "pfpeek.md" >}}).
 
-[**Wallible**](https://play.google.com/store/search?q=wallible&c=apps) _(a pagamento)_:  
+[**Wallible**](https://www.wallible.com/) _(a pagamento)_:  
 * utilizzabile sia su smartphone che da web  
 * fornisce le metriche classiche sul proprio portafoglio (Sharpe Ratio, volatilità, eccetera)  
 * consente di salvare ulteriori portafogli oltre al proprio, e di usarli per fare confronti e backtest
