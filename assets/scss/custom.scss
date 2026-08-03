@@ -254,7 +254,6 @@ $codeblock-max-height: 25em;
 
 // =============================
 // END Code Blocks
-
 // =============================
 
 
@@ -287,9 +286,14 @@ strong, b {
 
 /* Evidenziazione menu sinistra su hover */
 .left-sidebar .menu li a:hover {
-    color: var(--accent-color);
+    background-color: var(--menu-item-hover-bg);
+    color: var(--menu-item-hover-color);
     font-weight: bold;
+    border-radius: 8px;
+    text-decoration: none;
 }
+
+
 
 // Personalizzazione shortcode "tasto":
 kbd {

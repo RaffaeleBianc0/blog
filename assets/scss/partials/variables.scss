@@ -42,6 +42,9 @@ Gli originali sono qui: themes\hugo-theme-stack\assets\scss\variables.scss
     --scrollbar-thumb: #555;
     --scrollbar-track: var(--body-background);
 
+    --menu-item-hover-bg: rgba(52, 73, 94, 0.08);
+    --menu-item-hover-color: var(--accent-color);
+
     &[data-scheme="dark"] {
         --body-background: #303030;
         --accent-color: #eee;
@@ -50,6 +53,8 @@ Gli originali sono qui: themes\hugo-theme-stack\assets\scss\variables.scss
         --body-text-color: #ccc;
         --scrollbar-thumb: #777;
         --scrollbar-track: var(--body-background);
+        --menu-item-hover-bg: rgba(255, 255, 255, 0.12);
+        --menu-item-hover-color: var(--accent-color);
     }
 }
 /*
