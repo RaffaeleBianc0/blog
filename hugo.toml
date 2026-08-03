@@ -130,6 +130,9 @@ type = "archives"
 #   [params.widgets.homepage.params]
 #   limit = 10
 
+# [[params.widgets.homepage]]
+# type = "kofi"
+
 [[params.widgets.page]]
 type = "toc"
 
@@ -221,11 +224,11 @@ url = "http://linkedin.com/in/RaffaeleBianco"
 weight = 999
 params.icon = "brand-linkedin"
 
-# [[menu.social]]
-# identifier = "github"
-# name = "GitHub"
-# url = "http://github.com/RaffaeleBianc0"
-# params.icon = "brand-github"
+[[menu.social]]
+identifier = "github"
+name = "GitHub"
+url = "http://github.com/RaffaeleBianc0"
+params.icon = "brand-github"
 
 
 
