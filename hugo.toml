@@ -68,8 +68,8 @@ favicon = "img/favicon.ico" # sotto la cartella /assets
 # - https://giscus.app/it integrato con Github
 # - Ulteriori provider: https://cloudcannon.com/jamstack-ecosystem/commenting/
   [params.comments]
-  enabled = false
-  provider = "cusdis"
+  enabled = true
+  provider = "giscus"
 
     [params.comments.disqusjs]
     shortname = []
@@ -101,13 +101,22 @@ favicon = "img/favicon.ico" # sotto la cartella /assets
     siteName = ""
 
     [params.comments.giscus]
-    reactionsEnabled = 1
-    emitMetadata = 0
-
+    reactionsEnabled = "1"
+    emitMetadata = "0"
+    repo = "RaffaeleBianc0/blog"
+    repoID = "R_kgDOLMqF7Q"
+    category = "Announcements"
+    categoryID = "DIC_kwDOLMqF7c4DDGEa"
+    mapping = "title"
+    darkTheme = "noborder_dark"
+    lightTheme = "noborder_light"
+    inputPosition = "top"
+    strict = "1"
+    
     [params.comments.gitalk]
 
     [params.comments.cusdis]
-    id = "131e48ee-ab16-4076-a340-394cf7c60e9e"
+    # id = "131e48ee-ab16-4076-a340-394cf7c60e9e"
 
 [[params.widgets.homepage]]
 type = "search"
@@ -193,20 +202,21 @@ params.newTab = false
 identifier = "github"
 name = "GitHub"
 url = "http://github.com/RaffaeleBianc0"
+weight = 111
 params.icon = "brand-github"
 
 [[menu.social]]
 identifier = "youtube"
 name = "YouTube"
 url = "http://youtube.com/RaffaeleBianco"
-weight = 777
+weight = 222
 params.icon = "brand-youtube"
 
 [[menu.social]]
 identifier = "ytmusic"
 name = "YouTube Music"
 url = "http://music.youtube.com/channel/UCMwsz2fHAaRfeoezKfp0I0g"
-weight = 888
+weight = 333
 params.icon = "youtube-music"
 
 [[menu.social]]
@@ -214,20 +224,20 @@ identifier = "facebook"
 name = "Facebook"
 url = "http://facebook.com/RaffaeleBianco"
 params.icon = "brand-facebook"
-weight = 111
+weight = 444
 
 [[menu.social]]
 identifier = "instagram"
 name = "Instagram"
 url = "http://instagram.com/RaffaeleBianc0"
-weight = 666
+weight = 555
 params.icon = "brand-instagram"
 
 [[menu.social]]
 identifier = "linkedin"
 name = "Linkedin"
 url = "http://linkedin.com/in/RaffaeleBianco"
-weight = 999
+weight = 666
 params.icon = "brand-linkedin"
 
 

@@ -2,7 +2,7 @@
 title: "Uno schema pratico per gestire i soldi"
 description: "Per gli indisciplinati come me, servono istruzioni facili da seguire"
 date: "2025-10-06"
-lastmod: '2026-01-03'
+lastmod: '2026-08-10'
 categories: 
   - "finanza personale"
 image: "images/cover.png"
@@ -66,12 +66,21 @@ _Ho poi scoperto che su [Ciao Elsa](https://ciaoelsa.com) è possibile aderire o
 ## Chiusura posizioni precedenti
 Ho analizzato i prospetti informativi di un paio di prodotti che avevo acquistato anni fa (quando ancora non mi interessavo a questi temi), **ho confrontato i rendimenti ed i costi con quelli attesi dagli investimenti in FPA ed ETF**, ed è emersa la conclusione limpida: meglio chiudere tutto e spostare il capitale investito, prima di farmi mangiare ulteriori rendimenti da costi ricorrenti davvero esagerati.  
 
+In questo capitolo ci metto anche il cambio di fornitore per le utenze.  
+La app [Billoo](https://play.google.com/store/apps/details?id=it.billoo.billoo) fa un ottimo lavoro, basta inoltrargli una tua bolletta - e giuro che nessuno mi ha telefonato poi, quindi la discrezione che promettono pare confermata!  
+Billoo ha dato il voto massimo al fornitore che ho già per l'energia, che è [Octopus Energy](https://octopusenergy.it/octo-friends/clever-pear-303): se clicchi [qui](https://octopusenergy.it/octo-friends/clever-pear-303) e attivi una fornitura Octopus, ottieni un bello sconto sulla prima bolletta che riceverai - verifica le condizioni direttamente nella pagina che si apre.  
+E' faticoso? Macché! Ci avrò messo 5 minuti a farla grande, il tempo di compilare il modulo, poi fanno tutto loro. Zero interruzione di servizio, zero sbattimenti. Anche qua, come con i fornitori di telefonia, **conviene saltare da un operatore all'altro man mano che escono offerte più vantaggiose**, non ci sono controindicazioni.
+
 ## Estinzione debiti + eventuale surroga mutuo casa
 Non era il mio caso, ma in questa fase iniziale ci metterei anche questo passaggio.
 Inutile pensare ad investire per portare a casa un rendimento positivo, se dall'altra parte ci sono finanziamenti per i quali paghiamo un tasso di interesse che combatte contro questo rendimento.  
 
 Riguardo al mutuo casa, se il tasso del mutuo in corso è superiore di qualche decimale rispetto ai preventivi che si possono fare online, allora sul lungo periodo **si stanno già perdendo migliaia di euro**.  
 Bisogna chiedere senz'altro alla propria banca di rivedere le condizioni in modo da allinearsi, altrimenti con pochissimo sforzo e zero spese (grazie al **Decreto Bersani** - cfr. [Wikipedia](https://it.wikipedia.org/wiki/Decreto_Bersani_bis#Surroga_dei_mutui_a_costo_zero) e [il decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-01-31;7) all'articolo 8) si fa una surroga del mutuo, trasferendolo alla banca che offre un miglior TAEG oggi.  
+
+E se uno ha liquidità sufficiente ad **estinguere il mutuo**?  
+Se il tasso di interesse del mutuo è "basso" (diciamo attorno al tasso BCE corrente), allora in generale è meglio investire quei soldi invece di usarli per chiudere il mutuo, perché sul lungo periodo e con un portafoglio bilanciato è molto probabile che il rendimento sia maggiore del tasso del mutuo.  
+Certo la serenità di liberarsi del peso della rata mensile fa gola, ma raramente la combinazione "razionalità + emotività" produce risultati ottimali quando si tratta di soldi.
 
 ## Budgeting
 Per tracciare le mie spese e farmi un'idea di quanto riesco a risparmiare mediamente ogni mese, ho usato la app [**Wallet** di Budgetbakers](https://budgetbakers.com/en/products/wallet/) perché si collega al mio conto corrente una volta al giorno per leggere saldo e transazioni, le categorizza automaticamente, e fornisce report e statistiche molto utili.  
@@ -82,14 +91,23 @@ A livello metodologico, ho deciso di adottare il **reverse budgeting**: do prior
 Il solo fatto di poter controllare le spese in 5 secondi aprendo una app mi ha regalato un po' più di consapevolezza su cosa vale davvero la pena acquistare e cosa no; e trovo utile poter guardare i report automatici a fine mese confrontando i vari mesi a colpo d'occhio.
 
 ## Conto corrente
-Ho deciso di tenere il conto che ho già, nonostante sia più costoso di tanti altri disponibili. La banca è tra le più solide in Italia, quindi sono a posto così per ora.  
+**UPDATE AGOSTO 2026:**  
+Dopo tanto tentennare, ho finalmente deciso di cambiare banca.  
+La mia banca precedente, dove avevo il conto da una decina d'anni, ha aggiunto una immotivata tassa di mezzo euro per ogni bonifico automatico in uscita.  
+E' stata la goccia che ha fatto traboccare il vaso: già il conto mi costava 8 euro/mese, più altri 40 euro/anno circa di carta di credito... ho scritto una email chiedendo di allineare le condizioni a quelle di Fineco One e di darmi riscontro entro 2 settimane. Mi hanno chiamato per dirmi che non potevano fare nulla, quindi mezz'ora dopo avevo già completato la richiesta per il mio nuovo conto Fineco One con carta debit + credit fisiche, dal costo totale di 30 euro/anno, con bonifici automatici e prelievi in tutta Italia gratuiti.  
+E tanti saluti ai balzelli medievali e agli impiegati di banca che provano a venderti cose!  
 
-Se avessi dovuto cambiare conto corrente, allora avrei fatto come ho fatto anni fa per scegliere il mio conto attuale: privilegiare la **solidità della banca**, che è misurata da alcuni indicatori (per il 2025 ad esempio c'è [questo articolo di Milano Finanza](https://www.milanofinanza.it/news/quali-sono-le-banche-piu-sicure-ecco-le-pagelle-bce-e-i-dati-di-bilancio-dei-principali-istituti-in-italia-202511211804564119)), e in secondo luogo i **bassi costi**. La disponibilità di una sede fisica vicina credo sia irrilevante oggi, si fa tutto online senza problemi, anzi penso che sia un plus notevole poter evitare l'impiegato di banca che prova a venderti cose.
+Fineco è uscita con questa nuova offerta "Fineco One" proprio nel momento in cui mi serviva: conto solo online, supporto solo via email, costo zero - praticamente quello che ho sempre sognato per il mio conto corrente.
 
-Segnalo che **il trasferimento di un conto corrente ad un altro istituto è gratuito** per legge ([Testo Unico Bancario](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), articolo "126 septies") e la nuova banca si occupa di tutto, compreso il trasloco delle domiciliazioni (già sperimentato personalmente anni fa).  
-Resteranno comunque da fare un po' di pratiche come l'attivazione delle nuove carte e relativa associazione a PayPal Amazon e simili, prima di chiudere definitivamente il vecchio conto.  
+La banca è piuttosto solida, ci sono alcuni indicatori che lo dicono (per il 2025 ad esempio c'è [questo articolo di Milano Finanza](https://www.milanofinanza.it/news/quali-sono-le-banche-piu-sicure-ecco-le-pagelle-bce-e-i-dati-di-bilancio-dei-principali-istituti-in-italia-202511211804564119)).
 
-Il [forum di FinanzaOnLine](https://forum.finanzaonline.com/forums/banking-carte-di-credito-conti-deposito-e-corren.7/) può aiutare davvero molto nella scelta: c'è un post molto frequentato con un foglio di calcolo aggiornatissimo che contiene le informazioni utili su tutti i conti correnti.
+In questi mesi sto anche usando **Conto Corrente Arancio di ING**: a mio gusto, la loro app e il loro sito sono addirittura leggermente migliori rispetto a quelli di Fineco, e i costi ancora più bassi - esattamente ZERO anche con 2 carte di debito + 1 carta di credito agganciate al conto.  
+Se ti piace questa prospettiva, inserisci il mio codice amico ING **9DCFA4** all'apertura del conto: dovrebbe esserci un vantaggio sia per te che per me (verifica sul sito ING, queste condizioni cambiano di tanto in tanto).
+
+Segnalo che **il trasferimento del conto corrente ad un altro istituto è gratuito** per legge ([Testo Unico Bancario](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), articolo "126 septies") e la nuova banca si è occupata di tutto, compreso il trasloco delle domiciliazioni...  Uno pensa "chissà che rottura di scatole comunicare i nuovi dati a tutti i fornitori acqua luce gas assicurazioni eccetera", e invece ha fatto tutto Fineco!  
+Ho solo dovuto aggiustare Google Pay, PayPal e Amazon per agganciare le nuove carte di debito/credito, ma si è trattato davvero di pochi minuti.  
+
+Il [forum di FinanzaOnLine](https://forum.finanzaonline.com/forums/banking-carte-di-credito-conti-deposito-e-corren.7/) può aiutare davvero molto nella scelta del nuovo conto corrente: c'è un post molto frequentato con un foglio di calcolo aggiornatissimo che contiene tutte le informazioni utili per scegliere.
 
 ## Fondo di emergenza
 Ho usato [Deposifire.com](https://deposifire.com/) per scegliere un conto deposito svincolato con il tasso di interesse più alto tra quelli disponibili, e l’ho aperto con il solo scopo di contenere metà del mio FdE.  
