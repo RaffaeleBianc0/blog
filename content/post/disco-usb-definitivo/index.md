@@ -6,7 +6,7 @@ lastmod: '2026-08-08'
 categories: 
   - "tecnologia"
 image: "images/disco-usb.png"
-draft: "true"
+draft: true
 ---
 
 A forza di esperimenti con virtual machines, chiavette usb, dischi esterni e ISO avviabili, credo di essere finalmente arrivato al disco esterno definitivo.

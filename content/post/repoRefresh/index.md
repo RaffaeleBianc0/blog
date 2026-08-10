@@ -6,7 +6,7 @@ lastmod: '2026-08-08'
 categories: 
   - "tecnologia"
 image: "images/repoRefresh.png"
-draft: "true"
+draft: true
 ---
 
 # WIP

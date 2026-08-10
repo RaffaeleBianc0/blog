@@ -6,7 +6,7 @@ lastmod: '2026-08-08'
 categories: 
   - "tecnologia"
 image: "images/dotfiles.png"
-draft: "true"
+draft: true
 ---
 
 mklink /H C:\secondo.ext C:\primo.ext
