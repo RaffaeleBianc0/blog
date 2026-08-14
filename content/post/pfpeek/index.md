@@ -15,7 +15,7 @@ A proposito del ["portfolio tracking"](/blog/p/risorse-per-la-finanza-personale/
 
 E così ho fatto **pfpeek**.  
 "pf" perché riguarda il *portfolio*.  
-"peek" perché è un verbo che descrive è are una sbirciatina ai valori.
+"peek" perché quello che fa è proprio dare una sbirciatina ai valori.
 
 Lo trovi qui:  
 {{< bottone link="https://github.com/RaffaeleBianc0/pfpeek" >}}
