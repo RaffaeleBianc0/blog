@@ -9,12 +9,6 @@ image: "images/appsRefresh.png"
 draft: true
 ---
 
-
-
-*Coming soon...*
-
-
-
 Questo script PowerShell scarica, installa e aggiorna una lista di applicazioni nel PC.
 
 Lo uso:
@@ -24,5 +18,4 @@ Lo uso:
 Per fare quanto sopra si può usare semplicemente winget, ma vuoi mettere l'interfaccia con le progressbar e il multithread? 😉
 
 Lo trovi qui:
-
-https://github.com/RaffaeleBianc0/appsRefresh
+{{< bottone link="https://github.com/RaffaeleBianc0/appsRefresh" >}} appsRefresh su GitHub {{< /bottone >}}
