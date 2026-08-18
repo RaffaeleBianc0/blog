@@ -6,7 +6,7 @@ lastmod: '2026-08-10'
 categories: 
   - "tecnologia"
 image: "images/appsRefresh.png"
-draft: true
+draft: false
 ---
 
 Questo script PowerShell scarica, installa e aggiorna una lista di applicazioni nel PC.
