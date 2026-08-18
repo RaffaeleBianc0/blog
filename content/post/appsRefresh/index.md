@@ -1,17 +1,16 @@
 ---
 title: "appsRefresh"
-description: "..."
+description: "Il modo più facile per installare e aggiornare tutti i software"
 date: "2026-07-01"
-lastmod: '2026-08-10'
+lastmod: '2026-08-18'
 categories: 
   - "tecnologia"
-image: "images/appsRefresh.png"
 draft: false
 ---
 
 Questo script PowerShell scarica, installa e aggiorna una lista di applicazioni nel PC.
 
-Niente più girovagare tra i siti web, scaricare setup, esegui, avanti avanti avanti, aspetta, fine, prossimo sito web, daccapo... Invece lanci appsRefresh e intanto fai altro, si occupa lui di tutto.
+Niente più girovagare tra i siti web, scaricare setup, esegui, avanti avanti avanti, aspetta, fine, prossimo sito web, daccapo... Molto più facile lanciare appsRefresh e intanto fare altro, si occupa lui di tutto.
 
 Lo uso:
 - appena dopo aver installato Windows
