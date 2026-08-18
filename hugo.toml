@@ -62,6 +62,25 @@ favicon = "img/favicon.ico" # sotto la cartella /assets
     # default = "Licensed under CC BY-NC-SA 4.0"
     default = 'Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">'
 
+    [params.article.mermaid]
+      version = "11"           # Mermaid version from CDN
+      look = "classic"         # classic or handDrawn (sketch style)
+      lightTheme = "default"   # Theme for light mode
+      darkTheme = "base"       # Theme for dark mode
+      securityLevel = "loose"  # strict (default), loose, antiscript, sandbox
+      htmlLabels = true        # Enable HTML in labels
+      maxTextSize = 50000      # Maximum text size (default: 50000)
+      maxEdges = 500           # Maximum edges allowed (default: 500)
+      fontSize = 16            # Global font size in pixels (default: 16)
+      fontFamily = "arial"     # Global font family
+      curve = "basis"          # Line curve: basis, cardinal, linear (default: basis)
+      logLevel = 5             # Debug level 0-5, 0=debug, 5=fatal (default: 5)
+
+      [params.article.mermaid.darkThemeVariables]
+        primaryColor = "#1f2937"
+        primaryTextColor = "#ffffff"
+        lineColor = "#9ca3af"
+        textColor = "#e5e7eb"
 
 # COMMENTI
 # - graphcomment.com

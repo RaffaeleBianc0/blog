@@ -137,7 +137,7 @@ Quando investo acquisto quote degli ETF in modo da tendere a mantenere i pesi ch
 
 Dopo aver impostato tutto come descritto sopra, ogni mese dopo l’accredito dello stipendio mi preoccupo delle mie finanze seguendo questo ordine:
 
-![](images/mermaid-diagram-FP-first.png)
+![](images/mermaid4.svg)
 
 ## Addebiti automatici
 Dato che ho deciso di avere delle coperture assicurative, e di dedurre il massimo ogni anno tramite i versamenti nel fondo pensione, nel mio metodo ho previsto l'**addebito automatico dei premi assicurativi**, e un **versamento mensile regolare nel fondo pensione** tale per cui a fine anno, sommando i miei versamenti + il contributo datoriale, raggiungo la soglia massima deducibile (i fatidici 5300€/anno).
