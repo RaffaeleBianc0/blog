@@ -22,6 +22,4 @@ Lo trovi qui:
 pfpeek su GitHub
 {{< /bottone >}}
 
-La maggior parte delle informazioni sono direttamente all'inizio dello script, perché mi piace questo approccio all-in-one.
-
 Provalo, specie se come me sei spesso al PC.
