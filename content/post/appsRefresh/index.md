@@ -1,6 +1,6 @@
 ---
 title: "appsRefresh"
-description: "Il modo più facile per installare e aggiornare tutti i software"
+description: "Installa e aggiorna tutti i software con un singolo comando"
 date: "2026-07-01"
 lastmod: '2026-08-18'
 categories: 
