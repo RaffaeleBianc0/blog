@@ -18,7 +18,7 @@ Docente universitario, ricercatore, e content creator che produce contenuti di g
 Segnalo in particolare:
 
 * [**"Educati e finanziati"**](https://www.educatiefinanziati.it), il suo corso di finanza personale _base base base_, fondamentale per chi ha poca dimestichezza e ricchissimo di informazioni anche per chi ne sa già qualcosa.  
-* [**La versione condensata in un video di un’oretta** dello stesso corso](https://www.youtube.com/watch?v=wMOP4b5saxk). Questo potrebbe essere **la primissima cosa da guardare in assoluto approcciando questi temi per qualunque persona**, dallo studente al lavoratore all'ereditiero miliardario.  
+* [**La versione condensata in un video di un’oretta** dello stesso corso](https://www.youtube.com/watch?v=wMOP4b5saxk). Questo potrebbe essere **la primissima cosa da guardare approcciando questi temi per qualunque persona**, dallo studente al lavoratore all'ereditiero miliardario.  
 * [Decine e decine di altri suoi video](https://www.youtube.com/@PaoloColetti) dove analizza **quantitativamente** tutti i temi elaborando dati storici con Excel e Python, una vera miniera di informazioni preziose e soprattutto **ricavate dai dati, non da opinioni**. Grande!  
 * Una community molto vivace, che discute su Telegram e Reddit, e che ogni tanto si ritrova fisicamente in giro per l'Italia.
 

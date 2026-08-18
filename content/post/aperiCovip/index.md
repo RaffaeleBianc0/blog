@@ -11,7 +11,7 @@ draft: false
 ---
 
 Per scegliere un fondo pensione, specie un FPA, i parametri essenziali sono 2:
-- i costi (ISC = Indicatore Sintetico dei Costi, la cosa più importante in assoluto)
+- i costi (ISC = Indicatore Sintetico dei Costi, la cosa più importante)
 - i rendimenti passati (anche se ovviamente non sono garanzia di quelli futuri)
 
 Questi parametri sono pubblicati periodicamente sul sito della COVIP.
