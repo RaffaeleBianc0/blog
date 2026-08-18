@@ -285,15 +285,56 @@ strong, b {
 }
 
 /* Evidenziazione menu sinistra su hover */
+.left-sidebar .menu li a {
+    padding: 4px 6px;
+}
 .left-sidebar .menu li a:hover {
+    display: block; /* Fondamentale per far applicare correttamente il padding e l'area cliccabile */
+    transition: all 0.2s ease; /* Opzionale: rende il passaggio del mouse più fluido */
     background-color: var(--menu-item-hover-bg);
     color: var(--menu-item-hover-color);
-    font-weight: bold;
     border-radius: 8px;
     text-decoration: none;
 }
 
+/* Hover uniforme per social icons e toolbar di destra, come il menu sinistro */
+.social-menu a,
+.social-menu li a,
+.right-sidebar .menu a,
+.right-sidebar .menu li a,
+.right-sidebar .widget a,
+.right-sidebar .widget li a,
+.widget--toc a,
+.toolbar a,
+.site-navigation a {
+    transition: all 0.2s ease;
+    display: inline-block;
+}
 
+.social-menu a:hover,
+.social-menu li a:hover,
+.right-sidebar .menu a:hover,
+.right-sidebar .menu li a:hover,
+.right-sidebar .widget a:hover,
+.right-sidebar .widget li a:hover,
+.widget--toc a:hover,
+.toolbar a:hover,
+.site-navigation a:hover {
+    background-color: var(--menu-item-hover-bg);
+    color: var(--menu-item-hover-color);
+    text-decoration: none;
+}
+
+.social-menu a:hover svg,
+.social-menu a:hover i,
+.social-menu a:hover span,
+.right-sidebar .menu a:hover svg,
+.right-sidebar .menu a:hover i,
+.right-sidebar .widget a:hover svg,
+.right-sidebar .widget a:hover i {
+    color: var(--menu-item-hover-color) !important;
+    stroke: var(--menu-item-hover-color) !important;
+}
 
 // Personalizzazione shortcode "tasto":
 kbd {

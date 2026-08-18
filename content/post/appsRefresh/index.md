@@ -5,6 +5,7 @@ date: "2026-07-01"
 lastmod: '2026-08-18'
 categories: 
   - "tecnologia"
+image: "images/appsRefresh.gif"
 draft: false
 ---
 
