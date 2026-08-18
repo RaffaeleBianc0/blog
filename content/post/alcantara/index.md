@@ -9,4 +9,6 @@ Image: "images/0.jpg"
 
 "Alcântara" di Baden Powell, nuova tappa del mio lento e discontinuo percorso di esplorazione fai-da-te della chitarra classica.
 
+Anche in questo caso l'esecuzione è piuttosto brutta, e la pubblico giusto come "diario di dove mi sono fermato".
+
 {{< youtube id="SWzqoPfTERc" >}}
