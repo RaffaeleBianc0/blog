@@ -11,11 +11,13 @@ draft: true
 
 Questo script PowerShell scarica, installa e aggiorna una lista di applicazioni nel PC.
 
-Lo uso:
-- appena dopo aver installato Windows, perché con una sola esecuzione fa tutto da solo e mi ritrovo tutte le app installate
-- ogni tanto, per aggiornare la stessa lista di app
+Niente più girovagare tra i siti web, scaricare setup, esegui, avanti avanti avanti, aspetta, fine, prossimo sito web, daccapo... Invece lanci appsRefresh e intanto fai altro, si occupa lui di tutto.
 
-Per fare quanto sopra si può usare semplicemente winget, ma vuoi mettere l'interfaccia con le progressbar e il multithread? 😉
+Lo uso:
+- appena dopo aver installato Windows
+- ogni tanto, per aggiornare la stessa lista di app, ognuna all'ultima versione disponibile
+
+Per fare queste cose puoi usare semplicemente winget, ma vuoi mettere l'interfaccia con le progressbar e il multithread? 😉
 
 Lo trovi qui:
 {{< bottone link="https://github.com/RaffaeleBianc0/appsRefresh" >}} appsRefresh su GitHub {{< /bottone >}}
