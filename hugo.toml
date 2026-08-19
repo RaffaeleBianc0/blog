@@ -231,12 +231,12 @@ url = "http://youtube.com/RaffaeleBianco"
 weight = 222
 params.icon = "brand-youtube"
 
-[[menu.social]]
-identifier = "ytmusic"
-name = "YouTube Music"
-url = "http://music.youtube.com/channel/UCMwsz2fHAaRfeoezKfp0I0g"
-weight = 333
-params.icon = "youtube-music"
+# [[menu.social]]
+# identifier = "ytmusic"
+# name = "YouTube Music"
+# url = "http://music.youtube.com/channel/UCMwsz2fHAaRfeoezKfp0I0g"
+# weight = 333
+# params.icon = "youtube-music"
 
 [[menu.social]]
 identifier = "facebook"
