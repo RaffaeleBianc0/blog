@@ -17,14 +17,14 @@ Usando gli _ingredienti_ del post [Risorse per la finanza personale]({{< ref "fp
 
 # [TL;DR](https://it.wikipedia.org/wiki/TL;DR)
 
-1. Ho **imparato** le nozioni di base in qualche ora.
-1. Ho **attivato gli account** necessari (FPN, FPA, conto deposito, conto titoli).
-1. Ho **chiuso vecchi strumenti costosi** e spostato il capitale distribuendolo opportunamente nei nuovi strumenti appena attivati.
-1. Ho **mantenuto conto corrente e assicurazioni** che già avevo.
+1. Ho [**imparato**](#formazione) le nozioni di base in qualche ora.
+1. Ho **attivato gli account** necessari ([FPN](#fpn), [FPA](#fpa), [conto deposito](#fondo-di-emergenza), [conto titoli](#conto-titoli)).
+1. Ho [**chiuso vecchi strumenti costosi**](#chiusura-posizioni-precedenti) e spostato il capitale distribuendolo opportunamente nei nuovi strumenti appena attivati.
+1. Ho **mantenuto [conto corrente](#conto-corrente) e [assicurazioni](#assicurazioni)** che già avevo.
 1. Ho **impostato il FPN**: destinazione del TFR, versamento del contributo minimo, selezione del comparto più aggressivo.
 1. Ho impostato un **versamento mensile nel FPA**.
-1. Ho **investito in ETF** nel modo più semplice per cominciare.
-1. Ogni mese faccio **un paio di operazioni molto semplici**, che mi richiedono pochi minuti.
+1. Ho **[investito in ETF](#etf)** nel modo più semplice per cominciare.
+1. [Ogni mese](#ogni-mese) faccio **un paio di operazioni molto semplici**, che mi richiedono pochi minuti.
 
 
 
@@ -41,9 +41,9 @@ Nella quantità di contenuti sul tema che ho guardato, ascoltato, e letto online
 Questo ti porterà via un po' più tempo, ma lo stile di Coletti renderà tutto facile e leggero, fidati!  
 Il sito contiene sia i video che una dispensa con tutti i contenuti.  
 Trovi il corso anche in formato podcast nelle varie piattaforme.
-1. [The Bull](https://italia-podcast.it/podcast/the-bull-il-tuo-podcast-di-finanza-personale): se sei consumatore di podcast come il sottoscritto, allora anche "The Bull" di Riccardo Spada merita la tua attenzione.  
+1. [The Bull](https://www.thebull.it/podcast): se sei consumatore di podcast come il sottoscritto, allora anche "The Bull" di Riccardo Spada merita la tua attenzione.  
 Parla soprattutto di temi legati all'investimento.  
-Le prime 10 puntate circa sono quelle fondamentali, oppure ascolta per prima la puntata n°20 per avere un riassunto in 20 minuti e farti un'idea.
+Le prime 10 puntate circa sono quelle fondamentali per imparare le basi, oppure ascolta per prima la puntata n°20 per avere un riassunto in 20 minuti e farti un'idea, o ancora potresti scegliere la "The Bull summer school" di metà 2026, che rivisita i fondamentali in 8 episodi a partire dall'[episodio 341](https://www.thebull.it/podcast/inizi-ad-investire-ora-comincia-cosi/).
 1. [Ciao Elsa](https://www.ciaoelsa.com/) per informarsi sui fondi pensione, in particolare i video che ho linkato nel [mio post sul tema]({{< ref "fp-fondipensione.md" >}}).
 
 ## FPN
@@ -114,10 +114,8 @@ Ho usato [Deposifire.com](https://deposifire.com/) per scegliere un conto deposi
 L'altra metà ho deciso di parcheggiarla in un ETF monetario, giusto per diversificare.
 
 ## Assicurazioni
-Avevo già provveduto qualche anno fa, e per pigrizia tengo quello che ho, perché sono polizze di una assicurazione nota che esiste da decenni.  
-Devo valutare una LTC, ma ancora non lo ho fatto.
-
-Se non avessi alcuna copertura, allora oggi probabilmente sceglierei tra le compagnie più grandi e che consentono di operare online.
+Avevo già provveduto qualche anno fa, e nel 2026 ho integrato anche una LTC.  
+Sono polizze di una assicurazione nota che esiste da decenni, e l'assicuratore è una persona di fiducia che mi dà un servizio eccellente al quale non rinuncerei per pochi euro di differenza che posso trovare presso altre compagnie.  
 
 ## Conto titoli
 La mia banca mi offre un conto titoli con costi imbarazzanti, quindi ho deciso di **aprirne uno presso un broker**.  

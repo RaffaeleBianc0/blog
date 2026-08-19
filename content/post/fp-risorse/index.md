@@ -69,13 +69,13 @@ Trattandosi di dati alimentati da utenti volonterosi, una volta fatta una scelta
 
 # Investimenti
 
-[The Bull](https://italia-podcast.it/podcast/the-bull-il-tuo-podcast-di-finanza-personale)  
-Il motivo per cui ho iniziato a interessarmi di finanza personale, uno dei podcast più ascoltati in Italia, che affronta l'argomento in modo leggero ma mai superficiale.  
+[The Bull](https://www.thebull.it/podcast)  
+**Il motivo per cui ho iniziato a interessarmi di finanza personale**, uno dei podcast più ascoltati in Italia, che affronta l'argomento in modo leggero ma mai superficiale.  
 A metà 2024 un collega mi dice "Ho iniziato ad ascoltare un podcast di finanza personale, si chiama The Bull, interessante".  
 Per anni alla parola "finanza" il mio cervello ha associato istantaneamente "cheppàlle" e il discorso è sempre finito lì.  
 Invece stavolta ho ascoltato due o tre puntate scegliendole in base al titolo, e qualcosa è scattato: ho ripreso dalla puntata n°1 e in un paio di mesi ho ascoltato i primi 140 episodi.  
 Poi ho acquistato [il primo libro](https://amzn.to/3Y7zGZ5) dell'autore, una trasposizione su testo della parte più formativa del podcast. E a fine 2025 anche [il secondo libro](https://amzn.to/4pnnZIz), che riassume brevemente il primo e arricchisce la trattazione con più dettagli.  
-Le prime 10 puntate del podcast sono forse le più importanti, e hanno un carattere didattico. Più avanti nel podcast vengono inseriti anche episodi di aggiornamento mensili e interviste con personaggi clamorosi nel mondo della finanza, tra giornalisti, investitori, e premi nobel.  
+Le prime 10 puntate del podcast sono forse le più importanti, e hanno un carattere didattico. Più avanti nel podcast vengono inseriti anche episodi di aggiornamento mensili e interviste con personaggi clamorosi nel mondo della finanza, tra giornalisti, investitori, e premi Nobel.  
 Da metà 2025 The Bull è anche un [canale YouTube](http://www.youtube.com/@thebull_finance): non male, ma personalmente continuo a preferire la versione podcast.
 
 [JustETF](http://www.JustETF.com)  

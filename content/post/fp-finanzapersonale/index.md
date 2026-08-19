@@ -210,10 +210,11 @@ E' un tema forse un po' collaterale rispetto agli investimenti veri e propri, ma
 Ecco qualche esempio di polizze che si possono valutare:
 
 * **polizza infortuni**: attorno ai 25€/mese per coprire gli incidenti più tipici che mi ostacolerebbero/impedirebbero l'attività lavorativa.  
-* **polizza TCM (Temporanea Caso Morte)**: attorno ai 20€/mese per coprire la più nefasta delle eventualità, rimborsando un certo capitale al beneficiario designato.  
+* **polizza TCM (Temporanea Caso Morte)**: attorno ai 30€/mese per coprire la più nefasta delle eventualità, rimborsando un certo capitale al beneficiario designato.  
 * **polizza responsabilità civile**: attorno ai 15€/mese per coprire qualche casistica relativa a danni fatti ad altri.  
-* **polizza LTC (Long Term Care)**: questa credo sia più costosa (devo ancora informarmi), e copre la perdita dell'autosufficienza.
+* **polizza LTC (Long Term Care)**: attorno ai 20€/mese per coprire la perdita dell'autosufficienza.
 
+Non è semplice decidere quali coperture attivare in base al proprio budget, e credo che un buon assicuratore possa guidare la scelta nel modo migliore.
 
 
 # Fondi pensione
