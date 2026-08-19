@@ -28,7 +28,7 @@ Ci ho messo qualche ora.
 Per facilitare la vita al prossimo, ho pensato di fare **aperiCovip**, una pagina web che ti guida in 3 semplici passaggi a fare la stessa valutazione, ma con un risultato molto più fruibile e ottenuto in un minuto con pochi click.
 
 Trovi la webapp qui:  
-{{< bottone link="/aperiCovip" >}} aperiCovip {{< /bottone >}}
+{{< bottone link="/apericovip" >}} aperiCovip {{< /bottone >}}
 
 La repo Github è invece qui:  
 {{< bottone link="https://github.com/RaffaeleBianc0/aperiCovip" >}} aperiCovip su GitHub {{< /bottone >}}
