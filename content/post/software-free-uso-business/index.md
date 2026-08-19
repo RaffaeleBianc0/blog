@@ -1,8 +1,8 @@
 ---
 title: "Software free che uso (anche) sul PC aziendale"
 description: "... rispettando licenze d'uso e privilegi utente limitati"
-date: "2026-07-01"
-lastmod: '2026-08-08'
+date: "2026-08-20"
+lastmod: '2026-08-20'
 categories: 
   - "tecnologia"
 image: "images/software.jpg"
