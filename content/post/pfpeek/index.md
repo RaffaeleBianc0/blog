@@ -9,8 +9,6 @@ categories:
 image: "images/pfpeek.gif"
 ---
 
-
-
 A proposito del ["portfolio tracking"](/blog/p/risorse-per-la-finanza-personale/#portfolio-tracking), ho voluto sviluppare il mio personale "tracker" sulla scia di [Ticker](https://github.com/achannarasappa/ticker), che ho usato a lungo ma che mancava di alcune info per me interessanti.
 
 E così ho fatto **pfpeek**.  

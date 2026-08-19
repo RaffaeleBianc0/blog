@@ -25,10 +25,11 @@ Quindi dovresti:
 Per scegliere il mio FPA, a suo tempo ho fatto tutto questo procedimento a mano in Google Sheets.  
 Ci ho messo qualche ora.
 
-Per facilitare la vita al prossimo, ho pensato di fare **aperiCovip**, una pagina web che ti guida in 3 semplici passaggi a fare la stessa valutazione, ma con un risultato molto più fruibile e ottenuto in un minuto con pochi click.
+Per facilitare la vita al prossimo, ho fatto **aperiCovip**, una piccola webapp che ti guida in 3 semplici passaggi a fare la stessa valutazione, ma con un risultato molto più fruibile e ottenuto in un minuto con pochi click.  
+Suggerisco l'uso con un display "largo" (PC, tablet, al limite smartphone in orizzontale), perché i dati sono tabellati.
 
-Trovi la webapp qui:  
+Trovi la webapp pronta da usare qui:  
 {{< bottone link="/apericovip" >}} aperiCovip {{< /bottone >}}
 
-La repo Github è invece qui:  
+La repo Github, per eventuali modifiche, è invece qui:  
 {{< bottone link="https://github.com/RaffaeleBianc0/aperiCovip" >}} aperiCovip su GitHub {{< /bottone >}}

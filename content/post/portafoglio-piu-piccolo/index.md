@@ -3,7 +3,6 @@ title: "Portafoglio più piccolo"
 date: "2016-02-14"
 categories: 
   - "altro"
-  - "tecnologia"
 Image: "images/iclip.png"
 ---
 
