@@ -6,7 +6,7 @@ aliases:
   - about-me
   - contact
   - info
-lastmod: '2025-12-21'
+lastmod: '2026-08-20'
 menu:
     main: 
         weight: -90
@@ -21,14 +21,15 @@ menu:
 Mi capita di aver **voglia di scrivere**, soprattutto di informatica e musica che ho fatto.  
 
 Mi metto al PC e scrivo, una cosa lenta, quasi meditativa.  
-Tu sapevi che {{< tasto "Win" >}}+{{< tasto "H" >}} attiva la dettatura? Ecco, volendo potrei dettare per _fare prima_, ma non è questo il punto, anzi cerco proprio l'opposto: **digito sulla tastiera** perché il sapore è tutto diverso, digiti cancelli correggi riscrivi costantemente, dopo qualche secondo ma anche dopo qualche anno, perché mi capita di rileggermi, un po' come chi si riguarda i selfie, anzi come chi si prende cura dell'orto invece di comprare le buste di insalata già lavata.  
-E **scrivo in un editor di testo**, non proprio in Blocco Note perché insomma dai, però comunque testo crudo e diretto, e quello che metto a schermo arriva online così come lo ho fatto io, _old school_, senza intermediazioni di correttori ortografici o intelligenze artificiali. Una specie di artigianato del testo, passami la similitudine, o allegoria, o metafora, non mi ricordo mai bene la differenza, scusa.  
+{{< tasto "Win" >}}+{{< tasto "H" >}} attiva la dettatura, volendo potrei dettare per _fare prima_, ma io cerco proprio l'opposto: **digito sulla tastiera** perché il sapore è tutto diverso, digiti cancelli correggi riscrivi costantemente, dopo qualche secondo ma anche dopo qualche anno, perché mi capita di rileggermi, un po' come chi si riguarda i selfie, un po' come chi si prende cura dell'orto invece di comprare le buste di insalata già lavata.  
+
+E **scrivo in un editor di testo**, non proprio in Blocco Note perché insomma dai, però comunque testo crudo e diretto, e quello che metto a schermo arriva online così come lo ho fatto io, _old school_, senza intermediazioni di correttori ortografici o intelligenze artificiali. Una specie di artigianato del testo.  
 
 Di solito scrivo quando voglio **tenere traccia di qualcosa che ho fatto o che mi è piaciuto**, oppure perché voglio mettere in ordine alcune idee.  
 Dicono che non conosci un argomento finché non sai spiegarlo a qualcuno, ecco spesso c'è un po' di questo dentro ai testi che pubblico, un intento divulgativo che mi piace coltivare.
 
 C'è anche **quasi tutta la [musica](/blog/categories/musica) che ho registrato** con batteria, basso, chitarra o con il PC.  
-Sono ricordi di una fetta importante di vita, e mi piace poter (far) ascoltare cosa ho suonato.
+Sono ricordi di una fetta importante di vita, e mi piace che facciano parte del mio racconto qui.
 
 Se fai click su ["Archivi"](/blog/archivi) vedi tutti i contenuti organizzati per argomento e per anno.
 
