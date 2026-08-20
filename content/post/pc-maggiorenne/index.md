@@ -5,7 +5,7 @@ date: "2024-01-13"
 categories: 
   - "tecnologia"
   - "amarcord"
-image: "images/x60.jpg"
+image: "images/x60.png"
 ---
 
 
