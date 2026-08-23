@@ -5,7 +5,7 @@ date: "2026-08-23"
 lastmod: '2026-08-23'
 categories: 
   - "tecnologia"
-image: "images/cover.png"
+image: "images/cover.jpg"
 draft: true
 ---
 
