@@ -50,8 +50,8 @@ Le prime 10 puntate circa sono quelle fondamentali per imparare le basi, oppure 
 Il primo tema di cui preoccuparsi secondo me è il fondo pensione.  
 E questo vale anche se non si vuole investire nulla.
 
-Versare il TFR + il contributo minimo nel mio FPN è la scelta ovvia che avevo già fatto molti anni prima, ma non avevo ancora cambiato il comparto: **ho selezionato il comparto con la maggiore componente azionaria**, che mi sembra il più appropriato dato che mi aspettano ancora 20 anni di lavoro.  
-Probabilmente cambierò comparto durante i prossimi 20 anni, per aumentare progressivamente il peso della componente obbligazionaria man mano che mi avvicino alla pensione (la cosiddetta **allocazione "life cycle"**).
+Versare il TFR + il contributo minimo nel mio FPN è la scelta ovvia che avevo già fatto molti anni prima, ma non avevo ancora cambiato il comparto: **ho selezionato il comparto con la maggiore componente azionaria**, che mi sembrava il più appropriato dato che mi aspettavano ancora 20 anni di lavoro.  
+Probabilmente cambierò comparto al passare degli anni, per aumentare progressivamente il peso della componente obbligazionaria man mano che mi avvicino alla pensione (la cosiddetta **allocazione "life cycle"**).
 
 ## FPA
 Dato che:
@@ -60,8 +60,10 @@ Dato che:
 - voglio restare sotto al limite dei 100k di montante nel FPN
 
 ho usato le tabelle disponibili nel [sito COVIP](https://www.covip.it/per-il-cittadino/) per capire quale FPA rispondesse ai requisiti *"costi bassi, disponibilità di un comparto fortemente azionario, rendite degli ultimi 10-20 anni più elevate"*.  
-Ne sono usciti subito due vincitori (soprattutto per merito dei costi più bassi), dei quali solo uno consentiva di fare l'adesione online quindi la scelta è stata ovvia.  
+Ne sono usciti subito due vincitori (soprattutto per merito dei costi più bassi, che sono il parametro che mi interessa di più), dei quali solo uno consentiva di fare l'adesione online quindi la scelta è stata ovvia.  
 _Ho poi scoperto che su [Ciao Elsa](https://ciaoelsa.com) è possibile aderire online gratuitamente anche ai fondi pensione che non hanno la procedura nel proprio sito, perché CiaoElsa fa da intermediario... ma ormai avevo già fatto tutto. Amen!_
+
+**Aggiornamento 2026**: ho fatto [aperiCovip](/apericovip) per agevolare questo tipo di analisi. Provalo!
 
 ## Chiusura posizioni precedenti
 Ho analizzato i prospetti informativi di un paio di prodotti che avevo acquistato anni fa (quando ancora non mi interessavo a questi temi), **ho confrontato i rendimenti ed i costi con quelli attesi dagli investimenti in FPA ed ETF**, ed è emersa la conclusione limpida: meglio chiudere tutto e spostare il capitale investito, prima di farmi mangiare ulteriori rendimenti da costi ricorrenti davvero esagerati.  
