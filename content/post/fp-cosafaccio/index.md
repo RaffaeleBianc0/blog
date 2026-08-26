@@ -66,7 +66,10 @@ _Ho poi scoperto che su [Ciao Elsa](https://ciaoelsa.com) è possibile aderire o
 **Aggiornamento 2026**: ho fatto [aperiCovip](/apericovip) per agevolare questo tipo di analisi. Provalo!
 
 ## Chiusura posizioni precedenti
-Ho analizzato i prospetti informativi di un paio di prodotti che avevo acquistato anni fa (quando ancora non mi interessavo a questi temi), **ho confrontato i rendimenti ed i costi con quelli attesi dagli investimenti in FPA ed ETF**, ed è emersa la conclusione limpida: meglio chiudere tutto e spostare il capitale investito, prima di farmi mangiare ulteriori rendimenti da costi ricorrenti davvero esagerati.  
+Ho analizzato i prospetti informativi di un paio di prodotti che avevo acquistato 10 anni fa (quando ancora non mi interessavo a questi temi), **ho confrontato i rendimenti ed i costi con quelli attesi dagli investimenti in FPA ed ETF** (un classico VWCE che si avvicina molto al mio portafoglio attuale), e mi è venuto da piangere: in 10 anni ho portato a casa un MWRR di circa l'1,9%, al netto di tasse e commissioni.  
+Se avessi già conosciuto quanto era facile fare un PAC su VWCE a quel tempo, avrei ottenuto negli stessi 10 anni un MWRR di circa l'8,8%.  
+Si è trattato di un PAC da 100 euro al mese, e la differenza tra i due rendimenti mi avrebbe garantito circa 5000 euro in più in tasca oggi.
+Forse è il mio episodio personale più eclatante per testimoniare quanto sia importante informarsi un minimo sulla finanza personale, e quanto sia importante il fai-da-te consapevole!
 
 In questo capitolo ci metto anche il cambio di fornitore per le utenze.  
 La app [Billoo](https://play.google.com/store/apps/details?id=it.billoo.billoo) fa un ottimo lavoro, basta inoltrargli una tua bolletta - e giuro che nessuno mi ha telefonato poi, quindi la discrezione che promettono pare confermata!  
