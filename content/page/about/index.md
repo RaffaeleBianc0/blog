@@ -25,8 +25,8 @@ Con {{< tasto "Win" >}}+{{< tasto "H" >}} volendo potrei dettare per _fare prima
 
 E **scrivo in un editor di testo**, non proprio in Blocco Note perché insomma dai, però comunque caratteri monospaziati crudi e diretti, quello che metto a schermo arriva online così come lo ho fatto io, _old school_, senza intermediazioni di correttori ortografici o intelligenze artificiali. Una specie di artigianato.  
 
-Di solito scrivo quando voglio **tenere traccia di qualcosa che ho fatto o che mi è piaciuto**, oppure perché voglio mettere in ordine alcune idee.  
-Dicono che non conosci un argomento finché non sai spiegarlo a qualcuno, ecco spesso c'è un po' di questo dentro a quello che scrivo, un intento divulgativo che mi piace coltivare.
+Di solito scrivo perché voglio **lasciare un segno di qualcosa che ho fatto o che mi è piaciuto**, oppure perché voglio mettere in ordine alcune idee.  
+Dicono che non conosci un argomento finché non sai spiegarlo a qualcuno, ecco spesso c'è un po' di questo dentro a quello che scrivo, un **intento divulgativo** che mi piace coltivare.
 
 C'è anche **quasi tutta la [musica](/blog/categories/musica) che ho registrato** con batteria, basso, chitarra o con il PC.  
 Sono ricordi di una fetta importante di vita, e mi piace che facciano parte del mio racconto qui.
