@@ -9,10 +9,24 @@ image: "images/cover.jpg"
 draft: true
 ---
 
+## Attention economy
 notifiche smartphone, notifiche email
+disinstallazione social
+
+## Sicurezza account
 password manager
-2FA, cambio password annuale, uso debitcard
-pihole, Portmaster, uBlock Origin Lite
-terminalSuite
+2FA
+cambio password annuale
+
+## Kit emergenze
 ICE kit: bak bitwarden, bak 2FA
-https://www.makeuseof.com/how-backup-password-manager-securely/
+
+## Pagamenti
+uso smartphone invece di debitcard
+uso paypal invece di debit/credit
+
+## Blocco pubblicità
+pihole, Portmaster, uBlock Origin Lite
+
+# Next step?
+* Smartphone con schermo e-ink (dumbphone era un po' troppo)
