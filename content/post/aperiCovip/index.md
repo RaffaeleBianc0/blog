@@ -5,6 +5,7 @@ date: '2026-08-18'
 lastmod: '2026-08-19'
 categories: 
   - "finanza personale"
+  - "script"
   - "tecnologia"
 image: "images/aperiCovip.gif"
 draft: false

@@ -212,7 +212,7 @@ content.enabled = true
 [[menu.main]]
 name = 'RSS'
 url = '/index.xml'
-weight = 888
+weight = -10
 identifier = "rss"
 params.icon = "rss"
 params.newTab = false

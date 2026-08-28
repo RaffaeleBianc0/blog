@@ -5,6 +5,7 @@ date: "2026-08-01"
 lastmod: '2026-08-14'
 categories: 
   - "finanza personale"
+  - "script"
   - "tecnologia"
 image: "images/pfpeek.gif"
 ---

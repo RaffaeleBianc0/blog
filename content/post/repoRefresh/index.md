@@ -4,6 +4,7 @@ description: "Mantiene il tuo repository locale di installer aggiornandoli alle 
 date: "2026-07-01"
 lastmod: '2026-08-19'
 categories: 
+  - "script"
   - "tecnologia"
 image: "images/repoRefresh.gif"
 draft: false

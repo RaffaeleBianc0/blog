@@ -9,6 +9,10 @@ image: "images/cover.jpg"
 draft: true
 ---
 
-notifiche smartphone, notifiche email, password manager, 2FA, cambio password annuale, uso debitcard, pihole, Portmaster, uBlock Origin Lite
+notifiche smartphone, notifiche email
+password manager
+2FA, cambio password annuale, uso debitcard
+pihole, Portmaster, uBlock Origin Lite
 terminalSuite
-
+ICE kit: bak bitwarden, bak 2FA
+https://www.makeuseof.com/how-backup-password-manager-securely/
