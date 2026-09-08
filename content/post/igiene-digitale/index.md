@@ -96,46 +96,74 @@ Con il prezioso supporto del password manager, **ogni anno cambierai tutte quest
 Niente scuse!  
 E' una rottura di scatole, certo, ma se fai tutto al PC probabilmente in 15-30 minuti all'anno la questione è chiusa.
 
-### ICE kit
+### ICE kit (compreso backup password + chiavi 2FA)
 ICE = In Caso di Emergenza.  
 Pronto per le domande brutte che non ti eri ancora fatto?  
-Che succede se muori o se fai un incidente tale da compromettere le tue facoltà di accedere e comunicare i tuoi dati? Magari sei tu a gestire banca, utenze, contratti, e tante altre cose di famiglia... Come farà il tuo partner ad accedere senza impazzire?  
+Che succede se muori o se ti capita qualcosa che compromette le tue facoltà di accedere e comunicare i tuoi dati? Magari sei tu a gestire banca, utenze, contratti, e tante altre cose di famiglia... Come farà il tuo partner ad accedere senza impazzire?  
 
-Per fronteggiare questa eventualità, ho preparato un "kit di emergenza", composto di: backup di tutto il database del password manager, backup di tutte le chiavi 2FA, elenco di tutti gli asset (conti correnti, investimenti, assicurazioni, eccetera), tutto memorizzato in forma criptata e consegnato fisicamente ai familiari (più di una copia, non si sa mai).  
+Per fronteggiare questa eventualità, ho preparato un "kit di emergenza", composto di: 
+1. archivio cifrato, che consegno ai miei familiari, e che contiene:
+  1. backup di tutto il database del password manager
+  1. backup di tutte le chiavi 2FA
+  1. elenco di tutti gli asset (conti correnti, investimenti, assicurazioni, eccetera)
+1. foglio di carta con le istruzioni per accedere all'archivio cifrato; questo foglio è allegato al mio testamento. Senza questo foglio è impossibile accedere all'archivio cifrato.  
 
-Le istruzioni per accedere a tutto questo sono su un singolo foglio di carta archiviato insieme al mio testamento.  
-Senza questo foglio è impossibile accedere al kit.
-
-Ogni anno, subito dopo aver aggiornato tutte le mie password, dedico ulteriori 5 minuti a creare la versione aggiornata del mio ICE Kit, da consegnare ai familiari.
+Ogni anno, subito dopo aver aggiornato tutte le mie password, dedico ulteriori 2 minuti a creare la versione aggiornata del mio ICE Kit, e consegno il nuovo archivio cifrato ai familiari.
 
 **E così implicitamente ho anche fatto il backup di tutti i miei account e di tutte le mie chiavi 2FA**: anche se perdessi l'accesso al mio password manager e/o alle mie chiavi 2FA, potrei in pochi minuti ripristinare entrambi su qualsiasi altro dispositivo.
 
 ### Google Drive
-Invece di sparpagliare i tuoi file tra Desktop e cartelle improbabili, abituati a **salvare tutti i tuoi file in Google Drive** (o analogo servizio di cloud storage, es. Microsoft OneDrive se usi Windows - l'importante è che sia trasparente, aggiornato in realtime, e consultabile in lettura e scrittura da tutti i tuoi dispositivi).  
+Invece di sparpagliare i tuoi file tra Desktop e cartelle improbabili, abìtuati a **salvare tutti i tuoi file in Google Drive** (o analogo servizio di cloud storage, es. Microsoft OneDrive se usi Windows - l'importante è che sia trasparente, aggiornato in realtime, e consultabile in lettura e scrittura da tutti i tuoi dispositivi).  
 
 A parte l'ovvia praticità di poter lavorare sui tuoi file ovunque, è anche una prima forma di "quasi-backup" nei soliti casi di danneggiamento/smarrimento/furto di uno dei tuoi dispositivi.
 
-Se lo spazio del tuo cloud storage sta per esaurirsi, paga per avere più spazio: con Google si parte da 2 o 3 euro al mese per esempio, quindi non vale la pena di dedicare neanche mezz'ora a ri-organizzare i file per occupare meno spazio.
+Se lo spazio del tuo cloud storage sta per esaurirsi, paga per avere più spazio: con Google si parte da 2 o 3 euro al mese per esempio, quindi non vale la pena di dedicare neanche mezz'ora a ri-organizzare i file per occupare meno spazio, costa meno l'abbonamento col bonus di mantenere la stessa organizzazione dei tuoi dati e non sacrificare nulla.
 
 ### Backup locale
 Sapevi che prima o poi ci sarebbe stato un paragrafo dedicato alla pratica meno adottata da tutti i "casual users" della tecnologia vero?  
 Eccolo qua: **devi fare il backup dei tuoi dati**.  
-Non basta Google Drive o simile, ti serve un sistema che salva tutti i file in un altro posto, facilmente raggiungibile, e versionando i file, perché altrimenti se ti becchi un ransomware e fai il backup sovrascrivendo il precedente hai perso tutto.
+Non basta Google Drive o simile, quello non è un vero backup rigoroso, ti serve un sistema che salva tutti i file in un altro posto, facilmente raggiungibile, e che versiona i file, perché altrimenti se ti becchi un ransomware e fai il backup sovrascrivendo il precedente hai perso tutto.
 
-Io per questo scopo ho scelto **restic**, un tool opensource a linea di comando che ha tutte le funzioni necessarie, e salvo i miei backup in un disco USB.
+Io per questo scopo ho scelto **restic**, un tool opensource a linea di comando che ha tutte le funzioni che desidero, e salvo questi miei backup in un disco USB.
 
-Ma se preferisci la facilità d'uso, rinunciando a versionamento e deduplica, almeno un copia-e-incolla dei tuoi file in un disco USB (magari criptato, vedi sotto) è il minimo sindacale.
+Ma se preferisci la facilità d'uso, rinunciando a versionamento e deduplica, almeno un copia-e-incolla dei tuoi file in un disco USB (magari criptato, vedi sotto) è il minimo sindacale, da pianificare ad esempio mensilmente.
 
-### Bitlocker (su drive locale + dischi esterni)
+### Cifratura dischi
+Se hai un PC, verifica se puoi cifrare il disco che contiene i tuoi dati (spesso è lo stesso disco che contiene il sistema operativo).  
+Su Windows la tecnologia si chiama Bitlocker.  
+Lo attivi, memorizzi la chiave di recupero nel tuo password manager (perché quando si inceppa è l'unico modo che avrai per far partire il tuo PC - mi è successo più volte), e non ci pensi più.
 
-### Brave per YT
+Fallo anche su tutti i dischi esterni che usi per conservare dati.  
+Non farlo sulle chiavette che usi per installare Windows/Linux su altri PC.
 
-### pihole, Portmaster, uBlock Origin Lite
+RISULTATO: nessuno potrà accedere ai dati in quel disco senza conoscere la tua password dell'account Microsoft (e relativa chiave 2FA) o la chiave di recupero. Quindi se ti rubano il PC non ti possono rubare i dati, nemmeno smontando il disco.  
+Tu invece non ti accorgi di nulla nell'uso quotidiano: il PC continua a funzionare esattamente come prima, con un impatto sulle prestazioni del disco assolutamente trascurabile.
 
-### uso smartphone invece di debitcard
+### Brave browser
+YouTube esagera con le pubblicità.  
+Se sei d'accordo, allora usa Brave Browser per accedere a YouTube con rimozione automatica dell'advertising, sia su PC che su Android.  
+Fine! Facile facile. E così risparmi 15€/mese circa di YouTube Premium, perché comunque Amazon Prime quasi sicuramente l'hai fatto, e la musica free ce l'hai in Amazon Music, che è incluso con Prime.
 
-### uso paypal invece di debit/credit
+Incidentalmente, Brave è apprezzato per la tutela di altri aspetti della privacy online, potresti usarlo come unico browser e non sbaglieresti.
 
+### Contro pubblicità tracker e telemetria
+Non è solo YouTube che esagera con le pubblicità.  
+Mi sono dotato anche di:
+* **uBlock Origin Lite**, estensione per i browser che blocca pubblicità e tracker su qualunque sito
+* **Portmaster**, software che blocca pubblicità, tracker, telemetria e domini malevoli a livello di sistema operativo
+* **Pi-hole** installato in un mini-PC che uso come DNS per l'intera rete domestica, che mi blocca pubblicità, tracker e telemetria su qualunque dispositivo connesso, senza bisogno di configurare né installare nulla sui dispositivi. Il consumo del mini-PC online 24/7 è irrisorio, pochi euro all'anno, grazie all'hardware orientato all'efficienza energetica, e al sistema operativo installato (Linux Debian 13) che è ordini di grandezza più parco rispetto a qualunque Windows, specie nell'uso "server" senza interfaccia grafica.
+
+Questi 3 componenti hanno ampie sovrapposizioni su quello che bloccano, quindi a seconda delle esigenze ci si può limitare ad una sola delle 3 soluzioni che ho proposto - anche perché alcune seguono il dispositivo ma solo quello, altre invece coprono tutti i dispositivi connessi al router ma solo nell'utilizzo a casa.
+
+### Offline, pago con lo smartphone
+Per pagare nei negozi (e ultimamente anche online) uso sempre Google Pay sul telefono invece della card di plastica.  
+Questo perché ad ogni pagamento Google Pay presenta al POS un numero di card virtuale invece di quello reale, quindi anche eventuali skimming non prenderebbero i dati della mia card reale.  
+
+Oltre a questo, c'è ovviamente la comodità di non dover mai digitare il PIN (sostituito dall'impronta digitale sul telefono, molto più rapida e sicura), e di ritrovare tutte le transazioni registrate subito anche in Google Pay senza dover attendere che siano registrate nell'homebanking.
+
+### Online, pago con PayPal
+Negli ecommerce pago con PayPal invece che con la carta di debito/credito.  
+Anche in questo caso, il motivo principale è che non circolano i dati della carta, perché la transazione viene mediata da PayPal che, tra l'altro, offre alcune tutele per gli acquirenti che diversamente non si hanno.
 
 
 
