@@ -22,3 +22,4 @@ Ecco, esattamente questo fa rubMyCLI: installa i software che ho selezionato e i
 
 Trovi tutto (script + file di supporto + descrizione completa di tutte le funzionalità) qui: 
 {{< bottone link="https://github.com/RaffaeleBianc0/rubMyCLI" >}} rubMyCLI su GitHub {{< /bottone >}}
+
