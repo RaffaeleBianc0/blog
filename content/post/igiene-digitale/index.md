@@ -139,10 +139,10 @@ Non farlo sulle chiavette che usi per installare Windows/Linux su altri PC.
 RISULTATO: nessuno potrà accedere ai dati in quel disco senza conoscere la tua password dell'account Microsoft (e relativa chiave 2FA) o la chiave di recupero. Quindi se ti rubano il PC non ti possono rubare i dati, nemmeno smontando il disco.  
 Tu invece non ti accorgi di nulla nell'uso quotidiano: il PC continua a funzionare esattamente come prima, con un impatto sulle prestazioni del disco assolutamente trascurabile.
 
-### Brave browser
+### Brave browser VS YouTube Premium
 YouTube esagera con le pubblicità.  
 Se sei d'accordo, allora usa Brave Browser per accedere a YouTube con rimozione automatica dell'advertising, sia su PC che su Android.  
-Fine! Facile facile. E così risparmi 15€/mese circa di YouTube Premium, perché comunque Amazon Prime quasi sicuramente l'hai fatto, e la musica free ce l'hai in Amazon Music, che è incluso con Prime.
+Tutto qua, facile facile. E così risparmi 16€/mese circa di YouTube Premium, che servirebbe soprattutto a rimuovere le pubblicità da YT e da YT Music: Amazon Prime ce l'ho, e la poca musica che ascolto la posso trovare in Amazon Music, abbonamento già obbligatoriamente incluso con Prime.
 
 Incidentalmente, Brave è apprezzato per la tutela di altri aspetti della privacy online, potresti usarlo come unico browser e non sbaglieresti.
 
@@ -173,15 +173,37 @@ Anche in questo caso, il motivo principale è che non circolano i dati della car
 Dentro a questo capitolo ci metto le buone abitudini che mi possono aiutare a stare meglio pur usando moltissimo la tecnologia.
 
 ### Notifiche
-Disattiva tutte le notifiche push tranne quelle dirette da persone reali (chiamate, messaggi diretti) e da servizi che richiedono la tua attenzione immediata (antifurto, pagamenti). Rimuovi le notifiche di tutto il resto, come news, email, gruppi Whatsapp, e soprattutto di tutti i social: quando hai tempo/voglia/necessità di verificare queste cose, lo fai di tua iniziativa; e se succede dopo 4 ore, non cambia assolutamente nulla.
+Questa è tanto semplice quanto efficace, l'impatto sulla serenità è davvero sottovalutato.  
+**Disattiva tutte le notifiche** push tranne quelle dirette da persone reali (chiamate, messaggi diretti) e da servizi che richiedono la tua attenzione immediata (antifurto, pagamenti).  
+**Rimuovi le notifiche di tutto il resto**, come news, email, gruppi Whatsapp, e soprattutto di tutti i social: quando hai tempo/voglia/necessità di verificare queste cose, lo fai di tua iniziativa; e se succede dopo 4 ore, non cambia assolutamente nulla. Non serve dedicare del tempo a questo piccolo grande cambiamento: basta tener premuta la prossima notifica di FB (esempio), e cliccare "Disattiva".
 
-### notifiche email su PC
+### Notifiche email su PC
+Questa è sottovalutata in ufficio invece: usi Outlook, e di default ad ogni email ti compare la bustina e senti un suono.  
+Ma **l'email non è mai stata uno strumento di comunicazione sincrono**, non serve vedere le email appena arrivano, non è una chat, e chiunque utilizzi lo strumento email in contrasto con la sua natura sta sbagliando.  
+Quindi: **disattiva le notifiche per le nuove email**, come minimo.  
 
-### disinstallazione social
+La cosa completamente sana sarebbe tenere Outlook iconizzato/nascosto, e aprirlo solo quando intenzionalmente hai bisogno di usarlo; ma non puoi spegnerlo del tutto perché se usi il Calendario ti servono le notifiche degli eventi, e quelle funzionano solo se Outlook è aperto.  
+Oppure configuri la app "Calendario" se la trovi installata come parte di Windows in modo che ti mostri lo stesso calendario di Outlook.
 
-### Costante: modalità lettura "gialla"
+### Disinstalla le app dei social
+Se hai una o più app tra Facebook, Instagram, Threads, sia su PC che su smartphone, semplicemente disinstallale.   
+**Puoi accedere usando il browser**, con questi vantaggi:
+1. Meno risorse impegnate (le app consumano spazio e banda)
+2. Zero notifiche (non avrai mica attivato le notifiche del browser spero?!)
+3. Più privacy (le app raccolgono dati di profilazione anche quando non le usi)
+4. Meno uso compulsivo: il solo attrito di dover aprire il browser e aprire il tab del social che vuoi consultare ridurrà drasticamente il numero di volte che aprirai quel social. E' pazzesco, ma con me ha funzionato in modo clamoroso. Non ho rinunciato all'uso, e non ho disattivato gli account, ma senza dubbio uso i social meno di 1/4 del tempo rispetto a quando avevo le app installate.
 
-### 1h prima dell'orario del sonno: non-disturbare + bianco e nero
+Non so se l'accesso via browser funziona anche con TikTok, non lo uso: prova e fammi sapere in caso.
+
+### Luce notturna
+Sia su Android che su Windows, c'è la modalità "Luce notturna", "Modalità lettura", "Luminosità notte" o come la chiama il tuo dispositivo - è quella funzione che **riduce l'emissione di luce blu** dello schermo, rendendo quindi tutto più giallino.  
+Come minimo attivala con pianificazione dal tramonto all'alba.  
+Ma anche se la attivi permanentemente, il fastidio causato dalla dominante gialla è quasi irrilevante dopo i primi 10 secondi, e dicono che fa bene agli occhi evitare la luce blu.
+
+### 1 ora prima di dormire
+Imposta i tuoi dispositivi in modo che, un'ora prima di quando mediamente vai a dormire la sera, impostino 2 opzioni:
+1. **"Non disturbare"**, configurando questa modalità in modo che i familiari possano comunque raggiungerti chiamandoti, e che le notifiche critiche (antifurto) funzionino ugualmente.
+2. **"Modalità riposo"** (o qualunque nome abbia nel tuo dispositivo - è quella che rende lo schermo tutto in bianco e nero): questo ti serve come "promemoria gentile" che è ora di mettere giù il telefono perché tra 1h andrai a dormire, e ci sono studi che parlano di questa come buona abitudine per migliorare la qualità del sonno.
 
 
 
