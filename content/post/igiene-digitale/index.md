@@ -209,16 +209,24 @@ Imposta i tuoi dispositivi in modo che, un'ora prima di quando mediamente vai a 
 
 ### Idee in corso di implementazione
 
-#### eink
+#### E-ink
+Per ridurre l'uso di smartphone, ridurre l'esposizione a schermi LCD/OLED, ridurre l'attrattiva di reel e infinite scroll, e aumentare il tempo dedicato alla lettura soprattutto di libri, sto valutando l'acquisto di un **tablet Android da 7" con schermo e-ink a colori**, da usare in casa al posto del telefono e del mio attuale Kindle Paperwhite 7th gen (che per la cronaca pochi giorni fa ho sottoposto a jailbreak per installarci l'ottimo KOReader + Bookshelf + Bookends + integrazione con Calibre, ottenendo una eccellente esperienza Amazon-free).  
 
-
+I miei candidati a settembre 2026 sono:
+1. Bigme B7 Pro, il dispositivo 7" ad oggi migliore sul mercato, perché ha refresh rate più alto di tutti i concorrenti (ci si vedono anche i video, nonostante sia un e-ink), CPU RAM e storage ottimi (alla pari di uno smartphone midrange), fotocamera con flash (ottimo per usarlo come scanner), e slot SIM 4G, solo che costa 400€
+2. Onyx Boox Go 7 Color Gen2, meno potente e dotato del B7 Pro, ma costa 300€ compresa cover e penna, e per l'uso che prevedo (ebook + browsing leggero) è assolutamente adatto
+3. Bigme B7, devo ancora capire le differenze e come si posiziona rispetto ai primi due
 
 ### Idee non (ancora) implementate
 
 #### Non usare smartphone in presenza di altri
+**
 
 #### No smartphone sul comodino 
+**
 
 #### ebook reader per i momenti di noia
+**
 
 #### Smartphone con schermo e-ink invece che lcd (dumbphone era un po' troppo)
+**
