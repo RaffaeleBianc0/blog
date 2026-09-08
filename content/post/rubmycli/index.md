@@ -21,4 +21,4 @@ Contemporaneamente, dato che sono pigro e che l'idea di rifare le cose daccapo m
 Ecco, esattamente questo fa rubMyCLI: installa i software che ho selezionato e i miei file di configurazione in modo da ottenere esattamente le funzionalità che ho assemblato durante quell'isolamento da covid più qualche ora ulteriore qua e là.  
 
 Trovi tutto (script + file di supporto + descrizione completa di tutte le funzionalità) qui: 
-**
+{{< bottone link="https://github.com/RaffaeleBianc0/rubMyCLI" >}} rubMyCLI su GitHub {{< /bottone >}}
