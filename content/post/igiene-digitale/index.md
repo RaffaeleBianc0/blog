@@ -11,8 +11,15 @@ draft: true
 
 Il tema di questo post è tanto importante quanto ignorato da tutti, anche se in misura diversa.  
 Con "tutti" intendo chiunque abbia uno smartphone in tasca o un accesso a internet, anche tua mamma con lo smartphone, anche tuo nonno col tablet.
-Da qualche decennio il _digitale_ è parte della vita quotidiana, e distinguere le cose "online" da quelle "offline" non ha più molto senso. Lo smartphone che abbiamo tutti in tasca ci serve per gestire la grande maggioranza delle cose critiche della vita, identità banca investimenti antifurto documenti amici ricordi agenda lavoro accessi appunti domotica eccetera, eppure manca tantissima consapevolezza su come proteggere queste cose.
-Ti racconto quello che personalmente ho già fatto, sto facendo, e ho intenzione di fare. Non è un percorso facilissimo se lo affronti tutto insieme, ma un pezzetto alla volta diventa un bel progetto che porta vantaggi oggettivi. E' così che lo ho costruito, iniziando tanti anni fa e migliorando qualcosa ogni tanto, sempre con lo stesso obiettivo: **stare meglio**, cioè più tranquillo, più sicuro, con meno affaticamento mentale e visivo, e con meno _brain-rot_ da social.  
+
+Da qualche decennio il _digitale_ è parte della vita quotidiana, e distinguere le cose "online" da quelle "offline" non ha più molto senso.  
+Lo smartphone che abbiamo tutti in tasca ci serve per gestire la maggioranza delle cose critiche della vita, identità banca investimenti antifurto documenti amici ricordi agenda lavoro accessi appunti domotica eccetera, in un modo potenzialmente più sicuro e sicuramente più pratico rispetto a come si possono gestire _senza_ lo smartphone, eppure manca tantissima consapevolezza su come proteggere queste cose dagli eventi brutti: danneggiamento, smarrimento, o peggio ancora furto del dispositivo.  
+E anche se scegli di lasciar fuori dal telefono alcune cose, magari per gestirle dal PC portatile, la storia non cambia, i rischi a cui sei esposto sono più o meno gli stessi.  
+E poi ci sono tutti i problemi di utilizzo compulsivo, ci sembra di avere il controllo e invece a fine giornata hai buttato 2 ore su Instagram quasi ogni giorno, su cose di cui ti ricordi forse una manciata di reel per poter dire al caffè coi colleghi "ah sì l'ho visto anche io!". Wow, l'evoluzione.
+
+Ti racconto quello che personalmente ho già fatto, sto facendo, e ho intenzione di fare.  
+Non è un percorso facilissimo se lo affronti tutto insieme, ma un pezzetto alla volta diventa un bel progetto personale che porta vantaggi oggettivi.  
+Io ho iniziato tanti anni fa e sto migliorando ancora qualcosa ogni tanto, sempre con lo stesso obiettivo: **stare meglio**, cioè più tranquillo, più sicuro, più comodo, con meno affaticamento mentale e visivo, e con meno _brain-rot_ da social.  
 
 Dividerei il tema in due macro-argomenti: 
 * l'igiene digitale "esterna", cioè la cura dei propri dati, che stanno lì fuori;
@@ -24,6 +31,8 @@ Dividerei il tema in due macro-argomenti:
 Dentro a questo capitolo ci metto le buone abitudini che ho adottato per proteggere i miei dati, compresi gli account, le informazioni riservate, e anche i dati di profilazione che regaliamo costantemente alla filiera della data economy.
 
 ### Prassi già implementate
+PIN + fingerprint
+find my device
 password manager
 2FA
 cambio password annuale
