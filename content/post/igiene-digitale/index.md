@@ -9,33 +9,36 @@ image: "images/cover.jpg"
 draft: true
 ---
 
-Il tema di questo post è tanto importante quanto ignorato da tutti, anche se in misura diversa.  
+Il tema di questo post è tanto importante quanto sottovalutato, praticamente da tutti.  
 Con "tutti" intendo chiunque abbia uno smartphone in tasca o un accesso a internet, anche tua mamma con lo smartphone, anche tuo nonno col tablet.
 
-Da qualche decennio il _digitale_ è parte della vita quotidiana, e distinguere le cose "online" da quelle "offline" non ha più molto senso.  
-Lo smartphone che abbiamo tutti in tasca ci serve per gestire la maggioranza delle cose critiche della vita, identità banca investimenti antifurto documenti amici ricordi agenda lavoro accessi appunti domotica eccetera, in un modo potenzialmente più sicuro e sicuramente più pratico rispetto a come si possono gestire _senza_ lo smartphone, eppure manca tantissima consapevolezza su come proteggere queste cose dagli eventi brutti: danneggiamento, smarrimento, o peggio ancora furto del dispositivo.  
-E anche se scegli di lasciar fuori dal telefono alcune cose, magari per gestirle dal PC portatile, la storia non cambia, i rischi a cui sei esposto sono più o meno gli stessi.  
-E poi ci sono tutti i problemi di utilizzo compulsivo, ci sembra di avere il controllo e invece a fine giornata hai buttato 2 ore su Instagram quasi ogni giorno, su cose di cui ti ricordi forse una manciata di reel per poter dire al caffè coi colleghi "ah sì l'ho visto anche io!". Wow, l'evoluzione.
+Da qualche decennio il _digitale_ è parte della nostra vita quotidiana, e distinguere l'online dall'offline non ha più molto senso.  
+Lo smartphone che abbiamo tutti in tasca ci serve per gestire identità banca investimenti antifurto documenti amici ricordi agenda lavoro accessi appunti domotica eccetera, cioè la maggioranza delle cose critiche della vita, in un modo molto più pratico rispetto a come si possono gestire _senza_ lo smartphone, ma... anche più sicuro? Io dico di sì, a patto di applicare buone pratiche di _igiene digitale_ appunto.  
+Manca tantissima consapevolezza su come proteggersi dagli eventi brutti: danneggiamento, smarrimento, o peggio ancora furto del dispositivo.  
+E anche se scegli di lasciar fuori dal telefono alcune cose, magari per gestirle dal PC portatile, la storia non cambia, i rischi a cui sei esposto sono più o meno gli stessi, perché i furti di identità avvengono altrove, sui server delle aziende di cui sei cliente, e anche i notebook si rompono/perdono/rubano.  
+E poi ci sono tutti i problemi di utilizzo compulsivo, ti sembra di avere il controllo e invece a fine giornata hai buttato 2 ore su Instagram, quasi ogni giorno, su cose di cui ti ricordi forse una manciata di reel per poter dire al caffè coi colleghi "ah sì l'ho visto anche io hahaha che ridere". Wow, l'evoluzione.
 
 Ti racconto quello che personalmente ho già fatto, sto facendo, e ho intenzione di fare, per gestire meglio tanti aspetti della mia vita digitale.  
-Non è un percorso facilissimo se lo affronti tutto insieme, magari fino ad oggi non ci hai ancora pensato; ma un pezzetto alla volta diventa un bel progetto personale che porta vantaggi oggettivi.  
+Non è un percorso facilissimo se lo affronti tutto insieme; ma fatto un pezzetto alla volta diventa un bel progetto personale che porta vantaggi oggettivi.  
 Io ho iniziato tanti anni fa e sto migliorando ancora qualcosa ogni tanto, sempre con lo stesso obiettivo: **stare meglio**, cioè più tranquillo, più sicuro, più comodo, con meno affaticamento mentale e visivo, e con meno _brain-rot_ da social.  
 
-Dividerei il tema in due macro-argomenti: 
+Divido il tema in due macro-argomenti: 
 * l'igiene digitale **"esterna"**, cioè la cura dei propri dati, che stanno "lì fuori" appunto;
 * l'igiene digitale **"interna"**, cioè la cura della proprie facoltà fisiche e mentali.
-e per ciascuno metto le soluzioni adottate seguendo un mio personale ordine di importanza.
+e ti parlo delle soluzioni che ho adottato seguendo un mio personale ordine di importanza.
 
 
 ## Igiene digitale esterna: la cura dei propri dati
-Dentro a questo capitolo ci metto le buone abitudini che ho adottato per proteggere i miei dati, compresi gli account, le informazioni riservate, e anche i dati di profilazione che regaliamo costantemente alla filiera della data economy.
+In questo capitolo ci metto le buone abitudini che ho adottato per proteggere i miei dati, compresi gli account, le informazioni riservate, e anche i dati di profilazione che regaliamo costantemente alla filiera della data economy.
 
 ### Prassi già implementate
 
-#### PIN + fingerprint
-Se sblocchi lo schermo del cellulare con un gesto sulla griglia 3x3 come si faceva quindici anni fa, allora stai sbagliando. Perché? Perché hai scelto contemporaneamente una cosa _scomoda_ e _poco sicura_, cioè tutti gli svantaggi insieme.  
-Devi scegliere un PIN di almeno 6 cifre, o meglio ancora una password alfabetica più lunga di così, per esempio 2-3 parole consecutive (e così ottieni il massimo della sicurezza), che tanto non digiterai quasi mai perché contestualmente devi attivare il riconoscimento dell'impronta digitale (e così ottieni il massimo della praticità). L'impronta è una specie di "sostituto" del PIN/password, che infatti vanno impostati per primi obbligatoriamente.  
-RISULTATO: il telefono ti chiederà sempre l'impronta, e una volta ogni tanto il PIN/password (es. una volta ogni 3 giorni). E il potenziale ladro che sta per rubarti il telefono non potrà vedere cosa digiti sullo schermo prima di passare all'azione.
+#### Password + fingerprint
+Se sblocchi il cellulare con un gesto sulla griglia 3x3 come si faceva quindici anni fa, hai scelto contemporaneamente una cosa _scomoda_ e _poco sicura_, cioè tutti gli svantaggi insieme.  
+Devi scegliere un PIN di almeno 6 cifre, o meglio ancora una password alfabetica più lunga di così, per esempio 2-3 parole consecutive (e così ottieni il massimo della sicurezza), che tanto non digiterai quasi mai perché contestualmente devi attivare il riconoscimento dell'impronta digitale (e così ottieni il massimo della praticità). L'impronta è una specie di "sostituto" del PIN/password, che infatti Android ti chiede di impostare per primi obbligatoriamente.  
+RISULTATO: il telefono ti chiederà sempre l'impronta, e una volta ogni tanto il PIN/password (es. una volta ogni 3 giorni). E il potenziale ladro che sta per rubarti il telefono non potrà vedere cosa digiti sullo schermo prima di passare all'azione, e così hai tutti i tuoi dati al sicuro, e la possibilità di rintracciare il telefono e di cancellare tutte le tue informazioni da remoto (vedi sotto).
+
+Fai la stessa cosa anche sul PC: password lunga, magari facile da digitare, e impronta (se il tuo computer ha il sensore).
 
 #### find my device
 
