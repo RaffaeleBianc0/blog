@@ -30,39 +30,43 @@ Ti parlo delle soluzioni che ho adottato seguendo un mio personale ordine di imp
 
 
 ## Notifiche
-Questa è davvero banale, ma l'impatto è davvero sottovalutato: **disattiva le notifiche** sul telefono di quasi tutto, news, email, gruppi Whatsapp, browser, videogames, e soprattutto di tutti i social.  
+Questa è davvero banale, ma l'impatto è davvero sottovalutato: **disattiva le notifiche** sul telefono di quasi tutto, news, email, gruppi Whatsapp, gruppi Teams, browser, videogames, e soprattutto di tutti i social.  
 
 Quando hai tempo/voglia/necessità di accedere a queste cose, lo fai di tua iniziativa: decidi tu quando, non il tuo telefono.  
-E se succederà tra 4 ore invece di "adesso", sai già che non cambierà assolutamente nulla: non ti servono notifiche per cose che non sono né urgenti né importanti.  
+E se succederà tra 4 ore invece di "adesso", sai già che non cambierà assolutamente nulla: non servono notifiche per cose che non sono né urgenti né importanti.  
 
-Conserva attive le notifiche di chiamate, SMS, Whatsapp, Telegram, Messenger e simili, che servono per interagire con le persone reali, e conserva anche quelle dei servizi che richiedono la tua attenzione immediata (es. calendario, antifurto, pagamenti).  
+Conserva attive le notifiche di chiamate, SMS, Whatsapp, Telegram, Messenger e simili, cioè quello che serve per interagire con le persone reali, e conserva anche quelle dei servizi che richiedono la tua attenzione immediata (es. calendario, antifurto, pagamenti).  
 
-Il costo di questa piccola scelta è praticamente zero (basta tener premuta la prossima notifica molesta col dito e selezionare "Disattiva" o "Silenzia", tempo max 3 secondi), ma il vantaggio di non avere più interruzioni inutili costanti (o un elenco di 35 notifiche inutili in mezzo alle quali affogano quelle sensate) non ha prezzo.
+Il costo di questa piccola scelta è praticamente zero (basta tener premuta la prossima notifica molesta col dito e selezionare "Disattiva" o "Silenzia", tempo max 3 secondi per ciascuna app), ma il vantaggio di non avere più interruzioni inutili costanti (o un elenco di 35 notifiche inutili in mezzo alle quali affogano quelle sensate) non ha prezzo.
 
 
 
 ## Notifiche email su PC
-Questa è sottovalutata in ufficio invece: usi Outlook, e di default ad ogni email ti compare la bustina e senti un suono.  
-Ma **l'email non è mai stata uno strumento di comunicazione sincrono**, non serve vedere le email appena arrivano, non è una chat, e chiunque utilizzi lo strumento email in contrasto con la sua natura sta sbagliando.  
-Quindi: **disattiva le notifiche per le nuove email**, come minimo.  
+Questa è sottovalutata in ufficio invece: usi Outlook, e di default ad ogni email che arriva senti un suono e ti compare la bustina in basso a destra.  
+Ma **l'email non è mai stata uno strumento di comunicazione sincrono**, non serve vedere le email appena arrivano, non è una chat, e chiunque utilizzi lo strumento email in contrasto con questa sua natura (che è sempre la stessa dai tempi di ARPANET) sta semplicemente sbagliando, è come voler inviare una foto via fax, per quanto ci si sforzi il risultato sarà sempre uno schifo.  
+Quindi: **disattiva le notifiche per le nuove email**. Semplice.  
 
 La cosa completamente sana sarebbe tenere Outlook iconizzato/nascosto, e aprirlo solo quando intenzionalmente hai bisogno di usarlo; ma non puoi spegnerlo del tutto perché se usi il Calendario ti servono le notifiche degli eventi, e quelle funzionano solo se Outlook è aperto.  
-Oppure configuri la app "Calendario" se la trovi installata come parte di Windows in modo che ti mostri lo stesso calendario di Outlook.
+Oppure configuri la app "Calendario" se la trovi installata come parte di Windows in modo che ti mostri lo stesso calendario che vedi in Outlook.  
+
+
 
 ## Disinstalla le app dei social
 Se hai una o più app tra Facebook, Instagram, Threads, sia su PC che su smartphone, semplicemente disinstallale.   
 **Puoi accedere usando il browser**, con questi vantaggi:
-1. Meno risorse impegnate (le app consumano spazio e banda)
+1. Meno risorse impegnate (le app consumano spazio e banda anche mentre non le usi attivamente)
 2. Zero notifiche (non avrai mica attivato le notifiche del browser spero?!)
 3. Più privacy (le app raccolgono dati di profilazione anche quando non le usi)
-4. Meno uso compulsivo: il solo attrito di dover aprire il browser e aprire il tab del social che vuoi consultare ridurrà drasticamente il numero di volte che aprirai quel social. E' pazzesco, ma con me ha funzionato in modo clamoroso. Non ho rinunciato all'uso, e non ho disattivato gli account, ma senza dubbio uso i social meno di 1/4 del tempo rispetto a quando avevo le app installate.
+4. Meno uso compulsivo: questa è la cosa più importante. Il solo attrito di dover aprire il browser e aprire il tab del social che vuoi consultare ridurrà drasticamente il numero di volte che aprirai quel social. E' pazzesco, ma con me ha funzionato in modo clamoroso. Non ho rinunciato all'uso, e non ho disattivato gli account, ma senza dubbio uso i social meno di 1/4 del tempo rispetto a quando avevo le app installate.
 
-Non so se l'accesso via browser funziona anche con TikTok, non lo uso: prova e fammi sapere in caso.
+
 
 ## Luce notturna
 Sia su Android che su Windows, c'è la modalità "Luce notturna", "Modalità lettura", "Luminosità notte" o come la chiama il tuo dispositivo - è quella funzione che **riduce l'emissione di luce blu** dello schermo, rendendo quindi tutto più giallino.  
-Come minimo attivala con pianificazione dal tramonto all'alba.  
-Ma anche se la attivi permanentemente, il fastidio causato dalla dominante gialla è quasi irrilevante dopo i primi 10 secondi, e dicono che fa bene agli occhi evitare la luce blu.
+Come minimo attivala con pianificazione automatica dal tramonto all'alba.  
+Ma anche se la attivi permanentemente, il fastidio causato dalla dominante gialla è quasi irrilevante dopo i primi 10 secondi, e dicono che fa bene agli occhi evitare la luce blu.  
+
+Ora, se fai fotoritocco o montaggio video **
 
 ## 1 ora prima di dormire
 Imposta i tuoi dispositivi in modo che, un'ora prima di quando mediamente vai a dormire la sera, impostino 2 opzioni:
