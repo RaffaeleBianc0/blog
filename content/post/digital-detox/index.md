@@ -1,17 +1,16 @@
 ---
-title: "Igiene digitale"
-description: "Come mi prendo cura dei miei dati"
-date: "2026-09-09"
-lastmod: '2026-09-09'
+title: "Digital detox"
+description: "Come convivo con la modernità in modo sano"
+date: "2026-09-07"
+lastmod: '2026-09-07'
 categories: 
   - "tecnologia"
 image: "images/cover.jpg"
 draft: true
 ---
 
-Questo è il mio secondo post sul tema "Igiene digitale".  
-
-Qui parlo della igiene digitale **"esterna"**, cioè la cura dei propri dati che stanno "lì fuori" appunto - in contrapposizione con la igiene digitale **"interna"**, cioè la cura della proprie facoltà fisiche e mentali, di cui parlo nell'altro post ({{ digital-detox }}).  
+Va di moda parlare di _digital detox_.  
+Mi sento particolarmente interessato al tema, perché sguazzo nel digitale dagli anni '80, prima per diletto, poi dai '90 per studio, e poi nel nuovo millennio per tutto quanto.  
 
 **
 
