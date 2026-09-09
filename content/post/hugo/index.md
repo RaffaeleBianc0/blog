@@ -128,7 +128,7 @@ Dopo poco tempo però scopro il metodo che sto usando adesso, che aggiunge a tut
 1. Con l'integrazione [GitHub](https://github.com/RaffaeleBianc0) installata in VS Code, con un click faccio l'**upload dei file nuovi e modificati nel mio repository privato su GitHub**, che significa ottenere in automatico questi vantaggi:
     * **backup** online di tutti i file sorgente del blog
     * **versionamento** di ogni file (posso tornare indietro nella storia se qualcosa non mi piace o si rompe)
-    * **editor VS Code online** per modificare i miei file da qualunque computer e aggiornare così il blog anche quando non ho il mio PC, basta premere il punto {{< tasto "." >}} sulla tastiera mentre stai visualizzando un file. Spettacolo!  
+    * **editor VS Code online** per modificare i miei file da qualunque computer e aggiornare così il blog anche quando non ho il mio PC: basta accedere al repo GitHub, premere il punto {{< tasto "." >}} sulla tastiera, e praticamente ho lo stesso ambiente VSCode che ho sul PC di casa, che punta direttamente alla stessa struttura di cartelle e che ha già le mie impostazioni abituali perché sono sincronizzate... spettacolare!  
 
 1. Una [**GitHub Action**](https://github.com/features/actions) fa la magia ogni volta che il mio repository "sente" una modifica, e automaticamente fa queste cose in background in un paio di minuti:
     * installa l'ultima versione di Hugo in una VM di GitHub
