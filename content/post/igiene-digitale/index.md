@@ -1,8 +1,8 @@
 ---
 title: "Igiene digitale"
 description: "Come mi prendo cura dei miei dati"
-date: "2026-09-09"
-lastmod: '2026-09-09'
+date: "2026-09-11"
+lastmod: '2026-09-11'
 categories: 
   - "tecnologia"
 image: "images/cover.jpg"
@@ -11,9 +11,7 @@ draft: true
 
 Questo è il mio secondo post sul tema "Igiene digitale".  
 
-Qui parlo della igiene digitale **"esterna"**, cioè la cura dei propri dati che stanno "lì fuori" appunto - in contrapposizione con la igiene digitale **"interna"**, cioè la cura della proprie facoltà fisiche e mentali, di cui parlo nell'altro post ({{ digital-detox }}).  
-
-**
+Qui parlo della igiene digitale **"esterna"**, cioè la cura dei propri dati che stanno "lì fuori" appunto - per distinguerla dalla igiene digitale **"interna"**, cioè la cura della proprie facoltà fisiche e mentali, di cui parlo nell'[altro post]({{< ref "digital-detox.md" >}}).  
 
 Il tema di questo post è tanto importante quanto sottovalutato, quasi da tutti.  
 Con "tutti" intendo chiunque abbia uno smartphone in tasca o un accesso a internet, anche tua mamma con lo smartphone, anche tuo nonno col tablet.
