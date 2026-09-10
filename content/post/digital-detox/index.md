@@ -9,19 +9,20 @@ image: "images/cover.jpg"
 draft: true
 ---
 
-Le locuzioni trendy mi irritano da sempre, e il _digital detox_ mi pare tanto una di queste locuzioni.  
-Però è successo che negli ultimi mesi ho fatto alcune piccole azioni che, messe in fila, alla fine dei conti sono una manifestazione proprio di questo concetto così trendy.  
+Le locuzioni trendy mi irritano da sempre, e il _digital detox_ mi pare proprio una di queste.  
+Però è successo che negli ultimi mesi ho fatto alcune piccole azioni che, messe in fila, alla fine dei conti sono una manifestazione proprio di questo concetto trendy.  
 E siccome queste azioni mi hanno fatto bene, sono qua a scriverne.
 
-Sguazzo nel digitale dagli anni '80 con enorme soddisfazione: da bambino con i videogames, dai '90 anche per studio, e poi nel nuovo millennio per tutto quanto, studio, lavoro, casa, salute, hobby, insomma per tutta la vita sono stato promotore assoluto del digitale applicato ovunque possibile, perché è naturalmente più comodo, più versatile, e più sicuro in quasi tutte le applicazioni rispetto al corrispettivo analogico.  
+Sguazzo nel digitale dagli anni '80 con enorme soddisfazione: da bambino con i videogame, dai '90 anche per studio, e poi nel nuovo millennio per tutto quanto, studio, lavoro, casa, salute, hobby, insomma per tutta la vita sono stato e sono ancora promotore assoluto del digitale ovunque possibile, perché è naturalmente più comodo, più versatile, e più sicuro in quasi tutte le applicazioni rispetto al corrispettivo analogico.  
 
-Questo quadretto roseo ha cominciato a creparsi negli ultimi anni, osservando con un minimo di attenzione il tenore dei commenti nei social, i post delle persone, la pubblicità spinta attorno e dentro a qualunque contenuto, gli influencer, le tavolate in pizzeria con 15 ragazzini ciascuno sul proprio smartphone e nessuno che parla, le persone con cui sto chiacchierando che buttano l'occhio prima allo smartwatch e poi allo schermo perché è arrivata una notifica...  
+Questo quadretto roseo ha cominciato a creparsi negli ultimi anni, osservando con un minimo di attenzione il tenore dei commenti nei social, i post delle persone, la pubblicità spinta attorno e dentro a qualunque contenuto, gli influencer, le tavolate in pizzeria con 15 ragazzini ciascuno sul proprio smartphone e nessuno che parla, le persone con cui sto chiacchierando che guardano lo smartwatch e poi il telefono perché è arrivata una notifica e perdono il filo...  
 
-... ma soprattutto il tempo riportato da Android che ho dedicato ai social credo quasi ogni giorno da quando ho uno smartphone.  
-Ti sembra che non sia un vero problema o addirittura di averne il controllo, "smetto quando voglio" citando il titolo di un film, e invece a fine giornata hai buttato quando va bene un'oretta su Instagram, quasi ogni giorno negli ultimi boh 10-15 anni, centinaia di ore delle quali ti resta forse una manciata dei reel degli ultimi 2 giorni per poter dire al caffè coi colleghi "ah sì l'ho visto anche io haha che ridere". Wow, l'evoluzione.  
+... ma soprattutto il tempo riportato da Android che ho dedicato ai social quasi ogni giorno da quando ho uno smartphone.  
+Ti sembra che non sia un vero problema o addirittura di averne il controllo, "smetto quando voglio" citando il titolo di un film, e invece a fine giornata hai buttato quando va bene un'oretta su Instagram, quasi ogni giorno negli ultimi boh 10-15 anni, centinaia di ore delle quali ti resta una manciata di reel degli ultimi 2 giorni per poter dire al caffè coi colleghi "ah sì l'ho visto anche io haha che ridere". Wow, l'evoluzione.  
 
-Avevo voglia di reagire, di recuperare un po' di intenzionalità nell'uso di alcuni strumenti, ma l'inerzia è stata gigantesca. Non ho fatto nulla per anni, un po' come l'attività fisica, "dovrei farlo", ma niente.  
+Lentamente mi è cresciuta una voglia di reagire, di recuperare un po' di intenzionalità nell'uso di queste cose, ma l'inerzia è stata gigantesca. Non ho fatto nulla per anni, un po' come l'attività fisica, "dovrei farlo", ma niente.  
 Fino a quando lo ho fatto.  
+In un momento a caso, senza premeditazione, TODO***
 
 Ti parlo delle soluzioni che ho adottato seguendo un mio personale ordine di importanza, e anche di quelle che sto valutando per il futuro.  
 Accorgimenti ovvi, piccoli, elementari, da applicare in 1-5 secondi, non scherzo sono davvero cose immediate e che hai probabilmente già sentito.  
