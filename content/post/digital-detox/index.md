@@ -111,10 +111,10 @@ Sto valutando l'acquisto di un **tablet Android da 7" con schermo e-ink a colori
 
 **Cosa mi frena:**
 Il mio attuale Kindle Paperwhite 7th gen, che ho da poco sottoposto a jailbreak per installarci l'ottimo [KOReader](https://koreader.rocks) + [Bookshelf](https://github.com/AndyHazz/bookshelf.koplugin) + [Bookends](https://github.com/AndyHazz/bookends.koplugin) + integrazione con [Calibre](https://calibre-ebook.com), ottenendo una eccellente esperienza di lettura Amazon-free, mi sta già fornendo praticamente tutti i benefici che ho elencato sopra a costo zero.  
-Certo non ha i colori e non ha Android, quindi lo uso esclusivamente per la lettura dei libri, però già questo è il risultato più importante che cercavo, e forse l'acquisto di un nuovo dispositivo solo per poter accedere a browser e Reddit senza prendere il telefono è un po' overkill.
+Certo non ha i colori e non ha Android, quindi lo uso esclusivamente per la lettura dei libri, però già questo è il risultato più importante che cercavo, e forse l'acquisto di un nuovo dispositivo solo per poter accedere a web e Reddit senza prendere il telefono è un po' overkill.
 
-I miei candidati a settembre 2026 sono:
-1. **Bigme B7 Pro**, il dispositivo 7" e-ink Android migliore sul mercato mentre scrivo, perché ha refresh rate più alto di tutti i concorrenti (ci si vedono anche i video nonostante sia un e-ink), CPU RAM e storage al vertice della categoria (alla pari di uno smartphone midrange), fotocamera (utile per usarlo come scanner), e slot SIM 4G, solo che costa 400€
+**Candidati a settembre 2026:**  
+1. **Bigme B7 Pro**, il dispositivo 7" e-ink Android migliore sul mercato mentre scrivo, perché ha refresh rate più alto di tutti i concorrenti (ci si vedono anche i video nonostante sia un e-ink), CPU RAM e storage al vertice della categoria (alla pari di uno smartphone midrange), fotocamera (utile per usarlo come scanner con archiviazione su cloud), e slot SIM 4G, solo che costa 400€
 1. **Bigme B7 Color**, fratellino minore rispetto al Pro qui sopra, si perdono un po' di performance e di refresh-rate, e lo slot per la SIM (che non credo userei comunque), costa circa 300€
 1. **Onyx Boox Go 7 Color Gen2**, meno potente e dotato dei due Bigme, ma esteticamente leggermente più elegante, costa anche questo attorno ai 300€
 
@@ -124,16 +124,16 @@ I miei candidati a settembre 2026 sono:
 
 ### Niente smartphone in presenza di altri
 Se sono con persone, allora non uso lo smartphone.  
-Mi piacerebbe riuscirci, l'abitudine di riempire qualunque micro-pausa con una sbirciatina al telefono è radicata e diffusa.
+Mi piacerebbe riuscirci, perché l'abitudine di riempire qualunque micro-pausa con una sbirciatina al telefono mi sembra una piccola schiavitù e cancella la maggior parte delle occasioni di interazione sociale.
 
 ### No smartphone sul comodino 
-Confido che metterlo in carica in un'altra stanza prima di andare a letto mi porti a leggere qualche pagina di un libro e magari ad addormentarmi prima.
+Confido che metterlo in carica in un'altra stanza prima di andare a letto mi porti a leggere qualche pagina di un libro ogni sera, che tra l'altro pare essere un buon modo di migliorare la qualità del sonno.
 
 ### Ebook sempre con me
 Per riempire i momenti vuoti della giornata, invece di video o social potrei leggere qualche pagina dal mio ebook reader.  
-Solo che i 6-7 pollici non stanno comodi in tasca, dovrei portarmi dietro un borsello o simile dove cacciare dentro anche l'ebook.
+Solo che i 6-7 pollici non stanno nelle tasche dei pantaloni, quindi d'estate dovrei portarmi dietro un borsello/slingbag o simile dove cacciare dentro anche l'ebook.
 
 ### Smartphone con schermo e-ink
 Per rendere scrolling, video, e videogame _fastidiosi_, e per rendere invece la lettura di testo più riposante e il display perfettamente leggibile anche sotto al sole, l'uovo di colombo potrebbe essere uno smartphone con schermo e-ink (il più interessante a settembre 2026 è il Bigme Hibreak Pro Color), invece del classico smartphone con schermo LCD/OLED che abbiamo un po' tutti.
 
-Una soluzione ancora più radicale sarebbe quella di usare un _dumb phone_ invece di uno smartphone, così da privarsi volontariamente di tutta la parte "smart"... ma mi pare davvero troppo.
+Una soluzione ancora più radicale sarebbe quella di usare un _dumb phone_ invece di uno smartphone, così da privarsi volontariamente di tutta la parte "smart"... ma mi pare davvero troppo una talebanata.
