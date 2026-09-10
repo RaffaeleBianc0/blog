@@ -9,10 +9,27 @@ image: "images/cover.jpg"
 draft: true
 ---
 
+Quando ho deciso che gli ETF erano gli strumenti giusti per investire qualche risparmio, e dopo aver deciso l'allocazione, è stato il momento di scegliere _quali_ ETF acquistare.
 
+Voglio spendere qualche riga qui su questo tema, perché più di qualche amico mi ha fatto la stessa domanda, e magari un vademecum pratico può far comodo.
 
-categoria, pac gratuito, ter, ...
+Immagina di aver calcolato/deciso che nella tua asset allocation ci sta un ETF azionario globale.  
+Solo per questa classe, ci sono almeno 5 indici, ognuno tracciato da almeno 1 ETF, ma spesso 5-6.  
+Metti che siano 25 in totale.  
+Tutti azionari globali.  
+**Quale scegli?**
 
+Di seguito descrivo come ho fatto io a scegliere per me stesso, quindi vale ovviamente il solito disclaimer che trovi in fondo alla pagina.  
+
+Il punto di partenza è [JustETF](https://justetf.com), un po' il Google degli ETF.  
+Suggerisco caldamente l'uso da computer, perché nella versione mobile mancano alcune cose e soprattutto l'impaginazione tabellare è fondamentale quando ci sono tanti dati da confrontare.  
+
+Questi sono i filtri che applico:
+1. PAC gratuito su Directa, perché non voglio pagare commissioni che, su importi di acquisto piccoli come i miei, inciderebbero un po' troppo.
+1. Accumulazione, perché per me gli ETF a distribuzione non hanno senso.
+1. AuM di almeno 500mln, perché presumo che un ETF più grosso abbia meno probabilità di essere chiuso.
+1. Ordinamento per TER, perché voglio minimizzare i costi.
+1. Se, con questi filtri, ho più prodotti che si assomigliano, allora tendo a preferire quelli di una società emittente diversa dalle altre che ho a portafoglio, che un po' di diversificazione in più non guasta mai.
 
 ---
 
