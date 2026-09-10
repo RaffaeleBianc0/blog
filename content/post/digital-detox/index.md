@@ -1,8 +1,8 @@
 ---
 title: "Digital detox"
 description: "Come convivo con la modernità senza soccombere"
-date: "2026-09-09"
-lastmod: '2026-09-09'
+date: "2026-09-10"
+lastmod: '2026-09-10'
 categories: 
   - "tecnologia"
 image: "images/cover.jpg"
