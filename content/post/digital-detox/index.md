@@ -33,38 +33,40 @@ Accorgimenti ovvi, piccoli, elementari, da applicare in 5 secondi, non scherzo s
 
 
 # Notifiche
-Questa è la misura più banale di tutte, ho iniziato ad applicarla tanti anni fa, e la metto qui per prima perché l'impatto sul quotidiano, secondo me, è davvero sottovalutato: prendi il telefono e **disattiva quasi tutte le notifiche** - news, email, gruppi Whatsapp, gruppi Teams, browser, videogames, e soprattutto di tutti i social.  
+Questa è la misura più banale di tutte, ho iniziato ad applicarla tanti anni fa, e la metto qui per prima perché l'impatto sul quotidiano, secondo me, è davvero sottovalutato: nel telefono **disattiva quasi tutte le notifiche** - news, email, gruppi Whatsapp, gruppi Teams, browser, videogames, e soprattutto di tutti i social.  
+Non serve che fai tutto in un colpo solo, ti basta farlo man mano che le ricevi dalle varie app, lo sforzo è zero.
 
 Quando hai tempo/voglia/bisogno di accedere a queste cose, lo fai di tua iniziativa: **decidi tu quando, non il tuo telefono**.  
 E se aprirai quella app tra qualche ora invece di "subito", sai già che non cambierà assolutamente nulla: **non servono notifiche per cose che non sono né urgenti né importanti**.  
 
 Conserva attive le notifiche che servono ad **interagire con le persone** (chiamate, SMS, Whatsapp, Telegram, Messenger e simili), e conserva anche quelle dei **servizi critici** che richiedono la tua attenzione immediata (es. calendario, antifurto, pagamenti).  
 
-La fatica per applicare questa piccola regola è zero, basta tener premuta la prossima notifica molesta col dito e selezionare "Disattiva", "Silenzia" o simile (dipende dal telefono), ci metti a farla grande 3 secondi.  
+La fatica per applicare questa piccola regola come dicevo è zero, basta tener premuta la prossima notifica molesta col dito e selezionare "Disattiva", "Silenzia" o simile (dipende dal telefono), ci metti a farla grande 3 secondi.  
 Ma il vantaggio di non avere più interruzioni costanti e superflue, né un elenco di 35 notifiche inutili in mezzo alle quali affogano le 2 utili, per me non ha prezzo.
 
 
 
 # Notifiche email su PC
-Questa è sottovalutata in ufficio invece: usi Outlook, e di default ad ogni email che arriva senti un suono (e lo sentono anche tutti i colleghi nella stessa stanza, maledetti open-space) e ti compare la bustina in basso a destra.  
-Ma **l'email non è mai stata uno strumento di comunicazione sincrono**, non serve vedere le email appena arrivano, non è una chat, e chiunque utilizzi lo strumento email in contrasto con questa sua natura (che è sempre la stessa dai tempi di ARPANET) sta semplicemente sbagliando.  
-Quindi: **disattiva le notifiche per le nuove email*, semplice. E le email le controlli ogni 1 2 4 8 ore, decidi tu in base al tipo di lavoro che fai.  
+Questa è sottovalutata in ufficio invece: se usi Outlook, di default ad ogni email che arriva senti un suono (e lo sentono anche tutti i colleghi nella stessa stanza, maledizione) e ti compare la bustina in basso a destra.  
+Ma **l'email non è mai stata uno strumento di comunicazione sincrono**, non serve vedere le email _appena arrivano_, non è una chat, e chiunque utilizzi lo strumento email in contrasto con questa sua natura (che per inciso è sempre la stessa dai tempi di ARPANET) sta semplicemente sbagliando, per se stesso ma anche per la comunità, perché alimenta una cattiva abitudine, la stessa per cui ti scrivono una email, poi ti mandano il messaggio su Teams "Hai letto la posta?", e se non lo leggi ti chiamano e "Ciao, hai letto Teams?".  
+Quindi: **disattiva le notifiche per le nuove email*, semplice. Le controlli ogni 1 2 4 8 ore, decidi tu in base al tipo di lavoro che fai.  
 
-La cosa completamente sana sarebbe tenere Outlook iconizzato/nascosto, e aprirlo solo quando hai bisogno di usarlo; non puoi spegnerlo del tutto perché se usi il Calendario ti servono le notifiche degli eventi, e quelle funzionano solo se Outlook è aperto.  
+La cosa completamente sana sarebbe tenere Outlook iconizzato/nascosto, e aprirlo solo quando hai bisogno di usarlo; non puoi spegnerlo del tutto perché se usi il Calendario ti servono le notifiche degli eventi, e quelle funzionano solo se Outlook è in esecuzione.  
 Oppure configuri la app "Calendario" se la trovi installata come parte di Windows in modo che ti mostri lo stesso calendario che vedi in Outlook.  
 
 
 
 # Notifiche Teams
-Non bastassero telefono ed email, **anche nel mondo business si è normalizzato l'abuso delle chat**: un tripudio di notifiche aggiuntive e frequenti.  
-Inoltre spesso le aziende _impongono_ l'uso di Teams in quanto strumento aziendale condiviso e ufficiale per la comunicazione veloce. Quindi non scappi, ti devi cuccare la tua dose di distrazione, stress, e produttività ridotta per policy.  
+Non bastassero telefono ed email, **anche nel mondo business si è normalizzato l'abuso delle chat**: un tripudio di notifiche aggiuntive.  
+Inoltre spesso le aziende _impongono_ l'uso di Teams in quanto strumento aziendale condiviso e ufficiale per la comunicazione veloce.  
+Quindi non scappi, ti devi cuccare la tua dose di distrazione, produttività ridotta e conseguente stress _per policy_.  
 
-Allo strumento molesto si sovrappone l'uso maleducato che ne fanno alcuni clienti che, siccome hai scambiato due chat durante una attività con loro, da lì in avanti si sentono autorizzati a scriverti su Teams quando meglio credono.
+Allo strumento molesto si somma l'uso maleducato che ne fanno alcuni clienti che, siccome hai scambiato due chat durante una attività con loro, da lì in avanti si sentono autorizzati a scriverti su Teams quando meglio credono.
 
 Come si può risolvere, senza spegnere Teams direttamente?  
 Io faccio così:
 * Modalità **"Non disponibile"** costante.
-* Su ogni cliente, se non ci sto lavorando quel giorno, **tasto destro > "Disattiva audio"**: questo fa sì che le notifiche non escano da Teams, quindi devo aprire intenzionalmente Teams per vedere il pallino della notifica.
+* Su ogni contatto di cliente, se non ci sto lavorando quel giorno, **tasto destro > "Disattiva audio"**: questo fa sì che le notifiche non escano da Teams, quindi devo aprire intenzionalmente Teams per vedere il pallino della notifica.
 * Quando un contatto scrive in occasioni "non concordate" e vedo il pallino di notifica sul suo nome, **non leggo** e quindi nemmeno rispondo: dopo max un paio di interazioni mancate il problema di solito è risolto, e in caso vale sempre _"scusami ma non guardo Teams, scrivimi pure email così non perdo traccia e appena riesco rispondo"_.
 
 
@@ -72,19 +74,21 @@ Io faccio così:
 # Disinstalla le app dei social
 Se hai una o più app tra Facebook, Instagram, Threads, TikTok, sia su PC che su smartphone, semplicemente disinstallale, ci metti pochi secondi per ciascuna.   
 
-Non è necessario sospendere/cancellare i tuoi account se non vuoi.  
-E **puoi accedere agli stessi social usando il browser**, sia su PC che su telefono, con questi vantaggi:
+Non è necessario sospendere/cancellare i rispettivi account.  
+E **puoi accedere agli stessi social usando il browser**, sia su PC che su telefono, senza che cambi granché rispetto all'uso delle app.
+
+I vantaggi che ho sperimentato sono questi:
 1. **Meno uso compulsivo**: questa è la cosa più importante. Il solo attrito di dover aprire il browser e aprire il tab del social che vuoi consultare ridurrà drasticamente il numero di volte che aprirai quel social. Funziona davvero! E fa riflettere su come è fatto il nostro cervello.
-1. **Zero notifiche** (anche se spero tu le avessi già disattivate da tempo... poi non avrai mica ancora attive le notifiche del browser vero?!)
+1. **Zero notifiche** (anche se spero tu le avessi già disattivate da tempo... e non avrai mica attive le notifiche del browser vero?!)
 1. **Più tutela dei tuoi dati** (le app raccolgono dati di profilazione anche quando non le usi)
-1. **Meno risorse di sistema impegnate** (le app consumano spazio e banda anche mentre non le usi attivamente), che su alcuni smartphone più vecchiotti può essere vantaggioso.
+1. **Meno risorse impegnate** (le app consumano spazio, batteria, e banda anche mentre non le usi attivamente, per quanto poco), che su alcuni smartphone più vecchiotti può essere vantaggioso.
 
 
 
 # Un'ora prima di dormire
 Imposta i tuoi dispositivi in modo che, 60-90 minuti prima di quando mediamente vai a dormire la sera, si attivino automaticamente 2 opzioni:  
-1. **"Non disturbare"** per tagliare le notifiche inutili (ammesso che serva ancora, penso tu le abbia già tutte disattivate, vedi sopra). Configura la funzione in modo che i contatti della tua rubrica (o almeno i tuoi familiari) possano comunque chiamarti per le urgenze, e che le notifiche critiche (es. quelle dell'antifurto) funzionino ugualmente.  
-1. **"Modalità riposo"** o qualunque nome abbia nel tuo dispositivo, è quella che rende lo schermo in bianco e nero: questo fa bene già di per sé secondo alcuni studi (tipo [questo](https://www.medicinalmedia.com/explore/set-your-phone-to-grayscale)), e inoltre ti serve come "promemoria gentile" che è ora di mettere giù il telefono perché tra un'ora andrai a dormire, e ci sono studi (tipo [questo](https://www.sciencedaily.com/releases/2014/12/141222131348.htm)) che parlano di questa come buona abitudine per migliorare la qualità del sonno.
+1. **"Non disturbare"** per tagliare le notifiche inutili (ammesso che serva ancora, dovresti averle già tutte disattivate, vedi sopra). Configura la funzione in modo che i contatti della tua rubrica (o almeno i tuoi familiari) possano comunque chiamarti per le urgenze, e che le notifiche critiche (es. quelle dell'antifurto) funzionino ugualmente.  
+1. **"Modalità riposo"** o qualunque nome abbia nel tuo dispositivo, è quella che rende lo schermo in bianco e nero: questo fa bene già di per sé secondo alcuni studi (tipo [questo](https://www.medicinalmedia.com/explore/set-your-phone-to-grayscale)), e inoltre ti serve come "promemoria gentile" che è ora di mettere giù il telefono perché tra un'ora andrai a dormire, ci sono studi (tipo [questo](https://www.sciencedaily.com/releases/2014/12/141222131348.htm)) che parlano di questa come buona abitudine per migliorare la qualità del sonno.
 
 
 
@@ -122,14 +126,16 @@ Per completezza, ecco comunque i **dispositivi più interessanti a settembre 202
 # Idee non (ancora?) implementate
 
 ## Niente smartphone in presenza di altri
-Se sono con persone, allora vorrei non guardare mai lo smartphone.  
-Mi piacerebbe riuscirci, perché l'abitudine di riempire qualunque micro-pausa con una sbirciatina al telefono mi sembra una piccola schiavitù che cancella la maggior parte delle occasioni di interazione sociale.
+Se sono con persone, allora vorrei non guardare lo smartphone.  
+L'abitudine di riempire qualunque micro-pausa con una sbirciatina al telefono mi sembra una piccola schiavitù che cancella la maggior parte delle occasioni di interazione sociale.  
+E quando vedo il mio interlocutore guardare il telefono per più di 5 secondi mentre stiamo parlando vorrei spezzarglielo in due.  
+Però zoppico della stessa gamba ancora troppo spesso...
 
 ## No smartphone sul comodino 
-Confido che metterlo in carica in un'altra stanza prima di andare a letto mi porti a leggere qualche pagina di un libro ogni sera, che tra l'altro pare essere un buon modo di migliorare la qualità del sonno.
+Confido che mettere in carica il telefono in un'altra stanza prima di andare a letto mi porti a leggere qualche pagina di un libro ogni sera, che tra l'altro pare essere un buon modo di migliorare la qualità del sonno.
 
 ## Ebook sempre con me
-Per riempire qualche pausa solitaria (es. smartworking, pranzo di lavoro, attese dal medico, cose del genere), invece di video o social potrei leggere qualche pagina dal mio ebook reader.  
+Per riempire qualche pausa solitaria (es. durante smartworking, pranzo di lavoro da solo, attese dal medico, cose del genere), invece di video o social potrei leggere qualche pagina di un libro.  
 Solo che i 6-7 pollici non stanno nelle tasche dei pantaloni, quindi d'estate dovrei portarmi dietro un borsello/slingbag o simile dove cacciare dentro anche l'ebook.
 
 ## Smartphone con schermo e-ink
