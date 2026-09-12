@@ -91,6 +91,13 @@ Io faccio così:
 
 
 # Un'ora prima di dormire
+
+|||
+|-:|:-|
+|Vantaggi|🔴🔴🔴⚪⚪|
+|Difficoltà|🔴🔴⚪⚪⚪|
+|||
+
 Imposta i tuoi dispositivi in modo che, 60-90 minuti prima di quando mediamente vai a dormire la sera, si attivino automaticamente 2 opzioni:  
 1. **"Non disturbare"** per tagliare le notifiche inutili (ammesso che serva ancora, dovresti averle già quasi tutte disattivate, vedi sopra). Configura la funzione in modo che i contatti della tua rubrica (o almeno i tuoi familiari) possano comunque chiamarti per le urgenze, e che le notifiche critiche (es. quelle dell'antifurto) funzionino ugualmente.  
 1. **"Modalità riposo"** o qualunque nome abbia nel tuo dispositivo, è quella che toglie i colori dallo schermo che diventa in bianco e nero: questo fa bene già di per sé secondo alcuni studi (tipo [questo](https://www.medicinalmedia.com/explore/set-your-phone-to-grayscale)), e inoltre ti serve come "promemoria gentile" che è ora di mettere giù il telefono perché tra un'ora andrai a dormire, ci sono studi (tipo [questo](https://www.sciencedaily.com/releases/2014/12/141222131348.htm)) che parlano di questa come buona abitudine per migliorare la qualità del sonno.
@@ -98,6 +105,13 @@ Imposta i tuoi dispositivi in modo che, 60-90 minuti prima di quando mediamente 
 
 
 # Modalità notte
+
+|||
+|-:|:-|
+|Vantaggi|🔴⚪⚪⚪⚪|
+|Difficoltà|🔴🔴⚪⚪⚪|
+|||
+
 Sia su Android che su Windows, c'è la modalità "Luce notturna", "Modalità lettura", "Luminosità notte" o come la chiama il tuo dispositivo - è quella funzione che **riduce l'emissione di luce blu** dello schermo, rendendo quindi tutto più giallino.  
 
 Il mondo scientifico ha **opinioni contrastanti su questo tema**: c'è chi dice che ridurla faccia bene al ritmo sonno-veglia, c'è chi dice che il contributo di questa scelta è irrilevante; in attesa che esca qualche conclusione più solida, possiamo attivarla con pianificazione automatica dal tramonto all'alba, di certo male non fa, e potresti percepire anche un blando effetto rilassante nell'uso dello schermo.  
