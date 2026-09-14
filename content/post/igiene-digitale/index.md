@@ -22,10 +22,13 @@ Il punto è che manca consapevolezza su **come proteggersi dagli eventi brutti**
 E anche se scegli di lasciar fuori dal telefono alcune cose, magari per gestirle dal PC, la storia non cambia, i rischi a cui sei esposto sono più o meno gli stessi, perché i furti di identità avvengono sui server delle aziende di cui sei cliente, e anche i PC si rompono/perdono/rubano come i cellulari.  
 
 Pensa a questi scenari per esempio:
-1. Sei all'estero, hai con te portafoglio e smartphone. Vieni aggredito e scippato. Nel telefono c'era mezza vita, 5000 foto che non sai se sono backuppate o meno, tutti i contatti, una nota con dentro tutte le tue password leggibili, le app della banca, lo SPID, e tante altre cose.  
+
+* Sei all'estero, hai con te portafoglio e smartphone. Vieni aggredito e scippato. Nel telefono c'era mezza vita, 5000 foto che non sai se sono backuppate o meno, tutti i contatti, una nota con dentro tutte le tue password leggibili, le app della banca, lo SPID, e tante altre cose.  
 Poco probabile? [Qui](https://www.phonearena.com/news/iphone-passcode-thief-reveals-secrets_id153697) parlano di un tizio che ha rubato il telefono a centinaia di persone, riuscendo a rubare una cifra totale stimata tra 1 e 2 milioni di dollari prima di finire in carcere.  
-1. Un team di hacker riesce a sottrarre un database di account di Google. Controlli la posta, ma GMail ti chiede di effettuare l'accesso. Ci provi, ma non ti accetta la password. Te l'hanno già cambiata. Peccato quella volta non aver attivato la 2FA perché era così scomoda... SPID banca posta ospedale e tutti i tuoi account hanno _quello_ come tuo indirizzo email di riferimento. E ci sono dentro 20+ anni di email archiviate. E con lo stesso account si accede al tuo calendario, alle tue foto, ai tuoi indirizzi di casa e lavoro, a tutti i tuoi file in Google Drive.
-1. Un altro team di hacker acquista nel dark web il database degli account di Linkedin, che era stato già sottratto nel 2012. C'è dentro anche il tuo account. La tua password Linkedin è la stessa fin da quando hai creato l'account, non la hai mai cambiata, è quella che usi sempre per le "cose poco importanti", quella lì breve e facile, la hai usata anche su Facebook, Twitter, il sito del fantacalcio e altri 40-50 posti che nemmeno ricordi. Un amico ti scrive che stanno uscendo post strani a nome tuo su Facebook, con un sacco di tag. Provi ad accedere ma ti hanno già rubato l'account perché email e password sono le stesse che hai usato su Linkedin e gli hacker hanno fatto "credential stuffing" e ti hanno già cambiato la password su tutti i servizi in pochi secondi con dei bot. Su Linkedin pubblicano una foto pornografica usando il tuo account rubato, taggando l'azienda per cui lavori. Il tuo capo ti telefona.
+
+* Un team di hacker riesce a sottrarre un database di account di Google. Controlli la posta, ma GMail ti chiede di effettuare l'accesso. Ci provi, ma non ti accetta la password. Te l'hanno già cambiata. Peccato quella volta non aver attivato la 2FA perché era così scomoda... SPID banca posta ospedale e tutti i tuoi account hanno _quello_ come tuo indirizzo email di riferimento. E ci sono dentro 20+ anni di email archiviate. E con lo stesso account si accede al tuo calendario, alle tue foto, ai tuoi indirizzi di casa e lavoro, a tutti i tuoi file in Google Drive.  
+
+* Un altro team di hacker acquista nel dark web il database degli account di Linkedin, che era stato già sottratto nel 2012. C'è dentro anche il tuo account. La tua password Linkedin è la stessa fin da quando hai creato l'account, non la hai mai cambiata, è quella che usi sempre per le "cose poco importanti", quella lì breve e facile, la hai usata anche su Facebook, Twitter, il sito del fantacalcio e altri 40-50 posti che nemmeno ricordi. Un amico ti scrive che stanno uscendo post strani a nome tuo su Facebook, con un sacco di tag. Provi ad accedere ma ti hanno già rubato l'account perché email e password sono le stesse che hai usato su Linkedin e gli hacker hanno fatto "credential stuffing" e ti hanno già cambiato la password su tutti i servizi in pochi secondi con dei bot. Su Linkedin pubblicano una foto pornografica usando il tuo account rubato, taggando l'azienda per cui lavori. Il tuo capo ti telefona.  
 
 A me pensare a queste cose mette i brividi. E' "paranoia" solo fino a quando non ti capita.  
 
@@ -142,10 +145,10 @@ Che succede se muori o se ti capita qualcosa che compromette le tue facoltà di 
 
 Per fronteggiare questa eventualità, ho preparato un "kit di emergenza", composto di: 
 1. archivio cifrato, che consegno ai miei familiari, e che contiene:
-  1. backup del database del password manager
-  1. backup delle mie chiavi 2FA
-  1. elenco di tutti gli asset (conti correnti, investimenti, assicurazioni, eccetera)
-1. foglio di carta con le istruzioni per accedere all'archivio cifrato. Questo foglio è allegato al mio testamento. Senza questo foglio è impossibile accedere all'archivio cifrato.  
+  * backup del database del password manager
+  * backup delle mie chiavi 2FA
+  * elenco di tutti gli asset (conti correnti, investimenti, assicurazioni, eccetera)
+2. foglio di carta con le istruzioni per accedere all'archivio cifrato. Questo foglio è allegato al mio testamento. Senza questo foglio è impossibile accedere all'archivio cifrato.  
 
 Ogni anno, subito dopo aver aggiornato tutte le mie password, dedico ulteriori 2 minuti a creare la versione aggiornata del mio ICE Kit, e consegno il nuovo archivio cifrato ai familiari alla prima occasione.
 
