@@ -1,6 +1,6 @@
 ---
 title: "Digital detox"
-description: "Trucchetti per degustare la modernità, invece di abbuffarsi"
+description: "Trucchetti per degustare la modernità invece di abbuffarsi"
 date: "2026-09-10"
 lastmod: '2026-09-12'
 categories: 
