@@ -1,7 +1,7 @@
 ---
 title: "Kindle"
 date: "2017-01-30"
-lastmod: '2026-09-15'
+lastmod: '2026-09-14'
 categories: 
   - "tecnologia"
 image: "images/kindle.png"
@@ -69,7 +69,6 @@ Io dopo aver preso [questa](https://www.amazon.it/gp/product/B017TU6GHE/ref=oh_a
 
 
 
-# Aggiornamenti 2026
+# Aggiornamento 2026
 
-A metà 2026 ho fatto il jailbreak per installare KOReader.  
-Presto completerò questo capitolo. :-)
+A metà 2026 [elaborato il mio Kindle]{{< ref "pimpmykindle.md" >}}.
