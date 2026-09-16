@@ -172,9 +172,9 @@ Taglio la testa al toro e ti dò la risposta verso cui convergono tanti divulgat
 Le tasse su questa somma che scelgo di versare nei FP non le pago (questa è la deduzione); le pagherò al pensionamento, ma saranno più basse (9-15%) rispetto a quelle che avrei pagato come IRPEF tenendo quei soldi "in tasca" (23-43%).
 
 In [questo post di Ciao Elsa](https://www.ciaoelsa.com/blog/fondo-pensione-o-etf-cosa-conviene) ci sono le informazioni che servono su questo tema.  
-Se preferisci, in questo video se ne parla diffusamente:
+Se preferisci il formato video, questo è eccellente:
 
-{{< youtube v1mzd9rUfxY >}}
+{{< youtube JvUTEYWglc8 >}}
 
 I **vantaggi dell'investimento in ETF rispetto al FP** sono sostanzialmente questi:  
 - **Più libertà:** Sei 100% libero di decidere la tua allocazione, e quando e quanto disinvestire, mentre il FP è per sua natura più vincolato (c'è chi vede questo come un vantaggio dei FP, perché facilita il risparmio a lungo termine anche per i risparmiatori meno disciplinati).  
