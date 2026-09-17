@@ -48,14 +48,14 @@ C'è una libreria di preset tra cui scegliere, altrimenti si può creare il prop
 
 ## My Clippings
 ![](images/myclippings.webp)  
-[My Clippings](https://github.com/nirajkamal/myclippings.koplugin) raccoglie tutti gli highlights in un ebook locale, così da poterli rivedere senza saltare da un libro all'altro:  
+[My Clippings](https://github.com/nirajkamal/myclippings.koplugin) raccoglie tutti gli highlights in un ebook locale, così da poterli rivedere senza saltare da un libro all'altro. 
 
 ## Readest
 L'[integrazione con Readest](https://github.com/readest/readest/wiki/Sync-with-Koreader-devices) è utile per sincronizzare i libri letti e l'avanzamento di lettura su più dispositivi, e per continuare la lettura su qualunque di essi mantenendo allineata la pagina dove si è arrivati.
 
 ## Shortcuts Toolbar
 ![](images/shortcutstoolbar.webp)  
-[Shortcuts Toolbar](https://github.com/xusoo/shortcutstoolbar.koplugin) consente di aggiungere i comandi preferiti direttamente nella toolbar di KOReader, invece di doverli scovare nei suoi affollati menu:  
+[Shortcuts Toolbar](https://github.com/xusoo/shortcutstoolbar.koplugin) consente di aggiungere i comandi preferiti direttamente nella toolbar di KOReader, invece di doverli scovare nei suoi affollati menu.
 
 
 
