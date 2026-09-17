@@ -2,28 +2,30 @@
 title: "Pimp my Kindle"
 description: "Elaborazioni di un ebook reader manco fosse un Ciao"
 date: "2026-09-15"
-lastmod: '2026-09-15'
+lastmod: '2026-09-17'
 categories: 
   - "tecnologia"
-# image: "images/cover.jpg"
-draft: true
+image: "images/cover.jpg"
+draft: false
 ---
 
-Nel 2026 scopro per caso che sul [mio vecchio Kindle regalatomi 10 anni prima]({{< ref "kindle.md" >}}) posso installare [KOReader](https://koreader.rocks), un software opensource per leggere ebook che offre una tonnellata di possibilità in più rispetto all'interfaccia nativa, tra cui mi interessavano soprattutto queste:
-- lettura di formati ebook aggiuntivi, soprattutto EPUB (standard di mercato, che per anni non è stato supportato nativamente dai Kindle)
+Nel 2026 scopro per caso che sul [mio vecchio Kindle regalatomi 10 anni prima]({{< ref "kindle.md" >}}) posso installare [KOReader](https://koreader.rocks), un software opensource per leggere ebook che offre una tonnellata di possibilità in più rispetto all'interfaccia nativa Amazon, tra cui mi interessano soprattutto queste:
+- completo distacco dall'ecosistema Amazon (togliere cose dal "cloud" e conservarle dove decido io mi sembra interessante)
+- supporto a plugin per l'estensione ulteriore delle funzionalità - questa cosa da sola vale tutto lo sforzo, vedi sotto
 - supporto al reflow dei PDF, per riuscire a leggere i PDF re-impaginati anche su uno schermo così piccolo e lento
-- download di feed RSS e conversione in "libri" da leggere
 - controllo tipografico avanzato (font, margini, kerning, orientamento dello schermo, e varie altre opzioni che il software Amazon non prevede)
 - ricerca del termine evidenziato su dizionari multilingua scaricabili in locale, traduttore, e Wikipedia
-- supporto a plugin per l'estensione ulteriore delle funzionalità - questa cosa da sola vale tutto lo sforzo, vedi sotto
+- download di feed RSS e conversione in "libri" da leggere
+- lettura di formati ebook aggiuntivi, soprattutto EPUB (standard di mercato, che per anni non è stato supportato nativamente dai Kindle)
 
 Figurati se non mi vien voglia di provare!  
-Ecco quanto ho fatto.  
+Ecco quello che ho fatto.  
 
 
 
 # Jailbreak + installazione
-Primo prerequisito è aver fatto il _jailbreak_ del dispositivo. È davvero facile e guidato passo dopo passo su https://kindlemodding.org.  
+Primo prerequisito per installare KOReader è aver fatto il _jailbreak_ del dispositivo.  
+È una procedura facile e guidata passo dopo passo su https://kindlemodding.org.  
 
 Nello stesso sito, la procedura termina con le indicazioni per installare KOReader, tramite un paio di comandi elementari da digitare direttamente sul Kindle.  
 
@@ -33,21 +35,27 @@ Nello stesso sito, la procedura termina con le indicazioni per installare KORead
 Una volta installato KOReader, la prima cosa da fare secondo me è installare il plugin [Storefront](https://github.com/ultimatejimmy/storefront.koplugin), perché consente di valutare/installare/aggiornare/rimuovere tutti gli altri plugin direttamente dal Kindle, senza doverlo tenere collegato al PC.
 
 Ho ovviamente sperimentato un bel po' di plugin, soprattutto per modificare l'interfaccia utente, ma anche per altre funzioni collaterali.  
-Ti elenco i plugin che sto usando ancora oggi, dopo opportuna scrematura - necessaria anche per evitare di appesantire troppo l'hardware molto limitato del mio vetusto Kindle.
+Ti elenco quelli che sto usando ancora oggi, dopo opportuna scrematura - necessaria anche per evitare di appesantire troppo l'hardware molto limitato del mio ebook reader.
 
-[Bookshelf](https://github.com/AndyHazz/bookshelf.koplugin) è la mia "home" preferita, anche dopo aver provato gli eccellenti [SimpleUI](https://github.com/doctorhetfield-cmd/simpleui.koplugin) e [ZenOS](https://github.com/xZenLabs/zen-os) per qualche giorno. Si può usare anche solo come sostituto della funzione "Libreria" di KOReader, e usare una customizzazione della home separata, ma Bookshelf fa già tutto quello che mi serve.
+## Bookshelf
+![](images/bookshelf.webp)  
+[Bookshelf](https://github.com/AndyHazz/bookshelf.koplugin) è la mia "home" preferita, anche dopo aver provato gli eccellenti [SimpleUI](https://github.com/doctorhetfield-cmd/simpleui.koplugin) e [ZenOS](https://github.com/xZenLabs/zen-os) per qualche giorno. Si può usare anche solo come sostituto della funzione "Libreria" di KOReader, e usare una customizzazione della home a piacere, ma Bookshelf è già perfetta per le mie esigenze senza aggiungere altro.
 
-_TODO: screenshot_
+## Bookends
+![](images/bookends.webp)  
+[Bookends](https://github.com/AndyHazz/bookends.koplugin) consente di personalizzare l'intestazione e il pié di pagina visualizzati durante la lettura, inserendo informazioni come tempo/pagine/percentuale di lettura trascorso/rimanente/totale rispetto al libro/capitolo/giorno/sessione di lettura corrente, progressbar di queste informazioni, autore del libro, titolo del libro e del capitolo corrente, eccetera eccetera.  
+C'è una libreria di preset tra cui scegliere, altrimenti si può creare il proprio preset direttamente sul dispositivo per i più smanettoni.
 
-[Bookends](https://github.com/AndyHazz/bookends.koplugin) consente di personalizzare l'intestazione e il pié di pagina visualizzati durante la lettura, inserendo informazioni come tempo/pagine/percentuale lettura trascorso/rimanente/totale rispetto al libro intero, al capitolo corrente, al giorno corrente, o alla sessione di lettura corrente, progressbar di tutte queste informazioni, titolo autore del libro e del capitolo corrente, eccetera eccetera.  
-C'è una libreria di preset molto nutrita, altrimenti si può creare il proprio preset direttamente sul dispositivo.
+## My Clippings
+![](images/myclippings.webp)  
+[My Clippings](https://github.com/nirajkamal/myclippings.koplugin) raccoglie tutti gli highlights in un ebook locale, così da poterli rivedere senza saltare da un libro all'altro:  
 
-_TODO: screenshot_
+## Readest
+L'[integrazione con Readest](https://github.com/readest/readest/wiki/Sync-with-Koreader-devices) è utile per sincronizzare i libri letti e l'avanzamento di lettura su più dispositivi, e per continuare la lettura su qualunque di essi mantenendo allineata la pagina dove si è arrivati.
 
-
-
-
-_TODO: verificare sul Kindle quali ho attivi_
+## Shortcuts Toolbar
+![](images/shortcutstoolbar.webp)  
+[Shortcuts Toolbar](https://github.com/xusoo/shortcutstoolbar.koplugin) consente di aggiungere i comandi preferiti direttamente nella toolbar di KOReader, invece di doverli scovare nei suoi affollati menu:  
 
 
 
