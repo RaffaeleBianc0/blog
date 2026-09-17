@@ -11,9 +11,9 @@ draft: false
 
 Le locuzioni trendy mi irritano da sempre, e _"digital detox"_ mi pare proprio una di queste.  
 Però è successo che nel corso degli anni ho fatto alcune piccole scelte che, messe in fila... dovendo proprio raggrupparle sotto un unico concetto... insomma, è proprio 'sta roba qua.  
-E siccome **queste scelte mi fanno stare bene** e credo staremmo meglio tutti se fossero più adottate, mi va di scriverne.
+E siccome **queste scelte mi fanno stare bene**, mi va di scriverne.
 
-**Sguazzo nel digitale dagli anni '80** con enorme soddisfazione: da bambino con orologi Casio e videogame, dai '90 anche per studio e passione, e poi nel nuovo millennio per _tutto quanto_, studio lavoro casa salute hobby, direi che **sono promotore assoluto del digitale ovunque possibile**, perché è naturalmente più comodo, più versatile, e più sicuro in quasi tutte le applicazioni rispetto al corrispettivo analogico.  
+**Sguazzo nel digitale dagli anni '80** con enorme soddisfazione: da bambino con orologi Casio e videogame, dai '90 anche per studio e passione, e poi nel nuovo millennio per _tutto quanto_, studio lavoro casa salute hobby, direi che **sono promotore assoluto del digitale ovunque possibile**, per gli ovvi vantaggi che sono sotto agli occhi di tutti: è più comodo, è più versatile, e più sicuro in quasi tutte le applicazioni rispetto al corrispettivo analogico.  
 
 **Questo quadretto roseo ha mostrato le prime crepe** negli ultimi anni, riflettendo un minimo su tanti fenomeni che vediamo tutti: i contenuti nei social, tra narcisismi senza valore e sfoghi di analfabetismo funzionale, le pubblicità spinte dalle piattaforme prima durante e dopo qualunque contenuto anche quando paghi un abbonamento, l'influencer marketing, le tavolate di adolescenti in pizzeria ciascuno sul proprio smartphone e nessuno che parla, le persone con cui sto chiacchierando che guardano lo smartwatch e poi il telefono perché è arrivata una notifica, stanno con gli occhi sul telefono mentre continuo a parlargli e perdono il filo...  
 
@@ -78,15 +78,16 @@ Le controllerai ogni 1 2 4 8 ore, decidi tu in base al tipo di lavoro che fai.
 Non bastassero telefono ed email, **anche nel mondo business si è normalizzato l'uso delle chat**, addirittura viene _imposto_ l'uso di Teams in quanto strumento aziendale ufficiale per la comunicazione veloce.  
 Quindi ti devi cuccare la tua dose di distrazione, produttività ridotta e aumento di stress _per policy_.  
 
-Allo strumento molesto per sua natura si somma l'uso maleducato che ne fanno alcuni clienti che, siccome hai scambiato due chat durante una attività con loro, da lì in avanti si sentono autorizzati a scriverti su Teams quando meglio credono.
+Allo strumento molesto per sua natura si somma l'uso maleducato che ne fanno alcuni che, siccome hai scambiato due chat durante una attività con loro, da lì in avanti si sentono autorizzati a scriverti su Teams quando meglio credono, anche quando non c'è né urgenza né importanza, in barba a [Eisenhower](https://it.wikipedia.org/wiki/Gestione_del_tempo#Metodo_Eisenhower).
 
-Come si può risolvere, senza spegnere Teams direttamente?  
-Io faccio così:
+Come tento di arginare questi problemi, non potendo tener spento Teams direttamente?  
 * Modalità **"Non disponibile"** costante, perché sto lavorando, quindi di default sono appunto non disponibile.
 * Teams sempre **iconizzato**, lo apro solo quando mi serve.
 * **Nessuna notifica pop-up** in assoluto: come distrazione è sufficiente il pallino col numeretto sull'icona.
-* Su ogni contatto di cliente, se non ci sto lavorando quel giorno, **tasto destro > "Disattiva audio"**: questo fa sì che le notifiche non escano da Teams, quindi devo aprire intenzionalmente Teams per vedere il pallino della notifica.
+* Su ogni contatto di cliente, se non ci sto lavorando quel giorno, **tasto destro > "Disattiva audio"**: questo fa sì che le notifiche non escano da Teams, quindi devo aprire intenzionalmente Teams per vedere il pallino.
 * Quando un contatto scrive in occasioni "non concordate" e vedo il pallino di notifica sul suo nome, **non leggo** e quindi nemmeno rispondo: dopo max un paio di interazioni mancate il problema di solito è risolto, e in caso _"scusami ma uso Teams il minimo possibile sennò è tutta un'interruzione sai com'è, scrivimi pure email così non perdiamo traccia e appena riesco ti rispondo"_.
+
+Quanto sopra vale anche per **Whatsapp Business** sul telefono aziendale: notifiche totalmente disattivate, e apro la app solo quando serve a me oppure quando concordo questa modalità di comunicazione per una specifica attività.
 
 
 
@@ -109,46 +110,57 @@ Il fastidio causato dalla dominante gialla è quasi irrilevante dopo i primi 10 
 # Idee non (ancora?) implementate
 Qualche spunto che ho letto in giro, ma che non ho ancora avuto voglia/coraggio di mettere in pratica.
 
-## Acquisto di un tablet e-ink a colori
-Sto valutando l'acquisto di un **tablet Android con schermo e-ink a colori da 7"**, da usare in casa al posto del telefono e del mio attuale Kindle.  
+## Acquisto di un tablet e-ink
+Sto valutando l'acquisto di un **tablet Android con schermo e-ink da 7"**, da usare in casa al posto del telefono e del mio attuale Kindle.  
 
-**Benefici attesi:**
+**Perché sì?**
 * **Aumentare il tempo dedicato alla lettura**, soprattutto di libri (ma anche di contenuti testuali in generale, come Wikipedia e Reddit)
 * **Ridurre l'uso dello smartphone**, in particolare di tutte quelle micro-interazioni istintive che non servono a nulla
-* **Ridurre l'esposizione a schermi LCD/OLED**, trasferendo parte delle interazioni su uno schermo e-ink sicuramente più riposante
-* **Ridurre l'attrattiva di reel e infinite scroll**, perché uno schermo e-ink non è mai vivido e fluido come un LCD
+* **Ridurre l'attrattiva di reel e infinite scroll**, perché uno schermo e-ink, anche quando fosse a colori, non è mai vivido e fluido come un LCD, quindi non ti viene tanta voglia di guardare i social
+* **Ridurre l'esposizione a schermi LCD/OLED**, ai quali sono già costretto per lavoro, trasferendo parte delle interazioni durante il tempo libero su uno schermo e-ink più riposante per gli occhi
+* Abbandonare l'ultimo dispositivo con cavo micro-usb che gira per casa - ho già il dongle adattatore usbc-to-micro, e so anche che non è mica 'sto gran problema da risolvere per forza, ma... mmm che fastidio.
 
-**Cosa mi frena:**
-Il mio attuale Kindle Paperwhite Gen7, che ho da poco sottoposto a jailbreak per installarci l'ottimo [KOReader](https://koreader.rocks) + integrazione con [Calibre](https://calibre-ebook.com) + [Bookshelf](https://github.com/AndyHazz/bookshelf.koplugin) + [Bookends](https://github.com/AndyHazz/bookends.koplugin), ottenendo una eccellente esperienza di lettura Amazon-free, mi sta già fornendo praticamente **tutti i benefici che ho elencato sopra a costo zero**.  
-Certo non ha i colori e non ha Android, quindi lo uso esclusivamente per la lettura dei libri, però già questo è il risultato più importante che cercavo, e forse l'acquisto di un nuovo dispositivo solo per poter accedere a web e Reddit senza prendere il telefono è un po' overkill.
+**Perché non ancora?**
+Il mio attuale Kindle Paperwhite Gen7, che ho recentemente [migliorato per usarlo al massimo delle sue facoltà]({{< ref "pimpmykindle.md" >}}), mi sta già fornendo praticamente **quasi tutti i benefici che ho elencato sopra a costo zero**.  
+Certo non ha Android, quindi lo uso esclusivamente per la lettura dei libri, però già questo è il risultato più importante che cercavo, e forse l'acquisto di un nuovo dispositivo solo per poter accedere anche al web senza prendere il telefono è un po' _overkill_.
 
 Per completezza, ecco comunque i **dispositivi più interessanti a settembre 2026:**  
-1. **Bigme B7 Pro**, il 7" e-ink Android migliore sul mercato mentre scrivo, perché ha refresh rate più alto di tutti i concorrenti (ci si vedono anche i video nonostante sia un e-ink), CPU RAM e storage al vertice della categoria (alla pari di uno smartphone midrange), fotocamera (utile per usarlo come scanner con archiviazione su cloud), e slot SIM 4G, costa circa 400€ compresa cover e penna.
-1. **Bigme B7 Color**, fratellino minore rispetto al Pro qui sopra, si perdono un po' di performance e di refresh-rate, e lo slot per la SIM (che non credo userei comunque), costa circa 300€.
-1. **Onyx Boox Go 7 Color Gen2**, meno potente e dotato dei due Bigme, ma esteticamente leggermente più elegante, costa attorno ai 320€ compresa cover e penna, 290€ senza gli accessori.
+1. **Bigme B7 Pro B&W**, il 7" e-ink Android migliore sul mercato mentre scrivo, perché ha refresh rate più alto di tutti i concorrenti (ci si vedono anche i video nonostante sia un e-ink), CPU RAM e storage al vertice della categoria (alla pari di uno smartphone midrange), fotocamera (utile per usarlo come scanner con archiviazione su cloud), e slot SIM 4G, costa circa 390€ compresa cover e penna.
+1. **Bigme B7**, fratellino minore rispetto al Pro qui sopra, si perdono un po' di performance e di refresh-rate, costa circa 300€.
+1. **Onyx Boox Go 7**, meno potente e dotato dei due Bigme, ma esteticamente leggermente più elegante, costa attorno ai 270€ compresa la cover.
+
+Inizialmente pensavo ad un dispositivo a colori, poi però ho capito che per i miei scopi **forse è preferibile la versione in bianco e nero**, per forzarmi ad usarlo esattamente per la lettura di testo, che su display e-ink B&W godrebbe di contrasto e risoluzione al massimo livello, mentre sui display Kaleido 3 a colori lo sfondo è sempre grigio e il layer dedicato ai colori toglie un po' di nitidezza anche ai contenuti testuali B&W. Insomma avere gli svantaggi del colore solo per vedere le copertine 1 secondo prima di continuare la lettura non mi sembra centrato.
 
 
 
-## Niente smartphone in presenza di altri
+## No smartphone in presenza di altri
 Se sono con persone, allora vorrei non guardare lo smartphone.  
 L'abitudine di riempire qualunque micro-pausa con una sbirciatina al telefono mi sembra una piccola schiavitù che cancella la maggior parte delle occasioni di interazione sociale.  
 E quando vedo il mio interlocutore guardare il telefono per più di 5 secondi mentre stiamo parlando vorrei spezzarglielo in due.  
 Però zoppico della stessa gamba ancora troppo spesso...
 
+
+
 ## No smartphone sul comodino 
 Confido che mettere in carica il telefono in un'altra stanza prima di andare a letto mi porti a leggere qualche pagina di un libro ogni sera, che tra l'altro pare essere un buon modo di migliorare la qualità del sonno.
 
+
+
 ## Ebook sempre con me
 Per riempire qualche pausa solitaria (es. durante smartworking, pranzo di lavoro da solo, attese dal medico, cose del genere), invece di video o social potrei leggere qualche pagina di un libro.  
-Solo che i 6-7 pollici non stanno nelle tasche dei pantaloni, quindi d'estate dovrei portarmi dietro un borsello/slingbag o simile dove cacciare dentro anche l'ebook.
+Solo che i 6-7 pollici non stanno nelle tasche dei pantaloni, quindi d'estate dovrei portarmi dietro un borsello/slingbag o simile dove cacciare dentro anche l'ebook.  
+Non che mi piaccia granché come prospettiva, mi piace girare leggero.
+
+
 
 ## Smartphone con schermo e-ink
-Per rendere scrolling, video, e videogame _fastidiosi_, e per rendere invece la lettura di testo più riposante e il display perfettamente leggibile anche sotto al sole, l'uovo di colombo potrebbe essere uno smartphone con schermo e-ink (il più interessante a settembre 2026 è il **Bigme Hibreak Pro Color**), invece del classico smartphone con schermo LCD/OLED che abbiamo un po' tutti.
+Per rendere scrolling, video, e videogame _fastidiosi_, e per rendere invece la lettura di testo più riposante e il display perfettamente leggibile anche sotto al sole, mi piacerebbe molto provare per qualche tempo uno smartphone con schermo e-ink (il più interessante a settembre 2026 è il **Bigme Hibreak Pro Color**), in sostituzione del classico smartphone con schermo LCD/OLED che abbiamo un po' tutti.
 
-Una soluzione ancora più radicale sarebbe quella di usare un _dumb phone_ invece di uno smartphone, così da privarsi volontariamente di tutta la parte "smart"... ma mi pare davvero una talebanata.
+Una soluzione ancora più radicale sarebbe quella di usare un _dumb phone_ invece di uno smartphone, così da privarsi volontariamente di tutta la parte "smart"... ma mi pare davvero una talebanata impraticabile quando la tua vita è totalmente gestita con strumenti digitali moderni.
 
 
 
 # Conclusioni
-Alla fine vedi che sono tutte cose semplici.  Sarei curioso di capire quanto questa insofferenza verso notifiche e social (perché stringi stringi di questo si tratta) sia diffusa tra le persone che conosco.  
+Alla fine vedi che sono tutte cose semplici.  
+Sarei curioso di capire quanto questa insofferenza verso notifiche e social (perché stringi stringi di questo si tratta) sia diffusa tra le persone che conosco.  
 Scrivimi la tua in un commento qua sotto magari! Così mi arriva una notifica. Ops.

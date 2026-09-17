@@ -9,14 +9,14 @@ image: "images/cover.jpg"
 draft: false
 ---
 
-Nel 2026 scopro per caso che sul [mio vecchio Kindle regalatomi 10 anni prima]({{< ref "kindle.md" >}}) posso installare [KOReader](https://koreader.rocks), un software opensource per leggere ebook che offre una tonnellata di possibilità in più rispetto all'interfaccia nativa Amazon, tra cui mi interessano soprattutto queste:
-- completo distacco dall'ecosistema Amazon (togliere cose dal "cloud" e conservarle dove decido io mi sembra interessante)
-- supporto a plugin per l'estensione ulteriore delle funzionalità - questa cosa da sola vale tutto lo sforzo, vedi sotto
-- supporto al reflow dei PDF, per riuscire a leggere i PDF re-impaginati anche su uno schermo così piccolo e lento
-- controllo tipografico avanzato (font, margini, kerning, orientamento dello schermo, e varie altre opzioni che il software Amazon non prevede)
-- ricerca del termine evidenziato su dizionari multilingua scaricabili in locale, traduttore, e Wikipedia
-- download di feed RSS e conversione in "libri" da leggere
-- lettura di formati ebook aggiuntivi, soprattutto EPUB (standard di mercato, che per anni non è stato supportato nativamente dai Kindle)
+Nel 2026 scopro per caso che sul [mio vecchio Kindle regalatomi 10 anni prima]({{< ref "kindle.md" >}}) posso installare [KOReader](https://koreader.rocks), un software opensource per leggere ebook che offre una tonnellata di possibilità in più rispetto all'interfaccia nativa Amazon, tra cui le più interessanti per me sono:
+- completo **distacco dall'ecosistema Amazon** (togliere cose dal cloud e conservarle dove decido io per tutto il tempo che desidero senza dipendere da scelte altrui, più passa il tempo e più mi sembra interessante)
+- possibilità di installare plugin per **estendere ulteriormente le funzionalità** - questa cosa da sola vale tutto lo sforzo, vedi più sotto
+- supporto al **reflow dei PDF**, per riuscire a leggere i PDF anche su uno schermo così piccolo e lento
+- **controllo tipografico avanzato** (font, margini, kerning, orientamento dello schermo, e varie altre opzioni che il software Amazon non prevede)
+- **ricerca** del termine evidenziato su dizionari multilingua scaricabili in locale, traduttore, e Wikipedia
+- download di **feed RSS** e conversione in "libri" da leggere
+- lettura di **formati ebook aggiuntivi** (anche se, con le possibilità di conversione offerte da Calibre, il formato dell'ebook diventa subito un non-problema)
 
 Figurati se non mi vien voglia di provare!  
 Ecco quello che ho fatto.  
@@ -61,12 +61,13 @@ L'[integrazione con Readest](https://github.com/readest/readest/wiki/Sync-with-K
 
 # Backup metadati in Calibre
 La gestione ideale della propria biblioteca ebook locale si può fare usando [Calibre](https://calibre-ebook.com) su PC, questo valeva anche per il Kindle pre-jailbreak.  
-Per Calibre segnalo [KOReader Calibre plugin](https://github.com/kyxap/koreader-calibre-plugin) che consente di importare i metadati di tutti i libri del dispositivo in Calibre: l'avanzamento della lettura, gli highlights, le note, i segnalibri. Lo vedo anche come un bel backup di tutte le informazioni a corredo di quello che leggo, fatto in locale (quindi indipendente da qualsiasi destino imposto da Amazon o altre piattaforme cloud che fanno la stessa cosa e che a volte spariscono o iniziano a chiedere soldi) e ottenuto con un singolo click.
+Per Calibre segnalo [KOReader Calibre plugin](https://github.com/kyxap/koreader-calibre-plugin) che consente di importare i metadati di tutti i libri del dispositivo in Calibre: l'avanzamento della lettura, gli highlights, le note, i segnalibri.  
+Lo vedo anche come un bel backup di tutte le informazioni a corredo di quello che leggo, fatto in locale (quindi indipendente da qualsiasi destino imposto da Amazon o altre piattaforme cloud che fanno la stessa cosa e che a volte spariscono o iniziano a chiedere soldi) e ottenuto con un singolo click.
 
 
 
 # Archiviazione highlights in Obsidian
-Infine, uno dei motivi più interessanti per scegliere un ebook come supporto di lettura per la saggistica secondo me è **archiviare i propri _highlights_ permanentemente**, cioè tutte le parti che ho sottolineato in tutti i libri, in modo da poter "ripassare" le parti significative quando voglio (e anche visualizzarne una random sempre diversa in Bookshelf/SimpleUI/ZenOS, così ripasso sempre qualche concetto utile).  
+Infine, uno dei motivi più interessanti per scegliere un ebook come supporto di lettura per la saggistica secondo me è **archiviare i propri _highlights_**, cioè tutte le parti che ho sottolineato in tutti i libri, in modo da poter "ripassare" le parti significative quando voglio (e anche visualizzarne una random sempre diversa in Bookshelf/SimpleUI/ZenOS, così ripasso sempre qualche concetto utile).  
 Per questa archiviazione mi piace usare [Obsidian](https://obsidian.md) sul PC, e per Obsidian esiste il [KOReader Highlights Importer Plugin for Obsidian](https://github.com/t5k6/obsidian-koreader-highlights) che estrae tutti gli highlights dal dispositivo e crea/aggiorna tutte le note nel vault in pochi istanti, popolandole anche con i metadati che descrivono il libro da cui gli highlights sono stati estratti.
 
 

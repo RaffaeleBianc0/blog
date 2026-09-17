@@ -74,7 +74,7 @@ Lo attivi con pochi click, memorizzi la chiave di recupero nel tuo password mana
 **Fallo anche su tutti i dischi esterni** che usi per conservare dati.  
 Non farlo sulle chiavette che usi per installare Windows/Linux su altri PC.
 
-RISULTATO: nessuno potrà accedere ai dati in quel disco senza conoscere la tua password dell'account Microsoft (e relativa chiave 2FA) o la chiave di recupero. Quindi se ti rubano il disco o il PC non ti possono rubare i dati in alcun modo.  
+**RISULTATO**: nessuno potrà accedere ai dati in quel disco senza conoscere la tua password dell'account Microsoft (e relativa chiave 2FA) o la chiave di recupero. Quindi se ti rubano il disco o il PC non ti possono rubare i dati in alcun modo.  
 Tu invece non ti accorgi di nulla nell'uso quotidiano: il disco continua a funzionare esattamente come prima, con un impatto sulle prestazioni assolutamente trascurabile.
 
 
