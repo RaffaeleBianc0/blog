@@ -120,7 +120,7 @@ Sto valutando l'acquisto di un **tablet Android con schermo e-ink da 7"**, da us
 * **Ridurre l'esposizione a schermi LCD/OLED**, ai quali sono già costretto per lavoro, trasferendo parte delle interazioni durante il tempo libero su uno schermo e-ink più riposante per gli occhi
 * Abbandonare l'ultimo dispositivo con cavo micro-usb che gira per casa - ho già il dongle adattatore usbc-to-micro, e so anche che non è mica 'sto gran problema da risolvere per forza, ma... mmm che fastidio.
 
-**Perché non ancora?**
+**Perché non ancora?**  
 Il mio attuale Kindle Paperwhite Gen7, che ho recentemente [migliorato per usarlo al massimo delle sue facoltà]({{< ref "pimpmykindle.md" >}}), mi sta già fornendo praticamente **quasi tutti i benefici che ho elencato sopra a costo zero**.  
 Certo non ha Android, quindi lo uso esclusivamente per la lettura dei libri, però già questo è il risultato più importante che cercavo, e forse l'acquisto di un nuovo dispositivo solo per poter accedere anche al web senza prendere il telefono è un po' _overkill_.
 
