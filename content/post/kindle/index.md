@@ -71,4 +71,4 @@ Io dopo aver preso [questa](https://www.amazon.it/gp/product/B017TU6GHE/ref=oh_a
 
 # Aggiornamento 2026
 
-A metà 2026 ho [elaborato il mio Kindle]{{< ref "pimpmykindle.md" >}}.
+A metà 2026 ho [elaborato il mio Kindle]({{< ref "pimpmykindle.md" >}}).
