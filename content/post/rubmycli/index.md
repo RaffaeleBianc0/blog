@@ -7,7 +7,7 @@ categories:
   - "script"
   - "tecnologia"
 image: "images/wt.gif"
-draft: true
+draft: false
 ---
 
 Questo script arriva con qualche anno di ritardo su queste pagine: lo ho messo insieme mentre ero a casa col covid durante la pandemia, lo ho usato decine di volte da allora, ma non mi era ancora venuto in mente che potevo pubblicarlo.  
@@ -20,7 +20,7 @@ Quindi dopo l'esplorazione iniziale ho dedicato parecchie (troppe) ore a cesella
 
 Contemporaneamente, dato che sono pigro e che l'idea di rifare le cose daccapo mi mette angoscia, costruivo anche il sistema per ripristinare l'intera impalcatura su qualunque PC con un singolo comando.  
 
-Ecco, esattamente questo fa rubMyCLI: installa i software che ho selezionato e i miei file di configurazione in modo da ottenere esattamente l'ambiente CLI con le funzionalità che ho assemblato durante quell'isolamento da covid più qualche ora ulteriore qua e là.  
+Ecco, esattamente questo fa rubMyCLI: ripristina su qualunque PC la mia configurazione di Windows Terminal con tutti i software che ho selezionato e i miei file di configurazione, in modo da ottenere esattamente l'ambiente CLI con le funzionalità che ho assemblato durante quell'isolamento da covid più qualche ora ulteriore qua e là.  
 
 Trovi tutto (script + file di supporto + descrizione completa di tutte le funzionalità) qui: 
 {{< bottone link="https://github.com/RaffaeleBianc0/rubMyCLI" >}} rubMyCLI su GitHub {{< /bottone >}}
