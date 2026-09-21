@@ -1,7 +1,7 @@
 ---
 title: "rubMyCLI"
 description: "La mia configurazione completa di Windows Terminal, con una selezione curata di tool CLI"
-date: "2026-09-08"
+date: "2026-09-20"
 lastmod: "2026-09-20"
 categories: 
   - "script"
