@@ -46,16 +46,20 @@ Ti elenco quelli che sto usando ancora oggi, dopo opportuna scrematura - necessa
 [Bookends](https://github.com/AndyHazz/bookends.koplugin) consente di personalizzare l'intestazione e il pié di pagina visualizzati durante la lettura, inserendo informazioni come tempo/pagine/percentuale di lettura trascorso/rimanente/totale rispetto al libro/capitolo/giorno/sessione di lettura corrente, progressbar di queste informazioni, autore del libro, titolo del libro e del capitolo corrente, eccetera eccetera.  
 C'è una libreria di preset tra cui scegliere, altrimenti si può creare il proprio preset direttamente sul dispositivo per i più smanettoni.
 
+## Shortcuts Toolbar
+![](images/shortcutstoolbar.webp)  
+[Shortcuts Toolbar](https://github.com/xusoo/shortcutstoolbar.koplugin) consente di aggiungere i comandi preferiti direttamente nella toolbar di KOReader, invece di doverli scovare nei suoi affollati menu.
+
 ## My Clippings
 ![](images/myclippings.webp)  
 [My Clippings](https://github.com/nirajkamal/myclippings.koplugin) raccoglie tutti gli highlights in un ebook locale, così da poterli rivedere senza saltare da un libro all'altro. 
 
 ## Readest
-L'[integrazione con Readest](https://github.com/readest/readest/wiki/Sync-with-Koreader-devices) è utile per sincronizzare i libri letti e l'avanzamento di lettura su più dispositivi, e per continuare la lettura su qualunque di essi mantenendo allineata la pagina dove si è arrivati.
+L'[integrazione con Readest](https://github.com/readest/readest/wiki/Sync-with-Koreader-devices) è utile per sincronizzare i libri letti e l'avanzamento di lettura su più dispositivi, così da poter continuare la lettura su qualunque di essi mantenendo allineata la pagina dove si è arrivati (es. KOReader sul Kindle a casa, e smartphone nei ritagli di tempo fuori casa).
 
-## Shortcuts Toolbar
-![](images/shortcutstoolbar.webp)  
-[Shortcuts Toolbar](https://github.com/xusoo/shortcutstoolbar.koplugin) consente di aggiungere i comandi preferiti direttamente nella toolbar di KOReader, invece di doverli scovare nei suoi affollati menu.
+## Hardcover
+[Hardcover](https://hardcover.app/@raffaelebianco) è una specie di "social per lettori", dove condividere quello che si sta leggendo e scoprire nuovi libri. Si può usare gratuitamente, oppure si può diventare Supporter per ottenere statistiche di lettura più avanzate.
+Il [plugin per Hardcover.app](https://github.com/Billiam/hardcoverapp.koplugin) consente la sincronizzazione automatica dei libri letti e del relativo progresso di lettura sul proprio account.
 
 
 
