@@ -10,57 +10,60 @@ draft: false
 ---
 
 Le locuzioni trendy mi irritano da sempre, e _"digital detox"_ mi pare proprio una di queste.  
-Però è successo che nel corso degli anni ho fatto alcune piccole scelte che, messe in fila... dovendo proprio raggrupparle sotto un unico concetto... insomma, è proprio 'sta roba qua.  
+Però è successo che nel corso degli anni ho fatto alcune piccole scelte che, messe in fila... dovendo proprio raggrupparle sotto un unico concetto insomma è proprio 'sta roba qua.  
 E siccome **queste scelte mi fanno stare bene**, mi va di scriverne.
 
-**Sguazzo nel digitale dagli anni '80** con enorme soddisfazione: da bambino con orologi Casio e videogame, dai '90 anche per studio e passione, e poi nel nuovo millennio per _tutto quanto_, studio lavoro casa salute hobby, direi che **sono promotore assoluto del digitale ovunque possibile**, per gli ovvi vantaggi che sono sotto agli occhi di tutti: è più comodo, è più versatile, e più sicuro in quasi tutte le applicazioni rispetto al corrispettivo analogico.  
 
-**Questo quadretto roseo ha mostrato le prime crepe** negli ultimi anni, riflettendo un minimo su tanti fenomeni che vediamo tutti: i contenuti nei social, tra narcisismi senza valore e sfoghi di analfabetismo funzionale, le pubblicità spinte dalle piattaforme prima durante e dopo qualunque contenuto anche quando paghi un abbonamento, l'influencer marketing, le tavolate di adolescenti in pizzeria ciascuno sul proprio smartphone e nessuno che parla, le persone con cui sto chiacchierando che guardano lo smartwatch e poi il telefono perché è arrivata una notifica, stanno con gli occhi sul telefono mentre continuo a parlargli e perdono il filo...  
 
-... ma soprattutto riflettendo su me stesso e sul **tempo che ho dedicato ai social quasi ogni giorno** da quando ho uno smartphone, quello che vedi nel menu "Benessere digitale", quello che ti sembra non essere un vero problema o addirittura di averne il controllo, _"smetto quando voglio"_ (cit.), e a fine giornata hai dedicato (quando va bene) un'oretta o una e mezza nei social, quasi ogni giorno negli ultimi boh 10-15 anni, **centinaia e centinaia di ore** delle quali ti resta una manciata di reel visti ieri per poter dire al caffè coi colleghi "ah sì l'avevo visto haha troppo ridere". _Wow, l'evoluzione._  
+# Cronaca
 
-Con questi pensieri sempre più nitidi e sempre più numerosi, piano piano si è sviluppata una voglia di reagire, di **recuperare un po' di intenzionalità** nell'uso di queste tecnologie invece di cedere all'algoritmo, ma l'inerzia è stata gigantesca, 'sto "algoritmo" è proprio fatto bene.  
-Quindi non ho fatto nulla per anni, un po' come l'attività fisica, "dovrei farlo" ma niente.  
+**Sguazzo nel digitale dagli anni '80** con gusto, da bambino con orologi Casio e videogame, dai '90 anche per studio e passione, e poi nel nuovo millennio per _tutto quanto_, studio lavoro casa salute hobby, direi che **sono promotore assoluto del digitale ovunque possibile**, per gli ovvi vantaggi che sono sotto agli occhi di tutti: è più comodo, è più versatile, e più sicuro in quasi tutte le applicazioni rispetto al corrispettivo analogico.  
+
+**Questo quadretto roseo ha mostrato le prime crepe** negli ultimi anni, osservando con un minimo di attenzione in più tanti fenomeni che vediamo tutti: i contenuti nei social tra narcisismi senza valore e sfoghi di analfabetismo funzionale, le pubblicità spinte dalle piattaforme prima durante e dopo qualunque contenuto anche quando paghi un abbonamento, l'influencer marketing, le tavolate di adolescenti in pizzeria ciascuno in silenzio sul proprio smartphone, le persone con cui sto chiacchierando che guardano lo smartwatch e poi il telefono perché è arrivata una notifica, stanno con gli occhi sul telefono mentre continuo a parlargli e perdono il filo...  
+
+... ma soprattutto riflettendo su me stesso, sul **tempo che ho dedicato ai social quasi ogni giorno** da quando ho uno smartphone, quello che vedi nel menu "Benessere digitale", quello che ti sembra non essere un vero problema o addirittura di averne il controllo, _"smetto quando voglio"_ (cit.), e a fine giornata hai dedicato (quando va bene) un'oretta o una e mezza nei social, quasi ogni giorno negli ultimi boh 10-15 anni, **migliaia di ore** delle quali ti resta una manciata di reel visti ieri per poter dire al caffè coi colleghi "ah sì l'avevo visto haha troppo ridere". _Wow, l'evoluzione._  
+
+Con questi pensieri sempre più nitidi, frequenti, e numerosi, piano piano si è sviluppata una voglia di reagire per **recuperare un po' di intenzionalità** nell'uso di queste tecnologie invece di cedere continuamente all'algoritmo.  
+Ma l'inerzia è stata gigantesca, 'sto "algoritmo" è proprio fatto bene, quindi non ho fatto nulla per anni, un po' come l'attività fisica, "dovrei farlo" ma niente.  
 
 **Fino a quando lo ho fatto** in un momento a caso, senza premeditazione, durante il solito doom-scrolling su Facebook: chiudo la app, long-tap > Disinstalla > Sei sicuro? > Conferma e via. Andata.  
-Qualche secondo di sensazione mista sorpresa/sollievo, e poi ormai che ci sono... _all-in_, stessa procedura con Instagram e con Linkedin. Via tutto. Totale: 30 secondi. _"Tanto alla peggio le re-installo"_.  
+Qualche secondo di sensazione mista sorpresa/sollievo, e poi... ormai che ci sono... _all-in_, stessa procedura con Instagram e con Linkedin. Via tutto. Totale: 30 secondi. _"Tanto alla peggio le re-installo"_.  
 
-Da quel giorno uso i social una frazione del tempo rispetto a prima, ho ricominciato a leggere, scrivo di più, leggo più contenuti di valore online invece di guardare solo puttanate.  
+Da quel giorno uso i social una frazione del tempo rispetto a prima, ho ricominciato a leggere, scrivo di più, e guardo tante, tantissime puttanate in meno online.  
 Non ho smesso del tutto, sia chiaro, mica sono un eremita digitale, ogni tanto una sbirciata tramite browser ci sta, ma mi sembra di **avere maggior controllo e consapevolezza**, mettiamola così.  
 
-Durerà? E chi lo sa? Io sono già contento così, di solito non consigliano questo tipo di approccio radicale e suggeriscono di fare un percorso di disintossicazione progressiva perché sia più sostenibile nel lungo periodo... non so, per ora sto benone e **non sento nessun bisogno di re-installare quelle app**.
+Durerà? E chi lo sa? Io sono già contento, di solito non consigliano questo tipo di approccio radicale e suggeriscono di fare un percorso di disintossicazione progressiva perché sia più sostenibile nel lungo periodo... non so, per ora sto benone e **non sento nessun bisogno di re-installare quelle app**.
 
 Ti parlo allora delle soluzioni che ho adottato, e anche di qualcosa che sto valutando per il futuro.  
-Accorgimenti ovvi, piccoli, elementari, da applicare in 5 secondi, non scherzo sono davvero cose immediate e che hai già sentito, voglio soltanto arricchire ogni punto con il mio punto di vista e le mie considerazioni.  
+Accorgimenti ovvi, piccoli, elementari, da applicare in 5 secondi, non scherzo sono davvero cose immediate e che hai già sentito, voglio soltanto metterci del mio con qualche considerazione extra.  
 
 
 
 # Notifiche sul telefono
-Questa è la cosa più banale di tutte, dall'impatto davvero sottovalutato.  
+Questa è la cosa più banale di tutte, che ha un impatto minuscolo ma moltiplicato per centinaia di volte al giorno.  
 
-Nel telefono **disattiva quasi tutte le notifiche** - news, email, gruppi Whatsapp, gruppi Teams, browser, videogames, e soprattutto di tutti i social.  
-Non serve che fai tutto in un colpo solo, ti basta farlo man mano che le ricevi dalle varie app: tieni il dito sulla prossima notifica molesta, selezioni "Disattiva", "Silenzia" o simile, ed è fatta. Tempo 3 secondi.
+Nel telefono da parecchi anni **ho disattivato quasi tutte le notifiche** - news, email, gruppi Whatsapp, gruppi Teams, browser, videogames, e soprattutto di tutti i social.  
+Non serve fare tutto in un colpo solo, basta farlo man mano che le ricevi dalle varie app: tieni il dito sulla prossima notifica molesta, selezioni "Disattiva", "Silenzia" o simile, ed è fatta. Tempo 3 secondi.
 
-Mantieni attive le notifiche che sono sinceramente **urgenti ed importanti**:
+Mantiengo attive le notifiche che sono sinceramente **urgenti ed importanti**:
 * quelle che servono ad **interagire subito con le persone** (chiamate, SMS, Whatsapp, Telegram, Messenger e simili);
-* quelle dei **servizi critici** che richiedono la tua attenzione immediata (es. calendario, antifurto, pagamenti).    
+* quelle dei **servizi critici** che richiedono attenzione immediata (es. calendario, antifurto, pagamenti).    
 
-Per tutto il resto, quando hai tempo/voglia/bisogno di accedere lo fai di tua iniziativa: **decidi tu quando, non il tuo telefono**.  
-E se aprirai quella app tra qualche ora invece di "subito", sai già che non cambierà assolutamente nulla, perché **le notifiche per cose che non sono né urgenti né importanti ti fanno solo perdere tempo**, 1-5 secondi ciascuna più un altro minuto come minimo per riprendere il filo di quello che stavi facendo, moltiplica per ogni volta che sblocchi il telefono (lo scopri dalla funzione "Benessere digitale", io oggi sono a 35 volte a fine pomeriggio) e capisci che minimo minimo mezz'ora al giorno la dedicavi al telefono _senza averlo deciso tu_.  
+Per tutto il resto, quando hai tempo/voglia/bisogno di accedere lo fai di tua iniziativa: **decidi tu quando, non il tuo telefono**. Questo è il punto.  
+E se aprirai quella app tra qualche ora invece di "subito", sai già che non cambierà assolutamente nulla, perché **le notifiche per cose che non sono né urgenti né importanti ti fanno solo perdere tempo**, 1-5 secondi ciascuna più un altro minuto come minimo per riprendere il filo di quello che stavi facendo, moltiplica per ogni volta che sblocchi il telefono (lo scopri dalla funzione "Benessere digitale", io oggi sono a 35 volte a fine pomeriggio) e capisci che minimo minimo mezz'ora al giorno la dedicavi al telefono _senza che servisse_ e _senza averlo deciso tu_.  
 
 
 
 # App social
-Se hai una o più app tra Facebook, Instagram, Threads, TikTok, sia su PC che su smartphone, semplicemente disinstallale, ci metti pochi secondi per ciascuna.   
-
-Non è necessario che tu sospenda/cancelli i rispettivi account.  
+Come ho raccontato sopra, ho disinstallato tutte le app dei social, in pochi secondi.  
+Non è necessario per forza sospendere/cancellare i rispettivi account.  
 **Puoi accedere agli stessi social usando il browser**, sia su PC che su telefono, senza che cambi granché rispetto all'uso delle app.
 
 I vantaggi che ho sperimentato sono questi:
-1. **Meno uso compulsivo**: questa è la cosa più importante. Il solo attrito di dover aprire il browser e aprire il tab del social che vuoi consultare ridurrà drasticamente il numero di volte che lo farai, perché non è più un automatismo. Funziona davvero! E fa riflettere su come siamo fatti.
-1. **Zero notifiche** (anche se spero tu le avessi già disattivate almeno quelle dei social... e non avrai mica attive le notifiche del browser spero?!)
+1. **Meno uso compulsivo**: questa è la cosa più importante. Il solo attrito di dover aprire il browser e dover digitare il nome del social che vuoi consultare riduce drasticamente il numero di volte che lo farai, perché non è più un automatismo. Funziona davvero! E fa riflettere su come siamo fatti e "pilotati".
+1. **Zero notifiche** (questo era già vero da anni, vedi sopra - ovviamente anche tutte le notifiche di Chrome sono spente da sempre)
 1. **Più tutela dei tuoi dati** (le app raccolgono dati di profilazione anche quando non le usi)
-1. **Meno risorse impegnate** (le app consumano spazio, batteria, e banda anche mentre non le usi attivamente, per quanto poco), che su alcuni smartphone più vecchiotti può essere vantaggioso.
+1. **Meno risorse impegnate** (le app consumano spazio, batteria, e banda anche mentre non le usi attivamente, per quanto poco), che su alcuni smartphone più economici o vecchiotti può essere vantaggioso.
 
 
 
@@ -69,8 +72,8 @@ Questa è sottovalutata in ufficio invece: di default ad ogni email che arriva s
 
 Ma **l'email non è mai stata uno strumento di comunicazione sincrono**, non serve vedere le email _appena arrivano_, non è una chat, e chiunque utilizzi lo strumento email in contrasto con questa sua natura sta semplicemente sbagliando e sta alimentando anche negli altri aspettative sbagliate, quelle per cui ti scrivono una email, poi ti mandano il messaggio su Teams "Hai letto la posta?", e se non rispondi in fretta ti chiamano e "Ciao, hai letto Teams?".  
 
-Quindi: **disattiva le notifiche per le nuove email**, semplice.  
-Le controllerai ogni 1 2 4 8 ore, decidi tu in base al tipo di lavoro che fai.  
+Quindi: **le notifiche per le nuove email vanno disattivate**, semplice.  
+E la mail si controlla ogni 1 2 4 8 24 ore, decidi tu in base al tipo di lavoro che fai.  
 
 
 
@@ -86,6 +89,7 @@ Come tento di arginare questi problemi, non potendo tener spento Teams direttame
 * **Nessuna notifica pop-up** in assoluto: come distrazione è sufficiente il pallino col numeretto sull'icona.
 * Su ogni contatto di cliente, se non ci sto lavorando quel giorno, **tasto destro > "Disattiva audio"**: questo fa sì che le notifiche non escano da Teams, quindi devo aprire intenzionalmente Teams per vedere il pallino.
 * Quando un contatto scrive in occasioni "non concordate" e vedo il pallino di notifica sul suo nome, **non leggo** e quindi nemmeno rispondo: dopo max un paio di interazioni mancate il problema di solito è risolto, e in caso _"scusami ma uso Teams il minimo possibile sennò è tutta un'interruzione sai com'è, scrivimi pure email così non perdiamo traccia e appena riesco ti rispondo"_.
+* **Gruppi Teams tutti silenziati** (regola d'oro per _tutti_ i gruppi in qualunque app di messaggistica).
 
 Quanto sopra vale anche per **Whatsapp Business** sul telefono aziendale: notifiche totalmente disattivate, e apro la app solo quando serve a me oppure quando concordo questa modalità di comunicazione per una specifica attività.
 
@@ -136,27 +140,26 @@ Inizialmente pensavo ad un dispositivo a colori, ora però sto meditando se per 
 ## No smartphone in presenza di altri
 Se sono con persone, allora vorrei non guardare lo smartphone.  
 L'abitudine di riempire qualunque micro-pausa con una sbirciatina al telefono mi sembra una piccola schiavitù che cancella la maggior parte delle occasioni di interazione sociale.  
-E quando vedo il mio interlocutore guardare il telefono per più di 5 secondi mentre stiamo parlando vorrei spezzarglielo in due.  
+E quando vedo il mio interlocutore **guardare il telefono per più di 5 secondi mentre stiamo parlando** vorrei spezzarglielo in due.  
 Però zoppico della stessa gamba ancora troppo spesso...
 
 
 
 ## No smartphone sul comodino 
-Confido che mettere in carica il telefono in un'altra stanza prima di andare a letto mi porti a leggere qualche pagina di un libro ogni sera, che tra l'altro pare essere un buon modo di migliorare la qualità del sonno.
+Confido che mettere in carica il telefono in un'altra stanza prima di andare a letto possa **ridurre ulteriormente la tentazione di guardare cose online**, in favore magari di qualche pagina in più letta su un libro, che tra l'altro pare essere un buon modo di migliorare la qualità del sonno.
 
 
 
 ## Ebook sempre con me
 Per riempire qualche pausa solitaria (es. durante smartworking, pranzo di lavoro da solo, attese dal medico, cose del genere), invece di video o social potrei leggere qualche pagina di un libro.  
-Solo che i 6-7 pollici non stanno nelle tasche dei pantaloni, quindi d'estate dovrei portarmi dietro un borsello/slingbag o simile dove cacciare dentro anche l'ebook.  
-Non che mi piaccia granché come prospettiva, mi piace girare leggero.
+Solo che i 6-7 pollici dell'ebook reader non stanno nelle tasche dei pantaloni, quindi d'estate dovrei portarmi dietro un borsello/slingbag o simile dove cacciare dentro anche l'ebook. Non che mi piaccia granché come prospettiva, mi piace girare leggero.
 
 
 
 ## Smartphone con schermo e-ink
 Per rendere scrolling, video, e videogame _fastidiosi_, e per rendere invece la lettura di testo più riposante e il display perfettamente leggibile anche sotto al sole, mi piacerebbe molto provare per qualche tempo uno smartphone con schermo e-ink (il più interessante a settembre 2026 è il [Bigme Hibreak Pro Color](https://store.bigme.vip/products/bigme-hibreak-pro-color-6-e-ink-eye-friendly-smartphone-with-4g-5g-connection)), in sostituzione del classico smartphone con schermo LCD/OLED che abbiamo un po' tutti.
 
-Una soluzione ancora più radicale sarebbe quella di usare un _dumb phone_ invece di uno smartphone, così da privarsi volontariamente di tutta la parte "smart"... ma mi pare davvero una talebanata impraticabile quando la tua vita è totalmente gestita con strumenti digitali moderni.
+Una soluzione ancora più radicale sarebbe quella di usare un _dumb phone_ invece di uno smartphone, così da privarsi volontariamente di tutta la parte "smart"... ma mi pare davvero una talebanata impraticabile se la tua vita è totalmente gestita con strumenti digitali.
 
 
 
