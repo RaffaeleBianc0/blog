@@ -76,8 +76,8 @@ Se hai attivato tutti gli opportuni backup su cloud dei dati (vedi sotto), allor
 
 ## Cifratura dischi
 Se hai un PC, verifica se puoi **cifrare il disco** che contiene i tuoi dati (spesso è lo stesso disco che contiene il sistema operativo).  
-Su Windows la tecnologia si chiama Bitlocker.  
-Lo attivi con pochi click, memorizzi la chiave di recupero nel tuo password manager (perché quando Bitlocker si inceppa è l'unico modo che avrai per far partire il tuo PC - mi è successo più volte, applausi a Microsoft), e non ci pensi più.
+Su Windows la tecnologia si chiama [Bitlocker](https://it.wikipedia.org/wiki/BitLocker).  
+Lo attivi con pochi click, memorizzi la [chiave di ripristino](https://support.microsoft.com/it-it/windows/security/encryption/find-your-bitlocker-recovery-key) nel tuo password manager (fondamentale, perché quando Bitlocker si inceppa è l'unico modo che avrai per far partire il tuo PC - mi è successo più volte, applausi a Microsoft), e non ci pensi più.
 
 **Fallo anche su tutti i dischi esterni** che usi per conservare dati.  
 Non farlo sulle chiavette che usi per installare Windows/Linux su altri PC, o se le devi usare in dispositivi non-Windows.
@@ -105,7 +105,7 @@ Una sola password da ricordare, ma con tutti i crismi.
 
 **STEP 2: SCEGLI IL SOFTWARE**  
 Quando avrai deciso la tua master password, è il momento di **scegliere il software**.  
-Ce ne sono tanti, alcuni salvano i dati in un account criptato su cloud (come Bitwarden o 1Password), altri invece in un file criptato locale (come KeePass), il che rende tutto più sicuro (a patto di memorizzare e backuppare questo file in modo opportuno), ma meno pratico, perché i tuoi account ti servono dappertutto, PC telefoni tablet, e sincronizzare il database a mano ogni volta che aggiungi un nuovo account o cambi una password credo sia un incubo.  
+Ce ne sono tanti, alcuni salvano i dati in un account criptato su cloud (come [Bitwarden](https://bitwarden.com) o [1Password](https://1password.com)), altri invece in un file criptato locale (come [KeePass](https://keepass.info)), il che rende tutto più sicuro (a patto di memorizzare e backuppare questo file in modo opportuno), ma meno pratico, perché i tuoi account ti servono dappertutto, PC telefoni tablet, e sincronizzare il database a mano ogni volta che aggiungi un nuovo account o cambi una password credo sia un incubo.  
 Scegli il software che preferisci tra quelli più utilizzati, crea l'account se è un password manager cloud-based, installa la app su tutti i tuoi dispositivi e, per la massima comodità, anche l'addon in tutti i browser che usi sul PC.
 
 **STEP 3: TRASLOCA LE TUE PASSWORD**  
@@ -125,7 +125,7 @@ Perché è sempre meglio **non avere "tutte le uova nello stesso paniere"**: Goo
 Per proteggere i tuoi account dal furto di password, la prima contromisura è usare l'autenticazione a 2 fattori (primo fattore = la password, secondo fattore = il codicino di 6 cifre che genera la app sul tuo telefono).
 
 Scegli la app che preferisci, da installare sul tuo telefono.  
-Io ho scelto **2FAS Authenticator** perché ha un'ottima integrazione con i browser su PC e perché fa il backup di tutte le chiavi automaticamente nel mio Google Drive.  
+Io ho scelto [2FAS Auth](https://2fas.com/auth) perché ha un'ottima integrazione con i browser su PC e perché fa il backup di tutte le chiavi automaticamente nel mio Google Drive.  
 Anche qua, come con il password manager, preferisco una app dedicata invece di quelle legate agli account Google e Microsoft.
 
 Quando hai configurato la app, **attiva l'autenticazione a 2 fattori ovunque sia possibile** (esempi: Google, Facebook, Amazon, Apple, Microsoft, Twitter, GitHub, Dropbox, LinkedIn, Instagram, Netflix, Reddit, Discord, Telegram, PayPal).  
@@ -137,14 +137,14 @@ Ma la protezione degli account con 2FA è enormemente più robusta, perché se r
 
 
 ## Codici di recupero
-Tutti i servizi dove attivi la 2FA ti forniscono dei codici di recupero, usa-e-getta, da usare solo nel caso critico in cui tu non possa più effettuare l'autenticazione standard con password + 2FA (per esempio se non hai accesso al tuo telefono che genera i codici per la 2FA).  
+Tutti i servizi dove attivi la 2FA ti forniscono dei codici di recupero **monouso**, da usare solo nel caso critico in cui tu non possa più effettuare l'autenticazione standard con password + 2FA (per esempio se non hai accesso al tuo telefono che genera i codici per la 2FA).  
 **Devi salvare questi codici da qualche parte**, per esempio nelle note del tuo password manager così sai sempre dove trovarli.  
-Ovviamente il codice di recupero dello stesso password manager dovrà stare da un'altra parte, per non chiuderti fuori dal tuo stesso fortino.
+Ovviamente il codice di recupero dello stesso password manager dovrà stare da un'altra parte, per non chiuderti fuori dal tuo stesso fortino. Stampalo su carta magari.
 
 
 
 ## Passkeys
-Ovunque sia possibile (esempi: Google, Microsoft, Apple, Amazon, PayPal, Facebook, X, Linkedin, GitHub, TikTok, eBay, Discord, Dropbox, Adobe, Nintendo, ...) attiva anche l'accesso tramite **passkey**.  
+Ovunque sia possibile (esempi: Google, Microsoft, Apple, Amazon, PayPal, Facebook, X, Linkedin, GitHub, TikTok, eBay, Discord, Dropbox, Adobe, Nintendo, ...) attiva anche l'accesso tramite [**passkey**](https://www.passkeys.com/it/cose-una-passkey).  
 Va fatto separatamente su ciascun dispositivo che usi, ma alcuni password manager (ad esempio Bitwarden) consentono di memorizzare al proprio interno anche le passkeys, così ti basta crearne una ed è subito condivisa su tutti i tuoi dispositivi dove hai installato Bitwarden.  
 Questa modalità di accesso è ancora più comoda (letteralmente UN CLICK per fare login!) e più sicura rispetto alla combinazione "password robusta + 2FA", perché una passkey non si può rubare dai database, ma occhio a non perdere tutte le passkey di un determinato account sennò non entri più (spoiler: non può succederti se seguirai le indicazioni più sotto per backuppare tutto come si deve).
 
@@ -173,7 +173,9 @@ Per fronteggiare questa eventualità, ho preparato un "kit di emergenza", compos
   * elenco di tutti gli asset (conti correnti, investimenti, assicurazioni, eccetera)
 2. foglio di carta con le istruzioni per accedere all'archivio cifrato. Questo foglio è allegato al mio testamento. Senza questo foglio è impossibile accedere all'archivio cifrato.  
 
-Ogni anno, subito dopo aver aggiornato tutte le mie password, dedico ulteriori 2 minuti a creare la versione aggiornata del mio ICE Kit, e consegno il nuovo archivio cifrato ai familiari alla prima occasione.
+Ogni anno, subito dopo aver aggiornato tutte le mie password, dedico ulteriori 2 minuti a creare la versione aggiornata del mio ICE Kit, e consegno il nuovo archivio cifrato ai familiari alla prima occasione.   
+Una copia è per me stesso, su supporto fisico, che non si sa mai.  
+Un mazzetto di chiavi USB lowcost da 1GB o anche più piccole (sostanzialmente scarti di magazzino) costa pochissimo, se vuoi distribuire il tuo ICE Kit su supporto fisico.
 
 E così implicitamente ho anche già fatto una cosa fondamentale: il **backup di tutti i miei account e di tutte le mie chiavi 2FA**, aggiornato proprio dopo il cambio password annuale. Questo è fondamentale, perché anche se perdessi l'accesso al mio password manager e/o alle mie chiavi 2FA, potrei in pochi minuti ripristinare entrambi su qualsiasi altro dispositivo.
 
@@ -195,7 +197,7 @@ Invece di sparpagliarli tra Desktop e cartelle improbabili, abìtuati a **salvar
 
 A parte l'ovvia praticità di poter accedere ai tuoi file ovunque (che mi è servita decine di volte, dal medico, in banca, ovunque servisse recuperare un documento o una informazione che avevo già archiviato), è anche una prima forma di "quasi-backup" nei soliti casi di danneggiamento/smarrimento/furto di uno dei tuoi dispositivi.
 
-Se lo spazio del tuo cloud storage sta per esaurirsi, di solito non vale la pena perdere tempo a ri-organizzare i file per recuperare qualche centinaio di MB sacrificando la copia online di qualcosa: costa molto meno pagare per estendere lo storage su cloud, con Google si parte da 2 o 3 euro al mese per esempio, e così mantieni la stessa organizzazione dei tuoi dati e non sacrifichi nulla. Nessuno dei tuoi dati vale meno di 3 euro al mese.
+Se lo spazio del tuo cloud storage sta per esaurirsi, di solito non vale la pena perdere tempo a ri-organizzare i file per recuperare qualche centinaio di MB sacrificando la copia online di qualcosa: costa molto meno pagare per estendere lo storage su cloud, [con Google si parte da circa 3 euro al mese](https://one.google.com/about/plans) per esempio, e così mantieni la stessa organizzazione dei tuoi dati e non sacrifichi nulla. Nessuno dei tuoi dati vale meno di 3 euro al mese.
 
 
 
@@ -212,7 +214,7 @@ Non basta Google Drive o simile, quello non è un vero backup rigoroso, ti serve
 * **criptandoli**, perché se ti rubano il backup almeno non riescono ad accedere ai dati
 * possibilmente **deduplicando** i dati, cioè riconoscendo automaticamente tra i vari file e le varie versioni di essi tutti i blocchi di byte in comune per occupare meno spazio sul supporto (questo è importante se il costo del backup dipende dallo spazio che occupa)
 
-Io per questo scopo ho scelto **restic**, un tool opensource a linea di comando che ha tutte le caratteristiche che ho elencato, e salvo questi miei backup in un disco USB che a sua volta è criptato con Bitlocker.
+Io per questo scopo ho scelto [restic](https://restic.net/), un tool opensource a linea di comando che ha tutte le caratteristiche che ho elencato, e salvo questi miei backup in un disco USB che a sua volta è criptato con Bitlocker.
 
 Se preferisci la facilità d'uso, rinunciando a versionamento e deduplica, almeno un copia-e-incolla dei tuoi file in un disco USB criptato è il minimo sindacale, da pianificare ad esempio mensilmente.
 
