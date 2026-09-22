@@ -125,11 +125,11 @@ Il mio attuale Kindle Paperwhite Gen7, che ho recentemente [migliorato per usarl
 Certo non ha Android, quindi lo uso esclusivamente per la lettura dei libri, però già questo è il risultato più importante che cercavo, e forse l'acquisto di un nuovo dispositivo solo per poter accedere anche al web senza prendere il telefono è un po' _overkill_.
 
 Per completezza, ecco comunque i **dispositivi più interessanti a settembre 2026:**  
-1. **Bigme B7 Pro B&W**, il 7" e-ink Android migliore sul mercato mentre scrivo, perché ha refresh rate più alto di tutti i concorrenti (ci si vedono anche i video nonostante sia un e-ink), CPU RAM e storage al vertice della categoria (alla pari di uno smartphone midrange), fotocamera (utile per usarlo come scanner con archiviazione su cloud), e slot SIM 4G, costa circa 390€ compresa cover e penna.
-1. **Bigme B7**, fratellino minore rispetto al Pro qui sopra, si perdono un po' di performance e di refresh-rate, costa circa 300€.
-1. **Onyx Boox Go 7**, meno potente e dotato dei due Bigme, ma esteticamente leggermente più elegante, costa attorno ai 270€ compresa la cover.
+1. [Bigme B7 Pro](https://euroshop.bigme.vip/collections/color-e-ink-tablets/products/bigme-b7-pro-powerful-color-epaper-phone-tablet-8-256gb-with-android-14os-and-4g-calling), il 7" e-ink Android migliore sul mercato mentre scrivo, perché ha refresh rate più alto di tutti i concorrenti (ci si vedono anche i video nonostante sia un e-ink), CPU RAM e storage al vertice della categoria (alla pari di uno smartphone midrange), fotocamera (utile per usarlo come scanner con archiviazione su cloud), e slot SIM 4G, costa circa 390€ compresa cover e penna.
+1. [Bigme B7](https://euroshop.bigme.vip/collections/tablet/products/b7-4-64gb-7-color-epaper-tablet-with-4g-calling-and-android-14os), fratellino minore rispetto al Pro qui sopra, si perdono un po' di performance e di refresh-rate, costa circa 300€.
+1. [Onyx Boox Go 7](https://shop.boox.com/products/go7), meno potente e dotato dei due Bigme, ma esteticamente leggermente più elegante, costa attorno ai 270€ compresa la cover.
 
-Inizialmente pensavo ad un dispositivo a colori, poi però ho capito che per i miei scopi **forse è preferibile la versione in bianco e nero**, per forzarmi ad usarlo esattamente per la lettura di testo, che su display e-ink B&W godrebbe di contrasto e risoluzione al massimo livello, mentre sui display Kaleido 3 a colori lo sfondo è sempre grigio e il layer dedicato ai colori toglie un po' di nitidezza anche ai contenuti testuali B&W. Insomma avere gli svantaggi del colore solo per vedere le copertine 1 secondo prima di continuare la lettura non mi sembra centrato.
+Inizialmente pensavo ad un dispositivo a colori, ora però sto meditando se per i miei scopi sia **preferibile la versione in bianco e nero**, per forzarmi ad usarlo esattamente per la lettura di testo, che su display e-ink B&W godrebbe di contrasto e risoluzione al massimo livello, mentre sui display Kaleido 3 a colori lo sfondo è sempre grigio e il layer dedicato ai colori toglie un po' di nitidezza anche ai contenuti testuali B&W. Insomma avere gli svantaggi del colore solo per vedere le copertine 1 secondo prima di continuare la lettura in B&W... non so.
 
 
 
@@ -154,7 +154,7 @@ Non che mi piaccia granché come prospettiva, mi piace girare leggero.
 
 
 ## Smartphone con schermo e-ink
-Per rendere scrolling, video, e videogame _fastidiosi_, e per rendere invece la lettura di testo più riposante e il display perfettamente leggibile anche sotto al sole, mi piacerebbe molto provare per qualche tempo uno smartphone con schermo e-ink (il più interessante a settembre 2026 è il **Bigme Hibreak Pro Color**), in sostituzione del classico smartphone con schermo LCD/OLED che abbiamo un po' tutti.
+Per rendere scrolling, video, e videogame _fastidiosi_, e per rendere invece la lettura di testo più riposante e il display perfettamente leggibile anche sotto al sole, mi piacerebbe molto provare per qualche tempo uno smartphone con schermo e-ink (il più interessante a settembre 2026 è il [Bigme Hibreak Pro Color](https://store.bigme.vip/products/bigme-hibreak-pro-color-6-e-ink-eye-friendly-smartphone-with-4g-5g-connection)), in sostituzione del classico smartphone con schermo LCD/OLED che abbiamo un po' tutti.
 
 Una soluzione ancora più radicale sarebbe quella di usare un _dumb phone_ invece di uno smartphone, così da privarsi volontariamente di tutta la parte "smart"... ma mi pare davvero una talebanata impraticabile quando la tua vita è totalmente gestita con strumenti digitali moderni.
 
