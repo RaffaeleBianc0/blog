@@ -240,9 +240,9 @@ Incidentalmente, Brave è apprezzato per la tutela di altri aspetti della privac
 ## Altri strati
 Non è solo YouTube che esagera con le pubblicità.  
 Mi sono dotato anche di:
-* **uBlock Origin Lite**, estensione per i browser che blocca pubblicità e tracker su qualunque sito; chiaramente l'intervento è limitato al browser in uso.
-* **Portmaster**, software che blocca pubblicità, tracker, telemetria e domini malevoli a livello di sistema operativo: in questo caso l'intervento abbraccia tutti i software nel PC, non solo il browser.
-* **Pi-hole** installato in un mini-PC che uso come DNS per l'intera rete domestica, bloccando pubblicità, tracker e telemetria su qualunque dispositivo connesso al mio router, senza bisogno di configurare né installare nulla sui dispositivi stessi. Il consumo del mini-PC online 24/7 è irrisorio, pochi euro all'anno, grazie all'hardware orientato all'efficienza energetica, e al sistema operativo installato (Linux Debian 13) che è molto parco specie nell'uso "server" senza interfaccia grafica.
+* [**uBlock Origin Lite**](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=it&pli=1), estensione per i browser che blocca pubblicità e tracker su qualunque sito; chiaramente l'intervento è limitato al browser in uso.
+* [**Portmaster**](https://safing.io), software che blocca pubblicità, tracker, telemetria e domini malevoli a livello di sistema operativo: in questo caso l'intervento abbraccia tutti i software nel PC, non solo il browser.
+* [**Pi-hole**](https://pi-hole.net) installato in un mini-PC che uso come DNS per l'intera rete domestica, bloccando pubblicità, tracker e telemetria su qualunque dispositivo connesso al mio router, senza bisogno di configurare né installare nulla sui dispositivi stessi. Il consumo del mini-PC online 24/7 è irrisorio, pochi euro all'anno, grazie all'hardware orientato all'efficienza energetica, e al sistema operativo installato ([Linux Debian](https://www.debian.org) 13) che è molto parco specie nell'uso "server" senza interfaccia grafica.
 
 Questi attori hanno ampie sovrapposizioni su quello che bloccano, e non credo sia necessario adottarli per forza tutti e tre.
 
@@ -260,7 +260,7 @@ Oltre a questo, c'è ovviamente la comodità di non dover mai digitare il PIN (s
 
 ## Online, pago con PayPal
 Negli ecommerce **pago con PayPal** invece che con la carta di debito/credito.  
-Anche in questo caso, il motivo principale è che non circolano i dati della mia carta di pagamento, perché la transazione viene mediata da PayPal che, tra l'altro, offre alcune tutele per gli acquirenti che diversamente non si hanno.
+Anche in questo caso, il motivo principale è avere uno strato aggiuntivo in mezzo tra la mia carta e il negozio, così da non far circolare i dati della mia carta di pagamento, perché la transazione viene mediata da PayPal che, tra l'altro, offre alcune tutele per gli acquirenti che diversamente non si hanno.
 
 
 
