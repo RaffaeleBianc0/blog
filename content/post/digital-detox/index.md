@@ -45,7 +45,7 @@ Questa è la cosa più banale di tutte, che ha un impatto minuscolo ma moltiplic
 Nel telefono da parecchi anni **ho disattivato quasi tutte le notifiche** - news, email, gruppi Whatsapp, gruppi Teams, browser, videogames, e soprattutto di tutti i social.  
 Non serve fare tutto in un colpo solo, basta farlo man mano che le ricevi dalle varie app: tieni il dito sulla prossima notifica molesta, selezioni "Disattiva", "Silenzia" o simile, ed è fatta. Tempo 3 secondi.
 
-Mantiengo attive le notifiche che sono sinceramente **urgenti ed importanti**:
+Mantengo attive le notifiche che sono sinceramente **urgenti ed importanti**:
 * quelle che servono ad **interagire subito con le persone** (chiamate, SMS, Whatsapp, Telegram, Messenger e simili);
 * quelle dei **servizi critici** che richiedono attenzione immediata (es. calendario, antifurto, pagamenti).    
 
