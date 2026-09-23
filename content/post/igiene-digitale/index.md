@@ -153,11 +153,10 @@ Esistono anche dispositivi hardware che memorizzano passkeys al proprio interno,
 
 
 ## Cambio password annuale
-Promemoria annuale per il 2 gennaio: "Cambio password", ripetuto o ogni anno.  
-Dentro alle note del promemoria scrivi l'elenco dei servizi principali, quelli che se ti rubassero l'account sarebbe un problema per i tuoi dati o per la tua reputazione: account Google, account Microsoft, email, banca, spid, social, e poco altro.  
-Con il prezioso supporto del password manager, **ogni anno cambierai tutte queste password**: le generi e le salvi con due click, non devi inventare né ricordare nulla.  
-Niente scuse!  
-E' una rottura di scatole, certo, ma se fai tutto al PC probabilmente in 15-30 minuti all'anno la questione è chiusa, tanto sei in ferie il 2 gennaio.
+Promemoria per il 2 gennaio "Cambio password", ripetuto ogni anno.  
+Dentro alle note del promemoria ci scrivo l'elenco dei servizi principali, quelli che se mi rubassero l'account sarebbe un problema per i dati o per la reputazione: account Google, account Microsoft, email, banca, spid, social, e poco altro.  
+Con il prezioso supporto del password manager, **ogni anno cambio tutte queste password**: le genero e le salvo con due click, non devo inventare né ricordare nulla.  
+E' una rottura di scatole, certo, ma facendo tutto al PC in 15-30 minuti all'anno la questione è chiusa, tanto sono in ferie il 2 gennaio.
 
 
 
