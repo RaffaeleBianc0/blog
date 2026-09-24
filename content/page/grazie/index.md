@@ -27,7 +27,7 @@ Nulla di trascendentale, è solo una semplice forma di scambio volontario e libe
 
 * Se vuoi, puoi ricambiare con un commento sotto la pagina che ti è piaciuta, oppure segnalandomi qualche errore o qualche miglioramento che potrei applicare, oppure condividendo un link ad uno dei post, oppure offrendomi un caffè/birretta con uno qualsiasi dei bottoni qui sotto.  
 
-Questo modello così elementare e limpido mi sembra un buon sistema per far circolare valore senza l'intermediazione malata di pubblicità e algoritmi, che per me sono una delle cause principali del degrado dell'informazione.  
+Questo modello così elementare e limpido mi sembra un buon sistema per far circolare valore senza l'intermediazione malata di pubblicità e algoritmi.
 
 Ancora, grazie!
 
