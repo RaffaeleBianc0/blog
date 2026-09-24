@@ -12,10 +12,11 @@ draft: false
 Nel 2026 scopro per caso che sul [mio vecchio Kindle regalatomi 10 anni prima]({{< ref "kindle.md" >}}) posso installare [KOReader](https://koreader.rocks), un software opensource per leggere ebook che offre una tonnellata di possibilità in più rispetto all'interfaccia nativa Amazon, tra cui le più interessanti per me sono:
 - completo **distacco dall'ecosistema Amazon** (togliere cose dal cloud e conservarle dove decido io per tutto il tempo che desidero senza dipendere da scelte altrui, più passa il tempo e più mi sembra interessante)
 - possibilità di installare plugin per **estendere ulteriormente le funzionalità** - questa cosa da sola vale tutto lo sforzo, vedi più sotto
-- supporto al **reflow dei PDF**, per riuscire a leggere i PDF anche su uno schermo così piccolo e lento
+- supporto al **reflow dei PDF**, per provare a leggere i PDF anche su uno schermo così piccolo e lento
+- **ricerca** di parole/frasi (evidenziando il testo oppure digitando) su dizionari multilingua scaricabili in locale, traduttori, e Wikipedia online
+- download di **feed RSS** per leggerli come "mini-libri"
 - **controllo tipografico avanzato** (font, margini, kerning, orientamento dello schermo, e varie altre opzioni che il software Amazon non prevede)
-- **ricerca** del termine evidenziato su dizionari multilingua scaricabili in locale, traduttore, e Wikipedia
-- download di **feed RSS** e conversione in "libri" da leggere
+- **connessione wifi al PC**, per gestire i contenuti sia tramite ssh sia tramite Calibre
 - lettura di **formati ebook aggiuntivi** (anche se, con le possibilità di conversione offerte da Calibre, il formato dell'ebook diventa subito un non-problema)
 
 Figurati se non mi vien voglia di provare!  
