@@ -14,10 +14,10 @@ Questo script arriva con qualche anno di ritardo su queste pagine: lo ho messo i
 
 In quelle giornate di reclusione mi sono intrippato un sacco con PowerShell e il microcosmo di tool CLI (Command Line Interface, quindi strumenti da linea di comando, senza le consuete finestre da cliccare col mouse) che neanche pensavo esistesse... _"chi vuoi che utilizzi ancora l'interfaccia a caratteri in Windows?"_  
 
-E invece...! Sicuramente non c'è la cultura della CLI radicata come nel mondo Linux, ma da quando esiste PowerShell il divario si è ridotto di parecchio, e in generale vale la pena mantenere un po' di confidenza con questo ambiente perché **alcune attività si fanno meglio nella CLI**, soprattutto se fai un mestiere nel campo dell'informatica.
+E invece...! Sicuramente non c'è la cultura della CLI radicata come nel mondo Linux, ma da quando esiste PowerShell il divario si è ridotto di parecchio, e in generale vale la pena mantenere un po' di confidenza con questo ambiente soprattutto se fai un mestiere nel campo dell'informatica, perché **alcune attività si fanno un sacco meglio nella CLI**.
 
 Quindi dopo l'esplorazione iniziale ho dedicato parecchie (troppe) ore a cesellare ogni dettaglio del terminale, font, colori, prompt, alias, moduli, variabili d'ambiente sia in PS che in CMD, issues aperte sui repo GitHub dei tool più apprezzati: una cosa molto molto nerd, dall'utilità reale tendente a zero, ma che intanto vien fuori una roba bella e chissene dell'utilità, giusto?  
-Questo il risultato ottenuto (finora):  
+Questo è il risultato ottenuto:  
 {{< youtube o0MqeateVb4 >}}
 
 Contemporaneamente, dato che sono pigro e che l'idea di rifare le cose daccapo mi mette angoscia, costruivo anche il sistema per ripristinare l'intera impalcatura su qualunque PC con un singolo comando.  
