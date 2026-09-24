@@ -40,20 +40,20 @@ Appena installato KOReader, prima ancora di staccare il Kindle dal PC, la cosa d
 
 ## Bookshelf
 ![](images/bookshelf.webp)  
-[Bookshelf](https://github.com/AndyHazz/bookshelf.koplugin) è la mia "home" preferita, anche dopo aver provato gli eccellenti [SimpleUI](https://github.com/doctorhetfield-cmd/simpleui.koplugin) e [ZenOS](https://github.com/xZenLabs/zen-os) per qualche giorno. Si può usare anche solo come sostituto della funzione "Libreria" di KOReader, e usare una customizzazione della home a piacere, ma Bookshelf è già perfetta per le mie esigenze senza aggiungere altro.
+[Bookshelf](https://github.com/AndyHazz/bookshelf.koplugin) è la mia "home" preferita, anche dopo aver provato gli eccellenti [SimpleUI](https://github.com/doctorhetfield-cmd/simpleui.koplugin) e [ZenOS](https://github.com/xZenLabs/zen-os) per qualche giorno. Si può usare anche solo come sostituto della funzione "Libreria" di KOReader, e usare un altro plugin (come i 2 appena citati) per customizzare la home in modi diversi e più liberi, ma Bookshelf è già perfetta per le mie esigenze senza aggiungere altro e senza perdermi (ulteriormente) in un mare di possibilità extra.
 
 ## Bookends
 ![](images/bookends.webp)  
 [Bookends](https://github.com/AndyHazz/bookends.koplugin) consente di personalizzare l'intestazione e il pié di pagina visualizzati durante la lettura, inserendo informazioni come tempo/pagine/percentuale di lettura trascorso/rimanente/totale rispetto al libro/capitolo/giorno/sessione di lettura corrente, progressbar di queste informazioni, autore del libro, titolo del libro e del capitolo corrente, eccetera eccetera.  
-C'è una libreria di preset tra cui scegliere, altrimenti si può creare il proprio preset direttamente sul dispositivo per i più smanettoni.
+C'è una libreria di preset tra cui scegliere (dentro la quale trovi anche il mio preset "rb"), altrimenti puoi crearti il tuo preset direttamente sul dispositivo se sei anche tu uno smanettone.
 
 ## Shortcuts Toolbar
 ![](images/shortcutstoolbar.webp)  
-[Shortcuts Toolbar](https://github.com/xusoo/shortcutstoolbar.koplugin) consente di aggiungere i comandi preferiti direttamente nella toolbar di KOReader, invece di doverli scovare nei suoi affollati menu.
+[Shortcuts Toolbar](https://github.com/xusoo/shortcutstoolbar.koplugin) consente di aggiungere i comandi preferiti come iconcine direttamente nella toolbar di KOReader, invece di doverli scovare ogni volta nei suoi affollati menu.
 
 ## My Clippings
 ![](images/myclippings.webp)  
-[My Clippings](https://github.com/nirajkamal/myclippings.koplugin) raccoglie tutti gli highlights in un ebook locale, così da poterli rivedere senza saltare da un libro all'altro. 
+[My Clippings](https://github.com/nirajkamal/myclippings.koplugin) raccoglie tutti gli highlights che hai sottolineato in tutti i libri, e li mette in un unico ebook creato appositamente, così da poterli rivedere senza saltare da un libro all'altro. 
 
 ## Readest
 L'[integrazione con Readest](https://github.com/readest/readest/wiki/Sync-with-Koreader-devices) è utile per sincronizzare i libri letti e l'avanzamento di lettura su più dispositivi, così da poter continuare la lettura su qualunque di essi mantenendo allineata la pagina dove si è arrivati (es. KOReader sul Kindle a casa, e smartphone nei ritagli di tempo fuori casa).
@@ -78,6 +78,8 @@ Per questa archiviazione mi piace usare [Obsidian](https://obsidian.md) sul PC, 
 
 
 # Conclusioni
-Con questa configurazione sono completamente sganciato da entità online (Amazon, Goodreads) che prima erano in possesso dei miei libri e dei miei metadati, e ho tutte le funzioni che potevo desiderare legate all'esperienza di lettura.  
-Credo così di sfruttare al massimo questo vecchio Kindle fino a quando l'hardware reggerà - batteria e schermo in particolare.
+Con quanto ho descritto qui sopra, ho migliorato la mia esperienza di lettura aggiungendo possibilità e informazioni varie che mi sembrano interessanti, e che erano assenti nel software originale Amazon.  
+In più mi sono sganciato dalle piattaforme online che prima erano in possesso dei miei libri e dei miei metadati, così non vedo più pubblicità o libri suggeriti, e non rischio che vengano cancellati titoli che invece voglio conservare, anche qualora un domani decidessi di cancellare completamente il mio account Amazon.
+
+Credo così di sfruttare al massimo questo vecchio Kindle fino a quando l'hardware reggerà - batteria e schermo in particolare.  
 Quando sarà il momento di abbandonarlo, avrò tutta la mia configurazione KOReader + plugins + tutta la mia libreria + tutti i metadati già backuppati su PC, e sarà questione di poco traslocare tutto nel prossimo dispositivo.
