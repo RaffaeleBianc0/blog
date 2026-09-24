@@ -22,5 +22,5 @@ Contemporaneamente, dato che sono pigro e che l'idea di rifare le cose daccapo m
 
 Ecco, esattamente questo fa rubMyCLI: ripristina su qualunque PC la mia configurazione di Windows Terminal con tutti i software che ho selezionato e i miei file di configurazione, in modo da ottenere esattamente l'ambiente CLI con le funzionalità che ho assemblato durante quell'isolamento da covid più qualche ora ulteriore qua e là.  
 
-Trovi tutto (script + file di supporto + descrizione completa di tutte le funzionalità) qui: 
+Trovi tutto (script + file di supporto + descrizione completa di tutte le funzionalità) qui:  
 {{< bottone link="https://github.com/RaffaeleBianc0/rubMyCLI" >}} rubMyCLI su GitHub {{< /bottone >}}
