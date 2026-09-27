@@ -232,10 +232,14 @@ Se non vuoi sbattimenti, questo tipo di servizi di backup su cloud sono ottimi s
 
 # Profilazione
 
-## Brave browser VS YouTube Premium
+## YouTube senza pubblicità
 YouTube esagera con le pubblicità.  
-Se sei d'accordo, allora **usa [Brave](https://brave.com) per accedere a YouTube con rimozione automatica dell'advertising**, sia su PC che su Android.  
-Tutto qua, facile facile. E così risparmi 16€/mese circa di YouTube Premium, che serve soprattutto a rimuovere le pubblicità da YT e da YT Music: Amazon Prime ce l'ho, e la poca musica che ascolto la posso trovare in Amazon Music, abbonamento già incluso con Prime (mannaggia a loro che includono cose, a me interessa solo la spedizione gratuita).
+Se sei d'accordo, ecco 2 soluzioni per guardare i video su YouTube senza interruzioni pubblicitarie.
+
+Su **PC, smartphone e tablet** basta **usare [Brave](https://brave.com) per accedere a YouTube**.  
+Tutto qua, facile facile.  
+
+Su **Android TV / Google TV**, devi installare l'eccellente app [SmartTube](https://smarttubeapp.github.io/), che trovo addirittura più pratica della app originale YouTube, e che oltre a rimuovere le pubblicità innestate dalla piattaforma salta anche buona parte delle promozioni che fanno tanti content creator!
 
 Incidentalmente, Brave è apprezzato per la tutela di altri aspetti della privacy online, potresti usarlo come unico browser e non sbaglieresti.
 
