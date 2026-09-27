@@ -16,7 +16,7 @@ Nel 2026 scopro per caso che sul [mio vecchio Kindle regalatomi 10 anni prima]({
 - **ricerca** di parole/frasi (evidenziando il testo oppure digitando) su dizionari multilingua scaricabili in locale, traduttori, e Wikipedia online
 - download di **feed RSS** per leggerli come "mini-libri"
 - **controllo tipografico avanzato** (font, margini, kerning, orientamento dello schermo, e varie altre opzioni che il software Amazon non prevede)
-- **connessione wifi al PC**, per gestire i contenuti sia tramite ssh sia tramite Calibre
+- **connessione wifi al PC**, per gestire i contenuti sia tramite [SSH](https://it.wikipedia.org/wiki/Secure_Shell) sia tramite Calibre
 - lettura di **formati ebook aggiuntivi** (anche se, con le possibilità di conversione offerte da Calibre, il formato dell'ebook diventa subito un non-problema)
 
 Figurati se non mi vien voglia di provare!  
