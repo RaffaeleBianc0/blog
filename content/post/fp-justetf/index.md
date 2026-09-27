@@ -9,14 +9,13 @@ image: "images/cover.jpg"
 draft: true
 ---
 
-Quando ho deciso che gli ETF erano gli strumenti giusti per investire qualche risparmio, e dopo aver deciso l'allocazione, è stato il momento di scegliere _quali_ ETF acquistare.
+Quando ho deciso che gli ETF erano per me gli strumenti giusti per investire qualche risparmio, e dopo aver deciso l'allocazione, è stato il momento di scegliere _quali_ ETF acquistare.
 
-Voglio spendere qualche riga qui su questo tema, perché più di qualche amico mi ha fatto la stessa domanda, e magari un vademecum pratico può far comodo.
+Voglio spendere qualche riga qui su questo tema, perché ne ho parlato con più di qualche amico, e magari un vademecum pratico può far comodo.
 
-Immagina di aver calcolato/deciso che nella tua asset allocation ci sta un ETF azionario globale.  
+Immagina di aver calcolato/deciso che nella tua asset allocation ci sta un **ETF azionario globale** (... "immagina" per modo di dire, è probabilmente vero per la gran maggioranza di chi investe con orizzonte lungo).  
 Solo per questa classe, ci sono almeno 5 indici, ognuno tracciato da almeno 1 ETF, ma spesso 5-6.  
-Metti che siano 25 in totale.  
-Tutti azionari globali.  
+Metti che siano 5 ETF su ciascuno dei 5 indici = 25 ETF azionari globali diversi, ma che si muovono praticamente all'unisono (dato che tracciano lo stesso mercato).  
 **Quale scegli?**
 
 Di seguito descrivo come ho fatto io a scegliere per me stesso, quindi vale ovviamente il solito disclaimer che trovi in fondo alla pagina.  
