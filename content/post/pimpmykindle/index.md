@@ -9,14 +9,16 @@ image: "images/cover.jpg"
 draft: false
 ---
 
-Nel 2026 scopro per caso che sul [mio vecchio Kindle regalatomi 10 anni prima]({{< ref "kindle.md" >}}) posso installare [KOReader](https://koreader.rocks), un software opensource per leggere ebook che offre una tonnellata di possibilità in più rispetto all'interfaccia nativa Amazon, tra cui le più interessanti per me sono:
+Nel 2026 scopro per caso che sul [mio vecchio Kindle regalatomi 10 anni prima]({{< ref "kindle.md" >}}), e ancora perfettamente funzionante, posso installare [KOReader](https://koreader.rocks).
+
+KOReader è un software opensource per leggere ebook che si può installare in quasi tutti i dispositivi Kindle, Kobo, PocketBook e Android, e offre una tonnellata di possibilità in più rispetto all'interfaccia nativa Amazon, tra cui le più interessanti per me sono:
 - completo **distacco dall'ecosistema Amazon** (togliere cose dal cloud e conservarle dove decido io per tutto il tempo che desidero senza dipendere da scelte altrui, più passa il tempo e più mi sembra interessante)
 - possibilità di installare plugin per **estendere ulteriormente le funzionalità** - questa cosa da sola vale tutto lo sforzo, vedi più sotto
 - supporto al **reflow dei PDF**, per provare a leggere i PDF anche su uno schermo così piccolo e lento
 - **ricerca** di parole/frasi (evidenziando il testo oppure digitando) su dizionari multilingua scaricabili in locale, traduttori, e Wikipedia online
 - download di **feed RSS** per leggerli come "mini-libri"
 - **controllo tipografico avanzato** (font, margini, kerning, orientamento dello schermo, e varie altre opzioni che il software Amazon non prevede)
-- **connessione wifi al PC**, per gestire i contenuti sia tramite [SSH](https://it.wikipedia.org/wiki/Secure_Shell) sia tramite Calibre
+- **connessione wifi al PC**, per gestire i contenuti sia tramite [SSH](https://it.wikipedia.org/wiki/Secure_Shell) sia tramite Calibre senza armeggiare con il cavetto
 - lettura di **formati ebook aggiuntivi** (anche se, con le possibilità di conversione offerte da Calibre, il formato dell'ebook diventa subito un non-problema)
 
 Figurati se non mi vien voglia di provare!  
@@ -33,11 +35,11 @@ Nello stesso sito, la procedura termina con le indicazioni per installare KORead
 
 
 # Plugin
-Ho ovviamente sperimentato un bel po' di plugin, soprattutto per modificare l'interfaccia utente, ma anche per altre funzioni collaterali.  
+Ho ovviamente sperimentato un bel po' di plugin per KOReader, soprattutto per modificare l'interfaccia utente, ma anche per altre funzioni collaterali.  
 Ti elenco quelli che sto usando ancora oggi, dopo opportuna scrematura - necessaria anche per evitare di appesantire troppo l'hardware molto limitato del mio ebook reader.
 
 ## Storefront
-Appena installato KOReader, prima ancora di staccare il Kindle dal PC, la cosa da fare subito secondo me è installare [Storefront](https://github.com/ultimatejimmy/storefront.koplugin), perché consente di valutare/installare/aggiornare/rimuovere tutti gli altri plugin direttamente dal Kindle, senza doverlo tenere collegato al PC.
+Appena installato KOReader, prima ancora di staccare il Kindle dal PC, la cosa da fare subito secondo me è installare [Storefront](https://github.com/ultimatejimmy/storefront.koplugin), perché consente di valutare, installare, aggiornare e rimuovere tutti gli altri plugin direttamente dal Kindle, senza doverlo collegare al PC.
 
 ## Bookshelf
 ![](images/bookshelf.webp)  
@@ -46,7 +48,7 @@ Appena installato KOReader, prima ancora di staccare il Kindle dal PC, la cosa d
 ## Bookends
 ![](images/bookends.webp)  
 [Bookends](https://github.com/AndyHazz/bookends.koplugin) consente di personalizzare l'intestazione e il pié di pagina visualizzati durante la lettura, inserendo informazioni come tempo/pagine/percentuale di lettura trascorso/rimanente/totale rispetto al libro/capitolo/giorno/sessione di lettura corrente, progressbar di queste informazioni, autore del libro, titolo del libro e del capitolo corrente, eccetera eccetera.  
-C'è una libreria di preset tra cui scegliere (dentro la quale trovi anche il mio preset "rb"), altrimenti puoi crearti il tuo preset direttamente sul dispositivo se sei anche tu uno smanettone.
+C'è una libreria di preset tra cui scegliere (dentro la quale trovi anche i miei, "rb" ed "rb2" al momento, poi se mi vien voglia ne aggiungo altri), altrimenti puoi crearti il tuo preset direttamente sul dispositivo se sei anche tu uno smanettone.
 
 ## Shortcuts Toolbar
 ![](images/shortcutstoolbar.webp)  
@@ -79,8 +81,8 @@ Per questa archiviazione mi piace usare [Obsidian](https://obsidian.md) sul PC, 
 
 
 # Conclusioni
-Con quanto ho descritto qui sopra, ho migliorato la mia esperienza di lettura aggiungendo possibilità e informazioni varie che mi sembrano interessanti, e che erano assenti nel software originale Amazon.  
-In più mi sono sganciato dalle piattaforme online che prima erano in possesso dei miei libri e dei miei metadati, così non vedo più pubblicità o libri suggeriti, e non rischio che vengano cancellati titoli che invece voglio conservare, anche qualora un domani decidessi di cancellare completamente il mio account Amazon.
+Con quanto ho descritto qui sopra, ho **migliorato la mia esperienza di lettura** aggiungendo possibilità e informazioni varie che mi sembrano interessanti, e che erano assenti nel software originale Amazon.  
+In più mi sono **sganciato dalle piattaforme online** che prima erano in possesso dei miei libri e dei miei metadati, così non vedo più suggerimenti commerciali e non rischio che vengano cancellati titoli che invece voglio conservare, anche qualora un domani decidessi di cancellare completamente il mio account Amazon.
 
 Credo così di sfruttare al massimo questo vecchio Kindle fino a quando l'hardware reggerà - batteria e schermo in particolare.  
 Quando sarà il momento di abbandonarlo, avrò tutta la mia configurazione KOReader + plugins + tutta la mia libreria + tutti i metadati già backuppati su PC, e sarà questione di poco traslocare tutto nel prossimo dispositivo.
