@@ -92,7 +92,12 @@ Tu invece non ti accorgi di nulla nell'uso quotidiano: il disco continua a funzi
 ## Password manager
 Oltre a proteggere i dispositivi, è necessario proteggere i propri account.  
 Ne hai decine, come tutti, e ognuno deve avere una password lunga, complessa, diversa su ogni account, e modificata periodicamente. _Deve_, non "dovrebbe però amen".  
-Non puoi (e non vuoi) ricordare a memoria decine di password casuali da 20 caratteri ciascuna. E non vuoi nemmeno digitarle ogni volta. E neanche inventarti un metodo per generarle sufficientemente complesse. E quando devi cambiarle non deve essere difficile memorizzare quella nuova.  
+
+Ma:
+* Non vuoi inventarti un modo per **generare** ciascuna di queste password sufficientemente complessa.  
+* Non vuoi (e non puoi) **ricordare** decine di password casuali da 20 caratteri ciascuna.
+* Non vuoi **mantenere** una lista delle tue password scritte in chiaro, magari stampate su un foglio di carta ogni tot tempo, che è automaticamente sempre obsoleto e quando ti serve l'hai lasciato a casa.
+* Non vuoi **digitare** ogni volta password così lunghe. 
 
 Sembra un casino! E invece no, la soluzione a tutti quanti questi problemi sta in una unica abitudine elementare e gratuita: **usare un password manager**, un programmino che ti renderà la vita **più facile** di com'era fino ad oggi, oltre che molto più sicura.  
 
