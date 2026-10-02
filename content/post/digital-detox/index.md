@@ -158,7 +158,7 @@ Nel 2026 sono diventati virali i piccoli ebook reader di [Xteink](https://www.xt
 
 
 ## Smartphone con schermo e-ink
-Per rendere scrolling, video, e videogame _fastidiosi_, e per rendere invece la lettura di testo più riposante e il display perfettamente leggibile anche sotto al sole, mi piacerebbe molto provare per qualche tempo uno smartphone con schermo e-ink (il più interessante a settembre 2026 è il [Bigme Hibreak Pro Color](https://store.bigme.vip/products/bigme-hibreak-pro-color-6-e-ink-eye-friendly-smartphone-with-4g-5g-connection)), in sostituzione del classico smartphone con schermo LCD/OLED che abbiamo un po' tutti.
+Per rendere scrolling, video, e videogame _fastidiosi_, e per rendere invece la lettura di testo più riposante e il display perfettamente leggibile anche sotto al sole, mi piacerebbe molto provare per qualche tempo uno smartphone con schermo e-ink (il più interessante a settembre 2026 è il [Bigme Hibreak Pro Color](https://store.bigme.vip/products/bigme-hibreak-pro-color-6-e-ink-eye-friendly-smartphone-with-4g-5g-connection), e dovrebbe arrivare presto il suo successore con doppio schermo), in sostituzione del classico smartphone con schermo LCD/OLED che abbiamo un po' tutti.
 
 Una soluzione ancora più radicale sarebbe quella di usare un _dumb phone_ invece di uno smartphone, così da privarsi volontariamente di tutta la parte "smart"... ma mi pare davvero una talebanata impraticabile se la tua vita è totalmente gestita con strumenti digitali.
 
