@@ -111,6 +111,24 @@ Il fastidio causato dalla dominante gialla è quasi irrilevante dopo i primi 10 
 
 
 
+# Voglio leggere di più
+Il tempo che ho tolto ai social lo sto dedicando alla lettura.  
+
+"Leggere fa bene" lo sapeva anche mia nonna, ma io apprezzo un approccio un pelino più solido e meno soggetto a bias cognitivi.  
+
+In [questo articolo su MedicalNewsToday](https://www.medicalnewstoday.com/articles/313429) sono citati 11 studi che affermano:  
+- leggere anche solo 6 minuti al giorno può ridurre lo stress fino al 68%, a volte più di ascoltare musica o fare una passeggiata
+- chi legge (o fa altre attività mentalmente stimolanti) è meno incline a mostrare segnali fisici correlati a demenza ed Alzheimer
+- leggere prima di dormire può migliorare la qualità del sonno
+- leggere fiction potrebbe aiutare a sviluppare l'empatia verso gli altri nella vita reale
+- leggere può migliorare il vocabolario personale, fattore che è stato collegato con lo sviluppo intellettivo  
+
+[Questa revisione sistematica di 43 studi](https://pubmed.ncbi.nlm.nih.gov/41321266/) conclude che la lettura migliora positività, comprensione di sé, empatia, autoefficacia, intelligenza emotiva e connessione.
+
+E poi ci sono io, che penso alle 5000+ ore che ho dedicato ai social fino ad oggi (stimando solo 1h/giorno di utilizzo, quindi il totale è _pesantemente sottodimensionato_), poi penso alle 100-200 ore di studio necessarie a preparare un esame universitario, poi penso alla seconda laurea alla quale ho rinunciato per guardare i post degli altri, poi mi offendo con violenza e bestemmio forte forte.
+
+
+
 # Idee non (ancora?) implementate
 Qualche spunto che ho letto in giro, ma che non ho ancora avuto voglia/coraggio di mettere in pratica.
 
@@ -134,7 +152,6 @@ Per completezza, ecco comunque i **dispositivi più interessanti a settembre 202
 1. [Onyx Boox Go 7](https://shop.boox.com/products/go7), meno potente e dotato dei due Bigme, ma esteticamente leggermente più elegante, costa attorno ai 270€ compresa la cover.
 
 Inizialmente pensavo ad un dispositivo a colori, ora però sto meditando se per i miei scopi sia **preferibile la versione in bianco e nero**, per forzarmi ad usarlo esattamente per la lettura di testo, che su display e-ink B&W godrebbe di contrasto e risoluzione al massimo livello, mentre sui display Kaleido 3 a colori lo sfondo è sempre grigio e il layer dedicato ai colori toglie un po' di nitidezza anche ai contenuti testuali B&W. Insomma avere gli svantaggi del colore solo per vedere le copertine 1 secondo prima di continuare la lettura in B&W... non so.
-
 
 
 ## No smartphone in presenza di altri
