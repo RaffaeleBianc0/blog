@@ -60,7 +60,8 @@ C'è una libreria di preset tra cui scegliere (dentro la quale trovi anche i mie
 [My Clippings](https://github.com/nirajkamal/myclippings.koplugin) raccoglie tutti gli highlights che hai sottolineato in tutti i libri, e li mette in un unico ebook creato appositamente, così da poterli rivedere senza saltare da un libro all'altro. 
 
 ## Readest
-L'[integrazione con Readest](https://github.com/readest/readest/wiki/Sync-with-Koreader-devices) è utile per sincronizzare i libri letti e l'avanzamento di lettura su più dispositivi, così da poter continuare la lettura su qualunque di essi mantenendo allineata la pagina dove si è arrivati (es. KOReader sul Kindle a casa, e smartphone nei ritagli di tempo fuori casa).
+L'[integrazione con Readest](https://github.com/readest/readest/wiki/Sync-with-Koreader-devices) è utile per sincronizzare i libri letti e l'avanzamento di lettura su più dispositivi, così da poter continuare la lettura su qualunque di essi mantenendo allineata la pagina dove si è arrivati (es. KOReader sul Kindle a casa, e smartphone nei ritagli di tempo fuori casa). La app Readest per Android mi permette di proseguire la lettura anche su telefono, e non è niente male.  
+In alternativa, rinunciando alla lettura su app Readest, la sincronizzazione tra più dispositivi KOReader si può fare con la funzione integrata, appoggiandosi al server [KoSync](https://kosync.eu) europeo (perché quello di default koreader.rocks è spesso irraggiungibile): puoi registrarti semplicemente con username e password a tua scelta direttamente da KOReader, usando lo stesso account su tutti i tuoi dispositivi.
 
 ## Hardcover
 [Hardcover](https://hardcover.app/@raffaelebianco) è una specie di "social per lettori", dove condividere quello che si sta leggendo e scoprire nuovi libri. Si può usare gratuitamente, oppure si può diventare Supporter per ottenere statistiche di lettura più avanzate.

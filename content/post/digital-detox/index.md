@@ -152,7 +152,8 @@ Confido che mettere in carica il telefono in un'altra stanza prima di andare a l
 
 ## Ebook sempre con me
 Per riempire qualche pausa solitaria (es. durante smartworking, pranzo di lavoro da solo, attese dal medico, cose del genere), invece di video o social potrei leggere qualche pagina di un libro.  
-Solo che i 6-7 pollici dell'ebook reader non stanno nelle tasche dei pantaloni, quindi d'estate dovrei portarmi dietro un borsello/slingbag o simile dove cacciare dentro anche l'ebook. Non che mi piaccia granché come prospettiva, mi piace girare leggero.
+Solo che i 6-7 pollici dell'ebook reader non stanno nelle tasche dei pantaloni, quindi d'estate dovrei portarmi dietro un borsello/slingbag o simile dove cacciare dentro anche l'ebook. Non che mi piaccia granché come prospettiva, mi piace girare leggero.  
+Nel 2026 sono diventati virali i piccoli ebook reader di [Xteink](https://www.xteink.com), potrei farci un pensierino.
 
 
 
