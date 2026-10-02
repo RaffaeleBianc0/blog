@@ -14,9 +14,10 @@ Nel 2026 scopro per caso che sul [mio vecchio Kindle regalatomi 10 anni prima]({
 KOReader è un software opensource per leggere ebook che si può installare in quasi tutti i dispositivi Kindle, Kobo, PocketBook e Android, e offre una tonnellata di possibilità in più rispetto all'interfaccia nativa Amazon, tra cui le più interessanti per me sono:
 - completo **distacco dall'ecosistema Amazon** (togliere cose dal cloud e conservarle dove decido io per tutto il tempo che desidero senza dipendere da scelte altrui, più passa il tempo e più mi sembra interessante)
 - possibilità di installare plugin per **estendere ulteriormente le funzionalità** - questa cosa da sola vale tutto lo sforzo, vedi più sotto
-- supporto al **reflow dei PDF**, per provare a leggere i PDF anche su uno schermo così piccolo e lento
-- **ricerca** di parole/frasi (evidenziando il testo oppure digitando) su dizionari multilingua scaricabili in locale, traduttori, e Wikipedia online
+- **ricerca** di parole/frasi (evidenziando il testo oppure digitando) su dizionari multilingua scaricabili in locale, traduttori, Wikipedia, e AI (tramite plugin)
 - download di **feed RSS** per leggerli come "mini-libri"
+- accesso a **Dropbox** per leggere libri memorizzati su cloud
+- supporto alla **lettura di PDF** con reflow del testo, OCR, e raddrizzamento della scansione
 - **controllo tipografico avanzato** (font, margini, kerning, orientamento dello schermo, e varie altre opzioni che il software Amazon non prevede)
 - **connessione wifi al PC**, per gestire i contenuti sia tramite [SSH](https://it.wikipedia.org/wiki/Secure_Shell) sia tramite Calibre senza armeggiare con il cavetto
 - lettura di **formati ebook aggiuntivi** (anche se, con le possibilità di conversione offerte da Calibre, il formato dell'ebook diventa subito un non-problema)
@@ -64,6 +65,10 @@ L'[integrazione con Readest](https://github.com/readest/readest/wiki/Sync-with-K
 ## Hardcover
 [Hardcover](https://hardcover.app/@raffaelebianco) è una specie di "social per lettori", dove condividere quello che si sta leggendo e scoprire nuovi libri. Si può usare gratuitamente, oppure si può diventare Supporter per ottenere statistiche di lettura più avanzate.
 Il [plugin per Hardcover.app](https://github.com/Billiam/hardcoverapp.koplugin) consente la sincronizzazione automatica dei libri letti e del relativo progresso di lettura sul proprio account.
+
+## SleepRibbon
+![](images/sleepribbon.png)
+[SleepRibbon](https://github.com/araponga321/sleepribbon.koplugin) consente di stampare informazioni sull'avanzamento della lettura in sovrimpressione sulla copertina del libro durante lo standby del dispositivo. Per i più meticolosi, è possibile personalizzare il ribbon su ciascun libro, per rispettare font colori impaginazione e "annegare" così il ribbon nella grafica originale.
 
 
 
