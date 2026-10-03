@@ -39,7 +39,9 @@ Accorgimenti ovvi, piccoli, elementari, da applicare in 5 secondi, non scherzo s
 
 
 
-# Notifiche sul telefono
+# Azioni
+
+## Notifiche sul telefono
 Questa è la cosa più banale di tutte, che ha un impatto minuscolo ma moltiplicato per centinaia di volte al giorno.  
 
 Nel telefono da parecchi anni **ho disattivato quasi tutte le notifiche** - news, email, gruppi Whatsapp, gruppi Teams, browser, videogames, e soprattutto di tutti i social.  
@@ -54,7 +56,7 @@ E se aprirai quella app tra qualche ora invece di "subito", sai già che non cam
 
 
 
-# App social
+## App social
 Come ho raccontato sopra, ho disinstallato tutte le app dei social, in pochi secondi.  
 Non è necessario per forza sospendere/cancellare i rispettivi account.  
 **Puoi accedere agli stessi social usando il browser**, sia su PC che su telefono, senza che cambi granché rispetto all'uso delle app.
@@ -67,7 +69,7 @@ I vantaggi che ho sperimentato sono questi:
 
 
 
-# Notifiche email
+## Notifiche email
 Questa è sottovalutata in ufficio invece: di default ad ogni email che arriva senti un suono (e lo sentono anche tutti i colleghi nella stessa stanza, maledizione), e con Outlook ti compare la bustina in basso a destra.  
 
 Ma **l'email non è mai stata uno strumento di comunicazione sincrono**, non serve vedere le email _appena arrivano_, non è una chat, e chiunque utilizzi lo strumento email in contrasto con questa sua natura sta semplicemente sbagliando e sta alimentando anche negli altri aspettative sbagliate, quelle per cui ti scrivono una email, poi ti mandano il messaggio su Teams "Hai letto la posta?", e se non rispondi in fretta ti chiamano e "Ciao, hai letto Teams?".  
@@ -77,7 +79,7 @@ E la mail si controlla ogni 1 2 4 8 24 ore, decidi tu in base al tipo di lavoro 
 
 
 
-# Notifiche Teams
+## Notifiche Teams
 Non bastassero telefono ed email, **anche nel mondo business si è normalizzato l'uso delle chat**, addirittura viene _imposto_ l'uso di Teams in quanto strumento aziendale ufficiale per la comunicazione veloce.  
 Quindi ti devi cuccare la tua dose di distrazione, produttività ridotta e aumento di stress _per policy_.  
 
@@ -95,14 +97,14 @@ Quanto sopra vale anche per **Whatsapp Business** sul telefono aziendale: notifi
 
 
 
-# Un'ora prima di dormire
+## Un'ora prima di dormire
 Imposta i tuoi dispositivi in modo che, 60-90 minuti prima di quando mediamente vai a dormire la sera, si attivino automaticamente 2 opzioni:  
 1. **"Non disturbare"** per tagliare le notifiche inutili (ammesso che serva ancora, dovresti averle già quasi tutte disattivate, vedi sopra). Configura la funzione in modo che i contatti della tua rubrica (o almeno i tuoi familiari) possano comunque chiamarti per le urgenze, e che le notifiche critiche (es. quelle dell'antifurto) funzionino ugualmente.  
 1. **"Modalità riposo"** o qualunque nome abbia nel tuo dispositivo, è quella che toglie i colori dallo schermo che diventa in bianco e nero: questo fa bene già di per sé secondo alcuni studi (tipo [questo](https://www.medicinalmedia.com/explore/set-your-phone-to-grayscale)), e inoltre ti serve come "promemoria gentile" che è ora di mettere giù il telefono perché tra un'ora andrai a dormire, ci sono studi (tipo [questo](https://www.sciencedaily.com/releases/2014/12/141222131348.htm)) che parlano di questa come buona abitudine per migliorare la qualità del sonno.
 
 
 
-# Modalità notte
+## Modalità notte
 Sia su Android che su Windows, c'è la modalità "Luce notturna", "Modalità lettura", "Luminosità notte" o come la chiama il tuo dispositivo - è quella funzione che **riduce l'emissione di luce blu** dello schermo, rendendo quindi tutto più giallino.  
 
 Il mondo scientifico ha **opinioni contrastanti su questo tema**: c'è chi dice che ridurla faccia bene al ritmo sonno-veglia, c'è chi dice che il contributo di questa scelta è irrilevante; in attesa che esca qualche conclusione più solida, possiamo attivarla con pianificazione automatica dal tramonto all'alba, di certo male non fa, e potresti percepire anche un blando effetto rilassante nell'uso dello schermo.  
@@ -114,7 +116,7 @@ Il fastidio causato dalla dominante gialla è quasi irrilevante dopo i primi 10 
 # Voglio leggere di più
 Il tempo che ho tolto ai social lo sto dedicando alla lettura.  
 
-"Leggere fa bene" lo sapeva anche mia nonna, ma io apprezzo un approccio un pelino più solido e meno soggetto a bias cognitivi.  
+"Leggere fa bene" lo dicevano anche i nonni, ma io apprezzo un approccio un pelino più solido:  
 
 In [questo articolo su MedicalNewsToday](https://www.medicalnewstoday.com/articles/313429) sono citati 11 studi che affermano:  
 - leggere anche solo 6 minuti al giorno può ridurre lo stress fino al 68%, a volte più di ascoltare musica o fare una passeggiata
@@ -125,7 +127,7 @@ In [questo articolo su MedicalNewsToday](https://www.medicalnewstoday.com/articl
 
 [Questa revisione sistematica di 43 studi](https://pubmed.ncbi.nlm.nih.gov/41321266/) conclude che la lettura migliora positività, comprensione di sé, empatia, autoefficacia, intelligenza emotiva e connessione.
 
-E poi ci sono io, che penso alle 5000+ ore che ho dedicato ai social fino ad oggi (stimando solo 1h/giorno di utilizzo, quindi il totale è _pesantemente sottodimensionato_), poi penso alle 100-200 ore di studio necessarie a preparare un esame universitario, poi penso alla seconda laurea alla quale ho rinunciato per guardare i post degli altri, poi mi offendo con violenza e bestemmio forte forte.
+E poi ci sono io, che penso alle 5000+ ore che ho dedicato ai social fino ad oggi (stimando solo 1h/giorno di utilizzo, quindi il totale è _pesantemente sottodimensionato_), poi penso alle 100-200 ore di studio necessarie a preparare un esame universitario, poi penso alla seconda laurea alla quale ho inconsapevolmente rinunciato per guardare i post degli altri, poi mi offendo con violenza e bestemmio forte forte.
 
 
 
