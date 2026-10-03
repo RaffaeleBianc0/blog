@@ -67,6 +67,14 @@ In alternativa, rinunciando alla lettura su app Readest, la sincronizzazione tra
 [Hardcover](https://hardcover.app/@raffaelebianco) è una specie di "social per lettori", dove condividere quello che si sta leggendo e scoprire nuovi libri. Si può usare gratuitamente, oppure si può diventare Supporter per ottenere statistiche di lettura più avanzate.
 Il [plugin per Hardcover.app](https://github.com/Billiam/hardcoverapp.koplugin) consente la sincronizzazione automatica dei libri letti e del relativo progresso di lettura sul proprio account.
 
+
+
+## AI Assistant
+[AI Assistant](https://github.com/omer-faruq/assistant.koplugin) consente di interagire con le AI partendo dal testo selezionato o dal libro.  
+Per esempio puoi ottenere il riassunto del libro fino al punto dove sei arrivato, un recap sui personaggi, luoghi, eventi, argomenti finora incontrati nella lettura, traduzioni, riassunto di tutti gli highlights che hai creato nel libro, e tante altre cose... davvero potente.
+
+
+
 ## SleepRibbon
 ![](images/sleepribbon.png)
 [SleepRibbon](https://github.com/araponga321/sleepribbon.koplugin) consente di stampare informazioni sull'avanzamento della lettura in sovrimpressione sulla copertina del libro durante lo standby del dispositivo. Per i più meticolosi, è possibile personalizzare il ribbon su ciascun libro, per rispettare font colori impaginazione e "annegare" così il ribbon nella grafica originale.
