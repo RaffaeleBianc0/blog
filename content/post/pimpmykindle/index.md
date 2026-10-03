@@ -67,11 +67,11 @@ In alternativa, rinunciando alla lettura su app Readest, la sincronizzazione tra
 [Hardcover](https://hardcover.app/@raffaelebianco) è una specie di "social per lettori", dove condividere quello che si sta leggendo e scoprire nuovi libri. Si può usare gratuitamente, oppure si può diventare Supporter per ottenere statistiche di lettura più avanzate.
 Il [plugin per Hardcover.app](https://github.com/Billiam/hardcoverapp.koplugin) consente la sincronizzazione automatica dei libri letti e del relativo progresso di lettura sul proprio account.
 
-
-
 ## AI Assistant
 [AI Assistant](https://github.com/omer-faruq/assistant.koplugin) consente di interagire con le AI partendo dal testo selezionato o dal libro.  
-Per esempio puoi ottenere il riassunto del libro fino al punto dove sei arrivato, un recap sui personaggi, luoghi, eventi, argomenti finora incontrati nella lettura, traduzioni, riassunto di tutti gli highlights che hai creato nel libro, e tante altre cose... davvero potente.
+Per esempio puoi ottenere il riassunto del libro fino al punto dove sei arrivato, un recap sui personaggi, luoghi, eventi, argomenti finora incontrati nella lettura, traduzioni, riassunto di tutti gli highlights che hai creato nel libro, e tante altre cose... davvero potente.  
+La configurazione non è immediata, ma seguendo le istruzioni nel repo GitHub non si sbaglia.  
+Come provider per fare le prime prove suggerisco [OpenRouter](https://openrouter.ai/) che regala interazioni gratuite quotidiane senza dover pagare. Anche Google Gemini consente qualche prova ma il credito free mi pare si esaurisca molto presto. 
 
 
 
