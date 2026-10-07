@@ -1,8 +1,8 @@
 ---
 title: "Come ho scelto i miei ETF"
 description: "Rapido vademecum per muoversi in JustETF"
-date: "2026-08-23"
-lastmod: '2026-08-23'
+date: "2026-10-04"
+lastmod: '2026-10-04'
 categories: 
   - "finanza personale"
 image: "images/cover.jpg"
@@ -11,12 +11,12 @@ draft: true
 
 Quando ho deciso che gli ETF erano per me gli strumenti giusti per investire qualche risparmio, e dopo aver deciso l'allocazione, è stato il momento di scegliere _quali_ ETF acquistare.
 
-Voglio spendere qualche riga qui su questo tema, perché ne ho parlato con più di qualche amico, e magari un vademecum pratico può far comodo.
+Voglio spendere qualche riga qui su questo tema, perché ne ho parlato con più di qualche persona, e magari un mini-vademecum pratico può far comodo.
 
-Immagina di aver calcolato/deciso che nella tua asset allocation ci sta un **ETF azionario globale** (... "immagina" per modo di dire, è probabilmente vero per la gran maggioranza di chi investe con orizzonte lungo).  
-Solo per questa classe, ci sono almeno 5 indici, ognuno tracciato da almeno 1 ETF, ma spesso 5-6.  
-Metti che siano 5 ETF su ciascuno dei 5 indici = 25 ETF azionari globali diversi, ma che si muovono praticamente all'unisono (dato che tracciano lo stesso mercato).  
-**Quale scegli?**
+Immagina di aver calcolato/deciso che nella tua asset allocation ci sta un **ETF azionario globale** (... _"immagina"_ per modo di dire, è probabilmente vero per la gran maggioranza di chi investe con orizzonte lungo).  
+Solo per questa classe, ci sono almeno 5 indici, ognuno tracciato da più di un ETF.  
+Metti che siano 4 ETF su ciascuno dei 5 indici = 20 ETF azionari globali diversi, ma che si muovono praticamente all'unisono (dato che tracciano lo stesso mercato).  
+**Quale scegli? E perché?**
 
 Di seguito descrivo come ho fatto io a scegliere per me stesso, quindi vale ovviamente il solito disclaimer che trovi in fondo alla pagina.  
 
@@ -25,10 +25,12 @@ Suggerisco caldamente l'uso da computer, perché nella versione mobile mancano a
 
 Questi sono i filtri che applico:
 1. PAC gratuito su Directa, perché non voglio pagare commissioni che, su importi di acquisto piccoli come i miei, inciderebbero un po' troppo.
-1. Accumulazione, perché per me gli ETF a distribuzione non hanno senso.
+1. Accumulazione, perché per me gli ETF a distribuzione non hanno senso durante la fase di accumulo.
 1. AuM di almeno 500mln, perché presumo che un ETF più grosso abbia meno probabilità di essere chiuso.
 1. Ordinamento per TER, perché voglio minimizzare i costi.
-1. Se, con questi filtri, ho più prodotti che si assomigliano, allora tendo a preferire quelli di una società emittente diversa dalle altre che ho a portafoglio, che un po' di diversificazione in più non guasta mai.
+1. Se, con questi filtri, ho più prodotti a parimerito o quasi, allora tendo a preferire quelli di una società emittente diversa dalle altre che ho a portafoglio, che un po' di diversificazione in più non guasta mai.
+
+
 
 ---
 

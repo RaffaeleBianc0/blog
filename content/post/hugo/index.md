@@ -2,7 +2,7 @@
 title: "Hugo"
 description: "No, non l'aperitivo altoatesino"
 date: "2024-02-09"
-lastmod: '2025-11-22'
+lastmod: '2026-10-04'
 categories: 
   - "tecnologia"
 image: "images/hugo-logo.png"
@@ -16,7 +16,7 @@ In questo post ti racconto della ristrutturazione di questo blog nella forma att
 
 Fino al 2024 questo blog era hostato su [Wordpress.com](http://Wordpress.com), ne parlo nella [storia di questo sito](/blog/p/storia-di-questo-sito-web/#2015-blog-su-wordpress).
 
-A inizio 2024 ho scoperto dell'esistenza degli [SSG](https://en.wikipedia.org/wiki/Static_site_generator) (_Static Site Generators_), software che trasformano contenuti scritti in [Markdown](https://en.wikipedia.org/wiki/Markdown) in siti web veloci e con le funzionalità che servono ad un blog.  
+A inizio 2024 ho scoperto dell'esistenza degli [SSG _(Static Site Generators)_](https://en.wikipedia.org/wiki/Static_site_generator), software che trasformano contenuti scritti in [Markdown](https://en.wikipedia.org/wiki/Markdown) in siti web veloci e con le funzionalità che servono ad un blog.  
 E io che pensavo che i siti web statici fossero praticamente spariti!
 
 Ci ho messo un po' di giorni a capire quale dei tanti SSG esistenti fosse quello su cui puntare, cioè quello aggiornato recentemente e regolarmente, e con una user-base la più estesa possibile per chiedere aiuto nel caso servisse.  
@@ -35,22 +35,20 @@ Ho trasformato il mio blog da Wordpress a Hugo per questi motivi.
 
 ## Pubblicità
 
-Prima di tutto, **sbarazzarmi della pubblicità**.
-
 **L'economia dell'attenzione, la pubblicità ovunque e la profilazione costante sono il cancro che ha corrotto Internet**.  
 Liberarmi di questo almeno nelle _mie_ pagine è stato il motivo numero 1 per la transizione a Hugo.
 
-Questo è un piccolo blog, e non mi serve chissà quale servizio per ospitarlo, basta il minimo, e il minimo quando si tratta di Wordpress significa Wordpress.com, che per offrire il suo servizio gratuito infarcisce di stramaledetta pubblicità ogni pagina di quello che scrivi.
+Questo è un piccolo blog, non mi serve chissà quale servizio per ospitarlo, basta il minimo, e il minimo quando si tratta di Wordpress significa Wordpress.com, che per offrire il suo servizio gratuito iniettava banner pubblicitari a casaccio in mezzo a quello che scrivo.
 
 
 
 ## Performance
 
 Il motivo numero 2 sono le performance: **le pagine statiche generate da Hugo si caricano in un istante**, e va tutto veloce.  
-Wordpress invece, che è un sistema super articolato per gestire siti dinamici, ad ogni click va ad interrogare un database e a costruire la pagina dinamicamente, e ci mette del tempo, lo senti quando fai click, e dopo tre click sei già nervosetto.  
+Wordpress invece, che è un sistema super articolato per gestire siti dinamici, ad ogni click va ad interrogare un database e a costruire la pagina in tempo reale, e ci mette del tempo, lo senti quando fai click, e dopo tre click sei già nervosetto.  
 
 I contenuti di questo blog li pubblico solo io e sono statici, cioè non cambiano fino alla prossima pubblicazione, quindi non mi serve un database sotto né potenza di elaborazione lato hosting per generare le pagine da zero ogni volta che il lettore clicca un link.  
-Il 1996 è passato da un pezzo, oggi non è ammissibile dover *aspettare* per caricare una banale pagina web con testo e un paio di immagini.
+Il 1996 è passato da un pezzo, oggi non è tollerabile dover *aspettare* il caricamento di semplici pagine web con dentro del testo e un paio di immagini.
 
 
 
@@ -68,7 +66,7 @@ La scelta più sicura è sbarazzarsi di quelle dipendenze, e un sito statico mi 
 Poi avevo voglia di editare i miei contenuti scrivendoli in Markdown dentro a [VS Code](https://code.visualstudio.com), ma potenzialmente anche con un qualunque editor di testo leggero da usare nel mio vetusto [IBM Thinkpad X60]({{< ref "pc-maggiorenne.md" >}}).
 
 **Scrivere in Markdown usando un editor di testo**, invece che scrivere direttamente in un editor [WYSIWYG](https://it.wikipedia.org/wiki/WYSIWYG) come quello di Wordpress, è un'esperienza particolare.  
-L'editor di testo, senza troppi pulsanti e menu, con la font a spaziatura fissa, senza automatismi, correzioni automatiche, stili, e tutte le altre cose che fanno parte della stesura di testi al computer, è un po' come **la versione moderna della macchina da scrivere**: tiene l'occhio e la mente libera da distrazioni, e finisce che **scrivo con più gusto**.
+L'editor di testo, senza troppi pulsanti e menu, con la font a spaziatura fissa, senza automatismi, correzioni ortografiche, stili, e tutte le altre cose che fanno parte della stesura di testi al computer, è un po' come **la versione moderna della macchina da scrivere**: tiene l'occhio e la mente libera da distrazioni, e finisce che **scrivo con più gusto**.
 
 Il Markdown lo stavo già usando da un bel po', sia per rendere un po' più strutturati i piccoli file di testo sparsi ovunque quando si lavora con i computer, sia soprattutto nell'uso quotidiano di [Obsidian](http://obsidian.md) che accompagna la mia vita lavorativa degli ultimi anni.
 
@@ -99,8 +97,8 @@ Lo script si è preoccupato anche di fare il download delle immagini dal mio blo
 
 Ho scelto un [tema per Hugo](https://themes.gohugo.io) che mi piaceva ([Stack](https://github.com/CaiJimmy/hugo-theme-stack)), perché ha una estetica ariosa che mi comunica semplicità, e una serie di caratteristiche e di funzionalità che cercavo:
 
-* **colonne fisse ai lati**, nella versione desktop (menu a sinistra, e widget a destra: quasi tutti i display dei PC sono 16:9, e tutto quello spazio ai lati del testo _deve_ essere utilizzato, dal mio punto di vista)
-* **layout responsive**, che su schermi più piccoli toglie i widget e sposta menu e ToC su pulsanti poco invasivi
+* **colonne fisse ai lati** nella versione desktop (menu a sinistra, e widget a destra: quasi tutti i display dei PC sono 16:9, e tutto quello spazio ai lati del testo _deve_ essere utilizzato, dal mio punto di vista)
+* **layout responsive**, che su schermi più piccoli toglie i widget e sposta il menu e ToC su pulsanti poco invasivi
 * **categorie** personalizzabili (supporta anche i **tag**, ma non li uso per mantenere tutto più snello)
 * **ToC** (Table of Contents) con evidenziatura dinamica del paragrafo visualizzato
 * **ricerca** sui contenuti dell'intero blog
@@ -125,12 +123,12 @@ Dopo poco tempo però scopro il metodo che sto usando adesso, che aggiunge a tut
 
 1. Modifico i miei file Markdown in locale usando VS Code, che è già il mio editor di testo preferito praticamente da quando è stato rilasciato nel 2015.  
 
-1. Con l'integrazione [GitHub](https://github.com/RaffaeleBianc0) installata in VS Code, con un click faccio l'**upload dei file nuovi e modificati nel mio repository privato su GitHub**, che significa ottenere in automatico questi vantaggi:
+1. Con l'integrazione [GitHub](https://github.com/RaffaeleBianc0) installata in VS Code, con un click faccio l'**upload dei file nuovi e modificati nel mio repository "blog" su GitHub**, che significa ottenere in automatico questi vantaggi:
     * **backup** online di tutti i file sorgente del blog
     * **versionamento** di ogni file (posso tornare indietro nella storia se qualcosa non mi piace o si rompe)
-    * **editor VS Code online** per modificare i miei file da qualunque dispositivo e aggiornare così il blog anche quando non ho il mio PC: basta accedere al repo GitHub, premere il punto {{< tasto "." >}} sulla tastiera, e praticamente ho lo stesso ambiente VSCode che ho sul PC di casa, che punta direttamente alla stessa struttura di cartelle e che ha già le mie impostazioni abituali perché sono sincronizzate... spettacolare! Poi quando torno al mio PC basta 1 click nell'estensione GitHub di VSCode, e le modifiche si sincronizzano in locale.
+    * **editor VS Code online** per modificare i miei file da qualunque dispositivo e aggiornare così il blog anche quando non ho il mio PC: basta accedere al repo GitHub, premere il punto {{< tasto "." >}} sulla tastiera, e succede la magia! Si apre nel browser lo stesso ambiente VSCode che ho sul PC di casa, che punta direttamente alla stessa struttura di cartelle e che ha già le mie impostazioni abituali perché sono sincronizzate... è la perfezione! Poi quando torno al mio PC basta letteralmente 1 click nell'estensione GitHub di VSCode per fare il _pull_ di tutte le cose modificate online e allineare tutto.
 
-1. Una [**GitHub Action**](https://github.com/features/actions) fa la magia ogni volta che il mio repository "sente" una modifica, e automaticamente fa queste cose in background in un paio di minuti:
+1. Una [**GitHub Action**](https://github.com/features/actions) fa un'altra magia ogni volta che il mio repository "sente" una modifica, perché succedono automaticamente queste cose in background:
     * installa l'ultima versione di Hugo in una VM di GitHub
     * ricompila in quella VM il blog
     * dei file ottenuti, fa l'upload sul mio FTP solo di quelli aggiunti e modificati (questo modulo ogni tanto dà errore, ma amen, di solito al prossimo sync funziona)  
@@ -177,7 +175,7 @@ jobs:
 
 ## Hack
 
-Cercando il modo di avere la ToC anche nella versione mobile del blog (che di default è assente nel tema Stack), ho poi trovato alcune informazioni per applicare sia quella che altre modifiche interessanti al tema, in questi blog:
+Cercando il modo di avere la ToC anche nella versione mobile del blog (che di default era assente nel tema Stack fino ad una certa versione), ho poi trovato alcune informazioni per applicare sia quella che altre modifiche interessanti al tema, in questi blog:
 - [MomentoDiMezzo.com](https://momentodimezzo.com/en/p/blog-customization)
 - [LucasLifes.com](https://blog.lucaslifes.com/categories/hugo-blog/)
 
