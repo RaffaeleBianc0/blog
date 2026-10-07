@@ -2,7 +2,7 @@
 title: "Il disco USB definitivo"
 description: "ISO avviabili multiple, Windows To Go, rescue-disk, PortableApps, Linux live superleggeri, storage veloce e criptato... serve altro?"
 date: "2026-08-19"
-lastmod: '2026-08-20'
+lastmod: '2026-10-04'
 categories: 
   - "tecnologia"
 image: "images/golden.jpg"
@@ -15,18 +15,18 @@ Queste sono le funzionalità presenti:
 - spazio di **storage**, ovviamente
 - cartella **PortableApps** farcita di programmi che uso regolarmente sul PC, tutti in versione portable così da essere eseguiti ovunque senza doverli installare
 - possibilità di fare il boot del computer da questo disco USB, e selezionare una di queste opzioni:
-  - ISO di **installazione Win10+11+2022+2025**, aggiornate e soprattutto patchate in modo da saltare i requisiti di Win11, le fastidiose domande sulla profilazione, e l'obbligo di usare un account Microsoft: queste ISO servono sia per installare Windows da zero su un PC, sia per aggiornare una installazione esistente
-  - ISO di un **rescue-disk** pieno di tool per provare a recuperare i dati da un PC che non si avvia
-  - ISO di antiX e Puppy, 2 **distribuzioni Linux light** da usare/installare su PC molto vecchi
-  - VHDX (disco virtuale) Windows To Go, cioè una **installazione portatile di Win10**, che mi è stata preziosa per far funzionare un vecchio dispositivo di acquisizione video incompatibile con Win11, senza costringermi a installare Win10 nel disco principale del PC
+  - **installazione Win10+11+2022+2025**, grazie a ISO aggiornate e soprattutto patchate in modo da saltare i requisiti di Win11, le fastidiose domande sulla profilazione, e l'obbligo di usare un account Microsoft; queste ISO servono sia per installare Windows da zero su un PC, sia per aggiornare una installazione esistente
+  - **rescue-disk**, cioè ISO bootable piena di tool per provare a recuperare i dati da un PC che non si avvia
+  - antiX e Puppy, 2 **distribuzioni Linux light** da usare live oppure da installare su PC molto vecchi
+  - Windows To Go, cioè una **installazione portatile di Win10** fatta in un file VHDX (hard-disk virtuale), che mi è stata preziosa per far funzionare un vecchio dispositivo di acquisizione video incompatibile con Win11, senza costringermi a installare Win10 nel disco principale del PC
 
-Se il disco è sufficientemente capiente, è possibile partizionarlo e criptare la partizione "storage" (per esempio con Bitlocker), così da aggiungere alle funzionalità elencate sopra anche la **cifratura dei dati archiviati**.
+Se il disco è sufficientemente capiente, è possibile partizionarlo e criptare la partizione "storage" (per esempio con Bitlocker o con VeraCrypt), così da aggiungere alle funzionalità elencate sopra anche la **cifratura dei dati archiviati**.
 
 Credo che questo ventaglio copra tutte le esigenze che ho avuto usando dischi e chiavette usb negli ultimi 30+ anni.
 
 Come caratteristiche fisiche, la mia scelta è stata:
-- ssd NVMe PCIe 4.0 per la **massima velocità** e **durata più elevata** rispetto alle normali chiavette, anche se un po' più ingombrante (diciamo che non posso più usare l'unità come portachiavi, ma in tasca ci sta ancora)
-- box esterno in metallo, per la **massima resistenza meccanica** (che se lo porti in tasca può tornare utile) e **dissipazione del calore** che i dischi veloci producono in abbondanza sotto stress
+- ssd NVMe PCIe 4.0 per la **massima velocità** e **durata più elevata** rispetto alle normali chiavette, anche se un po' più ingombrante (diciamo che non posso più usare l'unità come portachiavi, ma in tasca ci sta ancora comodamente)
+- box esterno in metallo, per la **massima resistenza meccanica** (che è sempre preziosa, specie se lo metti in tasca) e **dissipazione del calore** che i dischi veloci producono in abbondanza
 - interfaccia e cavetto USB-C per le **massime prestazioni** e **compatibilità universale** (basta un adattatore da 2 euro per usarlo sulle vecchie porte USB-A)
 
 Per arrivare a questo risultato ci sono un po' di cose da procurare e da fare.
@@ -37,22 +37,22 @@ Per arrivare a questo risultato ci sono un po' di cose da procurare e da fare.
   - Alternativa più lenta ma più economica: disco SATA + box SATA (magari hai già da parte una di queste unità recuperata da un PC un po' più vecchio)
   - Alternativa più lenta ma più compatta: chiavetta usb veloce
 
-- [Ventoy](https://www.ventoy.net), che consente il multi-boot da qualsiasi file ISO/VHDX presente nel disco
+- [Ventoy](https://www.ventoy.net), che consente il multi-boot da file ISO/VHDX presenti nel disco
 
 - [Rufus](https://rufus.ie): servirà per creare l'installazione Windows To Go
 
 - [PortableApps.com](https://portableapps.com) + la tua selezione di app (facilmente scaricabili dall'interfaccia del PortableApps Launcher)
 
-- ISO di uno o più *rescue-disk* (es. [Hiren's BootCD](https://www.hirensbootcd.org), ma ce ne sono vari online)
+- ISO di almeno un *rescue-disk* (es. [Hiren's BootCD](https://www.hirensbootcd.org), ma ce ne sono vari online)
 
 - ISO di installazione Windows (scaricabili per es. da [UUP dump](https://uupdump.net/) oppure da [massgrave.dev](https://massgrave.dev/genuine-installation-media))
 
-- ISO bootable a piacere (es. distribuzioni Linux, io ci ho messo [Puppy](https://puppylinux-woof-ce.github.io/) e [antiX](https://antixlinux.com/) perché mi capita di usare Linux soprattutto per resuscitare PC obsoleti, ma recentemente ho messo in funzione un mini-pc per casa installandoci [Debian](https://www.debian.org)... dipende da cosa ti serve insomma)
+- ISO bootable a piacere (es. distribuzioni Linux, io ci ho messo [Puppy](https://puppylinux-woof-ce.github.io/) e [antiX](https://antixlinux.com/) perché mi capita di usare Linux soprattutto per resuscitare PC obsoleti, ma recentemente ho messo in funzione un mini-pc per casa installandoci [Debian](https://www.debian.org)... dipende da cosa ti può servire)
 
 
 
 # Procedura
-Intanto scrivo i passaggi come me li sono appuntati; poi un giorno se ne avrò voglia aggiungerò dettagli e screenshot.
+Intanto scrivo i passaggi come me li sono appuntati; poi se avrò voglia o richieste aggiungerò dettagli e screenshot.
 
 1. Attivare Hyper-V in Windows (se hai Windows Home, allora cerca online la procedura applicabile tramite comandi Powershell)  
 
@@ -68,4 +68,4 @@ Intanto scrivo i passaggi come me li sono appuntati; poi un giorno se ne avrò v
 
 1. Hyper-V > nuova VM, che monti il file VHDX come disco, e avviarla > completare la procedura di primo avvio Windows, opzionalmente installare i software che servono nell'ambiente Windows To Go, e chiudere la sessione arrestando Windows e attendendo che la VM si spenga regolarmente.  
 
-1. Copiare il VHDX nell'SSD Ventoy, insieme ad eventuali altri file ISO.  
+1. Copiare il VHDX nell'SSD Ventoy, insieme ad eventuali altri file ISO e PortableApps.  
