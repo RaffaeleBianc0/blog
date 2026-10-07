@@ -2,7 +2,7 @@
 title: "Digital detox"
 description: "Trucchetti per degustare la modernità invece di abbuffarsi"
 date: "2026-09-10"
-lastmod: '2026-09-12'
+lastmod: '2026-10-04'
 categories: 
   - "tecnologia"
 image: "images/cover.jpg"
@@ -17,19 +17,20 @@ E siccome **queste scelte mi fanno stare bene**, mi va di scriverne.
 
 # Cronaca
 
-**Sguazzo nel digitale dagli anni '80** con gusto, da bambino con orologi Casio e videogame, dai '90 anche per studio e passione, e poi nel nuovo millennio per _tutto quanto_, studio lavoro casa salute hobby, direi che **sono promotore assoluto del digitale ovunque possibile**, per gli ovvi vantaggi che sono sotto agli occhi di tutti: è più comodo, è più versatile, e più sicuro in quasi tutte le applicazioni rispetto al corrispettivo analogico.  
+**Sguazzo nel digitale dagli anni '80** con gusto, da quando ero un bambino innamorato di orologi Casio, videogame, Supercar e Automan, dai '90 anche per studio e passione, e poi nel nuovo millennio per _tutto quanto_, studio lavoro casa salute hobby.  
+Direi che **sono promotore assoluto del digitale ovunque possibile**, per gli ovvi vantaggi che sono sotto agli occhi di tutti: è più comodo, più versatile, e più sicuro (se pratichi una normale [igiene digitale]({{< ref "igiene-digitale.md" >}})) in quasi tutte le applicazioni rispetto al corrispettivo analogico.  
 
-**Questo quadretto roseo ha mostrato le prime crepe** negli ultimi anni, osservando con un minimo di attenzione in più tanti fenomeni che vediamo tutti: i contenuti nei social tra narcisismi senza valore e sfoghi di analfabetismo funzionale, le pubblicità spinte dalle piattaforme prima durante e dopo qualunque contenuto anche quando paghi un abbonamento, l'influencer marketing, le tavolate di adolescenti in pizzeria ciascuno in silenzio sul proprio smartphone, le persone con cui sto chiacchierando che guardano lo smartwatch e poi il telefono perché è arrivata una notifica, stanno con gli occhi sul telefono mentre continuo a parlargli e perdono il filo...  
+**Questo quadretto roseo ha mostrato le prime crepe** negli ultimi anni, osservando e riflettendo su tanti fenomeni che vediamo tutti: i contenuti nei social tra narcisismi senza valore e sfoghi di analfabetismo funzionale, le pubblicità spinte dalle piattaforme prima durante e dopo qualunque contenuto anche quando paghi un abbonamento, il tumore che è l'influencer marketing, le tavolate di adolescenti in pizzeria ciascuno in silenzio sul proprio smartphone, le persone con cui sto chiacchierando che guardano lo smartwatch e poi il telefono perché è arrivata una notifica, stanno con gli occhi sul telefono mentre continuo a parlargli e perdono il filo...  
 
 ... ma soprattutto riflettendo su me stesso, sul **tempo che ho dedicato ai social quasi ogni giorno** da quando ho uno smartphone, quello che vedi nel menu "Benessere digitale", quello che ti sembra non essere un vero problema o addirittura di averne il controllo, _"smetto quando voglio"_ (cit.), e a fine giornata hai dedicato (quando va bene) un'oretta o una e mezza nei social, quasi ogni giorno negli ultimi boh 10-15 anni, **migliaia di ore** delle quali ti resta una manciata di reel visti ieri per poter dire al caffè coi colleghi "ah sì l'avevo visto haha troppo ridere". _Wow, l'evoluzione._  
 
-Con questi pensieri sempre più nitidi, frequenti, e numerosi, piano piano si è sviluppata una voglia di reagire per **recuperare un po' di intenzionalità** nell'uso di queste tecnologie invece di cedere continuamente all'algoritmo.  
-Ma l'inerzia è stata gigantesca, 'sto "algoritmo" è proprio fatto bene, quindi non ho fatto nulla per anni, un po' come l'attività fisica, "dovrei farlo" ma niente.  
+Con questi pensieri sempre più nitidi, frequenti, numerosi, piano piano si è sviluppata una voglia di reagire per **recuperare un po' di intenzionalità** nell'uso di queste tecnologie invece di cedere continuamente all'algoritmo.  
+L'inerzia è stata gigantesca, 'sto "algoritmo" è proprio fatto bene, quindi non ho fatto nulla per anni, un po' come l'attività fisica, "dovrei farlo" ma niente.  
 
-**Fino a quando lo ho fatto** in un momento a caso, senza premeditazione, durante il solito doom-scrolling su Facebook: chiudo la app, long-tap > Disinstalla > Sei sicuro? > Conferma e via. Andata.  
-Qualche secondo di sensazione mista sorpresa/sollievo, e poi... ormai che ci sono... _all-in_, stessa procedura con Instagram e con Linkedin. Via tutto. Totale: 30 secondi. _"Tanto alla peggio le re-installo"_.  
+**Fino a quando lo ho fatto** in un momento a caso, senza premeditazione, durante il solito doom-scrolling su Facebook: chiudo la app, long-tap > Disinstalla > Sei sicuro? > confermo e via. Andata.  
+Qualche secondo quasi di sorpresa, _"beh? lo ho fatto!"_, e poi... ormai che ci sono, _all-in_, stessa procedura con Instagram e con Linkedin. Via tutto. Totale: 30 secondi. _"Tanto alla peggio le re-installo"_.  
 
-Da quel giorno uso i social una frazione del tempo rispetto a prima, ho ricominciato a leggere, scrivo di più, e guardo tante, tantissime puttanate in meno online.  
+Da quel giorno uso i social una frazione del tempo rispetto a prima, ho ricominciato a leggere, scrivo di più, e guardo tante puttanate in meno online.  
 Non ho smesso del tutto, sia chiaro, mica sono un eremita digitale, ogni tanto una sbirciata tramite browser ci sta, ma mi sembra di **avere maggior controllo e consapevolezza**, mettiamola così.  
 
 Durerà? E chi lo sa? Io sono già contento, di solito non consigliano questo tipo di approccio radicale e suggeriscono di fare un percorso di disintossicazione progressiva perché sia più sostenibile nel lungo periodo... non so, per ora sto benone e **non sento nessun bisogno di re-installare quelle app**.
@@ -47,22 +48,22 @@ Questa è la cosa più banale di tutte, che ha un impatto minuscolo ma moltiplic
 Nel telefono da parecchi anni **ho disattivato quasi tutte le notifiche** - news, email, gruppi Whatsapp, gruppi Teams, browser, videogames, e soprattutto di tutti i social.  
 Non serve fare tutto in un colpo solo, basta farlo man mano che le ricevi dalle varie app: tieni il dito sulla prossima notifica molesta, selezioni "Disattiva", "Silenzia" o simile, ed è fatta. Tempo 3 secondi.
 
-Mantengo attive le notifiche che sono sinceramente **urgenti ed importanti**:
+Mantengo attive le notifiche che possono essere sinceramente **urgenti o importanti**:
 * quelle che servono ad **interagire subito con le persone** (chiamate, SMS, Whatsapp, Telegram, Messenger e simili);
 * quelle dei **servizi critici** che richiedono attenzione immediata (es. calendario, antifurto, pagamenti).    
 
-Per tutto il resto, quando hai tempo/voglia/bisogno di accedere lo fai di tua iniziativa: **decidi tu quando, non il tuo telefono**. Questo è il punto.  
-E se aprirai quella app tra qualche ora invece di "subito", sai già che non cambierà assolutamente nulla, perché **le notifiche per cose che non sono né urgenti né importanti ti fanno solo perdere tempo**, 1-5 secondi ciascuna più un altro minuto come minimo per riprendere il filo di quello che stavi facendo, moltiplica per ogni volta che sblocchi il telefono (lo scopri dalla funzione "Benessere digitale", io oggi sono a 35 volte a fine pomeriggio) e capisci che minimo minimo mezz'ora al giorno la dedicavi al telefono _senza che servisse_ e _senza averlo deciso tu_.  
+Per tutto il resto, quando hai tempo/voglia/bisogno di accedere lo fai di tua iniziativa: **decidi tu quando, non il tuo telefono**. Il punto è proprio questo.  
+Se aprirai quella app tra qualche ora invece di "subito", sai già che non cambierà assolutamente nulla, perché **le notifiche per cose che non sono né urgenti né importanti ti fanno solo perdere tempo**, 1-5 secondi ciascuna più un altro minuto come minimo per riprendere il filo di quello che stavi facendo, moltiplica per ogni volta che sblocchi il telefono (lo scopri dalla funzione "Benessere digitale", io oggi sono a 35 volte a fine pomeriggio, ma è facile superare il centinaio prima di sera) e capisci che minimo minimo mezz'ora al giorno la dedicavi al telefono _senza che servisse_ e _senza averlo deciso tu_.  
 
 
 
 ## App social
 Come ho raccontato sopra, ho disinstallato tutte le app dei social, in pochi secondi.  
-Non è necessario per forza sospendere/cancellare i rispettivi account.  
-**Puoi accedere agli stessi social usando il browser**, sia su PC che su telefono, senza che cambi granché rispetto all'uso delle app.
+Non ho cancellato i miei account.  
+**Accedo agli stessi social usando il browser**, sia su PC che su telefono, senza che cambi granché rispetto all'uso delle app.
 
-I vantaggi che ho sperimentato sono questi:
-1. **Meno uso compulsivo**: questa è la cosa più importante. Il solo attrito di dover aprire il browser e dover digitare il nome del social che vuoi consultare riduce drasticamente il numero di volte che lo farai, perché non è più un automatismo. Funziona davvero! E fa riflettere su come siamo fatti e "pilotati".
+Sembra abbastanza inutile, e invece i vantaggi che ho sperimentato sono questi:
+1. **Meno uso compulsivo**: questa è la cosa più importante. Il solo attrito di dover aprire il browser e dover digitare il nome del social che vuoi consultare riduce drasticamente il numero di volte che lo farai, perché non è più un automatismo. Funziona davvero! E fa riflettere su come siamo fatti e "pilotabili".
 1. **Zero notifiche** (questo era già vero da anni, vedi sopra - ovviamente anche tutte le notifiche di Chrome sono spente da sempre)
 1. **Più tutela dei tuoi dati** (le app raccolgono dati di profilazione anche quando non le usi)
 1. **Meno risorse impegnate** (le app consumano spazio, batteria, e banda anche mentre non le usi attivamente, per quanto poco), che su alcuni smartphone più economici o vecchiotti può essere vantaggioso.
@@ -72,10 +73,10 @@ I vantaggi che ho sperimentato sono questi:
 ## Notifiche email
 Questa è sottovalutata in ufficio invece: di default ad ogni email che arriva senti un suono (e lo sentono anche tutti i colleghi nella stessa stanza, maledizione), e con Outlook ti compare la bustina in basso a destra.  
 
-Ma **l'email non è mai stata uno strumento di comunicazione sincrono**, non serve vedere le email _appena arrivano_, non è una chat, e chiunque utilizzi lo strumento email in contrasto con questa sua natura sta semplicemente sbagliando e sta alimentando anche negli altri aspettative sbagliate, quelle per cui ti scrivono una email, poi ti mandano il messaggio su Teams "Hai letto la posta?", e se non rispondi in fretta ti chiamano e "Ciao, hai letto Teams?".  
+Ma **l'email non è mai stata uno strumento di comunicazione sincrono**, non serve vedere le email _appena arrivano_, non è una chat, e chiunque utilizzi lo strumento email in contrasto con questa sua natura sta semplicemente sbagliando e sta alimentando anche negli altri aspettative sbagliate, quelle per cui ti scrivono una email, poi ti mandano il messaggio su Teams "Hai letto la posta?", e se non rispondi in fretta ti chiamano e "Ciao, hai visto Teams?".  
 
 Quindi: **le notifiche per le nuove email vanno disattivate**, semplice.  
-E la mail si controlla ogni 1 2 4 8 24 ore, decidi tu in base al tipo di lavoro che fai.  
+E la mail si controlla ogni 1 2 4 8 24 ore, cioè anche qua _decidi tu quando_, in base al tipo di lavoro che fai.  
 
 
 
@@ -83,14 +84,14 @@ E la mail si controlla ogni 1 2 4 8 24 ore, decidi tu in base al tipo di lavoro 
 Non bastassero telefono ed email, **anche nel mondo business si è normalizzato l'uso delle chat**, addirittura viene _imposto_ l'uso di Teams in quanto strumento aziendale ufficiale per la comunicazione veloce.  
 Quindi ti devi cuccare la tua dose di distrazione, produttività ridotta e aumento di stress _per policy_.  
 
-Allo strumento molesto per sua natura si somma l'uso maleducato che ne fanno alcuni che, siccome hai scambiato due chat durante una attività con loro, da lì in avanti si sentono autorizzati a scriverti su Teams quando meglio credono, anche quando non c'è né urgenza né importanza, in barba a [Eisenhower](https://it.wikipedia.org/wiki/Gestione_del_tempo#Metodo_Eisenhower).
+Lo strumento è molesto per sua natura, ma ci sono anche alcuni clienti che, siccome usi Teams durante le attività previste con loro, da lì in avanti si sentono autorizzati a scriverti su Teams quando meglio credono, anche quando non c'è né urgenza né importanza, in barba a [Eisenhower](https://it.wikipedia.org/wiki/Gestione_del_tempo#Metodo_Eisenhower).
 
 Come tento di arginare questi problemi, non potendo tener spento Teams direttamente?  
 * Modalità **"Non disponibile"** costante, perché sto lavorando, quindi di default sono appunto non disponibile.
 * Teams sempre **iconizzato**, lo apro solo quando mi serve.
 * **Nessuna notifica pop-up** in assoluto: come distrazione è sufficiente il pallino col numeretto sull'icona.
-* Su ogni contatto di cliente, se non ci sto lavorando quel giorno, **tasto destro > "Disattiva audio"**: questo fa sì che le notifiche non escano da Teams, quindi devo aprire intenzionalmente Teams per vedere il pallino.
-* Quando un contatto scrive in occasioni "non concordate" e vedo il pallino di notifica sul suo nome, **non leggo** e quindi nemmeno rispondo: dopo max un paio di interazioni mancate il problema di solito è risolto, e in caso _"scusami ma uso Teams il minimo possibile sennò è tutta un'interruzione sai com'è, scrivimi pure email così non perdiamo traccia e appena riesco ti rispondo"_.
+* Su ogni contatto di cliente, se non ci sto lavorando quel giorno, **tasto destro > "Disattiva audio"**: questo fa sì che le notifiche non escano da Teams, quindi devo aprire intenzionalmente Teams per accorgermi che mi hanno scritto.
+* Quando un contatto scrive in occasioni "non concordate" e vedo il pallino di notifica sul suo nome, **non leggo** e quindi nemmeno rispondo: dopo max un paio di interazioni mancate il problema di solito è risolto per sempre, e in caso _"scusami ma uso Teams il minimo possibile sennò è tutta un'interruzione sai com'è, scrivimi pure email così non perdiamo traccia e appena riesco ti rispondo"_.
 * **Gruppi Teams tutti silenziati** (regola d'oro per _tutti_ i gruppi in qualunque app di messaggistica).
 
 Quanto sopra vale anche per **Whatsapp Business** sul telefono aziendale: notifiche totalmente disattivate, e apro la app solo quando serve a me oppure quando concordo questa modalità di comunicazione per una specifica attività.
@@ -99,7 +100,7 @@ Quanto sopra vale anche per **Whatsapp Business** sul telefono aziendale: notifi
 
 ## Un'ora prima di dormire
 Imposta i tuoi dispositivi in modo che, 60-90 minuti prima di quando mediamente vai a dormire la sera, si attivino automaticamente 2 opzioni:  
-1. **"Non disturbare"** per tagliare le notifiche inutili (ammesso che serva ancora, dovresti averle già quasi tutte disattivate, vedi sopra). Configura la funzione in modo che i contatti della tua rubrica (o almeno i tuoi familiari) possano comunque chiamarti per le urgenze, e che le notifiche critiche (es. quelle dell'antifurto) funzionino ugualmente.  
+1. **"Non disturbare"** per tagliare le notifiche inutili (ammesso che serva ancora, dovresti averle già quasi tutte disattivate, vedi sopra). Configura la funzione in modo da lasciar passare le cose urgenti o importanti: che i contatti della tua rubrica (o almeno i tuoi familiari e i tuoi vicini) possano comunque chiamarti per le urgenze, e che le notifiche critiche (es. quelle dell'antifurto) funzionino ugualmente.  
 1. **"Modalità riposo"** o qualunque nome abbia nel tuo dispositivo, è quella che toglie i colori dallo schermo che diventa in bianco e nero: questo fa bene già di per sé secondo alcuni studi (tipo [questo](https://www.medicinalmedia.com/explore/set-your-phone-to-grayscale)), e inoltre ti serve come "promemoria gentile" che è ora di mettere giù il telefono perché tra un'ora andrai a dormire, ci sono studi (tipo [questo](https://www.sciencedaily.com/releases/2014/12/141222131348.htm)) che parlano di questa come buona abitudine per migliorare la qualità del sonno.
 
 
@@ -107,9 +108,8 @@ Imposta i tuoi dispositivi in modo che, 60-90 minuti prima di quando mediamente 
 ## Modalità notte
 Sia su Android che su Windows, c'è la modalità "Luce notturna", "Modalità lettura", "Luminosità notte" o come la chiama il tuo dispositivo - è quella funzione che **riduce l'emissione di luce blu** dello schermo, rendendo quindi tutto più giallino.  
 
-Il mondo scientifico ha **opinioni contrastanti su questo tema**: c'è chi dice che ridurla faccia bene al ritmo sonno-veglia, c'è chi dice che il contributo di questa scelta è irrilevante; in attesa che esca qualche conclusione più solida, possiamo attivarla con pianificazione automatica dal tramonto all'alba, di certo male non fa, e potresti percepire anche un blando effetto rilassante nell'uso dello schermo.  
-
-Il fastidio causato dalla dominante gialla è quasi irrilevante dopo i primi 10 secondi, a meno che tu non faccia fotoritocco o montaggio video con quel dispositivo.  
+Il mondo scientifico ha **opinioni contrastanti su questo tema**: c'è chi dice che ridurla faccia bene al ritmo sonno-veglia, c'è chi dice che il contributo di questa scelta sia irrilevante; in attesa che esca qualche conclusione più solida, possiamo attivarla con pianificazione automatica dal tramonto all'alba, di certo male non fa, e potresti percepire anche un blando effetto rilassante nell'uso dello schermo (per me è così).  
+Il fastidio causato dalla dominante gialla è quasi irrilevante dopo i primi 10 secondi.  
 
 
 
@@ -121,31 +121,31 @@ Il tempo che ho tolto ai social lo sto dedicando alla lettura.
 In [questo articolo su MedicalNewsToday](https://www.medicalnewstoday.com/articles/313429) sono citati 11 studi che affermano:  
 - leggere anche solo 6 minuti al giorno può ridurre lo stress fino al 68%, a volte più di ascoltare musica o fare una passeggiata
 - chi legge (o fa altre attività mentalmente stimolanti) è meno incline a mostrare segnali fisici correlati a demenza ed Alzheimer
-- leggere prima di dormire può migliorare la qualità del sonno
+- leggere prima di dormire può migliorare la qualità del sonno (e negli ultimi anni la cosa sta diventando importante, per quanto mi riguarda)
 - leggere fiction potrebbe aiutare a sviluppare l'empatia verso gli altri nella vita reale
-- leggere può migliorare il vocabolario personale, fattore che è stato collegato con lo sviluppo intellettivo  
+- leggere può migliorare il vocabolario personale, fattore che è stato collegato con lo sviluppo intellettivo (vale soprattutto per i giovanissimi)  
 
 [Questa revisione sistematica di 43 studi](https://pubmed.ncbi.nlm.nih.gov/41321266/) conclude che la lettura migliora positività, comprensione di sé, empatia, autoefficacia, intelligenza emotiva e connessione.
 
-E poi ci sono io, che penso alle 5000+ ore che ho dedicato ai social fino ad oggi (stimando solo 1h/giorno di utilizzo, quindi il totale è _pesantemente sottodimensionato_), poi penso alle 100-200 ore di studio necessarie a preparare un esame universitario, poi penso alla seconda laurea alla quale ho inconsapevolmente rinunciato per guardare i post degli altri, poi mi offendo con violenza e bestemmio forte forte.
+E poi ci sono io, che penso alle 5000+ ore che ho dedicato ai social fino ad oggi (stimando solo 1h/giorno di utilizzo, quindi il totale è _pesantemente sottodimensionato_), poi penso alle 100-200 ore di studio necessarie a preparare un esame universitario, faccio due conti e in quelle 5000+ ore invece di leggere _i post degli altri_ potevo praticamente prendere una seconda laurea e forse anche una terza, poi mi offendo con violenza e bestemmio forte forte. OK che non di sole lauree vive un uomo, però cristomadò!
 
 
 
 # Idee non (ancora?) implementate
-Qualche spunto che ho letto in giro, ma che non ho ancora avuto voglia/coraggio di mettere in pratica.
+Qualche spunto che ho letto in giro, ma che non ho ancora messo in pratica.
 
 ## Acquisto di un tablet e-ink
 Sto valutando l'acquisto di un **tablet Android con schermo e-ink da 7"**, da usare in casa al posto del telefono e del mio attuale Kindle.  
 
 **Perché sì?**
-* **Aumentare il tempo dedicato alla lettura**, soprattutto di libri (ma anche di contenuti testuali in generale, come Wikipedia e Reddit)
-* **Ridurre l'uso dello smartphone**, in particolare di tutte quelle micro-interazioni istintive che non servono a nulla
-* **Ridurre l'attrattiva di reel e infinite scroll**, perché uno schermo e-ink, anche quando fosse a colori, non è mai vivido e fluido come un LCD, quindi non ti viene tanta voglia di guardare i social
-* **Ridurre l'esposizione a schermi LCD/OLED**, ai quali sono già costretto per lavoro, trasferendo parte delle interazioni durante il tempo libero su uno schermo e-ink più riposante per gli occhi
+* **Aumentare il tempo dedicato alla lettura**, soprattutto di libri (ma anche di contenuti testuali in generale, come Wikipedia e Reddit).
+* **Ridurre l'uso dello smartphone**, in particolare di tutte quelle micro-interazioni istintive che non servono a nulla.
+* **Ridurre l'attrattiva di reel e infinite scroll**, perché uno schermo e-ink, anche quando fosse a colori, non è mai vivido e fluido come un LCD, quindi non ti viene tanta voglia di guardare i social.
+* **Ridurre l'esposizione a schermi LCD/OLED**, ai quali sono già costretto per lavoro, trasferendo parte delle interazioni durante il tempo libero su uno schermo e-ink più riposante per gli occhi.
 * Abbandonare l'ultimo dispositivo con cavo micro-usb che gira per casa - ho già il dongle adattatore usbc-to-micro, e so anche che non è mica 'sto gran problema da risolvere per forza, ma... mmm che fastidio.
 
 **Perché non ancora?**  
-Il mio attuale Kindle Paperwhite Gen7, che ho recentemente [migliorato per usarlo al massimo delle sue facoltà]({{< ref "pimpmykindle.md" >}}), mi sta già fornendo praticamente **quasi tutti i benefici che ho elencato sopra a costo zero**.  
+Il mio attuale Kindle Paperwhite Gen7, che ho recentemente [migliorato per usarlo al massimo delle sue facoltà]({{< ref "pimpmykindle.md" >}}), mi sta già fornendo praticamente **quasi tutti i benefici che ho elencato sopra a costo zero**, e sto leggendo praticamente ogni giorno, non succedeva da anni.  
 Certo non ha Android, quindi lo uso esclusivamente per la lettura dei libri, però già questo è il risultato più importante che cercavo, e forse l'acquisto di un nuovo dispositivo solo per poter accedere anche al web senza prendere il telefono è un po' _overkill_.
 
 Per completezza, ecco comunque i **dispositivi più interessanti a settembre 2026:**  
@@ -153,26 +153,29 @@ Per completezza, ecco comunque i **dispositivi più interessanti a settembre 202
 1. [Bigme B7](https://euroshop.bigme.vip/collections/tablet/products/b7-4-64gb-7-color-epaper-tablet-with-4g-calling-and-android-14os), fratellino minore rispetto al Pro qui sopra, si perdono un po' di performance e di refresh-rate, costa circa 300€.
 1. [Onyx Boox Go 7](https://shop.boox.com/products/go7), meno potente e dotato dei due Bigme, ma esteticamente leggermente più elegante, costa attorno ai 270€ compresa la cover.
 
-Inizialmente pensavo ad un dispositivo a colori, ora però sto meditando se per i miei scopi sia **preferibile la versione in bianco e nero**, per forzarmi ad usarlo esattamente per la lettura di testo, che su display e-ink B&W godrebbe di contrasto e risoluzione al massimo livello, mentre sui display Kaleido 3 a colori lo sfondo è sempre grigio e il layer dedicato ai colori toglie un po' di nitidezza anche ai contenuti testuali B&W. Insomma avere gli svantaggi del colore solo per vedere le copertine 1 secondo prima di continuare la lettura in B&W... non so.
+Inizialmente pensavo ad un dispositivo a colori, ora però sto meditando se per i miei scopi sia **preferibile la versione in bianco e nero**, per forzarmi ad usarlo esattamente per la lettura di testo, che su display e-ink B&W godrebbe di contrasto e risoluzione al massimo livello, mentre sui display Kaleido 3 a colori lo sfondo è sempre grigio e il layer dedicato ai colori toglie un po' di nitidezza anche ai contenuti testuali B&W. Insomma avere gli svantaggi del colore solo per vedere le copertine 1 secondo prima di continuare la lettura in B&W... non so.  
+
+Ci sono anche tanti dispositivi da 6", sufficienti per la lettura, più portatili, più economici, ma vorrei provare lo schermo un po' più grande.
+
 
 
 ## No smartphone in presenza di altri
 Se sono con persone, allora vorrei non guardare lo smartphone.  
 L'abitudine di riempire qualunque micro-pausa con una sbirciatina al telefono mi sembra una piccola schiavitù che cancella la maggior parte delle occasioni di interazione sociale.  
 E quando vedo il mio interlocutore **guardare il telefono per più di 5 secondi mentre stiamo parlando** vorrei spezzarglielo in due.  
-Però zoppico della stessa gamba ancora troppo spesso...
+Zoppico della stessa gamba ancora troppo spesso.
 
 
 
 ## No smartphone sul comodino 
-Confido che mettere in carica il telefono in un'altra stanza prima di andare a letto possa **ridurre ulteriormente la tentazione di guardare cose online**, in favore magari di qualche pagina in più letta su un libro, che tra l'altro pare essere un buon modo di migliorare la qualità del sonno.
+Confido che mettere in carica il telefono in un'altra stanza prima di andare a letto possa **ridurre ulteriormente la tentazione di guardare cose online**, in favore magari di qualche pagina in più letta su un libro.
 
 
 
 ## Ebook sempre con me
 Per riempire qualche pausa solitaria (es. durante smartworking, pranzo di lavoro da solo, attese dal medico, cose del genere), invece di video o social potrei leggere qualche pagina di un libro.  
 Solo che i 6-7 pollici dell'ebook reader non stanno nelle tasche dei pantaloni, quindi d'estate dovrei portarmi dietro un borsello/slingbag o simile dove cacciare dentro anche l'ebook. Non che mi piaccia granché come prospettiva, mi piace girare leggero.  
-Nel 2026 sono diventati virali i piccoli ebook reader di [Xteink](https://www.xteink.com), potrei farci un pensierino.
+Nel 2026 sono diventati virali i piccoli ebook reader di [Xteink](https://www.xteink.com), e in coda a questo successo poi altri produttori hanno fatto il loro mini-dispositivo. Potrei farci un pensierino, ho visto che c'è il modo di fare il sync della posizione di lettura rispetto a KOReader che uso sull'ebook reader principale, che è la cosa più importante.
 
 
 
