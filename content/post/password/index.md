@@ -1,7 +1,7 @@
 ---
 title: "Password!"
 date: "2016-01-30"
-lastmod: '2024-12-23'
+lastmod: '2026-10-12'
 categories: 
   - "tecnologia"
 image: "images/password.webp"
@@ -9,7 +9,7 @@ image: "images/password.webp"
 
 
 
-# UPDATE 2024
+# UPDATE 2026
 
 Rileggere questa pagina oggi mi fa sorridere: tutto il contenuto è ampiamente superato dall'**uso di un password manager, pratica che risolve praticamente tutti i problemi di password che possiamo avere**, ed è MOLTO più semplice rispetto all'adottare le abitudini di cui scrivevo qua sotto anni fa.
 
@@ -18,6 +18,8 @@ Oltre a login+password, ci salvo dentro qualunque mia informazione riservata: nu
 Quando mi serve una di queste informazioni so già dove trovarla: apro Bitwarden, autenticazione con impronta istantanea, una ricerca, e in 10 secondi risolvo, senza mai farmi la fatidica domanda _"dove l'avrò scritto?"_.
 
 In più oggi ci sono le [passkey](https://it.wikipedia.org/wiki/Password#Passwordless_o_Passkey) che, quando è possibile usarle, aumentano ulteriormente la facilità e la sicurezza dell'autenticazione rispetto all'uso di login+password, riducendo tutto a letteralmente 2 click.
+
+Ho scritto di questo tema e di altri correlati nel post ["Igiene digitale"]({{< ref "igiene-digitale.md" >}}).
 
 Non ricordo il motivo per cui io nel 2016 usavo già un password manager (LastPass, poi diventato tristemente famoso per un data breach mal gestito), e nonostante questo ho perso tempo ad inventarmi uno schema mentale per generare password efficaci... una cosa rende inutile l'altra. Boh!
 

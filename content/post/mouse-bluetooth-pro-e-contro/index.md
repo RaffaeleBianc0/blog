@@ -1,6 +1,7 @@
 ---
 title: "Mouse bluetooth"
 date: "2010-02-14"
+lastmod: '2026-10-12'
 categories: 
   - "tecnologia"
   - "amarcord"
@@ -27,3 +28,7 @@ Tirando le somme, direi che per quanto mi riguarda vincono i PRO sui CONTRO in o
 I CONTRO sono così snervanti che ho cambiato idea!  
 Soprattutto le mancate connessioni sono un problema importante, ad esempio quando sei nel mezzo di una demo da un cliente.  
 Tocca insistere con i dongle proprietari...
+
+# Aggiornamento 2025
+Gli ultimi mouse che ho usato consentono la connessione sia tramite Bluetooth sia tramite dongle wireless proprietario.  
+La situazione sul fronte Bluetooth mi sembra migliorata, tuttavia preferisco _zero_ problemi rispetto a _rari_ problemi, e ancora oggi utilizzo il dongle sempre inserito nel notebook.

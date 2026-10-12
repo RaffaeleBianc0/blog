@@ -9,7 +9,7 @@ image: "images/x60.png"
 ---
 
 
-Useresti oggi un computer **di DICIOTTO anni fa**?  
+Useresti oggi un **computer di DICIOTTO anni fa**?  
 Io lo ho fatto per qualche giorno e adesso te lo racconto, perché ho sotto le dita una tastiera che... mo' ti dico, aspetta.
 
 

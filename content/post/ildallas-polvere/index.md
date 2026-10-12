@@ -1,13 +1,14 @@
 ---
 title: "\"Polvere\" (Il Dallas)"
 date: "2018-10-29"
+lastmod: '2026-10-12'
 categories: 
   - "batteria"
   - "musica"
 image: "images/davide-urla.png"
 ---
 
-"Polvere" è il primo singolo pubblicato dalla band di cui sono batterista, [Il Dallas](/blog/p/il-dallas).
+"Polvere" è il primo singolo pubblicato dalla band di cui sono stato batterista, [Il Dallas](/blog/p/il-dallas).
 
 {{< youtube j6S8xbNPwRA >}}
 

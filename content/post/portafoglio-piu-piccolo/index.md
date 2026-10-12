@@ -1,6 +1,7 @@
 ---
 title: "Portafoglio più piccolo"
 date: "2016-02-14"
+lastmod: '2026-10-12'
 categories: 
   - "altro"
 Image: "images/iclip.png"
@@ -12,15 +13,15 @@ Il portafoglio gonfiava in modo ridicolo qualunque tasca, sia quella posteriore
 
 Era ora di cambiare portafoglio!
 
+
+
 # Confronto
 
+Questo è il mio vecchio portafoglio (12x9.5cm, spessore=3.5cm):  
 ![old_spessore.jpg](images/old_spessore.jpg)
 
-Questo è il mio vecchio portafoglio (12x9.5cm, spessore=3.5cm):  
-
-![new_spessore_v2.jpg](images/new_spessore_v2.jpg)
-
 Questo è stato per pochi giorni il mio portafoglio _provvisorio_ (10x7cm, spessore=2cm):  
+![new_spessore_v2.jpg](images/new_spessore_v2.jpg)
 
 Questo è il mio portafoglio _definitivo_, il [SECRID Slimwallet](https://www.mukama.com/en/secrid-slimwallet) (9.5x6.5cm, spessore=1.5cm):
 
@@ -31,7 +32,7 @@ Questo è il mio portafoglio _definitivo_, il [SECRID Slimwallet](https://www.
 Confrontando le misure, ecco i risultati:
 
 | Portafoglio | Spessore | Volume
-|-------------|----------:|-------:
+|-------------|---------:|-------:
 Vecchio       |  100%    |  100%
 Provvisorio   |   57%    |   35%
 Nuovo         |   42%    |   23%
@@ -39,9 +40,11 @@ Nuovo         |   42%    |   23%
 Insomma: spessore di _metà_ e un volume di _un quarto_ rispetto al portafoglio ciccione che avevo!  
 C'è da dire che questo portafoglio è uno dei più **spessi** tra quelli che avevo individuato (vedi sotto): rinunciando al _card-protector_ in alluminio è possibile ottenere misure ancora più contenute.
 
+
+
 # Risorse online
 
-Come sempre faccio, sono partito da un meticoloso (... maniacale) studio online: decine di recensioni, video, e siti web.
+Come sempre faccio, sono partito da un meticoloso/maniacale studio online: decine di recensioni, video, e siti web.
 
 Ho scoperto subito che "ridurre il portafoglio" è un argomento che interessa da anni una montagna di persone, e che ha generato tantissime idee e prodotti. E quando dico "tantissime" intendo dire che ad esempio su KickStarter i [progetti sul tema "wallet"](https://www.kickstarter.com/projects/search?term=wallet) sono più di MILLE!
 
@@ -49,9 +52,13 @@ Il [sito della Bellroy](http://bellroy.com) forse è stato il mio primo approdo
 
 Più recentemente, mi sono informato soprattutto tramite le ottime (e rilassanti) [video-recensioni di Steve Montelli](https://www.youtube.com/user/montelli101), il sito [SlimWalletJunkie](http://www.SlimWalletJunkie.com) (che vende anche alcune marche interessanti, ed essendo lo store in Europa non ci sono spese di spedizione elevate né tasse doganali da temere), e [decine di altri video su YouTube](https://www.youtube.com/results?search_query=slim+wallet+review).
 
+
+
 # Cosa ho scelto
 
 Il portafoglio "provvisorio" che si vede in foto sopra è una cinesata omaggio di qualche negozio, che ho usato per qualche giorno in attesa che mi arrivasse il [SECRID Slimwallet](https://www.mukama.com/en/secrid-slimwallet) che ho comprato sul sito [Mukama](http://www.mukama.com).
+
+
 
 ## Pro
 
@@ -67,6 +74,8 @@ La mia scelta è caduta su questo portafoglio per questi motivi:
 
 - Ha **ulteriori 2 slot formato card**, nei quali ci metto la card che apre il garage dell'ufficio (se la tenessi nel _card-protector_ di alluminio non verrebbe rilevata), i buoni pasto aperti, e ci parcheggio eventuali scontrini fino a quando raggiungo casa/ufficio per spostarli al loro posto.
 
+
+
 ## Contro
 
 Ci sono anche alcuni CONTRO, rispetto ad altri modelli "minimal" che avevo addocchiato (e che elenco più sotto):
@@ -76,6 +85,8 @@ Ci sono anche alcuni CONTRO, rispetto ad altri modelli "minimal" che avevo addoc
 - L'alluminio scherma anche le card inserite negli slot della parte in pelle: quindi per far rilevare una card senza estrarla è necessario inserirla nello slot laterale, ed appoggiare il portafoglio al lettore aprendolo leggermente. In alternativa, è sufficiente inserire tale card nel _card-protector_ per ultima, in modo che venga estratta quanto più possibile: al momento sto facendo così ed è molto comodo.
 
 - Le banconote sono scomode da estrarre ed inserire, rispetto ad un portafoglio convenzionale, perché le estremità sono sempre un po' "arricciate" a causa della chiusura del portafoglio. Il sistema è comunque più rapido rispetto ai portafogli che costringono a piegarle.
+
+
 
 # Cosa è cambiato
 
@@ -117,6 +128,8 @@ Insomma, la soluzione in sintesi è stata questa:
 
 > Niente tessere extra, niente monete, niente carte/cartine parcheggiate per settimane.
 
+
+
 # Altri modelli interessanti
 
 - [Trove Wallet](https://www.trove.cc) ([shop](http://www.slimwalletjunkie.com/collections/trove)): formato card, la fascia elastica consente di inserirci da 1 a 10 card mantenendo sempre lo spessore minimo, ha altre 2 tasche sui lati, e può essere rivoltato come un calzino (letteralmente!) per usarlo ad esempio come supporto per lo smartphone. Inoltre esiste in un gran numero di varianti di colore, anche configurabili online. Forse un po' meno "raffinato" rispetto ad altre scelte, ma secondo me è un'idea pratica e intelligente. Inoltre il fatto che sia composto soprattutto dalla fascia elastica rende l'estrazione delle card piuttosto pratica, allargando a piacere il portafoglio, e consente anche di tenerci qualche moneta senza farla scivolare fuori.
@@ -144,3 +157,14 @@ Insomma, la soluzione in sintesi è stata questa:
 - [Bellroy](http://bellroy.com) produce modelli in pelle di ogni tipo e dimensione, e online gode di buona reputazione sul fronte della qualità dei materiali e della lavorazione, anche se non sono così _minimal_ e sottili. Il catalogo Bellroy è molto fornito, ma secondo me i modelli più interessanti sono lo [High Line](http://bellroy.com/wallets/high-line-wallet) e il [Note Sleeve](http://bellroy.com/wallets/note-sleeve-wallet): entrambi conservano le banconote distese, il primo è più minimalista, mentre il secondo è più accessoriato ma forse leggermente più spesso.
 
 - [Cavity Card](http://www.slimwalletjunkie.com/collections/cavity-card/products/cavity-card-slim): segnalo questo accessorio che potrebbe essere furbo per qualunque micro-portafoglio in formato "card", per metterci dentro qualche spicciolo (o altri oggetti piccoli e sottili, come una sim, una chiave, o una micro-chiavetta usb).
+
+
+
+# Aggiornamento 2019
+Da quest'anno sono felice utente di un [i-Clip](https://www.i-clip.com), ancora più piccolo e più leggero.
+
+
+
+# Aggiornamento 2026
+Sto ancora usando il mio primo i-Clip di 7 anni fa!  
+Nel frattempo sono usciti modelli che ospitano qualche moneta nella parte in pelle, ci sto pensando per le occasioni in cui ricevo spiccioli (occasioni piuttosto rare perché pago ovunque con il telefono da alcuni anni).

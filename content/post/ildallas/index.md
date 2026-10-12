@@ -7,7 +7,8 @@ categories:
 image: "images/il-dallas-scritta.png"
 ---
 
-Il Dallas è un tipo. Lo racconta una formazione di Treviso che suona alternative rock, tutti brani inediti, tirati, con dentro un cantato particolare, dei synth, una tromba, e tanto, tanto sudore. Molto del quale è il mio, perché ci ho suonato la batteria dal 2016 al 2024.
+Il Dallas è un tipo.  
+Lo raccontava una formazione di Treviso che suonava alternative rock, tutti brani inediti, tirati, con dentro un cantato particolare, dei synth, una tromba, e tanto, tanto sudore. Molto del quale è il mio, perché **ci ho suonato la batteria dal 2016 al 2024**.
 
 Ecco le cose più belle che abbiamo prodotto:
 

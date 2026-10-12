@@ -1,7 +1,7 @@
 ---
 title: "Kindle"
 date: "2017-01-30"
-lastmod: '2026-09-14'
+lastmod: '2026-10-12'
 categories: 
   - "tecnologia"
 image: "images/kindle.png"
@@ -28,9 +28,11 @@ Questo meccanismo serve per inviarmi gli ebook al Kindle senza averlo fisicament
 # Calibre
 
 Calibre è un software gratuito, open-source, e pure portable.  
+Serve a gestire la propria libreria di ebook in locale sul PC.
+
 Non è indispensabile utilizzarlo, ma io lo faccio per questi motivi:
 
-- Avere un elenco di tutti gli ebook, ricercabile rapidamente.
+- Avere tutti i propri ebook in locale, ricercabili, apribili, e modificabili (metadati e copertina).
 - Avere una indicazione sulla lunghezza di un libro, tramite il plugin **[Count Pages](https://www.mobileread.com/forums/showthread.php?t=134000)**.
 - Scaricare con pochi click la sinossi e la copertina degli ebook, per avere una libreria gradevole e completa.
 - Dare un'occhiata al contenuto degli ebook, prima di inviarli al Kindle (a volte si trovano delle copie ottenute da altre copie e impaginate malissimo, da buttare).
@@ -45,7 +47,7 @@ Non è indispensabile utilizzarlo, ma io lo faccio per questi motivi:
 Oltre a [comprare gli ebook su Amazon](https://www.amazon.it/ebooks-kindle/b/ref=nav__kbo4?ie=UTF8&node=827182031), è possibile averli già come file e copiarli nel Kindle tramite cavetto USB oppure inviandoseli alla propria "Kindle Email".
 
 E' poi possibile trovare ebook online: la risorsa principale è [Anna's Archive](https://it.wikipedia.org/wiki/Anna%27s_Archive) (nella pagina Wikipedia trovi l'URL sempre aggiornato); in passato ho usato la [community TNTvillage](http://forum.tntvillage.scambioetico.org/) e i circuiti P2P.  
-Attenzione ovviamente al diritto d'autore in tutti questi casi: è necessario possedere la copia cartacea regolarmente acquistata, per poter scaricare la versione ebook dello stesso testo con questi mezzi - e ho il dubbio che sia sufficiente, verifica prima di procedere.
+Attenzione ovviamente al diritto d'autore in tutti questi casi: è necessario possedere la copia cartacea regolarmente acquistata, per poter scaricare la versione ebook dello stesso testo con questi mezzi - e ho il dubbio che sia sufficiente, verifica prima di procedere.  
 
 Esistono poi alcuni siti che contengono testi non protetti da diritto d'autore, e perciò liberamente scaricabili: si trovano con una rapida ricerca online.
 
@@ -61,7 +63,7 @@ Accedere agli stessi articoli usando il browser integrato nel Kindle _non_ è a
 
 # Accessori
 
-Penso che una cover vada presa, sia per ovvio motivo di protezione dello schermo (quando butto il Kindle in valigia non è che mi fidi tanto, senza cover), sia perché secondo me migliora l'impugnatura mentre si legge.
+Penso che una cover vada presa, sia per ovvio motivo di protezione dello schermo (quando butto il Kindle nello zaino non è che mi fidi tanto senza cover), sia perché secondo me migliora l'impugnatura mentre si legge.
 
 Io dopo aver preso [questa](https://www.amazon.it/gp/product/B017TU6GHE/ref=oh_aui_detailpage_o08_s00?ie=UTF8&th=1), e aver scoperto che è davvero troppo plasticosa per i miei gusti, ho fatto il reso gratuito e ho presto [quest'altra](https://www.amazon.it/gp/product/B01ID2Y7M8/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1) che è invece molto bella (anche se un po' spessa, ma a me questo fattore non dispiace affatto per l'impugnatura):
 

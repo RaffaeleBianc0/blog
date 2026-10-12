@@ -2,6 +2,7 @@
 title: "\"iosonodinamite\" (Il Dallas)"
 description: "Secondo album de Il Dallas, pubblicato nel 2022. Ci suono la batteria"
 date: "2022-05-23"
+lastmod: '2026-10-12'
 categories: 
   - "musica"
   - "batteria"
@@ -13,7 +14,7 @@ image: "images/folder.png"
 
 Secondo album registrato con [Il Dallas](/blog/p/il-dallas), pubblicato il 23 maggio 2022.
 
-Per ascoltarlo anche su piattaforme diverse da Spotify, oppure per acquistare la copia digitale in alta qualità (FLAC), clicca qui:
+Per ascoltarlo anche su piattaforme diverse da Spotify, clicca qui:
 
 {{< bottone link="https://found.ee/iosonodinamite" >}}
 Ascolta "iosonodinamite"
