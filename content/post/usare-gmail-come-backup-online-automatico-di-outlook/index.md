@@ -7,7 +7,8 @@ categories:
 image: "olgm.webp"
 ---
 
-Per gestire le mail di lavoro, uso Outlook. Un po' per abitudine, un po' perché si integra senza sforzo col telefono WinMobile.
+Per gestire le mail di lavoro, uso Outlook.  
+Un po' per abitudine, un po' perché si integra senza sforzo col telefono WinMobile.
 
 Mi piacerebbe poter usare GMail ovviamente, ma il massimo a cui sono arrivato è inviare le mail che al destinatario appaiono con il mittente in questo formato: "Da: MioIndirizzo@GMail per conto di: MioIndirizzo@Lavoro".
 

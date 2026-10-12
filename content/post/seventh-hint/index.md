@@ -10,9 +10,9 @@ image: "images/7.jpg"
 
 "Seventh hint" è un pezzo di musica elettronica che ho fatto nel 2004, giocando con un tempo dispari, synth ciccioni che mi piacciono sempre tantissimo, e un po' di feeling "etnico" perché avevo qualche sample sul genere e ce l'ho infilato dentro.  
 
-Il tempo dispari è sempre stato una grande attrattiva nella musica per me, per come ti lascia un po' più sospeso, indefinito, e senza i punti di riferimento abituali a cui aggrapparsi.
+Il tempo dispari è sempre stato una grande attrattiva nella musica per me, per come ti lascia un po' più sospeso, indefinito, e senza i punti di riferimento abituali a cui l'orecchio si aggrappa.
 
-I synth sono probabilmente la categoria di suono che amo di più nella musica, sono partito da questo nel comporre il pezzo.
+I synth sono probabilmente la categoria di suono che amo di più nella musica, sono partito da questo suono nel comporre il pezzo.
 
 Il flauto mi è venuto bene secondo me, lo ho suonato improvvisando sulla base che avevo già fatto, e poi ho cesellato a posteriori, con pitch shift e vibrato per dargli quanta più naturalezza possibile.
 
