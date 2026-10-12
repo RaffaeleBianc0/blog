@@ -2,13 +2,13 @@
 title: "Hugo"
 description: "No, non l'aperitivo altoatesino"
 date: "2024-02-09"
-lastmod: '2026-10-04'
+lastmod: '2026-10-12'
 categories: 
   - "tecnologia"
 image: "images/hugo-logo.png"
 ---
 
-In questo post ti racconto della ristrutturazione di questo blog nella forma attuale.
+In questo post ti racconto della ristrutturazione di questo blog per portarlo alla forma attuale.
 
 
 
@@ -17,7 +17,8 @@ In questo post ti racconto della ristrutturazione di questo blog nella forma att
 Fino al 2024 questo blog era hostato su [Wordpress.com](http://Wordpress.com), ne parlo nella [storia di questo sito](/blog/p/storia-di-questo-sito-web/#2015-blog-su-wordpress).
 
 A inizio 2024 ho scoperto dell'esistenza degli [SSG _(Static Site Generators)_](https://en.wikipedia.org/wiki/Static_site_generator), software che trasformano contenuti scritti in [Markdown](https://en.wikipedia.org/wiki/Markdown) in siti web veloci e con le funzionalità che servono ad un blog.  
-E io che pensavo che i siti web statici fossero praticamente spariti!
+L'idea mi è sembrata intelligente, perché separa la flessibilità lato amministrativo (es. la configurazione di moduli, di un tema, l'uso di template e snippet/partials, l'uso di categorie e tag, eccetera) dal sito web pubblicato, un po' come fa chi scrive codice, lo compila, e pubblica solo l'applicazione ottenuta.
+E io che pensavo che i siti statici fossero praticamente spariti!
 
 Ci ho messo un po' di giorni a capire quale dei tanti SSG esistenti fosse quello su cui puntare, cioè quello aggiornato recentemente e regolarmente, e con una user-base la più estesa possibile per chiedere aiuto nel caso servisse.  
 
