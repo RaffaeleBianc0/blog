@@ -81,6 +81,16 @@ Come provider per fare le prime prove suggerisco [OpenRouter](https://openrouter
 
 
 
+# Finally free
+Per concludere tutto come si deve, ho fatto queste ultime operazioni:
+1. Ho **disassociato il Kindle dal mio account Amazon**, si fa dal menu originale "Tutte le impostazioni > Il tuo account": la libreria è sparita (tanto gli stessi libri che ho acquistato nel tempo li ho già recuperati come file EPUB), e soprattutto sono sparite le maledette proposte commerciali di Amazon per l'acquisto di nuovi libri.  
+
+1. Ho impostato l'**avvio automatico di KOReader** al riavvio del dispositivo (per quanto questo sia un evento molto raro): prima ho installato il prerequisito [KUAL](https://kindlemodding.org/jailbreaking/Legacy/post-jailbreak/installing-kual-mrpi) e subito dopo la procedura [KOReader Autolaunch](https://github.com/meepcat55/Kindle-KOReader-On-Boot), sempre copiando i file dal PC tramite wifi sfruttando il server SSH di KOReader per collegarmi con FileZilla, supercomodo.  
+
+Nel rarissimo caso serva lanciare manualmente KOReader (ad esempio perché è crashato - può capitare, specie tentando di aprire PDF impegnativi), basta cercare "koreader" nella barra "Cerca Kindle" standard e cliccare l'unico risultato - giusto per risparmiarsi l'attesa dell'hard-reset completo, che ci mette 10 volte tanto (20 secondi di pressione continuata del tasto di accensione + altri 2 minuti di reboot + altri 15 secondi di avvio automatico di KOReader).
+
+
+
 # Backup metadati in Calibre
 La gestione ideale della propria biblioteca ebook locale si può fare usando [Calibre](https://calibre-ebook.com) su PC, questo valeva anche per il Kindle pre-jailbreak.  
 Per Calibre segnalo [KOReader Calibre plugin](https://github.com/kyxap/koreader-calibre-plugin) che consente di importare i metadati di tutti i libri del dispositivo in Calibre: l'avanzamento della lettura, gli highlights, le note, i segnalibri.  
