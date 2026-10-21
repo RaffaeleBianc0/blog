@@ -2,7 +2,7 @@
 title: "Pimp my Kindle"
 description: "Elaborazioni di un ebook reader manco fosse un Ciao"
 date: "2026-09-15"
-lastmod: '2026-09-17'
+lastmod: '2026-09-18'
 categories: 
   - "tecnologia"
 image: "images/cover.jpg"
@@ -11,15 +11,16 @@ draft: false
 
 Nel 2026 scopro per caso che sul [mio vecchio Kindle regalatomi 10 anni prima]({{< ref "kindle.md" >}}), e ancora perfettamente funzionante, posso installare [KOReader](https://koreader.rocks).
 
-KOReader è un software opensource per leggere ebook che si può installare in quasi tutti i dispositivi Kindle, Kobo, PocketBook e Android, e offre una tonnellata di possibilità in più rispetto all'interfaccia nativa Amazon, tra cui le più interessanti per me sono:
-- completo **distacco dall'ecosistema Amazon** (togliere cose dal cloud e conservarle dove decido io per tutto il tempo che desidero senza dipendere da scelte altrui, più passa il tempo e più mi sembra interessante)
-- possibilità di installare plugin per **estendere ulteriormente le funzionalità** - questa cosa da sola vale tutto lo sforzo, vedi più sotto
-- **ricerca** di parole/frasi (evidenziando il testo oppure digitando) su dizionari multilingua scaricabili in locale, traduttori, Wikipedia, e AI (tramite plugin)
-- download di **feed RSS** per leggerli come "mini-libri"
-- accesso a **Dropbox** per leggere libri memorizzati su cloud
-- supporto alla **lettura di PDF** con reflow del testo, OCR, e raddrizzamento della scansione
+KOReader è un software opensource per leggere ebook che si può installare in quasi tutti i dispositivi Kindle, Kobo, PocketBook e Android, e offre una tonnellata di possibilità in più rispetto al software originale Amazon.  
+Le più interessanti per me sono:
+- completo **distacco dall'ecosistema Amazon**: togliere cose dal cloud e conservarle dove decido io per tutto il tempo che desidero senza dipendere da scelte altrui, più passa il tempo e più mi sembra interessante
+- supporto a plugin per **estendere ulteriormente le funzionalità**: si apre un mondo di possibilità che portano il Kindle ad un livello superiore
+- **ricerca** di parole/frasi (evidenziando il testo oppure digitando) su dizionari multilingua scaricabili in locale, traduttori, Wikipedia online, e AI (tramite plugin - vedi più sotto)
+- **connessione wifi al PC**, per gestire il filesystem del Kindle dal PC (con un qualunque client FTP come [FileZilla](https://filezilla-project.org) o [WinSCP](https://winscp.net), abilitando il server [SSH](https://it.wikipedia.org/wiki/Secure_Shell) integrato) e anche per connettere Calibre e gestire la libreria, sempre senza bisogno di cavi
+- download di **feed RSS** per leggerli come "mini-libri" (es. le ultime notizie dai tuoi siti preferiti)
+- accesso a **Dropbox** per leggere libri memorizzati su cloud (facoltà che poi non ho mai utilizzato perché gestisco tutta la libreria con Calibre - vedi più sotto)
+- supporto alla **lettura di PDF** con reflow del testo, OCR, e raddrizzamento della scansione (interessante in teoria, ma di difficile attuazione su un dispositivo così poco potente)
 - **controllo tipografico avanzato** (font, margini, kerning, orientamento dello schermo, e varie altre opzioni che il software Amazon non prevede)
-- **connessione wifi al PC**, per gestire i contenuti sia tramite [SSH](https://it.wikipedia.org/wiki/Secure_Shell) sia tramite Calibre senza armeggiare con il cavetto
 - lettura di **formati ebook aggiuntivi** (anche se, con le possibilità di conversione offerte da Calibre, il formato dell'ebook diventa subito un non-problema)
 
 Figurati se non mi vien voglia di provare!  
@@ -49,7 +50,7 @@ Appena installato KOReader, prima ancora di staccare il Kindle dal PC, la cosa d
 ## Bookends
 ![](images/bookends.webp)  
 [Bookends](https://github.com/AndyHazz/bookends.koplugin) consente di personalizzare l'intestazione e il pié di pagina visualizzati durante la lettura, inserendo informazioni come tempo/pagine/percentuale di lettura trascorso/rimanente/totale rispetto al libro/capitolo/giorno/sessione di lettura corrente, progressbar di queste informazioni, autore del libro, titolo del libro e del capitolo corrente, eccetera eccetera.  
-C'è una libreria di preset tra cui scegliere (dentro la quale trovi anche i miei, "rb" ed "rb2" al momento, poi se mi vien voglia ne aggiungo altri), altrimenti puoi crearti il tuo preset direttamente sul dispositivo se sei anche tu uno smanettone.
+C'è una libreria di preset tra cui scegliere (dentro la quale trovi anche i miei, "rb" ed "rb2" al momento, poi se ne farò altri li aggiungerò), altrimenti puoi crearti il tuo preset direttamente sul dispositivo se sei anche tu uno smanettone.
 
 ## Shortcuts Toolbar
 ![](images/shortcutstoolbar.webp)  
@@ -71,7 +72,7 @@ Il [plugin per Hardcover.app](https://github.com/Billiam/hardcoverapp.koplugin) 
 [AI Assistant](https://github.com/omer-faruq/assistant.koplugin) consente di interagire con le AI partendo dal testo selezionato o dal libro.  
 Per esempio puoi ottenere il riassunto del libro fino al punto dove sei arrivato, un recap sui personaggi, luoghi, eventi, argomenti finora incontrati nella lettura, traduzioni, riassunto di tutti gli highlights che hai creato nel libro, e tante altre cose... davvero potente.  
 La configurazione non è immediata, ma seguendo le istruzioni nel repo GitHub non si sbaglia.  
-Come provider per fare le prime prove suggerisco [OpenRouter](https://openrouter.ai/) che regala interazioni gratuite quotidiane senza dover pagare. Anche Google Gemini consente qualche prova ma il credito free mi pare si esaurisca molto presto. 
+Come provider per fare le prime prove suggerisco [OpenRouter](https://openrouter.ai/) che regala interazioni gratuite quotidiane senza dover pagare, e risultati discreti. Anche Google Gemini consente qualche prova, i risultati sono eccellenti, ma il credito free quotidiano mi pare si esaurisca molto presto, spesso con una singola interazione.  
 
 
 
@@ -83,30 +84,31 @@ Come provider per fare le prime prove suggerisco [OpenRouter](https://openrouter
 
 # Finally free
 Per concludere tutto come si deve, ho fatto queste ultime operazioni:
-1. Ho **disassociato il Kindle dal mio account Amazon**, si fa dal menu originale "Tutte le impostazioni > Il tuo account": la libreria è sparita (tanto gli stessi libri che ho acquistato nel tempo li ho già recuperati come file EPUB), e soprattutto sono sparite le maledette proposte commerciali di Amazon per l'acquisto di nuovi libri.  
+1. Ho **disassociato il Kindle dal mio account Amazon**, dal menu originale "Tutte le impostazioni > Il tuo account": la libreria è sparita (tanto gli stessi libri che ho acquistato nel tempo li ho già recuperati come file EPUB), e soprattutto sono sparite le maledette proposte commerciali di Amazon per l'acquisto di nuovi libri.  
+Incidentalmente, la RAM occupata nel dispositivo durante la lettura è passata dal 70% circa al 55% circa, il che dovrebbe lasciare un po' più di "agilità" al sistema, che può servire per esempio per aprire file complessi.
 
-1. Ho impostato l'**avvio automatico di KOReader** al riavvio del dispositivo (per quanto questo sia un evento molto raro): prima ho installato il prerequisito [KUAL](https://kindlemodding.org/jailbreaking/Legacy/post-jailbreak/installing-kual-mrpi) e subito dopo la procedura [KOReader Autolaunch](https://github.com/meepcat55/Kindle-KOReader-On-Boot), sempre copiando i file dal PC tramite wifi sfruttando il server SSH di KOReader per collegarmi con FileZilla, supercomodo.  
+1. Ho impostato l'**avvio automatico di KOReader** al riavvio del dispositivo (anche se riavviare un Kindle non serve quasi mai): prima ho installato il prerequisito [KUAL](https://kindlemodding.org/jailbreaking/Legacy/post-jailbreak/installing-kual-mrpi) e subito dopo la procedura [KOReader Autolaunch](https://github.com/meepcat55/Kindle-KOReader-On-Boot), sempre copiando i file dal PC tramite wifi.  
 
-Nel rarissimo caso serva lanciare manualmente KOReader (ad esempio perché è crashato - può capitare, specie tentando di aprire PDF impegnativi), basta cercare "koreader" nella barra "Cerca Kindle" standard e cliccare l'unico risultato - giusto per risparmiarsi l'attesa dell'hard-reset completo, che ci mette 10 volte tanto (20 secondi di pressione continuata del tasto di accensione + altri 2 minuti di reboot + altri 15 secondi di avvio automatico di KOReader).
+Nel rarissimo caso serva lanciare manualmente KOReader (ad esempio perché è crashato - raro, ma può capitare), basta cercare "koreader" nella barra "Cerca Kindle" standard e cliccare l'unico risultato ottenuto - giusto per risparmiarsi l'attesa dell'hard-reset completo, che ci mette 10 volte tanto (20 secondi di pressione continuata del tasto di accensione + altri 2 minuti di reboot + altri 15 secondi di avvio automatico di KOReader).
 
 
 
 # Backup metadati in Calibre
 La gestione ideale della propria biblioteca ebook locale si può fare usando [Calibre](https://calibre-ebook.com) su PC, questo valeva anche per il Kindle pre-jailbreak.  
-Per Calibre segnalo [KOReader Calibre plugin](https://github.com/kyxap/koreader-calibre-plugin) che consente di importare i metadati di tutti i libri del dispositivo in Calibre: l'avanzamento della lettura, gli highlights, le note, i segnalibri.  
-Lo vedo anche come un bel backup di tutte le informazioni a corredo di quello che leggo, fatto in locale (quindi indipendente da qualsiasi destino imposto da Amazon o altre piattaforme cloud che fanno la stessa cosa e che a volte spariscono o iniziano a chiedere soldi) e ottenuto con un singolo click.
+Per Calibre segnalo [KOReader Calibre plugin](https://github.com/kyxap/koreader-calibre-plugin) che consente di importare i metadati di tutti i libri del dispositivo in Calibre: l'avanzamento della lettura, gli highlights, le note, i segnalibri, eccetera.  
+Si tratta di un comodo backup di tutte le informazioni a corredo di quello che leggo, fatto in locale e automaticamente ogni volta che collego il Kindle a Calibre.
 
 
 
 # Archiviazione highlights in Obsidian
-Infine, uno dei motivi più interessanti per scegliere un ebook come supporto di lettura per la saggistica secondo me è **archiviare i propri _highlights_**, cioè tutte le parti che ho sottolineato in tutti i libri, in modo da poter "ripassare" le parti significative quando voglio (e anche visualizzarne una random sempre diversa in Bookshelf/SimpleUI/ZenOS, così ripasso sempre qualche concetto utile).  
+Infine, uno dei motivi più interessanti per scegliere un ebook come supporto per la lettura secondo me è **archiviare i propri _highlights_**, cioè tutte le parti che ho sottolineato in tutti i libri, in modo da poter "ripassare" le parti significative quando voglio (e anche visualizzarne una random sempre diversa in Bookshelf/SimpleUI/ZenOS, così ripasso sempre qualche concetto utile).  
 Per questa archiviazione mi piace usare [Obsidian](https://obsidian.md) sul PC, e per Obsidian esiste il [KOReader Highlights Importer Plugin for Obsidian](https://github.com/t5k6/obsidian-koreader-highlights) che estrae tutti gli highlights dal dispositivo e crea/aggiorna tutte le note nel vault in pochi istanti, popolandole anche con i metadati che descrivono il libro da cui gli highlights sono stati estratti.
 
 
 
 # Conclusioni
-Con quanto ho descritto qui sopra, ho **migliorato la mia esperienza di lettura** aggiungendo possibilità e informazioni varie che mi sembrano interessanti, e che erano assenti nel software originale Amazon.  
-In più mi sono **sganciato dalle piattaforme online** che prima erano in possesso dei miei libri e dei miei metadati, così non vedo più suggerimenti commerciali e non rischio che vengano cancellati titoli che invece voglio conservare, anche qualora un domani decidessi di cancellare completamente il mio account Amazon.
+Con quanto ho descritto qui sopra, ho **migliorato la mia esperienza di utilizzo del Kindle** aggiungendo possibilità e informazioni a contorno della lettura che mi sembrano interessanti, e che erano totalmente assenti nel software originale Amazon.  
+In più, mi sono **sganciato dalle piattaforme online** che prima erano in possesso dei miei libri e dei miei metadati, così non vedo più suggerimenti commerciali e non rischio che vengano cancellati titoli che invece voglio conservare, anche qualora un domani decidessi di cancellare completamente il mio account Amazon.
 
 Credo così di sfruttare al massimo questo vecchio Kindle fino a quando l'hardware reggerà - batteria e schermo in particolare.  
 Quando sarà il momento di abbandonarlo, avrò tutta la mia configurazione KOReader + plugins + tutta la mia libreria + tutti i metadati già backuppati su PC, e sarà questione di poco traslocare tutto nel prossimo dispositivo.
