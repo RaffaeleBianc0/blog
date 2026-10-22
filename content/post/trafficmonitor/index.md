@@ -17,16 +17,16 @@ Credo sia solo il gusto di avere le informazioni sempre sott'occhio, magari in f
 
 
 # Un po' di amarcord
-Negli anni ho usato vari programmi per ottenere questa visualizzazione grafica di cui ho scritto sopra: ecco qua il percorso.
+Negli anni ho usato vari programmi per ottenere la visualizzazione delle informazioni di cui ho scritto sopra.
 
 ## Win95/98/ME: Norton
 Gli indicatori delle **Norton Utilities** sono stati forse la prima cosa che ho incrociato:  
 ![](images/w95-norton.png)
 
-Ricordo che potevi fissarli al bordo superiore dello schermo, in modo che restassero sempre in vista anche massimizzando la finestra dell'applicazione che stavi usando, al costo di un bel po' di spazio occupato in più: al tempo i CRT più diffusi avevano risoluzioni basse, come 800x600 o 1024x768... non proprio un buon uso dei pochi pixel disponibili.
+Ricordo che potevi fissarli ad un bordo dello schermo, in modo che restassero sempre in vista anche massimizzando la finestra dell'applicazione che stavi usando, al costo di un bel po' di spazio occupato in più: al tempo i CRT più diffusi avevano risoluzioni basse, come 800x600 o 1024x768... non proprio un buon uso dei pochi pixel disponibili.
 
 ## DUMeter/NetMeter
-Per un certo periodo ho usato DUMeter, successivamente sostituito con il quasi-clone NetMeter, per mostrare soltanto l'occupazione di banda tramite una finestrella sempre in primo piano:  
+Per un certo periodo ho usato [DUMeter](https://dumeter.net), successivamente sostituito con il quasi-clone gratuito [NetMeter](http://metal-machine.de/readerror/netmeter-evo), per mostrare soltanto l'occupazione di banda tramite una finestrella sempre in primo piano:  
 ![](images/netmeter.png)
 
 ## WinXP: Samurize
