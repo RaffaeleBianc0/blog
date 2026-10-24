@@ -20,8 +20,10 @@ Credo che si tratti solo del gusto di avere le cose sempre sott'occhio, magari i
 
 
 
-# Un po' di amarcord
-Negli anni ho usato vari programmi per ottenere la visualizzazione permanente delle informazioni di sistema.
+# Il percorso
+Avrai visto il tag "<a href='/blog/categories/amarcord/'>amarcord</a>" di questa pagina?  
+Ecco, in questo capitolo riassumo cosa ho usato negli ultimi 30+ anni per ottenere la visualizzazione permanente delle informazioni di sistema mentre usavo il PC.  
+
 
 ## Win95/98/ME: Norton
 Gli indicatori della suite di utility **Norton System Doctor** sono stati forse la prima cosa che ho incrociato:  
@@ -46,15 +48,22 @@ Quindi ho dovuto ripiegare di nuovo sul desktop.
 
 ## Vista/Win7: gadget
 Evidentemente la voglia di vedere indicatori a schermo non era una malattia solo mia, se Microsoft ha deciso di aggiungere a Windows Vista e 7 i **"gadget"**.  
-Ho usato per poco tempo quelli scarsi già disponibili nell'OS, e presto altri molto migliori disponibili su [addgadgets.com](https://addgadgets.com).  
+![](images/gadget.png)
+
+Ho usato per poco tempo quelli mediocri già disponibili nell'OS, e presto quelli molto migliori disponibili su [addgadgets.com](https://addgadgets.com).  
 Scopro solo mentre sto scrivendo queste righe che i gadget si possono usare anche in Win10/Win11, grazie a [gadgetpack.net](https://gadgetpack.net).
 
 ## Rainmeter
-Durante il percorso ho incrociato anche [Rainmeter](https://www.rainmeter.net), ancora oggi molto noto nella community dei _modder_ perché consente personalizzazioni ben più spinte dell'intero desktop rispetto alle mie semplici esigenze, ma a parte qualche breve esperimento non lo ho mai usato.
+Durante il percorso ho incrociato anche [Rainmeter](https://www.rainmeter.net):  
+![](images/rainmeter.jpg)  
+
+È ancora oggi molto noto nella community dei _modder_ perché consente personalizzazioni ben più spinte dell'intero desktop rispetto alle mie semplici esigenze, ma a parte qualche breve esperimento non lo ho mai usato.
 
 ## Win10/11: Desktop Info
-Il penultimo software su questo tema è stato per me [Desktop Info](https://www.glenn.delahoy.com/desktopinfo), free, portable, configurabile, e utile anche su macchine remote come sostituto del più noto [BGInfo (oggi di Microsoft)](https://learn.microsoft.com/it-it/sysinternals/downloads/bginfo):  
+Il penultimo software su questo tema è stato per me [Desktop Info](https://www.glenn.delahoy.com/desktopinfo):  
 ![](images/desktopinfo.png)
+
+Interessante perché è free anche per uso business, è portable, è piuttosto configurabile, e si rivela utile anche su macchine remote come sostituto del più noto [BGInfo (oggi di Microsoft)](https://learn.microsoft.com/it-it/sysinternals/downloads/bginfo).  
 
 # TrafficMonitor
 Per ultimo, credo nel 2021, ho trovato un programmino che finalmente mi consente di vedere le informazioni che volevo nella taskbar di Windows come facevo con Samurize 20 anni prima, **TrafficMonitor**:  
