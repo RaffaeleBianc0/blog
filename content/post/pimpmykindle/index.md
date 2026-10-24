@@ -81,6 +81,15 @@ Come provider per fare le prime prove suggerisco [OpenRouter](https://openrouter
 
 
 
+# Fonts
+[Nico Verbruggen](https://nicoverbruggen.be) ha costruito una raccolta di font aggiuntivi dedicati agli ebook reader.  
+Puoi provarle in anteprima in [questo sito](https://ebook-fonts.nicoverbruggen.be), oppure scaricare direttamente i pacchetti dal [repository GitHub](https://github.com/nicoverbruggen/ebook-fonts/releases).
+
+Per installare i font, basta copiare i file .ttf direttamente nella cartella /mnt/us/koreader/fonts.  
+Per vederli in KOReader, basta riavviarlo (dal menu "hamburger" in alto a destra, "Exit > Restart KOReader").
+
+
+
 # Finally free
 Per concludere tutto come si deve, ho fatto queste ultime operazioni:
 1. Ho **disassociato il Kindle dal mio account Amazon**, si fa dal menu originale "Tutte le impostazioni > Il tuo account": la libreria è sparita (tanto gli stessi libri che ho acquistato nel tempo li ho già recuperati come file EPUB), e soprattutto sono sparite le maledette proposte commerciali di Amazon per l'acquisto di nuovi libri.  
