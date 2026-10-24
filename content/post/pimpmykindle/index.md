@@ -74,8 +74,6 @@ Per esempio puoi ottenere il riassunto del libro fino al punto dove sei arrivato
 La configurazione non è immediata, ma seguendo le istruzioni nel repo GitHub non si sbaglia.  
 Come provider per fare le prime prove suggerisco [OpenRouter](https://openrouter.ai/) che regala interazioni gratuite quotidiane senza dover pagare, e risultati discreti. Anche Google Gemini consente qualche prova, i risultati sono eccellenti, ma il credito free quotidiano mi pare si esaurisca molto presto, spesso con una singola interazione.  
 
-
-
 ## SleepRibbon
 ![](images/sleepribbon.png)
 [SleepRibbon](https://github.com/araponga321/sleepribbon.koplugin) consente di stampare informazioni sull'avanzamento della lettura in sovrimpressione sulla copertina del libro durante lo standby del dispositivo. Per i più meticolosi, è possibile personalizzare il ribbon su ciascun libro, per rispettare font colori impaginazione e "annegare" così il ribbon nella grafica originale.
@@ -93,6 +91,7 @@ Per vederli in KOReader, basta riavviarlo (dal menu "hamburger" in alto a destra
 
 # Finally free
 Per concludere tutto come si deve, ho fatto queste ultime operazioni:
+
 1. Ho **disassociato il Kindle dal mio account Amazon**, dal menu originale "Tutte le impostazioni > Il tuo account": la libreria è sparita (tanto gli stessi libri che ho acquistato nel tempo li ho già recuperati come file EPUB), e soprattutto sono sparite le maledette proposte commerciali di Amazon per l'acquisto di nuovi libri.  
 Incidentalmente, la RAM occupata nel dispositivo durante la lettura è passata dal 70% circa al 55% circa, il che dovrebbe lasciare un po' più di "agilità" al sistema, che può servire per esempio per aprire file complessi.
 
