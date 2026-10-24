@@ -1,19 +1,21 @@
 ---
 title: "TrafficMonitor"
 description: "Monitor risorse discreto per la taskbar"
-date: "2026-10-18"
-lastmod: "2026-10-18"
+date: "2026-10-24"
+# lastmod: "2026-10-24"
 categories: 
   - "tecnologia"
   - "amarcord"
 image: "images/trafficmonitor.gif"
-draft: true
+draft: false
 ---
 
 # L'abitudine
 È da una vita che tengo visualizzato a schermo qualche indicatore sull'utilizzo delle risorse hardware, come cpu, ram, rete.  
 
-Il motivo non è strettamente pratico, perché un colpetto di {{< tasto "Ctrl" >}}+{{< tasto "⬆️Shift" >}}+{{< tasto "Esc" >}} mostra più o meno le stesse informazioni nel Task Manager di Windows, senza bisogno di installare nulla.  
+Il motivo non è strettamente pratico, perché un colpetto di {{< tasto "Ctrl" >}}{{< tasto "⬆️Shift" >}}{{< tasto "Esc" >}} mostra più o meno le stesse informazioni nel Task Manager di Windows, senza bisogno di installare nulla:  
+![](images/taskmgr.png)
+
 Credo che si tratti solo del gusto di avere le cose sempre sott'occhio, magari in forma grafica (lancette, barre, istogrammi): da bambino scrivevo classifiche delle mie auto preferite in base a quanto mi piaceva il cruscotto, mica l'auto, e penso che la malattia sia rimasta più o meno quella.
 
 
@@ -57,7 +59,7 @@ Il penultimo software su questo tema è stato per me [Desktop Info](https://www.
 E infine, credo nel 2021, ho trovato un programmino che finalmente mi consente di vedere le informazioni che volevo nella taskbar di Windows come facevo con Samurize 20 anni prima, **TrafficMonitor**:  
 ![](images/trafficmonitor.gif)
 
-Certo non è altrettanto configurabile, ma fa subito quello che serve ed è molto minimale e discreto a schermo, che mi sembra vada benissimo anche in un contesto business.
+Certo non è altrettanto configurabile, ma fa subito quello che serve ed è molto minimale e discreto, che mi sembra vada benissimo anche in un contesto business.
 
 Consiglio la **versione Lite** perché funziona senza privilegi amministrativi e si può eseguire "portable", e queste due caratteristiche consentono un agile utilizzo anche su PC aziendali gestiti rigorosamente.  
 La versione completa richiede invece privilegi amministrativi per visualizzare informazioni sulla temperatura di alcuni componenti del PC, e qualche antivirus rileva un falso positivo sulla libreria usata per questa funzionalità.  
