@@ -11,24 +11,25 @@ draft: false
 ---
 
 # L'abitudine
-È da una vita che tengo visualizzato a schermo qualche indicatore sull'utilizzo delle risorse hardware, come cpu, ram, rete.  
+È da una vita che tengo visualizzato a schermo qualche indicatore sull'utilizzo real-time delle risorse hardware, come cpu, ram, rete.  
 
 Il motivo non è strettamente pratico, perché un colpetto di {{< tasto "Ctrl" >}}+{{< tasto "⬆️Shift" >}}+{{< tasto "Esc" >}} mostra le stesse informazioni nel Task Manager di Windows, senza bisogno di installare nulla:  
 ![](images/taskmgr.png)
 
-Credo che si tratti solo del gusto di avere le cose sempre sott'occhio, magari in forma grafica (lancette, barre, istogrammi): da bambino scrivevo classifiche delle mie auto preferite in base a quanto mi piaceva il cruscotto, mica l'auto, e penso che la malattia sia rimasta più o meno quella.
+Credo che si tratti solo del gusto di avere le cose sempre sott'occhio, magari in forma grafica (lancette, barre, istogrammi).
 
 
-
-# 30+ anni di "cruscotti"
+# 40+ anni di "cruscotti"
 Questo post fa parte della categoria "<a href='/blog/categories/amarcord/'>amarcord</a>" perché in questo capitolo riassumo cosa ho usato negli ultimi 30+ anni per ottenere quello che ho descritto qui sopra.  
 
+## Prodromi
+Con una infanzia a base di Supercar, Automan, Commodore 64, classifiche delle mie auto preferite compilate in base a quanto mi piaceva il cruscotto (mica l'auto), e ore passate a sognare sul Postalmarket, ma non sulle pagine alle quali hai appena pensato, bensì sulle pagine degli orologi Casio... io dico che il tarlo mi sia nato da bambino.
 
 ## Win95/98/ME: Norton
-Gli indicatori della suite di utility **Norton System Doctor** sono stati forse la prima cosa che ho incrociato:  
+Gli indicatori della suite di utility **Norton System Doctor** sono stati forse la prima cosa che ho incrociato su computer:  
 ![](images/w95-norton.png)
 
-Ricordo che potevi fissarli ad un bordo dello schermo, in modo che restassero sempre in vista anche massimizzando la finestra dell'applicazione che stavi usando, al costo di un bel po' di spazio utile se pensi che al tempo i CRT più diffusi avevano risoluzioni SVGA (800x600) o XGA (1024x768).
+Ricordo che potevi fissarli ad un bordo dello schermo, in modo che restassero sempre in vista anche massimizzando la finestra dell'applicazione che stavi usando, al costo però di un bel po' di spazio utile, pure troppo, se pensi che al tempo i CRT più diffusi avevano risoluzioni SVGA (800x600) o XGA (1024x768).
 
 ## DUMeter/NetMeter
 Per un lungo periodo, poco dopo l'arrivo di Internet nelle case, ancora con i modem analogici, ho usato [DUMeter](https://dumeter.net), successivamente sostituito con il quasi-clone gratuito [NetMeter](http://metal-machine.de/readerror/netmeter-evo), per mostrare soltanto l'occupazione di banda tramite una finestrella sempre in primo piano:  
@@ -42,7 +43,7 @@ Ho dedicato ore a personalizzare la mia configurazione su desktop:
 ... ma la cosa che preferivo in assoluto era che si potesse posizionare al posto dell'orologio standard di Windows, rimanendo così sempre in vista anche nell'uso fullscreen delle applicazioni, senza sovrapporsi ad altre cose:  
 ![](images/wxp-samurize-taskbar.png)
 
-Questa possibilità di rimpiazzare l'orologio sulla taskbar purtroppo non funzionava più in Windows Vista, e probabilmente l'autore ha abbandonato il progetto in quel periodo.  
+Questa possibilità di rimpiazzare l'orologio sulla taskbar purtroppo non funzionava più in Windows Vista, e probabilmente l'autore ha abbandonato il progetto attorno a quel periodo.  
 
 ## Vista/Win7: gadget
 Evidentemente la voglia di vedere indicatori a schermo non era una malattia solo mia, se Microsoft ha deciso di aggiungere a Windows Vista i **"gadget"**, disponibili anche sul successivo Win7.  
