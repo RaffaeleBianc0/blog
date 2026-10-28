@@ -2,7 +2,7 @@
 title: "TrafficMonitor"
 description: "Monitor risorse discreto per la taskbar"
 date: "2026-10-24"
-# lastmod: "2026-10-24"
+lastmod: "2026-10-28"
 categories: 
   - "tecnologia"
   - "amarcord"
