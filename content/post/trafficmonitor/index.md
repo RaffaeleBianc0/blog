@@ -43,7 +43,7 @@ Ho dedicato ore a personalizzare la mia configurazione su desktop:
 ... ma la cosa che preferivo in assoluto era che si potesse posizionare al posto dell'orologio standard di Windows, rimanendo così sempre in vista anche nell'uso fullscreen delle applicazioni, senza sovrapporsi ad altre cose:  
 ![](images/wxp-samurize-taskbar.png)
 
-Questa possibilità di rimpiazzare l'orologio sulla taskbar purtroppo non funzionava più in Windows Vista, e probabilmente l'autore ha abbandonato il progetto attorno a quel periodo.  
+Questa possibilità di rimpiazzare l'orologio sulla taskbar purtroppo non funzionava più in Windows Vista, e credo che l'autore abbia abbandonato il progetto attorno a quel periodo. Non essendo software opensource, nessuno ha potuto continuare lo sviluppo ed è morto così.  
 
 ## Vista/Win7: gadget
 Evidentemente la voglia di vedere indicatori a schermo non era una malattia solo mia, se Microsoft ha deciso di aggiungere a Windows Vista i **"gadget"**, disponibili anche sul successivo Win7.  
@@ -52,25 +52,25 @@ Evidentemente la voglia di vedere indicatori a schermo non era una malattia solo
 Ho usato per poco tempo quelli mediocri già disponibili nell'OS, e presto quelli molto migliori disponibili su [addgadgets.com](https://addgadgets.com).  
 Scopro solo mentre sto scrivendo queste righe che i gadget si possono usare anche in Win10/Win11, grazie a [gadgetpack.net](https://gadgetpack.net).
 
-## Rainmeter
-Durante il percorso ho incrociato anche [Rainmeter](https://www.rainmeter.net):  
-![](images/rainmeter.jpg)  
-
-È ancora oggi molto noto nella community dei _modder_ perché consente personalizzazioni ben più spinte dell'intero desktop rispetto alle mie semplici esigenze, ma a parte qualche breve esperimento non lo ho mai usato.
-
 ## Win10/11: Desktop Info
 Il penultimo software su questo tema è stato per me [Desktop Info](https://www.glenn.delahoy.com/desktopinfo):  
 ![](images/desktopinfo.png)
 
-Interessante perché è free anche per uso business, è portable, è piuttosto configurabile, e si rivela utile anche su macchine remote come sostituto del più noto (ma ben più rudimentale) [BGInfo (oggi di Microsoft)](https://learn.microsoft.com/it-it/sysinternals/downloads/bginfo).  
+Interessante perché è free anche per uso business, è portable, è piuttosto configurabile, e si rivela utile anche su macchine remote come sostituto del più noto [BGInfo (oggi di Microsoft)](https://learn.microsoft.com/it-it/sysinternals/downloads/bginfo).  
 
-Forse è il software più vicino al mitico [Conky](https://it.wikipedia.org/wiki/Conky) del mondo *nix.
+Forse è il software per Windows che più assomiglia al mitico [Conky](https://it.wikipedia.org/wiki/Conky) del mondo *nix.
+
+## Rainmeter
+Durante il percorso ho incrociato anche [Rainmeter](https://www.rainmeter.net):  
+![](images/rainmeter.jpg)  
+
+È ancora oggi molto noto nella community dei _modder_ perché consente personalizzazioni ben più spinte dell'intero desktop rispetto alle mie semplici esigenze, ma a parte qualche breve esperimento non lo ho mai usato, credo soprattutto perché avevo appena dedicato già troppo tempo a costruire la mia configurazione di Desktop Info per ripartire daccapo su un nuovo software.
 
 # TrafficMonitor
 Per ultimo, credo nel 2021, ho trovato un programmino che finalmente mi consente di vedere le informazioni che volevo nella taskbar di Windows come facevo con Samurize 20 anni prima, **TrafficMonitor**:  
 ![](images/trafficmonitor.gif)
 
-Non ci posso fare esattamente quello che voglio, ma come pregi direi che fa subito quello che serve ed è molto minimale e discreto, il che lo rende molto appropriato anche in un contesto business.
+Tra i suoi pregi direi che fa subito quello che serve ed è molto minimale e discreto (a patto di non attivare le orrende skin integrate), il che lo rende molto appropriato anche in un contesto business.  
 
 Consiglio la **versione Lite** perché funziona senza privilegi amministrativi e si può eseguire "portable", e queste due caratteristiche consentono un agile utilizzo anche su PC aziendali gestiti rigorosamente.  
 La versione completa richiede invece privilegi amministrativi per visualizzare informazioni sulla temperatura di alcuni componenti del PC, e qualche antivirus rileva un falso positivo sulla libreria usata per questa funzionalità.  
