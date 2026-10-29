@@ -2,7 +2,7 @@
 title: "Digital detox"
 description: "Trucchetti per degustare la modernità invece di abbuffarsi"
 date: "2026-09-10"
-lastmod: '2026-10-04'
+lastmod: "2026-10-29"
 categories: 
   - "tecnologia"
 image: "images/cover.jpg"
@@ -17,33 +17,33 @@ E siccome **queste scelte mi fanno stare bene**, mi va di scriverne.
 
 # Cronaca
 
-**Sguazzo nel digitale dagli anni '80** con gusto, da quando ero un bambino innamorato di orologi Casio, videogame, Supercar e Automan, dai '90 anche per studio e passione, e poi nel nuovo millennio per _tutto quanto_, studio lavoro casa salute hobby.  
-Direi che **sono promotore assoluto del digitale ovunque possibile**, per gli ovvi vantaggi che sono sotto agli occhi di tutti: è più comodo, più versatile, e più sicuro (se pratichi una normale [igiene digitale]({{< ref "igiene-digitale.md" >}})) in quasi tutte le applicazioni rispetto al corrispettivo analogico.  
+**Sguazzo nel digitale dagli anni '80** con gusto, da quando ero un bambino innamorato di orologi Casio, videogame, Supercar e Automan, dai '90 anche per studio e passione, e poi nel nuovo millennio per _tutto quanto_, studio lavoro casa salute hobby, davvero tutto.  
+Direi che **sono promotore assoluto del digitale ovunque possibile**, per i vantaggi lapalissiani: è più comodo, più versatile, e più sicuro (se pratichi una normale [igiene digitale]({{< ref "igiene-digitale.md" >}})) in quasi tutte le applicazioni rispetto al corrispettivo analogico.  
 
-**Questo quadretto roseo ha mostrato le prime crepe** negli ultimi anni, osservando e riflettendo su tanti fenomeni che vediamo tutti: i contenuti nei social tra narcisismi senza valore e sfoghi di analfabetismo funzionale, le pubblicità spinte dalle piattaforme prima durante e dopo qualunque contenuto anche quando paghi un abbonamento, il tumore che è l'influencer marketing, le tavolate di adolescenti in pizzeria ciascuno in silenzio sul proprio smartphone, le persone con cui sto chiacchierando che guardano lo smartwatch e poi il telefono perché è arrivata una notifica, stanno con gli occhi sul telefono mentre continuo a parlargli e perdono il filo...  
+**Questo quadretto roseo ha mostrato le prime crepe** negli ultimi anni, riflettendo su tanti fenomeni che vediamo tutti: i contenuti nei social tra narcisismi senza valore e sfoghi di analfabetismo funzionale, le pubblicità spinte dalle piattaforme prima durante e dopo qualunque contenuto anche quando paghi un abbonamento, il tumore che è l'influencer marketing, le tavolate di adolescenti in pizzeria ciascuno in silenzio sul proprio smartphone, le persone con cui sto chiacchierando che guardano lo smartwatch e poi il telefono perché è arrivata una notifica, stanno con gli occhi sul telefono mentre continuo a parlargli e perdono il filo...  
 
 ... ma soprattutto riflettendo su me stesso, sul **tempo che ho dedicato ai social quasi ogni giorno** da quando ho uno smartphone, quello che vedi nel menu "Benessere digitale", quello che ti sembra non essere un vero problema o addirittura di averne il controllo, _"smetto quando voglio"_ (cit.), e a fine giornata hai dedicato (quando va bene) un'oretta o una e mezza nei social, quasi ogni giorno negli ultimi boh 10-15 anni, **migliaia di ore** delle quali ti resta una manciata di reel visti ieri per poter dire al caffè coi colleghi "ah sì l'avevo visto haha troppo ridere". _Wow, l'evoluzione._  
 
-Con questi pensieri sempre più nitidi, frequenti, numerosi, piano piano si è sviluppata una voglia di reagire per **recuperare un po' di intenzionalità** nell'uso di queste tecnologie invece di cedere continuamente all'algoritmo.  
+Con questi pensieri sempre più nitidi, frequenti, numerosi, piano piano si è sviluppata una voglia di reagire per **recuperare un po' di intenzionalità** invece di cedere continuamente all'algoritmo.  
 L'inerzia è stata gigantesca, 'sto "algoritmo" è proprio fatto bene, quindi non ho fatto nulla per anni, un po' come l'attività fisica, "dovrei farlo" ma niente.  
 
 **Fino a quando lo ho fatto** in un momento a caso, senza premeditazione, durante il solito doom-scrolling su Facebook: chiudo la app, long-tap > Disinstalla > Sei sicuro? > confermo e via. Andata.  
 Qualche secondo quasi di sorpresa, _"beh? lo ho fatto!"_, e poi... ormai che ci sono, _all-in_, stessa procedura con Instagram e con Linkedin. Via tutto. Totale: 30 secondi. _"Tanto alla peggio le re-installo"_.  
 
-Da quel giorno uso i social una frazione del tempo rispetto a prima, ho ricominciato a leggere, scrivo di più, e guardo tante puttanate in meno online.  
-Non ho smesso del tutto, sia chiaro, mica sono un eremita digitale, ogni tanto una sbirciata tramite browser ci sta, ma mi sembra di **avere maggior controllo e consapevolezza**, mettiamola così.  
+E invece non le ho più re-installate. E da quel giorno uso i social una frazione del tempo rispetto a prima, ho ricominciato a leggere, scrivo di più, e guardo tante puttanate in meno online.  
+Non ho smesso del tutto, sia chiaro, mica sono un eremita digitale, ogni tanto una sbirciata tramite browser ci sta, ma mi sembra di farlo con **maggior controllo e consapevolezza**, mettiamola così.  
 
 Durerà? E chi lo sa? Io sono già contento, di solito non consigliano questo tipo di approccio radicale e suggeriscono di fare un percorso di disintossicazione progressiva perché sia più sostenibile nel lungo periodo... non so, per ora sto benone e **non sento nessun bisogno di re-installare quelle app**.
 
 Ti parlo allora delle soluzioni che ho adottato, e anche di qualcosa che sto valutando per il futuro.  
-Accorgimenti ovvi, piccoli, elementari, da applicare in 5 secondi, non scherzo sono davvero cose immediate e che hai già sentito, voglio soltanto metterci del mio con qualche considerazione extra.  
+Accorgimenti ovvi, piccoli, elementari, da applicare in 5 secondi, non scherzo sono davvero cose immediate e che hai già sentito, voglio soltanto fare la mia personale rassegna ed arricchirla di qualche considerazione extra.  
 
 
 
 # Azioni
 
 ## Notifiche sul telefono
-Questa è la cosa più banale di tutte, che ha un impatto minuscolo ma moltiplicato per centinaia di volte al giorno.  
+Questa è la cosa più banale di tutte, che ha un impatto minuscolo ma moltiplicato per decine e decine di volte al giorno.  
 
 Nel telefono da parecchi anni **ho disattivato quasi tutte le notifiche** - news, email, gruppi Whatsapp, gruppi Teams, browser, videogames, e soprattutto di tutti i social.  
 Non serve fare tutto in un colpo solo, basta farlo man mano che le ricevi dalle varie app: tieni il dito sulla prossima notifica molesta, selezioni "Disattiva", "Silenzia" o simile, ed è fatta. Tempo 3 secondi.
@@ -59,14 +59,22 @@ Se aprirai quella app tra qualche ora invece di "subito", sai già che non cambi
 
 ## App social
 Come ho raccontato sopra, ho disinstallato tutte le app dei social, in pochi secondi.  
-Non ho cancellato i miei account.  
-**Accedo agli stessi social usando il browser**, sia su PC che su telefono, senza che cambi granché rispetto all'uso delle app.
+Non ho cancellato i miei account: semplicemente **accedo agli stessi social usando il browser**, sia su PC che su telefono, senza che cambi granché rispetto all'uso delle app.
 
-Sembra abbastanza inutile, e invece i vantaggi che ho sperimentato sono questi:
-1. **Meno uso compulsivo**: questa è la cosa più importante. Il solo attrito di dover aprire il browser e dover digitare il nome del social che vuoi consultare riduce drasticamente il numero di volte che lo farai, perché non è più un automatismo. Funziona davvero! E fa riflettere su come siamo fatti e "pilotabili".
+Sembra abbastanza inutile a prima vista.  
+E invece i vantaggi che ho sperimentato sono questi:
+1. **Meno uso compulsivo**: questa è la cosa più importante. Il solo attrito di dover aprire il browser e dover digitare il nome del social che vuoi consultare riduce drasticamente il numero di volte che lo faccio, perché non è più un automatismo. Funziona davvero! E fa riflettere su come siamo fatti e "pilotabili" con così poco.
 1. **Zero notifiche** (questo era già vero da anni, vedi sopra - ovviamente anche tutte le notifiche di Chrome sono spente da sempre)
-1. **Più tutela dei tuoi dati** (le app raccolgono dati di profilazione anche quando non le usi)
+1. **Più tutela dei tuoi dati** (le app raccolgono dati di profilazione anche quando non le usi, mentre i corrispondenti siti web quando sono chiusi sono chiusi)
 1. **Meno risorse impegnate** (le app consumano spazio, batteria, e banda anche mentre non le usi attivamente, per quanto poco), che su alcuni smartphone più economici o vecchiotti può essere vantaggioso.
+
+### E se le app non si riescono a disinstallare?
+Ho avuto telefoni dove alcune app non essenziali (compreso Facebook!) non erano disinstallabili, perché pre-installate dal produttore che ha deciso così.  
+
+La soluzione è un po' da smanettoni, ma la ho applicata con successo in un quarto d'ora.  
+Ho seguito le istruzioni in [questo articolo nel celebre sito XDA-developers](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/), stando attento a non cancellare cose sconosciute.  
+
+Si trovano informazioni online su cosa è sicuro rimuovere e cosa no tramite questo sistema, quindi potrebbe essere l'occasione buona per togliere dal telefono anche tante altre app superflue, specie se il telefono è un po' vecchio. Fai la massima attenzione a non cancellare componenti di sistema!
 
 
 

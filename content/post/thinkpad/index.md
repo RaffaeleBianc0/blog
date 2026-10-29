@@ -15,7 +15,7 @@ image: "images/x280-flat.jpg"
 >   
 > Budget > 400€, o ti va bene anche il 15" da GDO? **Allora compra un notebook nuovo.**
 
-Sono in uno dei miei periodici momenti "divulgativi", nei quali mi vien voglia di scrivere quello che ho imparato su un certo argomento, così per il gusto di scrivere.  
+Sono in uno dei miei periodici momenti "divulgativi", nei quali mi vien voglia di scrivere quello che ho imparato su un certo argomento.  
 Questo giro tocca ai portatili usati.
 
 Un annetto fa ho deciso di prenderne uno per uso personale.  
@@ -49,17 +49,17 @@ Parlando dell'acquisto di un computer, una volta ero dell'idea "non mi interessa
 
 1. **PRESTAZIONI**: i PC vecchi sono più lenti di quelli nuovi.
 
-3. **ESTETICA:** i PC vecchi sono più brutti e/o pesanti e/o ingombranti di quelli nuovi.
+2. **ESTETICA:** i PC vecchi sono più brutti e/o pesanti e/o ingombranti di quelli nuovi.
 
-5. **DIFETTI**: il rischio di incappare in difetti estetici (strisci, crepe, segni di adesivi rimossi male) o addirittura in problemi funzionali non immediatamente evidenti è concreto e facilmente mascherabile da un venditore senza troppi scrupoli.
+3. **DIFETTI**: il rischio di incappare in difetti estetici (strisci, crepe, segni di adesivi rimossi male) o addirittura in problemi funzionali non immediatamente evidenti è concreto e facilmente mascherabile da un venditore senza troppi scrupoli.
 
 Il mercato dei PC [_ricondizionati_](#ricondizionato), che ho scoperto recentemente, mi ha insegnato una prospettiva diversa sugli stessi argomenti (tant'è che il mio acquisto è stato proprio un ultrabook ricondizionato):
 
 1. **PRESTAZIONI**: la stragrande maggioranza delle attività che si fanno con un PC nuovo (scrivere, leggere, guardare, ascoltare, comunicare) le faccio serenamente con un PC di 5 anni fa, senza percepire differenze.
 
-3. **ESTETICA:** il design dei Thinkpad è rimasto coerente da più di 20 anni (fatti salvi i miglioramenti in dimensioni e peso), e per come la vedo io sono tra i notebook più belli che ci sono. Quelli di 5 anni fa sono praticamente identici a quelli attuali (le differenze sono letteralmente di qualche millimetro e qualche decina di grammi).
+2. **ESTETICA:** il design dei Thinkpad è rimasto coerente da più di 20 anni (fatti salvi i miglioramenti in dimensioni e peso), e per come la vedo io sono tra i notebook più belli che ci sono. Quelli di 5 anni fa sono praticamente identici a quelli attuali (le differenze sono letteralmente di qualche millimetro e qualche decina di grammi).
 
-5. **DIFETTI**: il venditore di PC usati ricondizionati spesso è una azienda che fornisce un minimo di garanzia post-vendita, e che non vuole sporcarsi la reputazione costruita in anni di vendite (il punteggio del venditore che vedi sulla pagina prodotto). Inoltre sia eBay che Subito, dove concentro le mie ricerche, prevedono spesso garanzie sull'acquisto tali per cui puoi fare il reso (quasi) gratuitamente se l'articolo non ti soddisfa.
+3. **DIFETTI**: il venditore di PC usati ricondizionati spesso è una azienda che fornisce un minimo di garanzia post-vendita, e che non vuole sporcarsi la reputazione costruita in anni di vendite (il punteggio del venditore che vedi sulla pagina prodotto). Inoltre sia eBay che Subito, dove concentro le mie ricerche, prevedono spesso garanzie sull'acquisto tali per cui puoi fare il reso (quasi) gratuitamente se l'articolo non ti soddisfa.
 
 # Notebook
 
@@ -167,7 +167,7 @@ Alcune considerazioni su questi dati:
 "_Dipende da cosa devi farci_".  
 Questa è la risposta jolly, sempre corretta e mai risolutiva, che tutti si sentono dare alla domanda "Che PC mi consiglieresti?".
 
-L'uso "web+office" è quello classico che si fa di un PC, e con questa dicitura voglio escludere videogame, manipolazione professionale di foto/audio/video, grafica 3D e altri compiti più specialistici.  
+L'uso "web+office" è quello classico che si fa di un PC, e con questa dicitura voglio escludere videogame 3D, manipolazione professionale di foto/audio/video, grafica 3D e altri compiti più specialistici.  
 Questa destinazione d'uso consente di restringere il campo di scelta nel panorama dei notebook, evitando alcune linee di prodotto con pesi, misure, e costi più elevati a causa dell'hardware più performante, che di solito è costituito da una scheda video dedicata e da una CPU di classe diversa dalla "U", quindi più vorace di corrente elettrica, quindi che scalda di più, quindi che necessita di un sistema di dissipazione più importante, cioè più grosso e pesante, e con più spazio interno per far passare l'aria calda espulsa.
 
 Nel caso dei Thinkpad, per coprire questo caso d'uso con macchine snelle e performanti trovo interessanti le linee X e T.
