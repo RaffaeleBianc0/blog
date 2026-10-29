@@ -1,6 +1,6 @@
 ---
 title: "TrafficMonitor"
-description: "Monitor risorse discreto per la taskbar"
+description: "Monitor risorse sobrio per la taskbar di Windows"
 date: "2026-10-24"
 lastmod: "2026-10-28"
 categories: 
@@ -20,7 +20,7 @@ Credo che si tratti solo del gusto di avere le cose sempre sott'occhio, magari i
 
 
 # 40+ anni di "cruscotti"
-Questo post fa parte della categoria "<a href='/blog/categories/amarcord/'>amarcord</a>" perché in questo capitolo riassumo cosa ho usato negli ultimi 30+ anni per ottenere quello che ho descritto qui sopra.  
+Questo post fa parte della categoria "<a href='/blog/categories/amarcord/'>amarcord</a>" perché in questo capitolo riassumo cosa ho usato durante i miei anni sul PC per ottenere quello che ho descritto qui sopra.  
 
 ## Prodromi
 Con una infanzia a base di Supercar, Automan, Commodore 64, classifiche delle mie auto preferite compilate in base a quanto mi piaceva il cruscotto (mica l'auto), e ore passate a sognare sul Postalmarket, ma non sulle pagine alle quali hai appena pensato, bensì sulle pagine degli orologi Casio... io dico che il tarlo mi sia nato da bambino.
@@ -63,6 +63,8 @@ Il penultimo software su questo tema è stato per me [Desktop Info](https://www.
 ![](images/desktopinfo.png)
 
 Interessante perché è free anche per uso business, è portable, è piuttosto configurabile, e si rivela utile anche su macchine remote come sostituto del più noto (ma ben più rudimentale) [BGInfo (oggi di Microsoft)](https://learn.microsoft.com/it-it/sysinternals/downloads/bginfo).  
+
+Forse è il software più vicino al mitico [Conky](https://it.wikipedia.org/wiki/Conky) del mondo *nix.
 
 # TrafficMonitor
 Per ultimo, credo nel 2021, ho trovato un programmino che finalmente mi consente di vedere le informazioni che volevo nella taskbar di Windows come facevo con Samurize 20 anni prima, **TrafficMonitor**:  
