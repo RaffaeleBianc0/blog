@@ -85,7 +85,7 @@ Bisogna chiedere senz'altro alla propria banca di rivedere le condizioni in modo
 
 E se uno ha liquidità sufficiente ad **estinguere il mutuo**?  
 Se il tasso di interesse del mutuo è "basso" (diciamo attorno al tasso BCE corrente), allora in generale è meglio investire quei soldi invece di usarli per chiudere il mutuo, perché sul lungo periodo e con un portafoglio bilanciato è molto probabile che il rendimento sia maggiore del tasso del mutuo.  
-Certo la serenità di liberarsi del peso della rata mensile fa gola, ma raramente la combinazione "razionalità + emotività" produce risultati ottimali quando si tratta di soldi.
+Certo la serenità di liberarsi del peso della rata mensile fa gola, ma raramente l'emotività porta a risultati ottimali quando si tratta di soldi. Mai, direi.
 
 ## Budgeting
 Per tracciare le mie spese e farmi un'idea di quanto riesco a risparmiare mediamente ogni mese, ho usato la app [**Wallet** di Budgetbakers](https://budgetbakers.com/en/products/wallet/) perché si collega al mio conto corrente una volta al giorno per leggere saldo e transazioni, le categorizza automaticamente, e fornisce report e statistiche molto utili.  
@@ -151,7 +151,7 @@ Una **giacenza media sempre inferiore ai 5000€** mi è molto più che sufficie
 - Se dopo gli addebiti automatici il saldo del CC è inferiore al "livello comfort", allora per questo mese mi fermo qui e non proseguo con le operazioni descritte di seguito; se invece è superiore, allora uso l’eccedenza per il passaggio seguente.
 
 ## Fondo di emergenza
-Con l’eccedenza in arrivo dal CC, porto il **saldo del FdE verso il suo "livello comfort"**, che nel mio caso ho deciso essere pari a 6 stipendi: giudico questa una **somma sufficiente a coprire le spese più consistenti che potrebbero capitarmi** - ferie, dentista, grandi riparazioni, oppure perdita del lavoro e necessità di un buffer che copra le spese in attesa di trovare un nuovo impiego.  
+Con l'eccedenza dal passaggio precedente, porto il **saldo del FdE verso il suo "livello comfort"**, che nel mio caso ho deciso essere pari a 6 stipendi: giudico questa una **somma sufficiente a coprire le spese più consistenti che potrebbero capitarmi** - ferie, dentista, grandi riparazioni, oppure perdita del lavoro e necessità di un buffer che copra le spese in attesa di trovare un nuovo impiego.  
 - Se il saldo del FdE è inferiore al "livello comfort", allora per questo mese mi fermo qui e non proseguo con le operazioni descritte di seguito; se invece diventasse superiore, allora verso solo la parte necessaria ad andare a livello e uso l’eccedenza per il passaggio seguente.
 
 ## ETF
