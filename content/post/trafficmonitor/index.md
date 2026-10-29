@@ -26,7 +26,7 @@ Questo post fa parte della categoria "<a href='/blog/categories/amarcord/'>amarc
 Con una infanzia a base di Supercar, Automan, Commodore 64, classifiche delle mie auto preferite compilate in base a quanto mi piaceva il cruscotto (mica l'auto), e ore passate a sognare sul Postalmarket, ma non sulle pagine alle quali hai appena pensato, bensì sulle pagine degli orologi Casio... io dico che il tarlo mi sia nato da bambino.
 
 ## Win95/98/ME: Norton
-Gli indicatori della suite di utility **Norton System Doctor** sono stati forse la prima cosa che ho incrociato su computer:  
+Gli indicatori di **Norton System Doctor** sono stati forse la prima cosa che ho incrociato su computer:  
 ![](images/w95-norton.png)
 
 Ricordo che potevi fissarli ad un bordo dello schermo, in modo che restassero sempre in vista anche massimizzando la finestra dell'applicazione che stavi usando, al costo però di un bel po' di spazio utile, pure troppo, se pensi che al tempo i CRT più diffusi avevano risoluzioni SVGA (800x600) o XGA (1024x768).
