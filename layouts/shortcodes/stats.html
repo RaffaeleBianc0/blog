@@ -28,9 +28,9 @@
     {{ $firstPost := index $posts.ByDate 0 }}
     {{ $monthsActive := div (sub now.Unix $firstPost.Date.Unix) 2592000 }} {{/* 2592000 = secondi in un mese */}}
     {{ if gt $monthsActive 0 }}
-      <li>📅 <strong>Frequenza:</strong> {{ lang.FormatNumberCustom 2 (div (float $postCount) $monthsActive) }} post/mese
+      <li>📅 <strong>Frequenza:</strong> {{ lang.FormatNumberCustom 1 (div (float $postCount) $monthsActive) }} post/mese
       {{ $yearsActive := div (sub now.Unix $firstPost.Date.Unix) 31557600 }} {{/* 31557600 = secondi in un anno */}}
-      ({{ lang.FormatNumberCustom 2 (div (float $postCount) $yearsActive) }} post/anno)</li>
+      ({{ lang.FormatNumberCustom 1 (div (float $postCount) $yearsActive) }} post/anno)</li>
     {{ end }}
 
   </ul>
