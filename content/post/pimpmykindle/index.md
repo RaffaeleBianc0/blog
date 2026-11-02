@@ -65,7 +65,7 @@ L'[integrazione con Readest](https://github.com/readest/readest/wiki/Sync-with-K
 In alternativa, rinunciando alla lettura su app Readest, la sincronizzazione tra più dispositivi KOReader si può fare con la funzione integrata, appoggiandosi al server [KoSync](https://kosync.eu) europeo (perché quello di default koreader.rocks è spesso irraggiungibile): puoi registrarti semplicemente con username e password a tua scelta direttamente da KOReader, usando lo stesso account su tutti i tuoi dispositivi.
 
 ## Hardcover
-[Hardcover](https://hardcover.app/@raffaelebianco) è una specie di "social per lettori", dove condividere quello che si sta leggendo e scoprire nuovi libri. Si può usare gratuitamente, oppure si può diventare Supporter per ottenere statistiche di lettura più avanzate.
+[Hardcover](https://hardcover.app/join?referrer_id=169081) è una specie di "social per lettori", dove condividere quello che si sta leggendo e scoprire nuovi libri. Si può usare gratuitamente, oppure si può diventare Supporter per ottenere statistiche di lettura più avanzate.  
 Il [plugin per Hardcover.app](https://github.com/Billiam/hardcoverapp.koplugin) consente la sincronizzazione automatica dei libri letti e del relativo progresso di lettura sul proprio account.
 
 ## AI Assistant
