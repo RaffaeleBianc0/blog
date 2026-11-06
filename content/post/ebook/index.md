@@ -9,17 +9,20 @@ image: "images/cover.jpg"
 draft: true
 ---
 
-Nel 2026 mi sono [reso un po' più scomodo l'accesso ai social]({{< ref "digital-detox.md" >}}) e [ho migliorato un bel po' il mio vecchio Kindle]({{< ref "kindle.md" >}}).  
-Mi è tornata la voglia di leggere, e mi è venuta anche un po' di voglia di cambiare dispositivo.  
+Nel 2026 mi sono [reso leggermente più scomodo l'accesso ai social]({{< ref "digital-detox.md" >}}) e [ho migliorato un bel po' il mio vecchio Kindle]({{< ref "kindle.md" >}}).  
+Mi è tornata la voglia di leggere, e mi è venuta anche voglia di cambiare dispositivo.  
 Per ora sto resistendo alla compulsione, ma mi sono informato come se dovessi acquistarlo oggi stesso, e qui condivido le mie considerazioni. Chissà che tornino utili a chi ha voglia di fare lo stesso acquisto, e magari non sa che oltre ai conosciutissimi Amazon Kindle ci sono altre scelte, spesso migliori.
 
+
+
 # Perché ebook
-Se non hai mai provato, allora la prima domanda forse è: perché leggere libri elettronici invece che cartacei?  
-Per un sacco di motivi, tra i quali i miei sono questi:
-- Un dispositivo da due etti può contenere decine di migliaia di libri. Ottimo per viaggi e traslochi, ma non solo.
-- Puoi avere lo stesso libro su più dispositivi (compresi smartphone tablet PC) e proseguire la lettura da uno all'altro, senza dover tracciare "dove eri arrivato".
-- Puoi cambiare l'impaginazione: caratteri più grandi, font diverso, margini più stretti eccetera.
-- Puoi sottolineare, annotare, riassumere con l'AI, condividere porzioni di testo
+Se non hai mai provato a leggere un libro su questo tipo di dispositivi, allora la prima domanda che ti fai forse è: **perché leggere libri elettronici invece che cartacei?**  
+
+I miei motivi preferiti sono questi:
+- Un dispositivo da due etti può contenere **decine di migliaia di libri**. Ottimo per viaggi e traslochi, ma non solo.
+- Puoi avere lo stesso libro su più dispositivi (compresi smartphone tablet PC) e proseguire la lettura da uno all'altro, senza dover tracciare "dove eri arrivato". Leggere diventa possibile **sempre/ovunque**, cioè non solo quando ti sei portato dietro il libro.
+- Puoi **cambiare l'impaginazione**: caratteri più grandi, font diverso, margini più stretti eccetera.
+- Puoi sottolineare, annotare, riassumere con l'AI, condividere, insomma puoi fare tante più cose con lo stesso testo.
 - Puoi leggere anche in penombra o al buio.
 - Hai interessanti statistiche sulla tua lettura: quanto tempo ti manca per finire il capitolo e il libro, quanto leggi ogni mese, che generi preferisci, eccetera.
 
