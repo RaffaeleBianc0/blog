@@ -84,7 +84,7 @@ Ci sono anche form factor più grandi, come 8" 10" 13", dimensioni quasi tutte p
 
 
 ## 3. Colori: sì o no?
-Non è scontato preferire le varianti a colori, perché la tecnologia attuale più diffusa (Kaleido 3) rende gli e-ink colorati più scuri rispetto a quelli B/N, quindi devi alzare la luminosità e consumi un po' più di batteria.
+Non è scontato preferire le varianti a colori, perché la tecnologia attuale più diffusa [(Kaleido 3)](https://www.eink.com/brand/detail/Kaleido3) rende gli e-ink colorati più scuri rispetto a quelli B/N, quindi devi alzare la luminosità e consumi un po' più di batteria.
 
 I display e-ink B/N sono più contrastati, lo sfondo bianco è più bianco e il testo è impercettibilmente più nitido.
 
