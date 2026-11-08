@@ -76,28 +76,41 @@ Per questi motivi:
 ## 2. Dimensione: 6" o 7"?
 E' una questione di gusti: vai in un Mediaworld/Unieuro/simile, prova a impugnare due modelli di queste due dimensioni, e leggi qualche riga su ciascuno, così ti rendi conto di persona.
 
-I 6" sono molto compatti, ottimi per trasportarli, e si leggono senza problemi. Fino a qualche anno fa, c'erano solo i 6".  
+I 6" sono compatti, ottimi per trasportarli, e si leggono senza problemi. Fino a qualche anno fa, c'erano solo i 6".  
 I 7" spesso hanno qualche feature aggiuntiva oltre alla dimensione un po' più grande, ad esempio i tasti fisici per voltare pagina, oppure il pennino per poter scrivere, annotare, disegnare.
 
-Ci sono anche form factor più grandi, come 8" 10" 13", dimensioni quasi tutte pensate per chi ha bisogno di scrivere/annotare, con costi sopra i 400€, tipo alcuni Onyx, i reMarkable, e altri - ma è un caso d'uso che al momento non mi interessa, io voglio solo leggere libri.
+Ci sono anche misure più grandi, come 8" 10" 13", quasi tutte pensate per chi ha bisogno di scrivere/annotare, con costi sopra i 300€ fino agli 800€ circa, tipo alcuni Onyx, i reMarkable, e altri - ma è un caso d'uso che al momento non mi interessa, io voglio solo leggere libri.
 
 
 
 ## 3. Colori: sì o no?
-Non è scontato preferire le varianti a colori, perché la tecnologia attuale più diffusa [(Kaleido 3)](https://www.eink.com/brand/detail/Kaleido3) rende gli e-ink colorati più scuri rispetto a quelli B/N, quindi devi alzare la luminosità e consumi un po' più di batteria.
+Non è scontato preferire le varianti a colori, perché la tecnologia attuale più diffusa [(Kaleido 3)](https://www.eink.com/brand/detail/Kaleido3) rende gli e-ink colorati più scuri rispetto a quelli B/N, quindi devi alzare l'illuminazione integrata e consumi un po' più di batteria.
 
-I display e-ink B/N sono più contrastati, lo sfondo bianco è più bianco e il testo è impercettibilmente più nitido.
+I display e-ink B/N sono più contrastati, lo sfondo bianco è più bianco e il testo è impercettibilmente più nitido: la perfezione per le normali pagine di testo dei libri.
 
-Ti **servono** i colori?  
-A parte le copertine dei libri, che vedi solo nei pochi secondi prima di proseguire la lettura e come screensaver del dispositivo spento (se non hai una cover che copre il display, che però è consigliatissima perché il display è delicato), c'è altro per cui i colori ti serviranno? Leggerai fumetti o riviste? o solo migliaia di pagine di testo nero su sfondo bianco?
+Quindi: ti **servono** i colori?  
+A parte le copertine dei libri, che vedi solo nei pochi secondi prima di proseguire la lettura e come screensaver del dispositivo spento (se non hai una cover che copre il display... che però è consigliatissima perché il display è delicato), c'è altro per cui i colori ti serviranno? Leggerai fumetti o riviste? o solo migliaia di pagine di testo nero su sfondo bianco?
 
-Anche su questo parametro, consiglio il giretto al centro commerciale per guardare con i tuoi occhi due modelli affiancati e sperimentare con luminosità diverse (anche se quasi sempre l'illuminazione ambientale sarà talmente alta da impedire un confronto sensato).
+Anche su questo parametro, consiglio il giretto al centro commerciale per guardare con i tuoi occhi due modelli affiancati e sperimentare con luminosità diverse (anche se probabilmente l'illuminazione ambientale sarà talmente alta da impedire un confronto sensato).
 
 
 
-# Marche e modelli
-La decisione sul "fattore Android" è la fondamentale.  
-Fatta quella, quasi ogni marchio fornisce tutte e 4 le combinazioni degli altri 2 fattori (polliciaggio e colori):
+# Marchi
+I marchi che credo siano i più interessanti oggi per il mio scopo sono questi:
+
+**Senza Android:**
+- Kobo (forse i più noti dopo i Kindle, riparabili, ampio store, supporto al sideloading degli EPUB e a KOReader)
+- Pocketbook (ottimi per sideloading dei file EPUB, e supporto nativo a KOReader)
+- Kindle (hardware ok tranne il modello base, ma ci sono vari motivi per cui preferisco evitare l'ecosistema Amazon)
+
+**Con Android:**
+- Onyx Boox (ottimo compromesso)
+- BigMe (più costosi ma più dotati)
+
+
+
+# Modelli
+Una volta deciso se vuoi un dispositivo Android o no, quasi ogni marchio citato fornisce le 4 combinazioni di polliciaggio e colori:
 
 |Marca e modello|Android|Pollici|Colori|
 |-|-|-|-|
@@ -115,11 +128,4 @@ Fatta quella, quasi ogni marchio fornisce tutte e 4 le combinazioni degli altri 
 |Kobo Libra Colour|NO Android|7"|Colori|
 
 
-TABELLA
-I marchi da puntare "no Android":
-- Kobo (forse i più noti dopo i Kindle)
-- Pocketbook (base Linux, ottimi per sideloading dei file EPUB)
-- Amazon (hardware ok sui modelli più costosi, ma ecosistema chiuso)
-I marchi da puntare Android:
-- Onyx Boox (ottimo compromesso)
-- BigMe (più costosi ma più potenti, fotocamera, audio, cpu, ram, storage)
+
