@@ -97,11 +97,22 @@ Anche su questo parametro, consiglio il giretto al centro commerciale per guarda
 
 # Marche e modelli
 La decisione sul "fattore Android" è la fondamentale.  
-Fatta quella, ogni marchio fornisce tutte e 4 le combinazioni degli altri 2 fattori (polliciaggio e colori).
+Fatta quella, quasi ogni marchio fornisce tutte e 4 le combinazioni degli altri 2 fattori (polliciaggio e colori):
 
 |Marca e modello|Android|Pollici|Colori|
 |-|-|-|-|
 |BigMe B7 Pro|Android|7"|Colori|
+|BigMe B7 Pro|Android|7"|BW|
+|BigMe B6 Pro|Android|6"|Colori|
+|BigMe B6 Pro|Android|6"|BW|
+|Onyx Boox Go 7 Color (Gen II)|Android|7"|Colori|
+|Onyx Boox Go 7|Android|7"|BW|
+|Onyx Boox Go 6 (Gen II)|Android|6"|BW|
+|Kobo Libra Colour|NO Android|7"|Colori|
+|Kobo Libra Colour|NO Android|7"|Colori|
+|Kobo Libra Colour|NO Android|7"|Colori|
+|Kobo Libra Colour|NO Android|7"|Colori|
+|Kobo Libra Colour|NO Android|7"|Colori|
 
 
 TABELLA
