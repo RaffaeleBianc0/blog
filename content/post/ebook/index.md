@@ -13,7 +13,9 @@ Nel 2026 mi sono [reso leggermente più scomodo l'accesso ai social]({{< ref "di
  
 Mi è tornata la voglia di leggere, e mi è venuta anche voglia di cambiare dispositivo.
   
-Per ora sto resistendo alla compulsione, ma mi sono informato come se dovessi acquistarlo oggi stesso, e qui condivido le mie considerazioni.  
+Per ora sto resistendo alla compulsione, perché non mi _serve_ in senso stretto fare questo cambio, sto leggendo senza problemi anche con il mio Kindle del 2016.
+
+Ma mi sono informato come se dovessi acquistarlo oggi stesso, e qui condivido le mie considerazioni.  
 Chissà che tornino utili a chi ha voglia di fare lo stesso acquisto, e magari non sa che oltre ai conosciutissimi Amazon Kindle ci sono altre scelte, spesso migliori.
 
 
@@ -61,23 +63,23 @@ Per decidere cosa comprare, le 3 domande da farsi secondo me sono queste.
 
 
 ## 1. Android: sì o no?
-Sembra un tecnicismo, ma è la scelta che cambia drasticamente il modo di utilizzare il dispositivo.  
+Sembra un tecnicismo, ma è la scelta che cambia drasticamente quello che si può fare con un ebook reader.
 
-I dispositivi basati su Android sostanzialmente sono dei mini-tablet con schermo e-ink: quindi dal Play Store di Google puoi installare le app Kindle, Kobo, Pocketbook, Google Books, e questo già ti dà l'accesso a tutti i libri di tutte queste piattaforme, senza limitarti ad una sola, e poi puoi leggere qualunque altra cosa online, come Reddit, forum, quotidiani, digital magazine, ma anche email e messaggistica.
+I dispositivi basati su Android sostanzialmente sono dei **mini-tablet** con schermo e-ink: quindi dal Play Store di Google puoi installare le app Kindle, Kobo, Pocketbook, Google Books, e questo già ti dà l'accesso a tutti i libri di tutte queste piattaforme, senza limitarti ad una sola, e poi puoi leggere qualunque altra cosa online, come Reddit, forum, quotidiani, digital magazine, ma anche email e messaggistica.
 
 Quindi perché non comprano _tutti_ questo tipo di dispositivo, se fa più cose?  
 Per questi motivi:  
 - Costano di più, quasi sempre. 
 - Possono essere più complessi da usare rispetto ad un ebook reader standard: le funzioni di base sono sempre a portata di mano, ma c'è anche Android con tutte le sue app e i suoi menu.
 - Inducono in tentazione: lo colleghi al tuo account Google ed hai a portata di mano social, messaggistica, notifiche, e il mondo intero. Ma magari tu volevi solo disconnetterti da tutto e leggere, perché tutte le altre cose le fai già con il telefono.
-- La batteria dura qualche giorno invece di qualche settimana.
+- La batteria dura qualche _giorno_ invece di qualche _settimana_.
 
 
 
 ## 2. Dimensione: 6" o 7"?
 E' una questione di gusti: vai in un Mediaworld/Unieuro/simile, prova a impugnare esemplari di queste due dimensioni, e leggi qualche riga su ciascuno, così ti rendi conto di persona.
 
-I 6" sono compatti, ottimi per trasportarli, e si leggono senza problemi. Fino a qualche anno fa, c'erano solo i 6".  
+I 6" sono compatti, ottimi per trasportarli, e si leggono senza problemi. Fino a qualche anno fa, c'erano praticamente solo i 6".  
 I 7" spesso hanno qualche feature aggiuntiva oltre alla dimensione un po' più grande, ad esempio i tasti fisici per voltare pagina, oppure il pennino per scrivere.
 
 Ci sono anche misure più grandi, come 8" 10" 13", quasi tutte pensate per chi ha bisogno di prendere appunti, con costi più alti (300€ - 800€ indicativamente), tipo alcuni Onyx, i reMarkable, e altri - ma è un caso d'uso che al momento non mi interessa, io voglio solo leggere libri.
@@ -102,7 +104,7 @@ I marchi che credo siano i più interessanti oggi per il mio scopo sono questi:
 **Senza Android:**
 - Kobo (forse i più noti dopo i Kindle, riparabili, ampio store, supporto al sideloading degli EPUB e a KOReader)
 - Pocketbook (ottimi per sideloading dei file EPUB, e supporto nativo a KOReader)
-- Kindle (hardware ok tranne il modello base, ma ci sono vari motivi per cui preferisco evitare l'ecosistema Amazon)
+- Kindle (hardware ok tranne il modello base, ma ci sono vari motivi per cui preferisco evitarli)
 
 **Con Android:**
 - Onyx Boox serie Go (ottimo compromesso)
