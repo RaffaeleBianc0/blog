@@ -2,14 +2,14 @@
 title: "Pimp my Kindle"
 description: "Elaborazioni di un ebook reader manco fosse un Ciao"
 date: "2026-09-15"
-lastmod: '2026-09-18'
+lastmod: "2026-11-13"
 categories: 
   - "tecnologia"
 image: "images/cover.jpg"
 draft: false
 ---
 
-Nel 2026 scopro per caso che sul [mio vecchio Kindle regalatomi 10 anni prima]({{< ref "kindle.md" >}}), e ancora perfettamente funzionante, posso installare [KOReader](https://koreader.rocks).
+Nel 2026 scopro per caso che sul [mio vecchio Kindle]({{< ref "kindle.md" >}}), e ancora perfettamente funzionante, posso installare [KOReader](https://koreader.rocks).
 
 KOReader è un software opensource per leggere ebook che si può installare in quasi tutti i dispositivi Kindle, Kobo, PocketBook e Android, e offre una tonnellata di possibilità in più rispetto al software originale Amazon.  
 Le più interessanti per me sono:
@@ -41,6 +41,7 @@ Ho ovviamente sperimentato un bel po' di plugin per KOReader, soprattutto per mo
 Ti elenco quelli che sto usando ancora oggi, dopo opportuna scrematura - necessaria anche per evitare di appesantire troppo l'hardware molto limitato del mio ebook reader.
 
 ## Storefront
+![](images/storefront.png)
 Appena installato KOReader, prima ancora di staccare il Kindle dal PC, la cosa da fare subito secondo me è installare [Storefront](https://github.com/ultimatejimmy/storefront.koplugin), perché consente di valutare, installare, aggiornare e rimuovere tutti gli altri plugin direttamente dal Kindle, senza doverlo collegare al PC.
 
 ## Bookshelf
@@ -61,15 +62,19 @@ C'è una libreria di preset tra cui scegliere (dentro la quale trovi anche i mie
 [My Clippings](https://github.com/nirajkamal/myclippings.koplugin) raccoglie tutti gli highlights che hai sottolineato in tutti i libri, e li mette in un unico ebook creato appositamente, così da poterli rivedere senza saltare da un libro all'altro. 
 
 ## Readest
-L'[integrazione con Readest](https://github.com/readest/readest/wiki/Sync-with-Koreader-devices) è utile per sincronizzare i libri letti e l'avanzamento di lettura su più dispositivi, così da poter continuare la lettura su qualunque di essi mantenendo allineata la pagina dove si è arrivati (es. KOReader sul Kindle a casa, e smartphone nei ritagli di tempo fuori casa). La app Readest per Android mi permette di proseguire la lettura anche su telefono, e non è niente male.  
-In alternativa, rinunciando alla lettura su app Readest, la sincronizzazione tra più dispositivi KOReader si può fare con la funzione integrata, appoggiandosi al server [KoSync](https://kosync.eu) europeo (perché quello di default koreader.rocks è spesso irraggiungibile): puoi registrarti semplicemente con username e password a tua scelta direttamente da KOReader, usando lo stesso account su tutti i tuoi dispositivi.
+L'[integrazione con Readest](https://github.com/readest/readest/wiki/Sync-with-Koreader-devices) è utile per caricare libri EPUB da KOReader al proprio account Readest e sincronizzarne l'avanzamento di lettura su più dispositivi, così da poter continuare la lettura su qualunque di essi mantenendo allineata la pagina dove si è arrivati.  
+La [app Readest per Android](https://play.google.com/store/apps/details?id=com.bilingify.readest) mi permette di proseguire la lettura anche su telefono, mentre su PC basta accedere alla [webapp di Readest](https://web.readest.com/).  
+
+In alternativa, rinunciando alla lettura su app Readest, la sincronizzazione tra più dispositivi KOReader si può fare con la funzione nativa, appoggiandosi al server KoSync europeo [`kosync.eu`](https://kosync.eu) (perché quello di default `koreader.rocks` è spesso irraggiungibile): puoi registrarti semplicemente con username e password a tua scelta direttamente da KOReader, usando lo stesso account su tutti i tuoi dispositivi.
 
 ## Hardcover
+![](images/hardcover.png)
 [Hardcover](https://hardcover.app/join?referrer_id=169081) è una specie di "social per lettori", dove condividere quello che si sta leggendo e scoprire nuovi libri. Si può usare gratuitamente, oppure si può diventare Supporter per ottenere statistiche di lettura più avanzate.  
 Il [plugin per Hardcover.app](https://github.com/Billiam/hardcoverapp.koplugin) consente la sincronizzazione automatica dei libri letti e del relativo progresso di lettura sul proprio account.
 
-## AI Assistant
-[AI Assistant](https://github.com/omer-faruq/assistant.koplugin) consente di interagire con le AI partendo dal testo selezionato o dal libro.  
+## KOAssistant
+![](images/koassistant.png)
+[KOAssistant](https://github.com/zeeyado/koassistant.koplugin) consente di interagire con le AI partendo dal testo selezionato o dal libro.  
 Per esempio puoi ottenere il riassunto del libro fino al punto dove sei arrivato, un recap sui personaggi, luoghi, eventi, argomenti finora incontrati nella lettura, traduzioni, riassunto di tutti gli highlights che hai creato nel libro, e tante altre cose... davvero potente.  
 La configurazione non è immediata, ma seguendo le istruzioni nel repo GitHub non si sbaglia.  
 Come provider per fare le prime prove suggerisco [OpenRouter](https://openrouter.ai/) che regala interazioni gratuite quotidiane senza dover pagare, e risultati discreti. Anche Google Gemini consente qualche prova, i risultati sono eccellenti, ma il credito free quotidiano mi pare si esaurisca molto presto, spesso con una singola interazione.  
@@ -77,6 +82,10 @@ Come provider per fare le prime prove suggerisco [OpenRouter](https://openrouter
 ## SleepRibbon
 ![](images/sleepribbon.png)
 [SleepRibbon](https://github.com/araponga321/sleepribbon.koplugin) consente di stampare informazioni sull'avanzamento della lettura in sovrimpressione sulla copertina del libro durante lo standby del dispositivo. Per i più meticolosi, è possibile personalizzare il ribbon su ciascun libro, per rispettare font colori impaginazione e "annegare" così il ribbon nella grafica originale.
+
+## Reading Log
+![](images/reading-log.webp)
+[Reading Log](https://github.com/stevenzamora1/reading-log) fornisce una pagina riepilogativa molto carina sulle tue statistiche di lettura.
 
 
 

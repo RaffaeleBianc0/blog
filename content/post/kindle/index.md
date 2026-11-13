@@ -1,17 +1,22 @@
 ---
 title: "Kindle"
 date: "2017-01-30"
-lastmod: '2026-10-12'
+lastmod: '2026-11-13'
 categories: 
   - "tecnologia"
 image: "images/kindle.png"
 ---
 
-Natale 2016: mi hanno regalato il Kindle Paperwhite Gen7 di [Amazon](https://www.amazon.it).
+Anno 2016, mi regalano il Kindle Paperwhite 3 di [Amazon](https://www.amazon.it).
 
 Ce l'avevo in [wishlist](http://www.amazon.it/registry/wishlist/34Q9O6MIO49CU?sort=priority) da un bel po': non mi ero azzardato a comprarlo dato che, negli ultimi tempi, non leggevo granché.
 
-Per farla breve: nel primo mese ho letto 5 libri. Certo non tutti dei gran malloppi, anzi. Però _cinque_! Sarà anche l'effetto "novelty"... però son sempre _cinque_! Non ho _mai_ letto 5 libri in un mese.
+Per farla breve: nel primo mese ho letto 5 libri.  
+Certo non tutti dei gran malloppi, anzi.  
+Però _cinque_!  
+Sarà anche l'effetto "novelty"...  
+però son sempre _cinque_!  
+Non ho _mai_ letto 5 libri in un mese.
 
 Quindi ho pensato di scrivere questo articoletto per raccogliere alcune informazioni interessanti per chi ha uno di questi aggeggi.
 

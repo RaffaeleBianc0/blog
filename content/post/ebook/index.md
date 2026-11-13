@@ -29,7 +29,8 @@ I miei motivi preferiti sono questi:
 - Puoi **cambiare l'impaginazione**: caratteri più grandi, font diverso, margini più stretti eccetera, per motivi estetici ma soprattutto ergonomici.
 - Puoi sottolineare, annotare, riassumere con l'AI, tradurre, cercare su vocabolario, condividere, insomma puoi **fare tante cose con il testo**, oltre a leggerlo.
 - Puoi **leggere anche quando c'è poca luce**, o al buio.
-- Hai interessanti **statistiche sulla tua lettura**: quanto tempo ti manca per finire il capitolo e il libro, quanto leggi ogni mese, quali generi o quali autori hai letto di più, eccetera.
+- Hai interessanti **statistiche sulla tua lettura**: quanto tempo ti manca per finire il capitolo e il libro, quanto leggi ogni mese, quali generi o quali autori hai letto di più, eccetera.  
+- Puoi ottenere decine di migliaia di libri gratuitamente, sia legalmente (per esempio ci sono un po' di risorse [qui](https://libreriamo.it/libri/siti-dove-scaricare-libri-gratis-legalmente/)) sia dalle gigantesche librerie ombra indicizzate dal progetto [Anna's Archive](https://it.wikipedia.org/wiki/Anna%27s_Archive).
 
 
 
