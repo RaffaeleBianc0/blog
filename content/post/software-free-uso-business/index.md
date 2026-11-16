@@ -2,7 +2,7 @@
 title: "Software free che uso (anche) sul PC aziendale"
 description: "... rispettando licenze d'uso e privilegi utente limitati"
 date: "2026-08-20"
-lastmod: "2026-08-20"
+lastmod: "2026-11-16"
 categories: 
   - "tecnologia"
 image: "images/software.jpg"
@@ -11,22 +11,28 @@ draft: false
 
 A lavoro uso il notebook che mi è stato assegnato dall'azienda, e questo utilizzo è soggetto a policy che valgono per tutti i dipendenti.  
 Questo mi ha portato a riflettere su un aspetto di cui non mi sono mai interessato granché: la **licenza d'uso dei software che scelgo di utilizzare** su questo PC.  
-Per esempio ci sono alcuni programmi abbastanza noti nel panorama dei tool gratuiti, come PicPick e XnView, che usavo da anni anche su tutti i PC di lavoro che mi sono passati per le mani, senza che la rispettiva licenza d'uso me lo consentisse.
+Per esempio ci sono alcuni programmi abbastanza noti nel panorama dei tool gratuiti, come PicPick e XnView, che usavo da anni anche su tutti i PC di lavoro che mi sono passati per le mani, senza aver mai verificato che la rispettiva licenza d'uso non lo consentiva. E molte aziende prevedono sanzioni disciplinari per l'installazione di software non autorizzato.
 
-Il PC di lavoro inoltre è **amministrato centralmente dal reparto IT**, e questo significa che installare software aggiuntivo è davvero scomodo per me utente non-amministratore, o addirittura impossibile.
+Il PC di lavoro inoltre spesso è **amministrato centralmente dal reparto IT**, e questo significa che installare software aggiuntivo è davvero scomodo, o addirittura impossibile, per me utente non-amministratore.
 
 I due punti che ho appena descritto mi hanno portato a cercare e trovare alcune soluzioni di cui voglio parlare in questo articolo:
 - scoop
 - software free utilizzabili anche a lavoro
 
+
+
 # scoop
 Questo tool da riga di comando (CLI) serve a installare software nel profilo utente invece che a livello di sistema, quindi non servono i privilegi amministrativi.  
-Attenzione: il fatto che sia un tool CLI rende le installazioni molto più **facili** di quanto lo siano normalmente con Windows, avvicinandole alla praticità e immediatezza offerte dai package manager in Linux.
+Sorpresa: il fatto che sia un tool CLI rende le installazioni molto più **facili** di quanto lo siano normalmente con Windows, avvicinandole alla praticità e immediatezza offerte dai package manager in Linux.
 
-Praticamente, a grandi linee, invece di installare un programma normalmente, scoop ne scarica una versione "portable", la estrae in `%USERPROFILE%\scoop\<nomeapp>`, e aggiunge al menu Start dell'utente l'icona necessaria ad avviarlo.
-Tutto funziona come se l'app fosse stata installata col metodo tradizionale, ma con alcuni vantaggi interessanti, tra cui forse quello che preferisco è l'aggiornamento massivo di tutte le applicazioni installate tramite scoop con un singolo comando elementare: `scoop update *` e fa tutto da solo.  
+A grandi linee, l'installazione tradizionale di un programma prevede di recuperare il setup, eseguirlo con un utente che abbia diritti amministrativi, e ottenere la scrittura di file in `C:\Programmi` e di alcune chiavi di registro.  
+L'installazione dello stesso programma tramite scoop invece ne scarica una versione "portable", la estrae in `%USERPROFILE%\scoop\<nomeapp>`, e aggiunge al menu Start dell'utente l'icona necessaria ad avviarlo.  
+Per me utente finale non cambia quasi nulla, tutto funziona come se l'app fosse stata installata col metodo tradizionale, ma con alcuni vantaggi interessanti, tra cui forse quello che preferisco è l'aggiornamento massivo di tutte le applicazioni installate tramite scoop con un singolo comando elementare: `scoop update *` e fa tutto da solo.  
 La libreria di app supportate è davvero gigantesca, e ci sono molto probabilmente tutti i programmi che usi quotidianamente.  
-Ne ho poi scoperti un bel po' che non conoscevo, soprattutto piccoli tool da console davvero ben fatti (fzf, ov, btop++, gping, powerping, bat, zoxide, ...), che spingono ad usare di più il terminale rispetto a mouse e finestre, e di conseguenza ad essere più veloci in generale a fare le cose (eh già, la cara vecchia tastiera in molti contesti batte il mouse a mani basse, non va confusa la facilità con la velocità).
+
+Incidentalmente, da quando uso scoop ho scoperto anche un bel po' di tool da console davvero ben fatti (fzf, ov, btop++, gping, powerping, bat, zoxide, ...), che spingono ad usare di più il tastiera e terminale invece di mouse e finestre, con i tipici vantaggi di efficienza che questa scelta comporta.
+
+
 
 # Applicazioni free
 Di seguito faccio un rapido cenno alle app free anche per uso business alle quali non voglio più rinunciare.
