@@ -9,7 +9,13 @@ image: "images/cover.jpg"
 draft: false
 ---
 
-Nel 2026 scopro per caso che sul [mio vecchio Kindle]({{< ref "kindle.md" >}}), e ancora perfettamente funzionante, posso installare [KOReader](https://koreader.rocks).
+# TL;DR
+Come KOReader migliora gli ebook reader, come si installa, quali plugin sto usando, come gestisco libri e metadati anche sul PC.
+
+
+
+# KOReader
+Nel 2026 scopro per caso che sul [mio vecchio Kindle]({{< ref "kindle.md" >}}), ancora perfettamente funzionante, posso installare [KOReader](https://koreader.rocks).
 
 KOReader è un software opensource per leggere ebook che si può installare in quasi tutti i dispositivi Kindle, Kobo, PocketBook e Android, e offre una tonnellata di possibilità in più rispetto al software originale Amazon.  
 Le più interessanti per me sono:
@@ -113,12 +119,12 @@ Nel rarissimo caso serva lanciare manualmente KOReader (ad esempio perché è cr
 # Backup metadati in Calibre
 La gestione ideale della propria biblioteca ebook locale si può fare usando [Calibre](https://calibre-ebook.com) su PC, questo valeva anche per il Kindle pre-jailbreak.  
 Per Calibre segnalo [KOReader Calibre plugin](https://github.com/kyxap/koreader-calibre-plugin) che consente di importare i metadati di tutti i libri del dispositivo in Calibre: l'avanzamento della lettura, gli highlights, le note, i segnalibri, eccetera.  
-Si tratta di un comodo backup di tutte le informazioni a corredo di quello che leggo, fatto in locale e automaticamente ogni volta che collego il Kindle a Calibre.
+E così sul PC ho sia l'intera libreria di EPUB che leggo sul Kindle, sia tutte le informazioni a corredo di quello che leggo, fatto automaticamente ogni volta che collego il Kindle a Calibre, e che rientra automaticamente nel mio piano di backup.  
 
 
 
 # Archiviazione highlights in Obsidian
-Infine, uno dei motivi più interessanti per scegliere un ebook come supporto per la lettura secondo me è **archiviare i propri _highlights_**, cioè tutte le parti che ho sottolineato in tutti i libri, in modo da poter "ripassare" le parti significative quando voglio (e anche visualizzarne una random sempre diversa in Bookshelf/SimpleUI/ZenOS, così ripasso sempre qualche concetto utile).  
+Infine, uno dei motivi interessanti per scegliere un ebook come supporto per la lettura secondo me è **archiviare i propri _highlights_**, cioè tutte le parti che ho sottolineato in tutti i libri, in modo da poter "ripassare" le parti significative quando voglio (e anche visualizzarne una random sempre diversa in Bookshelf/SimpleUI/ZenOS, così ripasso sempre qualche concetto utile).  
 Per questa archiviazione mi piace usare [Obsidian](https://obsidian.md) sul PC, e per Obsidian esiste il [KOReader Highlights Importer Plugin for Obsidian](https://github.com/t5k6/obsidian-koreader-highlights) che estrae tutti gli highlights dal dispositivo e crea/aggiorna tutte le note nel vault in pochi istanti, popolandole anche con i metadati che descrivono il libro da cui gli highlights sono stati estratti.
 
 

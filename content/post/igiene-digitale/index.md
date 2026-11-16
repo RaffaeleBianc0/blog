@@ -2,7 +2,7 @@
 title: "Igiene digitale"
 description: "Come mi prendo cura dei miei dati"
 date: "2026-09-12"
-lastmod: '2026-09-18'
+lastmod: '2026-11-16'
 categories: 
   - "tecnologia"
 image: "images/cover.jpg"
@@ -12,35 +12,40 @@ draft: false
 Nel [post sul "digital detox"]({{< ref "digital-detox.md" >}}) avevo scritto cosa faccio per la mia igiene digitale **"interna"**, cioè la cura delle proprie facoltà fisiche e mentali.  
 Qui invece scrivo cosa faccio per la mia igiene digitale **"esterna"**, cioè la cura dei propri dati che stanno "lì fuori" appunto.  
 
+
+
+# TL;DR
+Tutti noi possediamo dati digitali, e proteggerli da errori, furti, danneggiamenti, smarrimenti è una priorità: ti racconto di cosa faccio con password, 2FA, cifratura dei dispositivi, backup, profilazione, pagamenti, ed eredità digitale.
+
+
+
+# Introduzione
 Il tema è **importante e sottovalutato** secondo me: dovrebbe far parte della conoscenza di chiunque abbia un accesso a internet, anche tua mamma con lo smartphone, anche tuo nonno col tablet.  
-Sì perché da qualche decennio _"il digitale"_ è pervasivo.
-L'esempio più ovvio è lo smartphone, ce l'abbiamo tutti, e ci serve per identità banca investimenti pagamenti antifurto serrature telecamere documenti amici ricordi appuntamenti lavoro appunti musica eccetera, se ci pensi c'è dentro la gran maggioranza delle cose della vita, in un modo o nell'altro.  
-Con questa appendice digitale le gestisci tutte in un modo ovviamente molto più pratico ed efficace rispetto a come si possono gestire _senza_ lo smartphone e i computer.  
+Dovrebbe essere ovvio, perché da qualche decennio _"il digitale"_ è pervasivo, l'esempio più ovvio è lo smartphone che abbiamo tutti e che ci serve per identità banca investimenti pagamenti antifurto serrature telecamere documenti amici ricordi appuntamenti lavoro appunti musica... c'è dentro la gran maggioranza delle cose della vita.  
 
+Perché? Perché con questa appendice digitale le cose della vita le gestisci tutte in un modo ovviamente molto più pratico ed efficace.  
 Prendi per esempio i tuoi documenti cartacei: possono danneggiarsi col tempo, puoi perderli, e li hai in un posto solo anche quando ti servono altrove.  
-Quelli digitali invece li puoi archiviare ordinatamente, sono ricercabili, li puoi duplicare N volte e depositare in più posti accessibili con tutti i tuoi dispositivi via internet, e così facendo non possono essere compromessi da alcuna catastrofe naturale né da alcun malintenzionato - a condizione di **applicare una corretta _igiene digitale_**.  
+Invece quelli digitali li puoi archiviare ordinatamente, sono ricercabili, li puoi duplicare N volte e depositare in più posti accessibili con tutti i tuoi dispositivi via internet, e così facendo non possono essere compromessi da alcuna catastrofe naturale né da alcun malintenzionato - a condizione di **applicare una corretta _igiene digitale_**, che è il punto di questo post.  
 
-Il punto è che, secondo me, manca consapevolezza su **come proteggersi dagli eventi brutti**: danneggiamento, smarrimento o furto del dispositivo, e furto di credenziali, che per inciso non è un'evenienza così remota perché è già accaduto ai database di Meta, Linkedin, Twitter, Yahoo, Adobe, Sony, Uber, Canva, LastPass, AT&T, T-Mobile, e chissà quanti altri rimasti in silenzio, e chissà quanti altri ancora che non se ne sono nemmeno accorti.  
-E anche se scegli di lasciar fuori dal telefono alcune cose, magari per gestirle solo dal PC, non so per esempio l'archiviazione delle bollette, le pratiche del mutuo casa, la tua storia medica con tutti i referti, eccetera, i rischi a cui sei esposto sono più o meno gli stessi, perché i furti di dati avvengono anche sui server delle aziende di cui sei cliente, e anche il tuo PC si può rompere/perdere/rubare.  
+Credo serva più consapevolezza su **come proteggersi dagli eventi brutti**: danneggiamento, smarrimento o furto del dispositivo, e furto di credenziali, che per inciso non è un'evenienza così remota perché è già accaduto ai database di Meta, Linkedin, Twitter, Yahoo, Adobe, Sony, Uber, Canva, LastPass, AT&T, T-Mobile, e chissà quanti altri rimasti in silenzio, e chissà quanti altri ancora che non se ne sono nemmeno accorti.  
+I furti di dati avvengono soprattutto sui server delle aziende di cui sei cliente, e telefono e PC si possono rompere/perdere/rubare. I fianchi esposti sono tanti.  
 
 Pensa a questi scenari per esempio:
 
-* Sei all'estero, hai con te portafoglio e smartphone. Vieni aggredito e scippato. **Nel telefono c'era mezza vita**, 5000 foto che non sai se sono backuppate o meno, tutti i contatti, una nota con dentro tutte le tue password leggibili, le app della banca, lo SPID, e tante altre cose.  
-Poco probabile? [Qui](https://www.phonearena.com/news/iphone-passcode-thief-reveals-secrets_id153697) parlano di un tizio che ha rubato il telefono a centinaia di persone, riuscendo a rubare loro una cifra totale stimata tra 1 e 2 milioni di dollari prima di finire in carcere.  
+* Sei all'estero, hai con te portafoglio e smartphone. Vieni aggredito e scippato. **Nel telefono c'era mezza vita**, 5000 foto che non ricordi se sono già tutte backuppate o meno, tutti i contatti, una nota con dentro tutte le tue password leggibili, le app della banca, lo SPID, e tante altre cose.  
+Poco probabile? [Qui](https://www.phonearena.com/news/iphone-passcode-thief-reveals-secrets_id153697) parlano di un tizio che ha rubato il telefono a centinaia di persone, riuscendo a sottrarre loro una cifra totale stimata tra 1 e 2 milioni di dollari prima di finire in carcere.  
 
-* Un team di hacker riesce a sottrarre un database di account di Google. Controlli la posta, ma GMail ti chiede di effettuare l'accesso. Ci provi, ma non ti accetta la password. Te l'hanno già cambiata. Peccato quella volta non aver attivato **la 2FA perché era tanto scomoda**... SPID banca posta ospedale e tutti i tuoi account hanno _quello_ come tuo indirizzo email di riferimento. E ci sono dentro 20+ anni di email archiviate. E con lo stesso account si accede al tuo calendario, alle tue foto, ai tuoi indirizzi di casa e lavoro, a tutti i tuoi file in Google Drive.  
+* Un team di hacker acquista nel dark web il database degli account di Linkedin, che era stato già sottratto nel 2012. C'è dentro anche il tuo account. La tua password Linkedin era la stessa fin da quando hai creato l'account, **non la hai mai cambiata**, è quella che usi sempre per le "cose poco importanti", quella lì breve e facile, la hai usata anche su Facebook, Twitter, il sito del fantacalcio e altri 40-50 posti che nemmeno ricordi. Un amico ti scrive che stanno uscendo post strani a nome tuo su Facebook, con un sacco di tag. Provi ad accedere ma ti hanno già rubato l'account perché email e password sono le stesse che hai usato su Linkedin e gli hacker hanno fatto "credential stuffing" e ti hanno già cambiato la password dappertutto in pochi secondi. Peccato quella volta non aver attivato **la 2FA perché era tanto scomoda**. Lo smartphone ti segnala che devi rifare l'autenticazione Google: ti hanno cambiato la password anche lì, non accedi più a GMail. SPID banca posta ospedale e tutti i tuoi account hanno _quello_ come tuo indirizzo email di riferimento. Ci sono dentro 20+ anni di email archiviate, ma soprattutto con lo stesso account si accede al tuo calendario, alle tue foto, ai tuoi indirizzi di casa e lavoro, a tutti i tuoi file in Google Drive. Su Linkedin pubblicano una foto molto ambigua usando il tuo account rubato, e taggando l'azienda per cui lavori. Il tuo capo ti telefona.  
+Tutto questo casino solo per colpa di una password imbarazzante che usi da anni ovunque.
 
-* Un altro team di hacker acquista nel dark web il database degli account di Linkedin, che era stato già sottratto nel 2012. C'è dentro anche il tuo account. La tua password Linkedin è la stessa fin da quando hai creato l'account, **non la hai mai cambiata**, è quella che usi sempre per le "cose poco importanti", quella lì breve e facile, la hai usata anche su Facebook, Twitter, il sito del fantacalcio e altri 40-50 posti che nemmeno ricordi. Un amico ti scrive che stanno uscendo post strani a nome tuo su Facebook, con un sacco di tag. Provi ad accedere ma ti hanno già rubato l'account perché email e password sono le stesse che hai usato su Linkedin e gli hacker hanno fatto "credential stuffing" e ti hanno già cambiato la password su tutti i servizi in pochi secondi con dei bot. Su Linkedin pubblicano una foto molto ambigua usando il tuo account rubato, e taggando l'azienda per cui lavori. Il tuo capo ti telefona.  
-
-A me pensare a queste cose mette i brividi.  
 **"Paranoia"** dici?  
 Io dico che la chiami così solo fino a quando non ti capita, e preferisco fare il possibile per evitarlo.  
-E succede davvero, non è mica teoria: le ho ricevute le chiamate di qualche amico che "non si avvia più il computer, devo finire di scrivere la tesi di laurea e ce la ho solo dentro lì", oppure "ho rotto il telefono, come recupero tutte le foto?", o ancora "credo di avere un virus nel telefono, cosa devo fare?".
+E succede davvero, non è mica teoria astratta: le ho ricevute le chiamate di qualche amico che "non si avvia più il computer, devo finire di scrivere la tesi di laurea e ce la ho solo dentro lì", oppure "ho rotto il telefono, come recupero tutte le foto?", o ancora "credo di avere un virus nel telefono, cosa devo fare?", sono casi diversi rispetto all'attacco di malintenzionati, ma la protezione di fondo necessaria a prevenirli è praticamente la stessa.
 
 Sotto scrivo delle soluzioni che ho adottato.  
+Ho iniziato tanti anni fa a documentarmi e ad applicare quello che imparavo, e sto migliorando ancora qualcosa ogni tanto perché il tema mi appassiona.  
 Non è un percorso facilissimo se lo affronti tutto insieme; ma fatto un pezzetto alla volta diventa un progetto personale secondo me importante.  
-Personalmente ho iniziato tanti anni fa a documentarmi e ad applicare quello che imparavo, e sto migliorando ancora qualcosa ogni tanto perché il tema mi appassiona.  
-L'obiettivo alla fine è sempre lo stesso: **stare meglio**, cioè più tranquillo, più sicuro, e per alcuni aspetti anche più _comodo_.  
+L'obiettivo alla fine è sempre **stare meglio**, cioè più tranquillo, più sicuro, e per alcuni aspetti anche più _comodo_.  
 
 Si parte!
 
@@ -266,12 +271,12 @@ Oltre a questo, c'è ovviamente la comodità di non dover mai digitare il PIN (s
 
 
 
-## Online, pago con PayPal
-Negli ecommerce **pago con PayPal** invece che con la carta di debito/credito.  
-Anche in questo caso, il motivo principale è avere uno strato aggiuntivo in mezzo tra la mia carta e il negozio, così da non far circolare i dati della mia carta di pagamento, perché la transazione viene mediata da PayPal che, tra l'altro, offre alcune tutele per gli acquirenti che diversamente non si hanno.
+## Online, pago con PayPal o Google Pay
+Negli ecommerce **pago con PayPal o Google Pay** invece che con la carta di debito/credito.  
+Anche in questo caso, il motivo principale è avere uno strato aggiuntivo in mezzo tra la mia carta e il negozio, così da non far circolare i dati della mia carta di pagamento. PayPal offre anche alcune tutele aggiuntive per gli acquirenti, ed è comodo per lo scambio di denaro con altri utenti (un po' come si può fare con SatisPay).
 
 
 
 # Conclusioni
-La sicurezza digitale non è roba da hacker in felpa nera o da paranoici seriali: se non avevi ancora provveduto ad alcune delle misure che ho descritto, spero di averti dato qualche spunto di riflessione.  
-Alla fine **sono i nostri dati**, e non c'è nessuno che li protegge per noi: dobbiamo arrangiarci, ma per fortuna gli strumenti ci sono tutti e anche quelli gratuiti vanno benissimo.
+La sicurezza digitale non è roba da hacker in felpa nera o da paranoici seriali.  
+Spero di averti dato qualche spunto di riflessione, alla fine **sono i nostri dati** e non c'è nessuno che li protegge per noi: dobbiamo arrangiarci, ma per fortuna gli strumenti ci sono tutti e anche gli strumenti gratuiti vanno benissimo.

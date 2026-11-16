@@ -11,11 +11,16 @@ draft: false
 
 Le locuzioni trendy mi irritano da sempre, e _"digital detox"_ mi pare proprio una di queste.  
 Però è successo che nel corso degli anni ho fatto alcune piccole scelte che, messe in fila... dovendo proprio raggrupparle sotto un unico concetto insomma è proprio 'sta roba qua.  
-E siccome **queste scelte mi fanno stare bene**, mi va di scriverne.
 
 
 
-# Cronaca
+# TL;DR
+Ridurre l'uso di notifiche, social e schermi LCD mi fa stare bene.  
+Qua lo racconto dettagliatamente.
+
+
+
+# Cosa mi è successo
 
 **Sguazzo nel digitale dagli anni '80** con gusto, da quando ero un bambino innamorato di orologi Casio, videogame, Supercar e Automan, dai '90 anche per studio e passione, e poi nel nuovo millennio per _tutto quanto_, studio lavoro casa salute hobby, davvero tutto.  
 Direi che **sono promotore assoluto del digitale ovunque possibile**, per i vantaggi lapalissiani: è più comodo, più versatile, e più sicuro (se pratichi una normale [igiene digitale]({{< ref "igiene-digitale.md" >}})) in quasi tutte le applicazioni rispetto al corrispettivo analogico.  
@@ -153,7 +158,7 @@ Sto valutando l'acquisto di un **tablet Android con schermo e-ink da 7"**, da us
 * Abbandonare l'ultimo dispositivo con cavo micro-usb che gira per casa - ho già il dongle adattatore usbc-to-micro, e so anche che non è mica 'sto gran problema da risolvere per forza, ma... mmm che fastidio.
 
 **Perché non ancora?**  
-Il mio attuale Kindle Paperwhite Gen7, che ho recentemente [migliorato per usarlo al massimo delle sue facoltà]({{< ref "pimpmykindle.md" >}}), mi sta già fornendo praticamente **quasi tutti i benefici che ho elencato sopra a costo zero**, e sto leggendo praticamente ogni giorno, non succedeva da anni.  
+Il mio attuale Kindle, che ho recentemente [migliorato per usarlo al massimo delle sue facoltà]({{< ref "pimpmykindle.md" >}}), mi sta già fornendo praticamente **quasi tutti i benefici che ho elencato sopra a costo zero**, e sto leggendo quasi ogni giorno come non succedeva da anni.  
 Certo non ha Android, quindi lo uso esclusivamente per la lettura dei libri, però già questo è il risultato più importante che cercavo, e forse l'acquisto di un nuovo dispositivo solo per poter accedere anche al web senza prendere il telefono è un po' _overkill_.
 
 Per completezza, ecco comunque i **dispositivi più interessanti a settembre 2026:**  
@@ -161,7 +166,7 @@ Per completezza, ecco comunque i **dispositivi più interessanti a settembre 202
 1. [Bigme B7](https://euroshop.bigme.vip/collections/tablet/products/b7-4-64gb-7-color-epaper-tablet-with-4g-calling-and-android-14os), fratellino minore rispetto al Pro qui sopra, si perdono un po' di performance e di refresh-rate, costa circa 300€.
 1. [Onyx Boox Go 7](https://shop.boox.com/products/go7), meno potente e dotato dei due Bigme, ma esteticamente leggermente più elegante, costa attorno ai 270€ compresa la cover.
 
-Inizialmente pensavo ad un dispositivo a colori, ora però sto meditando se per i miei scopi sia **preferibile la versione in bianco e nero**, per forzarmi ad usarlo esattamente per la lettura di testo, che su display e-ink B&W godrebbe di contrasto e risoluzione al massimo livello, mentre sui display Kaleido 3 a colori lo sfondo è sempre grigio e il layer dedicato ai colori toglie un po' di nitidezza anche ai contenuti testuali B&W. Insomma avere gli svantaggi del colore solo per vedere le copertine 1 secondo prima di continuare la lettura in B&W... non so.  
+Inizialmente pensavo ad un dispositivo a colori, ora però sto meditando se per i miei scopi sia **preferibile la versione in bianco e nero**, per forzarmi ad usarlo esattamente per la lettura di testo, che su display e-ink B&W godrebbe di contrasto e risoluzione al massimo livello, mentre sui display Kaleido 3 a colori lo sfondo è sempre grigio e il layer dedicato ai colori toglie un po' di nitidezza anche ai contenuti testuali B&W. Insomma avere gli svantaggi del colore solo per vedere le copertine un secondo prima di continuare la lettura in B&W... non so.  
 
 Ci sono anche tanti dispositivi da 6", sufficienti per la lettura, più portatili, più economici, ma vorrei provare lo schermo un po' più grande.
 
@@ -182,7 +187,8 @@ Confido che mettere in carica il telefono in un'altra stanza prima di andare a l
 
 ## Ebook sempre con me
 Per riempire qualche pausa solitaria (es. durante smartworking, pranzo di lavoro da solo, attese dal medico, cose del genere), invece di video o social potrei leggere qualche pagina di un libro.  
-Solo che i 6-7 pollici dell'ebook reader non stanno nelle tasche dei pantaloni, quindi d'estate dovrei portarmi dietro un borsello/slingbag o simile dove cacciare dentro anche l'ebook. Non che mi piaccia granché come prospettiva, mi piace girare leggero.  
+Solo che i 6-7 pollici dell'ebook reader non stanno nelle tasche dei pantaloni, quindi d'estate dovrei portarmi dietro un borsello/slingbag o simile dove cacciare dentro anche l'ebook, e non mi va granché, mi piace girare leggero.  
+
 Nel 2026 sono diventati virali i piccoli ebook reader di [Xteink](https://www.xteink.com), e in coda a questo successo poi altri produttori hanno fatto il loro mini-dispositivo. Potrei farci un pensierino, ho visto che c'è il modo di fare il sync della posizione di lettura rispetto a KOReader che uso sull'ebook reader principale, che è la cosa più importante.
 
 

@@ -10,6 +10,11 @@ image: "images/trafficmonitor.gif"
 draft: false
 ---
 
+# TL;DR
+Excursus amarcord su come visualizzo in realtime l'uso di risorse mentre lavoro al PC, da Win95 fino ad oggi.
+
+
+
 # L'abitudine
 È da una vita che tengo visualizzato a schermo qualche indicatore sull'utilizzo real-time delle risorse hardware, come cpu, ram, rete.  
 
