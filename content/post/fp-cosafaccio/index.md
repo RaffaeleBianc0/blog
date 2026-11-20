@@ -98,13 +98,13 @@ Il solo fatto di poter controllare le spese in 5 secondi aprendo una app mi ha r
 ## Conto corrente
 **UPDATE AGOSTO 2026:**  
 Dopo tanto tentennare, ho finalmente deciso di cambiare banca.  
-La mia banca precedente, dove avevo il conto da una decina d'anni, ha aggiunto una immotivata tassa di mezzo euro per ogni bonifico automatico in uscita.  
+La mia banca precedente, una delle più grandi, dove avevo il conto da una decina d'anni, ha aggiunto una immotivata tassa di mezzo euro per ogni bonifico automatico in uscita.  
 E' stata la goccia che ha fatto traboccare il vaso: già il conto mi costava 8 euro/mese, più altri 40 euro/anno circa di carta di credito... ho scritto una email chiedendo di allineare le condizioni a quelle di Fineco One e di darmi riscontro entro 2 settimane. Mi hanno chiamato per dirmi che non potevano fare nulla, quindi mezz'ora dopo avevo già completato la richiesta per il mio nuovo conto Fineco One con carta debit + credit fisiche, dal costo totale di 30 euro/anno, con bonifici automatici e prelievi in tutta Italia gratuiti.  
 E tanti saluti ai balzelli medievali e agli impiegati di banca che provano a venderti cose!  
 
-Fineco è uscita con questa nuova offerta "Fineco One" proprio nel momento in cui mi serviva: conto solo online, supporto solo via email, costo zero - praticamente quello che ho sempre sognato per il mio conto corrente.
-
-La banca è piuttosto solida, ci sono alcuni indicatori che lo dicono (per il 2025 ad esempio c'è [questo articolo di Milano Finanza](https://www.milanofinanza.it/news/quali-sono-le-banche-piu-sicure-ecco-le-pagelle-bce-e-i-dati-di-bilancio-dei-principali-istituti-in-italia-202511211804564119)).
+Fineco è uscita con questa nuova offerta "Fineco One" proprio nel momento in cui mi serviva: conto solo online, supporto solo via email, costo zero - praticamente quello che ho sempre sognato per il mio conto corrente.  
+La banca è piuttosto solida, ci sono alcuni indicatori che lo dicono (per il 2025 ad esempio c'è [questo articolo di Milano Finanza](https://www.milanofinanza.it/news/quali-sono-le-banche-piu-sicure-ecco-le-pagelle-bce-e-i-dati-di-bilancio-dei-principali-istituti-in-italia-202511211804564119)).  
+Se vuoi aprirti un conto Fineco, inserisci il mio codice amico **AA6994182** durante la compilazione dei dati, e in cambio Fineco farà un piccolo regalino sia a te che a me (le condizioni sono nel loro sito, nulla di esoterico).
 
 In questi mesi sto anche usando **Conto Corrente Arancio di ING**: a mio gusto, la loro app e il loro sito sono addirittura leggermente migliori rispetto a quelli di Fineco, e i costi ancora più bassi - esattamente ZERO anche con 2 carte di debito + 1 carta di credito agganciate al conto.  
 Se ti piace questa prospettiva, inserisci il mio codice amico ING **9DCFA4** all'apertura del conto: dovrebbe esserci un vantaggio sia per te che per me (verifica sul sito ING, queste condizioni cambiano di tanto in tanto).
