@@ -266,6 +266,52 @@ footer.site-footer {
   stroke: var(--card-text-color-tertiary);
 }
 
+.article-pagination {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  width: 100%;
+  margin-top: 24px;
+  padding-top: 20px;
+  border-top: 1px solid var(--card-separator-color);
+}
+
+.article-pagination a {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+  color: var(--card-text-color-main);
+}
+
+.article-pagination a > span:not([aria-hidden]) {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.article-pagination small {
+  color: var(--card-text-color-tertiary);
+  font-size: 1.2rem;
+}
+
+.article-pagination strong {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.article-pagination__next {
+  justify-content: flex-end;
+  text-align: right;
+}
+
+@media (max-width: 720px) {
+  .article-pagination {
+    grid-template-columns: 1fr;
+  }
+}
+
 // =============================
 // Code Blocks
 /* Custom variable, modify the height here as needed */

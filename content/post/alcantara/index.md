@@ -5,7 +5,7 @@ lastmod: '2026-10-04'
 categories: 
   - "chitarra"
   - "musica"
-Image: "images/0.jpg"
+image: "images/0.jpg"
 ---
 
 "Alcântara" di Baden Powell, nuova tappa del mio lento e discontinuo percorso di esplorazione fai-da-te della chitarra classica.

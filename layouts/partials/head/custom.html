@@ -1,3 +1,25 @@
 {{ if not hugo.IsServer }}
 <script defer src="https://cloud.umami.is/script.js" data-website-id="cbdc4f19-dd25-44f1-a198-8b40b312f1f1"></script>
 {{ end }}
+
+{{- if eq .Kind "page" -}}
+<script type="application/ld+json">
+{{- $description := .Summary | plainify | truncate 160 -}}
+{{- with .Description }}{{ $description = . }}{{ end }}
+{{- $schema := dict
+  "@context" "https://schema.org"
+  "@type" "BlogPosting"
+  "headline" .Title
+  "description" $description
+  "url" .Permalink
+  "mainEntityOfPage" .Permalink
+  "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+  "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+  "wordCount" .WordCount
+  "timeRequired" (printf "PT%dM" .ReadingTime)
+  "author" (dict "@type" "Person" "name" .Site.Copyright)
+  "publisher" (dict "@type" "Organization" "name" .Site.Title)
+-}}
+{{- $schema | jsonify | safeJS -}}
+</script>
+{{- end -}}

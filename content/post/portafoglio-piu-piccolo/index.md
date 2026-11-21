@@ -4,7 +4,7 @@ date: "2016-02-14"
 lastmod: '2026-10-12'
 categories: 
   - "altro"
-Image: "images/iclip.png"
+image: "images/iclip.png"
 ---
 
 Qualche mese fa mi sono guardato allo specchio, con addosso un abito formale estivo.
