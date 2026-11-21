@@ -1,13 +1,14 @@
 baseURL = 'https://www.RaffaeleBianco.it/blog/'
-Language.Locale = 'it-it'
 title = 'Mica scrivo granché'
 theme = 'hugo-theme-stack'
 enableEmoji = true
-
+enableGitInfo = true
 pagination.pagerSize = 10
 copyright = "Raffaele Bianco"
+Language.Locale = 'it-it'
 DefaultContentLanguage = "it"
 hasCJKLanguage = false
+ignoreFiles = ['desktop\.ini$', 'Thumbs\.db$']
 
 [languages.it]
 label = "Italiano"
@@ -27,8 +28,12 @@ params.sidebar.subtitle = "Blog di Raffaele Bianco."
 post = "/p/:slug/"
 page = "/:slug/"
 
+[frontmatter]
+lastmod = ["lastmod", ":git", ":fileModTime", ":default"]
+
 [params]
 mainSections = [ "post" ]
+SortBy = "lastmod"
 featuredImageField = "image"
 rssFullContent = true
 meta.favicon = false

@@ -1,0 +1,8 @@
+{{ $sass := resources.Get "scss/style.scss" }}
+{{ $sassOptions := dict
+    "transpiler" "dartsass"
+    "quietDeps" true
+    "silenceDeprecations" (slice "import" "global-builtin")
+}}
+{{ $style := $sass | css.Sass $sassOptions | minify | resources.Fingerprint "sha256" }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">

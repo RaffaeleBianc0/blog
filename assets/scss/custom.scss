@@ -206,6 +206,28 @@ footer.site-footer {
   height: 24px !important;
 }
 
+/* Mantieni creazione, ultima modifica e tempo di lettura sulla stessa riga */
+.article-meta > .article-post-meta {
+  display: flex;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  min-width: 0;
+  gap: 16px;
+}
+
+.article-meta > .article-post-meta .article-post-meta__item {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--card-text-color-tertiary);
+}
+
+.article-meta > .article-post-meta .article-post-meta__item time,
+.article-meta > .article-post-meta .article-post-meta__item svg {
+  color: var(--card-text-color-tertiary);
+  stroke: var(--card-text-color-tertiary);
+}
+
 // =============================
 // Code Blocks
 /* Custom variable, modify the height here as needed */
