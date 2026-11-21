@@ -129,7 +129,7 @@ Il fastidio causato dalla dominante gialla è quasi irrilevante dopo i primi 10 
 # Voglio leggere di più
 Il tempo che ho tolto ai social lo sto dedicando alla lettura.  
 
-"Leggere fa bene" lo dicevano anche i nonni, ma io apprezzo un approccio un pelino più solido:  
+"Leggere fa bene" lo dicevano anche i nonni, ma io apprezzo un approccio un pelino più solido.  
 
 In [questo articolo su MedicalNewsToday](https://www.medicalnewstoday.com/articles/313429) sono citati 11 studi che affermano:  
 - leggere anche solo 6 minuti al giorno può ridurre lo stress fino al 68%, a volte più di ascoltare musica o fare una passeggiata
