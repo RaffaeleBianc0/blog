@@ -20,30 +20,17 @@
                 {{ end }}
             </div>
     
-            {{- $image := partialCached "helper/image" (dict "Context" . "Type" "section") .RelPermalink "section" -}}
-            {{ if $image.exists }}
+            {{- $image := .Resources.GetMatch "categoria.*" -}}
+            {{- with $image -}}
+                {{- $thumbnail := .Fill "120x120" -}}
                 <div class="section-image">
-                    {{ if $image.resource }}
-                        {{- $Permalink := $image.resource.RelPermalink -}}
-                        {{- $Width := $image.resource.Width -}}
-                        {{- $Height := $image.resource.Height -}}
-    
-                        {{- if (default true .Page.Site.Params.imageProcessing.thumbnail.enabled) -}}
-                            {{- $thumbnail := $image.resource.Fill "120x120" -}}
-                            {{- $Permalink = $thumbnail.RelPermalink -}}
-                            {{- $Width = $thumbnail.Width -}}
-                            {{- $Height = $thumbnail.Height -}}
-                        {{- end -}}
-                        
-                        <img src="{{ $Permalink }}" 
-                            width="{{ $Width }}"
-                            height="{{ $Height }}" 
-                            loading="lazy">
-                    {{ else }}
-                        <img src="{{ $image.permalink }}" loading="lazy" />
-                    {{ end }}
+                    <img src="{{ $thumbnail.RelPermalink }}"
+                        width="{{ $thumbnail.Width }}"
+                        height="{{ $thumbnail.Height }}"
+                        alt="{{ $.Title }}"
+                        loading="lazy">
                 </div>
-            {{ end }}
+            {{- end }}
         </div>
     </header>
 

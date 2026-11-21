@@ -166,6 +166,44 @@ footer.site-footer {
   margin-top: 2rem;
 }
 
+/* Categorie in evidenza nella pagina Archivi */
+.template-archives header .subsection-list {
+  width: 100%;
+  max-width: 100%;
+  overflow: visible;
+  -webkit-mask-image: none;
+  mask-image: none;
+}
+
+.template-archives header .article-list--tile {
+  width: 100%;
+  max-width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 125px);
+  justify-content: start;
+  gap: 16px;
+  padding: 0;
+}
+
+.template-archives header .article-list--tile article {
+  width: 125px;
+  height: 125px;
+}
+
+/* Angoli arrotondati delle thumbnail in Archivi e pagine categoria */
+.template-archives header .article-list--tile article,
+.template-archives header .article-list--tile .article-image,
+.template-archives header .article-list--tile .article-image img {
+  border-radius: var(--card-border-radius);
+}
+
+.section-image img,
+.article-list--compact .article-image,
+.article-list--compact .article-image img {
+  border-radius: var(--card-border-radius);
+  overflow: hidden;
+}
+
 /* Homepage cards: usa lo stesso colore del menu laterale sinistro */
 .homepage .article-meta,
 .homepage .article-meta time,
