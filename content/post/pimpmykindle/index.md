@@ -47,7 +47,7 @@ Ho ovviamente sperimentato un bel po' di plugin per KOReader, soprattutto per mo
 Ti elenco quelli che sto usando ancora oggi, dopo opportuna scrematura - necessaria anche per evitare di appesantire troppo l'hardware molto limitato del mio ebook reader.
 
 ## Storefront
-![](images/storefront.png)
+![](images/storefront.png)  
 Appena installato KOReader, prima ancora di staccare il Kindle dal PC, la cosa da fare subito secondo me è installare [Storefront](https://github.com/ultimatejimmy/storefront.koplugin), perché consente di valutare, installare, aggiornare e rimuovere tutti gli altri plugin direttamente dal Kindle, senza doverlo collegare al PC.
 
 ## Bookshelf
@@ -74,23 +74,23 @@ La [app Readest per Android](https://play.google.com/store/apps/details?id=com.b
 In alternativa, rinunciando alla lettura su app Readest, la sincronizzazione tra più dispositivi KOReader si può fare con la funzione nativa, appoggiandosi al server KoSync europeo [`kosync.eu`](https://kosync.eu) (perché quello di default `koreader.rocks` è spesso irraggiungibile): puoi registrarti semplicemente con username e password a tua scelta direttamente da KOReader, usando lo stesso account su tutti i tuoi dispositivi.
 
 ## Hardcover
-![](images/hardcover.png)
+![](images/hardcover.png)  
 [Hardcover](https://hardcover.app/join?referrer_id=169081) è una specie di "social per lettori", dove condividere quello che si sta leggendo e scoprire nuovi libri. Si può usare gratuitamente, oppure si può diventare Supporter per ottenere statistiche di lettura più avanzate.  
 Il [plugin per Hardcover.app](https://github.com/Billiam/hardcoverapp.koplugin) consente la sincronizzazione automatica dei libri letti e del relativo progresso di lettura sul proprio account.
 
 ## KOAssistant
-![](images/koassistant.png)
+![](images/koassistant.png)  
 [KOAssistant](https://github.com/zeeyado/koassistant.koplugin) consente di interagire con le AI partendo dal testo selezionato o dal libro.  
 Per esempio puoi ottenere il riassunto del libro fino al punto dove sei arrivato, un recap sui personaggi, luoghi, eventi, argomenti finora incontrati nella lettura, traduzioni, riassunto di tutti gli highlights che hai creato nel libro, e tante altre cose... davvero potente.  
 La configurazione non è immediata, ma seguendo le istruzioni nel repo GitHub non si sbaglia.  
 Come provider per fare le prime prove suggerisco [OpenRouter](https://openrouter.ai/) che regala interazioni gratuite quotidiane senza dover pagare, e risultati discreti. Anche Google Gemini consente qualche prova, i risultati sono eccellenti, ma il credito free quotidiano mi pare si esaurisca molto presto, spesso con una singola interazione.  
 
 ## SleepRibbon
-![](images/sleepribbon.png)
+![](images/sleepribbon.png)  
 [SleepRibbon](https://github.com/araponga321/sleepribbon.koplugin) consente di stampare informazioni sull'avanzamento della lettura in sovrimpressione sulla copertina del libro durante lo standby del dispositivo. Per i più meticolosi, è possibile personalizzare il ribbon su ciascun libro, per rispettare font colori impaginazione e "annegare" così il ribbon nella grafica originale.
 
 ## Reading Log
-![](images/reading-log.webp)
+![](images/reading-log.webp)  
 [Reading Log](https://github.com/stevenzamora1/reading-log) fornisce una pagina riepilogativa molto carina sulle tue statistiche di lettura.
 
 

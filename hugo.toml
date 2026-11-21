@@ -33,7 +33,7 @@ lastmod = ["lastmod", ":git", ":fileModTime", ":default"]
 
 [params]
 mainSections = [ "post" ]
-SortBy = "lastmod"
+# SortBy = "lastmod"
 featuredImageField = "image"
 rssFullContent = true
 meta.favicon = false

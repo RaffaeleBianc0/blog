@@ -24,15 +24,13 @@
 
 /* Aumenta dimensione titolo articoli */
 .article-title {
-    font-size: 5.0rem; // dimensione desktop
+    font-size: 5.0rem;
 }
 
-/* Responsive per mobile */
-@media (max-width: 720px) {
-    .article-title {
-        font-size: 5.0rem;
-    }
+.section-card .section-term {
+    font-size: 5.0rem;
 }
+
 
 
 
@@ -90,20 +88,11 @@
 // Selettore per i link nella Table of Contents (generalmente in una sidebar)
 .widget-toc a:hover,
 #TableOfContents a:hover {
-    background-color: #EEE !important;
-    color: black !important;
+    background-color: #EEE;
+    color: black;
     // Rimuove la decorazione del testo (underline) se presente:
     border-radius: 4px;
-    text-decoration: none !important;
-}
-
-// Aggiungo anche lo stile per la ToC nella sidebar, che usa
-// il selettore .widget-toc in alcuni casi.
-.widget-toc a:hover {
-    background-color: #EEE !important;
-    color: black !important;
-    border-radius: 4px;
-    text-decoration: none !important;
+    text-decoration: none;
 }
 
 .widget--toc {
@@ -156,9 +145,14 @@ footer.site-footer {
   margin-bottom: 1rem;
 }
 
-.template-archives > header {
-  margin-bottom: 3rem;
-  padding-bottom: 2rem;
+.template-archives .main > header .section-title {
+  font-size: 3em;
+  line-height: 1.05;
+}
+
+.template-archives .main > header {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
   border-bottom: 1px solid var(--border-color);
 }
 
@@ -167,7 +161,41 @@ footer.site-footer {
 }
 
 /* Categorie in evidenza nella pagina Archivi */
-.template-archives header .subsection-list {
+.template-archives .main > header .subsection-list {
+  width: 100%;
+  max-width: 100%;
+  overflow: visible;
+  margin: 0;
+  margin-bottom: 0;
+  -webkit-mask-image: none;
+  mask-image: none;
+}
+
+.template-archives .main > header .article-list--tile {
+  width: 100%;
+  max-width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(125px, 1fr));
+  justify-content: start;
+  gap: 16px;
+  padding: 0;
+}
+
+.template-archives .main > header .article-list--tile article {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+}
+
+/* Angoli arrotondati delle thumbnail in Archivi e pagine categoria */
+.template-archives .main > header .article-list--tile article,
+.template-archives .main > header .article-list--tile .article-image,
+.template-archives .main > header .article-list--tile .article-image img {
+  border-radius: var(--card-border-radius);
+}
+
+/* Contenuti correlati: stessa griglia compatta delle categorie in Archivi */
+.article-page aside .subsection-list {
   width: 100%;
   max-width: 100%;
   overflow: visible;
@@ -175,7 +203,7 @@ footer.site-footer {
   mask-image: none;
 }
 
-.template-archives header .article-list--tile {
+.article-page aside .article-list--tile {
   width: 100%;
   max-width: 100%;
   display: grid;
@@ -185,16 +213,16 @@ footer.site-footer {
   padding: 0;
 }
 
-.template-archives header .article-list--tile article {
+.article-page aside .article-list--tile article,
+.article-page aside .article-list--tile .article-image,
+.article-page aside .article-list--tile .article-image img {
   width: 125px;
   height: 125px;
+  border-radius: var(--card-border-radius);
 }
 
-/* Angoli arrotondati delle thumbnail in Archivi e pagine categoria */
-.template-archives header .article-list--tile article,
-.template-archives header .article-list--tile .article-image,
-.template-archives header .article-list--tile .article-image img {
-  border-radius: var(--card-border-radius);
+.article-page aside:has(.subsection-list) {
+  margin-bottom: 24px;
 }
 
 .section-image img,
@@ -209,19 +237,19 @@ footer.site-footer {
 .homepage .article-meta time,
 .homepage .article-meta a,
 .homepage .article-meta span {
-  color: var(--body-text-color) !important;
+  color: var(--body-text-color);
 }
 
 .homepage .article-meta svg {
-  stroke: var(--body-text-color) !important;
-  width: 20px !important;
-  height: 20px !important;
+  stroke: var(--body-text-color);
+  width: 20px;
+  height: 20px;
 }
 
 /* Forza dimensione icona calendario a 24px nelle schede homepage */
 .homepage .article-meta .icon-tabler-calendar-time {
-  width: 24px !important;
-  height: 24px !important;
+  width: 24px;
+  height: 24px;
 }
 
 /* Applico stesso colore e dimensione icona anche alle intestazioni dei singoli post */
@@ -229,19 +257,23 @@ footer.site-footer {
 .article-page footer.article-meta time,
 .article-page footer.article-meta a,
 .article-page footer.article-meta span {
-  color: var(--body-text-color) !important;
+  color: var(--body-text-color);
 }
 
 .article-page footer.article-meta svg {
-  stroke: var(--body-text-color) !important;
-  width: 20px !important;
-  height: 20px !important;
+  stroke: var(--body-text-color);
+  width: 20px;
+  height: 20px;
 }
 
 /* Forza dimensione icona calendario a 24px nei singoli post */
 .article-page footer.article-meta .icon-tabler-calendar-time {
-  width: 24px !important;
-  height: 24px !important;
+  width: 24px;
+  height: 24px;
+}
+
+.article-page .article-footer .article-lastmod {
+  display: none;
 }
 
 /* Mantieni creazione, ultima modifica e tempo di lettura sulla stessa riga */
@@ -282,7 +314,7 @@ $codeblock-max-height: 25em;
 .highlight pre,
 .highlight code,
 .highlight .chroma {
-  overflow: visible !important;   /* Override Stack’s overflow-x:auto on pre */
+  overflow: visible;   /* Override Stack’s overflow-x:auto on pre */
 }
 
 /* ③ Make the line number table auto-expand with content width to enable X scroll on wide blocks */
@@ -330,6 +362,12 @@ strong, b {
     color: var(--bold-text-color);
 }
 
+.blog-stats .recent-updates {
+  margin: 8px 0 0;
+  padding-left: 4rem;
+  list-style: none;
+}
+
 /* Stile per il titolo dei commenti */
 .comments-title {
     color: var(--body-text-color);
@@ -338,10 +376,10 @@ strong, b {
 
 /* Rimuovi evidenziatura per link che contengono immagini */
 .article-content a:has(img):hover {
-    background-color: transparent !important;
-    color: inherit !important;
-    border-radius: 0 !important;
-    text-decoration: none !important;
+    background-color: transparent;
+    color: inherit;
+    border-radius: 0;
+    text-decoration: none;
 }
 
 /* Evidenziazione menu sinistra su hover */
@@ -355,6 +393,26 @@ strong, b {
     color: var(--menu-item-hover-color);
     border-radius: 8px;
     text-decoration: none;
+}
+
+.left-sidebar #main-menu .menu-bottom-section > ol {
+    align-items: center;
+    width: 100%;
+}
+
+.left-sidebar #main-menu .menu-bottom-section > ol > li:first-child {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.left-sidebar #main-menu #dark-mode-toggle {
+    justify-content: center;
+    width: 100%;
+}
+
+.left-sidebar #main-menu #dark-mode-toggle span {
+    flex: 0 0 auto;
 }
 
 /* Hover uniforme per social icons e toolbar di destra, come il menu sinistro */
@@ -392,8 +450,8 @@ strong, b {
 .right-sidebar .menu a:hover i,
 .right-sidebar .widget a:hover svg,
 .right-sidebar .widget a:hover i {
-    color: var(--menu-item-hover-color) !important;
-    stroke: var(--menu-item-hover-color) !important;
+    color: var(--menu-item-hover-color);
+    stroke: var(--menu-item-hover-color);
 }
 
 // Personalizzazione shortcode "tasto":

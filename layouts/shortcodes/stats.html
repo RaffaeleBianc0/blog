@@ -24,24 +24,64 @@
             {{ $totalReadingTime }} minuti
         {{ end }}
     </li>
+
+    {{ $mostReadPost := false }}
+    {{ $mostReadingTime := 0 }}
+    {{ range $posts }}
+      {{ if gt .ReadingTime $mostReadingTime }}
+        {{ $mostReadPost = . }}
+        {{ $mostReadingTime = .ReadingTime }}
+      {{ end }}
+    {{ end }}
+    {{ if $mostReadPost }}
+      <li>📖 <strong>Post con più tempo di lettura stimato:</strong>
+        <a href="{{ $mostReadPost.RelPermalink }}">{{ $mostReadPost.Title }}</a>
+        ({{ $mostReadingTime }} minuti)</li>
+    {{ end }}
+
+    {{ $topCategoryName := "" }}
+    {{ $topCategoryCount := 0 }}
+    {{ range $name, $categoryPages := .Site.Taxonomies.categories }}
+      {{ $categoryCount := len $categoryPages }}
+      {{ if gt $categoryCount $topCategoryCount }}
+        {{ $topCategoryName = $name }}
+        {{ $topCategoryCount = $categoryCount }}
+      {{ end }}
+    {{ end }}
+    {{ if $topCategoryName }}
+      {{ $topCategoryPage := .Site.GetPage (printf "/categories/%s" $topCategoryName) }}
+      <li>🏆 <strong>Categoria più popolosa:</strong>
+        {{ if $topCategoryPage }}
+          <a href="{{ $topCategoryPage.RelPermalink }}">{{ $topCategoryName }}</a>
+        {{ else }}
+          {{ $topCategoryName }}
+        {{ end }}
+        ({{ $topCategoryCount }} post)</li>
+    {{ end }}
     
     <li>📅 <strong>Anni di attività:</strong> {{ if gt $postCount 0 }}{{ sub now.Year (index $posts.ByDate 0).Date.Year }}{{ else }}0{{ end }}</li>
 
-    {{ $firstPost := index $posts.ByDate 0 }}
-    {{ $monthsActive := div (sub now.Unix $firstPost.Date.Unix) 2592000 }} {{/* 2592000 = secondi in un mese */}}
-    {{ if gt $monthsActive 0 }}
-      <li>📅 <strong>Frequenza:</strong> {{ $yearsActive := div (sub now.Unix $firstPost.Date.Unix) 31557600 }} {{/* 31557600 = secondi in un anno */}}
-      {{ lang.FormatNumberCustom 1 (div (float $postCount) $yearsActive) }} post/anno</li>
+    {{ if gt $postCount 0 }}
+      {{ $firstPost := index ($posts.ByDate) 0 }}
+      {{ $lastPost := index ($posts.ByDate.Reverse) 0 }}
+      {{ $elapsedDays := div (sub $lastPost.Date.Unix $firstPost.Date.Unix) 86400 }}
+      {{ $elapsedYearsForFrequency := div (add $elapsedDays 182) 365 }}
+      {{ if gt $elapsedYearsForFrequency 0 }}
+        <li>📅 <strong>Frequenza:</strong>
+          {{ lang.FormatNumberCustom 1 (div (float $postCount) (float $elapsedYearsForFrequency)) }} post/anno</li>
+      {{ end }}
     {{ end }}
 
-    <li>🔄 <strong>Ultimo aggiornamento:</strong> {{ if gt $postCount 0 }}{{ (index $posts.ByLastmod.Reverse 0).Lastmod.Format "02/01/2006" }}{{ else }}N/A{{ end }}</li>
+    <li>🔄 <strong>Ultimi aggiornamenti:</strong>
+      <ul class="recent-updates">
+        {{ range first 5 ($posts.ByLastmod.Reverse) }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          <small>({{ .Lastmod.Format "02/01/2006" }})</small>
+        </li>
+        {{ end }}
+      </ul>
+    </li>
 
   </ul>
 </div>
-<!--
-    {{ if gt $monthsActive 0 }}
-      <li>📅 <strong>Frequenza:</strong> {{ lang.FormatNumberCustom 1 (div (float $postCount) $monthsActive) }} post/mese
-      {{ $yearsActive := div (sub now.Unix $firstPost.Date.Unix) 31557600 }} {{/* 31557600 = secondi in un anno */}}
-      ({{ lang.FormatNumberCustom 1 (div (float $postCount) $yearsActive) }} post/anno)</li>
-    {{ end }}
--->

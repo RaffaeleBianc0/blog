@@ -57,24 +57,7 @@
         </aside>
     {{- end -}}
     
-    {{/* List only pages that are not a subsection 
-    {{ $paginator := .Paginate $pages }}
-    <section class="article-list--compact">
-        {{ range $paginator.Pages }}
-            {{ partial "article-list/compact" . }}
-        {{ end }}
-    </section>
-
-    {{- partial "pagination.html" . -}}
-*/}}
-
-
-
-    {{/*
-    Questo ciclo utilizza .Pages per mostrare tutti i post della categoria
-    senza paginazione. La funzione .Paginate e il partial di paginazione
-    vengono rimossi.
-    */}}
+    {{/* Mostra tutti i post della lista, senza paginazione. */}}
     <section class="article-list--compact">
     {{ range .Pages }}
         {{ partial "article-list/compact" . }}
