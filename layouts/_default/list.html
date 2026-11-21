@@ -70,14 +70,17 @@
 
 
 
-    {{ $paginator := .Paginate $pages }}
+    {{/*
+    Questo ciclo utilizza .Pages per mostrare tutti i post della categoria
+    senza paginazione. La funzione .Paginate e il partial di paginazione
+    vengono rimossi.
+    */}}
     <section class="article-list--compact">
-    {{ range $paginator.Pages }}
+    {{ range .Pages }}
         {{ partial "article-list/compact" . }}
     {{ end }}
     </section>
 
-    {{ partial "pagination.html" . }}
 
     {{ partialCached "footer/footer" . }}
 {{ end }}

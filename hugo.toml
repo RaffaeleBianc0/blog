@@ -9,7 +9,6 @@ Language.Locale = 'it-it'
 DefaultContentLanguage = "it"
 hasCJKLanguage = false
 ignoreFiles = ['desktop\.ini$', 'Thumbs\.db$']
-enableRobotsTXT = true
 
 [languages.it]
 label = "Italiano"

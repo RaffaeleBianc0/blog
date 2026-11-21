@@ -28,16 +28,20 @@
     <li>📅 <strong>Anni di attività:</strong> {{ if gt $postCount 0 }}{{ sub now.Year (index $posts.ByDate 0).Date.Year }}{{ else }}0{{ end }}</li>
 
     {{ $firstPost := index $posts.ByDate 0 }}
-    {{ $elapsedDays := div (sub now.Unix $firstPost.Date.Unix) 86400 }}
-    {{ if gt $elapsedDays 0 }}
-      {{ $elapsedYears := div (add $elapsedDays 182) 365 }}
-      {{ if gt $elapsedYears 0 }}
-      <li>📅 <strong>Frequenza:</strong>
-      {{ lang.FormatNumberCustom 1 (div (float $postCount) (float $elapsedYears)) }} post/anno</li>
-      {{ end }}
+    {{ $monthsActive := div (sub now.Unix $firstPost.Date.Unix) 2592000 }} {{/* 2592000 = secondi in un mese */}}
+    {{ if gt $monthsActive 0 }}
+      <li>📅 <strong>Frequenza:</strong> {{ $yearsActive := div (sub now.Unix $firstPost.Date.Unix) 31557600 }} {{/* 31557600 = secondi in un anno */}}
+      {{ lang.FormatNumberCustom 1 (div (float $postCount) $yearsActive) }} post/anno</li>
     {{ end }}
 
     <li>🔄 <strong>Ultimo aggiornamento:</strong> {{ if gt $postCount 0 }}{{ (index $posts.ByLastmod.Reverse 0).Lastmod.Format "02/01/2006" }}{{ else }}N/A{{ end }}</li>
 
   </ul>
 </div>
+<!--
+    {{ if gt $monthsActive 0 }}
+      <li>📅 <strong>Frequenza:</strong> {{ lang.FormatNumberCustom 1 (div (float $postCount) $monthsActive) }} post/mese
+      {{ $yearsActive := div (sub now.Unix $firstPost.Date.Unix) 31557600 }} {{/* 31557600 = secondi in un anno */}}
+      ({{ lang.FormatNumberCustom 1 (div (float $postCount) $yearsActive) }} post/anno)</li>
+    {{ end }}
+-->
