@@ -1,6 +1,6 @@
 ---
 title: "rubMyCLI"
-description: "La mia configurazione completa di Windows Terminal, con una selezione curata di tool CLI"
+description: "Il mio script per ripristinare configurazione completa di Windows Terminal + selezione curata di tool CLI"
 date: "2026-09-20"
 lastmod: "2026-09-20"
 categories: 

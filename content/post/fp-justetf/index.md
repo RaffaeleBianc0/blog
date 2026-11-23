@@ -1,6 +1,6 @@
 ---
 title: "Come ho scelto i miei ETF"
-description: "Rapido vademecum per muoversi in JustETF"
+description: "Rapido vademecum per muoversi in JustETF senza perdersi"
 date: "2026-10-25"
 lastmod: '2026-10-25'
 categories: 

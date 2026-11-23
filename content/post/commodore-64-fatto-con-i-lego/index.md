@@ -1,5 +1,6 @@
 ---
 title: "Commodore 64 fatto con i LEGO"
+description: "Geeky divertissement amarcord, per dirlo con 3 parole in 3 lingue diverse"
 date: "2017-05-13"
 categories: 
   - "altro"

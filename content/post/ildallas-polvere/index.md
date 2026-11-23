@@ -1,5 +1,6 @@
 ---
 title: "\"Polvere\" (Il Dallas)"
+description: "Il videoclip del 2018"
 date: "2018-10-29"
 lastmod: '2026-10-12'
 categories: 

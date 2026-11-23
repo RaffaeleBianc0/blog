@@ -1,5 +1,6 @@
 ---
 title: "Medley batteria"
+description: "Assortimento grezzo di cose che ho suonato in sala prove"
 date: "2014-12-23"
 categories: 
   - "batteria"

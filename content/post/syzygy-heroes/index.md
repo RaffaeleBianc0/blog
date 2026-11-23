@@ -1,7 +1,7 @@
 ---
 title: "\"Heroes\" (Syzygy)"
-date: "2020-05-05"
 description: "Ho partecipato come guest al basso"
+date: "2020-05-05"
 categories: 
   - "basso"
   - "musica"

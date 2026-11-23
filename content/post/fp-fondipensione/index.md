@@ -1,6 +1,6 @@
 ---
 title: "Fondi pensione"
-description: "Probabilmente il primo argomento di finanza personale da affrontare"
+description: "Probabilmente il primo argomento di finanza personale di cui interessarsi"
 date: "2025-12-23"
 lastmod: '2026-01-03'
 categories: 

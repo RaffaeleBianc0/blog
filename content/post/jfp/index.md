@@ -1,5 +1,6 @@
 ---
 title: "JFP"
+description: "Jazz/Funk Project"
 date: "2015-05-31"
 categories: 
   - "batteria"
@@ -7,7 +8,8 @@ categories:
 image: "images/jfp.jpg"
 ---
 
-I JFP (Jazz/Funk Project) sono stati una formazione strumentale di 8 elementi, compresi fiati e percussioni. Ci ho suonato la batteria dal 2014 al 2016.
+I JFP (Jazz/Funk Project) sono stati una formazione strumentale in zona Verona, composta di 8 elementi compresi fiati e percussioni.  
+Ci ho suonato la batteria dal 2014 al 2016.
 
 {{< bottone link="http://FB.com/JFPband" >}}
 JFP su Facebook

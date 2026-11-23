@@ -1,5 +1,6 @@
 ---
 title: "\"Under a glass moon\" guitar solo"
+description: "Stavolta la ho sparata un po' altina"
 date: "2016-07-16"
 categories: 
   - "chitarra"
@@ -7,7 +8,6 @@ categories:
 image: "images/maxresdefault.jpg"
 ---
 
-Stavolta la ho sparata alta!  
 Nell'album che durante il liceo mi cambiò la vita (musicalmente parlando), c'è questo solo di chitarra esaltante, scaricato addosso in tutta la sua furia dopo quelle poche note di basso che sembrano la sgasata prima del semaforo verde. 
 
 La ho sparata talmente alta che... meglio di così non mi viene.  

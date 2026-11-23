@@ -1,5 +1,6 @@
 ---
 title: "foobar2000"
+description: "Forse il miglior software per ascoltare musica in Windows"
 date: "2010-01-15"
 categories: 
   - "tecnologia"

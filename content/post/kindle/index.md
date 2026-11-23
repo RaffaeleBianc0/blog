@@ -1,5 +1,6 @@
 ---
 title: "Kindle"
+description: "Appunti sparsi su come uso l'ebook reader"
 date: "2017-01-30"
 lastmod: '2026-11-13'
 categories: 

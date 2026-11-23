@@ -1,6 +1,6 @@
 ---
 title: "\"Polisportiva Stradazza\" (Il Dallas)"
-description: "Il video del singolo tratto dall'album \"iosonodinamite\" del 2022, dove interpreto Furiano"
+description: "Il video del singolo del 2022, dove interpreto Furiano"
 date: "2022-04-10"
 categories: 
   - "batteria"

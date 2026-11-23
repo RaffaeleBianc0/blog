@@ -1,5 +1,6 @@
 ---
 title: "\"Travelling without moving\" bass cover"
+description: "Senti come tira!"
 date: "2020-04-21"
 categories: 
   - "basso"

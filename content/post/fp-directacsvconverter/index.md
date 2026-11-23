@@ -1,6 +1,6 @@
 ---
 title: "directaCsvConverter"
-description: "Converte i dati Directa nei formati per Yahoo Finance e Ticker"
+description: "La mia procedura per convertire i dati Directa nei formati per Yahoo Finance e Ticker"
 date: '2026-10-04'
 lastmod: '2026-10-04'
 categories: 

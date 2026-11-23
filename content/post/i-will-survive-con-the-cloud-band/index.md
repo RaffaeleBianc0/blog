@@ -1,5 +1,6 @@
 ---
 title: "\"I will survive\" con The Cloud Band"
+description: "Abbiamo fatto musica con un po' di amici, ognuno a casa propria"
 date: "2020-03-30"
 lastmod: '2026-10-12'
 categories: 

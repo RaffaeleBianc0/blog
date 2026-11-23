@@ -1,5 +1,6 @@
 ---
 title: "Portafoglio più piccolo"
+description: "Ridurre peso e ingombro di un oggetto costantemente in tasca: missione riuscita!"
 date: "2016-02-14"
 lastmod: '2026-10-12'
 categories: 

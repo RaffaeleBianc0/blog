@@ -1,5 +1,6 @@
 ---
 title: "Kollettivo Stesi"
+description: "La band che più mi ha dato soddisfazioni come batterista"
 date: "2014-12-31"
 categories: 
   - "batteria"

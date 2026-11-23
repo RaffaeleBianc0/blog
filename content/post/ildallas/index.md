@@ -1,5 +1,6 @@
 ---
 title: "Il Dallas"
+description: "Il progetto alternative rock nel quale ho suonato la batteria"
 date: "2016-12-24"
 categories: 
   - "batteria"

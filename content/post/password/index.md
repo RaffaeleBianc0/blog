@@ -11,7 +11,7 @@ image: "images/password.webp"
 
 # UPDATE 2026
 
-Rileggere questa pagina oggi mi fa sorridere: tutto il contenuto è ampiamente superato dall'**uso di un password manager, pratica che risolve praticamente tutti i problemi di password che possiamo avere**, ed è MOLTO più semplice rispetto all'adottare le abitudini di cui scrivevo qua sotto anni fa.
+Rileggere questa pagina oggi mi fa sorridere: tutto il contenuto è ampiamente superato dall'**uso di un password manager, pratica che risolve praticamente tutti i problemi di password che possiamo avere**, ed è MOLTO più semplice rispetto all'adottare le abitudini di cui scrivevo in questo post 10 anni prima.
 
 Oggi uso [Bitwarden](https://bitwarden.com), gratuito, funziona su Windows + Android + online, ha estensioni per tutti i browser, si sincronizza dappertutto, e fa il backup dell'intero archivio su file locale con 2 click.  
 Oltre a login+password, ci salvo dentro qualunque mia informazione riservata: numero di CIE e patente, numeri di carte di credito, PIN vari, IBAN, codice della valigia, dell'antifurto, eccetera.  
@@ -23,7 +23,7 @@ Ho scritto di questo tema e di altri correlati nel post ["Igiene digitale"]({{< 
 
 Non ricordo il motivo per cui io nel 2016 usavo già un password manager (LastPass, poi diventato tristemente famoso per un data breach mal gestito), e nonostante questo ho perso tempo ad inventarmi uno schema mentale per generare password efficaci... una cosa rende inutile l'altra. Boh!
 
-Segue comunque il mio post originale nel 2016, che include anche qualche curiosità interessante con il link alle fonti.
+Segue comunque il mio post originale nel 2016, che contiene qualche curiosità interessante con link alle fonti.
 
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Retrato brasileiro"
+description: "Il primo brano che ho abbozzato con la chitarra classica"
 date: "2015-05-09"
-lastmod: '2026-10-04'
+lastmod: "2026-10-04"
 categories: 
   - "chitarra"
   - "musica"

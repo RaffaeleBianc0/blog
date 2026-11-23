@@ -1,6 +1,6 @@
 ---
 title: "appsRefresh"
-description: "Installa e aggiorna tutti i software con un singolo comando"
+description: "Il mio script per installare e aggiornare tutti i software con un singolo comando"
 date: "2026-08-18"
 lastmod: '2026-10-04'
 categories: 

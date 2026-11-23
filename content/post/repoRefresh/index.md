@@ -1,6 +1,6 @@
 ---
 title: "repoRefresh"
-description: "Mantiene il tuo repository locale di installer aggiornandoli alle versioni più recenti"
+description: "Il mio script per aggiornare il repository locale di installer alle ultime versioni"
 date: "2026-07-01"
 lastmod: '2026-08-19'
 categories: 

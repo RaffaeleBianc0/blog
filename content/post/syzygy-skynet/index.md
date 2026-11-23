@@ -1,7 +1,7 @@
 ---
 title: "\"Skynet\" (Syzygy)"
-date: "2021-03-20"
 description: "Ho partecipato come guest alla batteria elettronica"
+date: "2021-03-20"
 categories: 
   - "batteria"
   - "musica"

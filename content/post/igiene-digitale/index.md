@@ -1,6 +1,6 @@
 ---
 title: "Igiene digitale"
-description: "Come mi prendo cura dei miei dati"
+description: "Come mi prendo cura dei miei dati, e perché dovremmo farlo tutti"
 date: "2026-09-12"
 lastmod: '2026-11-16'
 categories: 

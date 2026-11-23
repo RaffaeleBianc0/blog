@@ -1,8 +1,8 @@
 ---
 title: "pfpeek"
-description: "Visualizza i tuoi investimenti da bravo nerd"
+description: "Il mio script che uso per visualizzare l'andamento degli investimenti da bravo nerd"
 date: "2026-08-01"
-lastmod: '2026-08-14'
+lastmod: "2026-08-14"
 categories: 
   - "finanza personale"
   - "script"
@@ -10,7 +10,7 @@ categories:
 image: "images/pfpeek.gif"
 ---
 
-A proposito del ["portfolio tracking"](/blog/p/risorse-per-la-finanza-personale/#portfolio-tracking), ho voluto sviluppare il mio personale "tracker" sulla scia di [Ticker](https://github.com/achannarasappa/ticker), che ho usato a lungo ma che mancava di alcune info per me interessanti.
+A proposito del ["portfolio tracking"](/blog/p/risorse-per-la-finanza-personale/#portfolio-tracking), ho voluto sviluppare il mio personale "tracker" sulla scia di [Ticker](https://github.com/achannarasappa/ticker), che ho usato a lungo ma che mancava di alcune info per me interessanti, molte delle quali disponibili solo in [Yahoo Finance](https://finance.yahoo.com/).
 
 E così ho fatto **pfpeek**.  
 "pf" perché riguarda il *portfolio*.  

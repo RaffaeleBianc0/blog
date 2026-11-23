@@ -1,6 +1,6 @@
 ---
 title: "aperiCovip"
-description: "Confronta i fondi pensione italiani in base ai dati ufficiali COVIP"
+description: "La mia webapp per confrontare i fondi pensione italiani in base ai dati ufficiali COVIP"
 date: '2026-08-18'
 lastmod: '2026-10-04'
 categories: 
