@@ -1,8 +1,8 @@
 ---
 title: "Ebook reader"
-description: "Come sceglierei un dispositivo per leggere"
-date: "2026-10-07"
-lastmod: "2026-10-07"
+description: "Come sceglierei un dispositivo per leggere ebook"
+date: "2026-11-23"
+lastmod: "2026-11-23"
 categories: 
   - "tecnologia"
 image: "images/cover.jpg"
@@ -16,21 +16,21 @@ Mi è tornata la voglia di leggere, e mi è venuta anche voglia di cambiare disp
 Per ora sto resistendo alla compulsione, perché non mi _serve_ in senso stretto fare questo cambio, sto leggendo senza problemi anche con il mio Kindle del 2016.
 
 Ma mi sono informato come se dovessi acquistarlo oggi stesso, e qui condivido le mie considerazioni.  
-Chissà che tornino utili a chi ha voglia di fare lo stesso acquisto, e magari non sa che oltre ai conosciutissimi Amazon Kindle ci sono altre scelte, spesso migliori.
+Chissà che tornino utili a chi ha voglia di fare lo stesso acquisto, e magari non sa che oltre ai conosciutissimi Amazon Kindle ci sono altre scelte, secondo me praticamente sempre migliori per vari motivi.
 
 
 
 # Perché ebook
 Se non hai mai provato a leggere un libro su questo tipo di dispositivi, allora la prima domanda che ti fai forse è: **perché leggere libri elettronici invece che cartacei?**  
 
-I miei motivi preferiti sono questi:
-- Un dispositivo da due etti può contenere **decine di migliaia di libri**. Ottimo per viaggi e traslochi, certo, ma anche per leggere mallopponi da 1200 pagine comodamente disteso senza slogarti un polso, e per portare avanti la lettura di 2-3-4 libri contemporaneamente, magari alternando il romanzo leggero al saggio impegnativo.
-- Puoi avere gli stessi libri su più dispositivi (compresi smartphone tablet PC) e proseguire la lettura da uno all'altro, senza doverti preoccupare di "dove eri arrivato" saltando dall'ebook reader al tablet: diventa possibile **leggere sempre/ovunque**, cioè non solo quando ti sei portato dietro il libro (è scontato che abbiamo sempre in tasca lo smartphone).
-- Puoi **cambiare l'impaginazione**: caratteri più grandi, font diverso, margini più stretti eccetera, per motivi estetici ma soprattutto ergonomici.
-- Puoi sottolineare, annotare, riassumere con l'AI, tradurre, cercare su vocabolario, condividere, insomma puoi **fare tante cose con il testo**, oltre a leggerlo.
+I miei motivi preferiti sono questi, dal più importante:
+- Un dispositivo da due etti può contenere **decine di migliaia di libri**. Ottimo per viaggi e traslochi, certo, ma anche per leggere mallopponi da 1200 pagine steso a letto senza slogarti un polso, e per portare avanti la lettura di 2-3-4 libri contemporaneamente senza dover spostare 2 chili di carta ogni volta che leggi in un posto diverso.
 - Puoi **leggere anche quando c'è poca luce**, o al buio.
+- Puoi ottenere decine di migliaia di libri gratuitamente, sia legalmente (per esempio ci sono un po' di risorse [qui](https://libreriamo.it/libri/siti-dove-scaricare-libri-gratis-legalmente/)) sia dalle gigantesche librerie ombra indicizzate dal progetto [Anna's Archive](https://it.wikipedia.org/wiki/Anna%27s_Archive) - non entro nel merito di etica e legalità di questa scelta; per quanto mi riguarda acquisto sempre i libri che mi piacciono.
+- Puoi avere gli stessi libri su più dispositivi (compresi smartphone tablet PC) e proseguire la lettura da uno all'altro, senza doverti preoccupare di "dove eri arrivato" saltando dall'ebook reader allo smartphone: diventa possibile **leggere sempre/ovunque**, cioè non solo quando ti sei portato dietro il libro (do per scontato che abbiamo sempre con noi lo smartphone).
+- Puoi sottolineare, annotare, riassumere con l'AI, tradurre, cercare su vocabolario, condividere, insomma puoi **fare tante cose con il testo**, oltre a leggerlo, e senza doverti procurare dizionari, bloc notes, matita, evidenziatore.
+- Puoi **cambiare l'impaginazione**: caratteri più grandi, font diverso, margini più stretti eccetera, per motivi estetici ma soprattutto ergonomici - l'età avanza, alle 23.00 la vista è affaticata, e una font un po' più grande fa molto comodo.
 - Hai interessanti **statistiche sulla tua lettura**: quanto tempo ti manca per finire il capitolo e il libro, quanto leggi ogni mese, quali generi o quali autori hai letto di più, eccetera.  
-- Puoi ottenere decine di migliaia di libri gratuitamente, sia legalmente (per esempio ci sono un po' di risorse [qui](https://libreriamo.it/libri/siti-dove-scaricare-libri-gratis-legalmente/)) sia dalle gigantesche librerie ombra indicizzate dal progetto [Anna's Archive](https://it.wikipedia.org/wiki/Anna%27s_Archive).
 
 
 
@@ -42,18 +42,23 @@ Taglio subito a fette il discorso, per concentrarmi solo su quello che per me ha
 ## Tecnologia
 Il display deve essere rigorosamente [e-ink ("inchiostro elettronico")](https://it.wikipedia.org/wiki/Carta_elettronica).  
 
-La ragione per cui questi dispositivi esistono è proprio questa tecnologia del display che non _emette_ luce, bensì la _riflette_ (anche quando è quella integrata nel dispositivo), rendendo la lettura praticamente uguale alla lettura della carta stampata.  
+La ragione per cui questi dispositivi esistono è proprio questa tecnologia del display che non _emette_ luce, bensì la _riflette_, anche quando è la luce integrata nel dispositivo.  
+Questa caratteristica rende la lettura praticamente uguale alla lettura della carta stampata.  
+Ecco perché **un normale tablet non può sostituire un ebook reader**.  
 
 Il paragone con la lettura sullo schermo LCD di tablet e telefoni è schiacciante: gli schermi LCD emettono luce diretta, con uno spettro di emissione sbilanciato verso il blu, e soggetta a micro-flickering.  
-Queste caratteristiche tecnologiche affaticano la vista, e dopo 8 ore di lavoro al PC e altre 2 ore sullo smartphone nei vari ritagli di tempo, continuare a guardare LCD anche per leggere è masochismo.  
+Queste caratteristiche tecnologiche affaticano la vista, e dopo 8 ore di lavoro al PC e altre 2 ore sullo smartphone nei vari ritagli di tempo, guardare LCD anche per leggere è masochismo.  
 
-Lo svantaggio principale degli e-ink è il refresh-rate molto basso: le cose che si muovono sul display si muovono a scatti, quindi scrolling, animazioni e video sono poco gradevoli.  
-Ma per le pagine di un libro, che stanno lì ferme fino a quando devi girarle, questo svantaggio tecnologico è totalmente irrilevante.
+Lo svantaggio principale degli e-ink è il refresh-rate molto basso: nell'uso pratico, quello che si muove sul display si muove a scatti, quindi scrolling, animazioni e video sono poco gradevoli.  
+Su questo tema ci sono alcune considerazioni che attenuano il disagio:
+- Le pagine di un libro stanno lì ferme fino a quando devi girarle, quindi questo svantaggio tecnologico è totalmente irrilevante.
+- C'è un aspetto comportamentale che secondo me è importante: scrolling animazioni e video sono gli ingredienti di base dei social e di tutto ciò che fa leva sul [_dopamine loop_](https://en.wikipedia.org/wiki/Compulsion_loop), cose che rubano tempo prezioso alla lettura. In quest'ottica, il fatto che scrollare un feed sia "poco gradevole" io lo vedo come un _pregio_, perché mi tiene distante dalla tentazione di dare un'occhiata ai social.
+- Gli ebook reader Android più recenti includono modalità di refresh che consentono la visualizzazione anche dei video, certo non al livello di un LCD, ma sufficiente per poterlo guardare senza pretese di qualità.
 
 
 
 ## Dimensione
-Per il mio caso d'uso (lettura di libri), la dimensione del display che cerco è quella "da libro tipico", quindi 6" o 7".  
+Per il mio caso d'uso (lettura di libri), la dimensione del display che cerco è quella "da libro tascabile", quindi 6" o 7".  
 Niente cose piccole come uno smartphone o ancora più piccole, che mentre scrivo sono diventate molto trendy, e niente display giganti per leggere riviste o prendere appunti col pennino.
 
 
@@ -64,9 +69,12 @@ Per decidere cosa comprare, le 3 domande da farsi secondo me sono queste.
 
 
 ## 1. Android: sì o no?
-Sembra un tecnicismo, ma è la scelta che cambia drasticamente quello che si può fare con un ebook reader.
+Sembra un tecnicismo, ma è la scelta che cambia drasticamente quello che puoi fare con un ebook reader.
 
-I dispositivi basati su Android sostanzialmente sono dei **mini-tablet** con schermo e-ink: quindi dal Play Store di Google puoi installare le app Kindle, Kobo, Pocketbook, Google Books, e questo già ti dà l'accesso a tutti i libri di tutte queste piattaforme, senza limitarti ad una sola, e poi puoi leggere qualunque altra cosa online, come Reddit, forum, quotidiani, digital magazine, ma anche email e messaggistica.
+I dispositivi basati su Android sostanzialmente sono dei **mini-tablet** con schermo e-ink, quindi ci puoi leggere _tutto_: 
+- dal Play Store di Google puoi installare le app Kindle, Kobo, Pocketbook, Google Books, e questo ti dà l'accesso a tutti i libri di tutte queste piattaforme, senza limitarti ad una sola come accade con gli ebook reader proprietari;
+- sempre dal Play Store per la lettura dei libri in formato EPUB che puoi salvare nel dispositivo, ci sono tante app tra le quali spicca KOReader;
+- per finire, puoi leggere qualunque altra cosa online come già fai con PC/tablet/telefono: Reddit, forum, quotidiani, digital magazine, ma anche email e messaggistica.
 
 Quindi perché non comprano _tutti_ questo tipo di dispositivo, se fa più cose?  
 Per questi motivi:  
