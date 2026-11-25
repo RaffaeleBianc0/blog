@@ -11,5 +11,9 @@ menu:
 draft: true
 ---
 
-Questa pagina è una fotografia del momento, non un archivio.  
 Qui scriverò cosa sto facendo e cosa mi interessa in questo periodo.
+
+* Curare questo blog quando ho voglia di scrivere.
+* Migliorare miei vecchi script PowerShell e crearne di nuovi con il pesante contributo delle AI.
+* Leggere libri, quasi esclusivamente sul Kindle, soprattutto saggistica ma anche qualche romanzo per intervallare con qualcosa di meno impegnativo.
+* Leggere Reddit, ci sono spesso spunti interessanti.
