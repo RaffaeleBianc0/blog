@@ -2,7 +2,7 @@
 title: "Igiene digitale"
 description: "Come mi prendo cura dei miei dati, e perché dovremmo farlo tutti"
 date: "2026-09-12"
-lastmod: '2026-11-16'
+lastmod: '2026-11-25'
 categories: 
   - "tecnologia"
 image: "images/cover.jpg"
@@ -15,7 +15,7 @@ Qui invece scrivo cosa faccio per la mia igiene digitale **"esterna"**, cioè la
 
 
 # TL;DR
-Tutti noi possediamo dati digitali, e proteggerli da errori, furti, danneggiamenti, smarrimenti è una priorità: ti racconto di cosa faccio con password, 2FA, cifratura dei dispositivi, backup, profilazione, pagamenti, ed eredità digitale.
+Tutti noi possediamo dati digitali, e proteggerli da errori, furti, danneggiamenti, smarrimenti è una priorità: ti racconto di cosa faccio con password, 2FA, SPID/CIE, cifratura dei dispositivi, backup, profilazione, pagamenti, ed eredità digitale.
 
 
 
@@ -54,11 +54,13 @@ Si parte!
 # Dispositivi 
 
 ## Password + fingerprint
+Questo è un pilastro essenziale da sistemare prima di procedere con i prossimi capitoli.
+
 Come sblocchi il tuo cellulare?  
 Do' per scontato che tu non stia usando il semplice swipe senza alcuna protezione.  
-Se sblocchi il cellulare con un gesto sulla griglia 3x3 come si faceva quindici anni fa, o scrivendo il tuo anno di nascita o quattro zeri, hai scelto contemporaneamente una cosa _scomoda_ e _poco sicura_, cioè hai scelto tutti gli svantaggi.  
+Se sblocchi il cellulare con un gesto sulla griglia 3x3 come si faceva con i primissimi smartphone, o scrivendo il tuo anno di nascita o quattro zeri, hai scelto contemporaneamente una cosa _scomoda_ e decisamente _poco sicura_, cioè hai scelto tutti gli svantaggi.  
 
-Devi scegliere un **PIN di almeno 6 cifre**, meglio 8-10 se il dispositivo te lo consente (alla brutta aggiungi degli zeri all'inizio), o meglio ancora una **password alfabetica più lunga**, per esempio 2-3 parole consecutive (e così ottieni una buona **sicurezza**).  
+Devi scegliere un **PIN di almeno 6 cifre**, meglio 8-10 se il dispositivo te lo consente (alla brutta aggiungi qualche "0" all'inizio del tuo vecchio PIN da 4 cifre), o meglio ancora una **password alfabetica più lunga**, per esempio 2-3 parole consecutive (e così ottieni una buona **sicurezza**).  
 
 Paura che sia scomodo? Sbagliato: _non digiterai quasi mai questo PIN/password_, perché attivi anche il **riconoscimento dell'impronta digitale** che ormai tutti i telefoni prevedono (e così ottieni il massimo della **praticità**, addirittura più veloce dello swipe).  
 Io registro sempre più di un dito, in modo che sia comodo sbloccare il dispositivo sia quando lo impugni (pollice), sia quando è appoggiato alla tua destra (indice dx), sia quando è appoggiato alla tua sinistra (indice sx). Tre minuti in più appena acquistato il telefono, _migliaia_ di sblocchi comodi negli anni a seguire.  
@@ -71,11 +73,18 @@ Fai la stessa cosa **anche sul PC**: password lunga, magari facile da digitare m
 
 
 ## Find my device
-Subito dopo aver impostato PIN o password robusta sul telefono, cerca questa app/funzione sia nel telefono che nel PC, potrebbe chiamarsi "Trova il mio dispositivo", "Find my", o qualcosa di simile.  
+Subito dopo aver impostato PIN o password robusta sul telefono, cerca questa app/funzione sia nel telefono che nel PC, potrebbe chiamarsi "Find Hub", "Find my", o qualcosa di simile.  
 Attivala immediatamente su tutti i tuoi dispositivi.  
 
-**RISULTATO**: nella malaugurata ipotesi di smarrimento o furto del tuo dispositivo, potrai usarne un altro (es. computer a casa, o telefono di un amico) per localizzare il tuo sulla mappa, farlo suonare (metti mai che sia sotto al cuscino del divano a 3 metri da te), ma soprattutto **per bloccarlo e per cancellare tutti i tuoi dati da remoto**, proteggendo così la cosa più preziosa che rischiavi di perdere: la tua identità digitale - certo che vale _molto_ di più di un telefono!  
-Se hai attivato tutti gli opportuni backup su cloud dei dati (vedi sotto), allora hai perso solo il telefono e non foto video note documenti eccetera.
+**RISULTATO**: nella malaugurata ipotesi di smarrimento o furto del tuo dispositivo, potrai usarne un altro (es. computer a casa, o telefono di un amico) per localizzare il tuo sulla mappa, farlo suonare (metti mai che sia sotto al cuscino del divano a 3 metri da te), ma soprattutto **per bloccarlo e per cancellare tutti i tuoi dati da remoto**, proteggendo così la cosa più preziosa che rischiavi di perdere: **la tua identità digitale** (che ovviamente vale _molto_ di più del telefono).  
+Se hai attivato tutti gli opportuni backup su cloud dei dati (e lo devi fare, vedi sotto), allora hai perso solo il telefono e non foto video note documenti eccetera.
+
+
+
+## Cifratura telefono
+Verifica nelle Impostazioni del tuo telefono che sia attivata la cifratura.  
+La cosa dovrebbe essere automatica con le versioni più recenti di Android e iOS.  
+Questa precauzione serve a impedire la lettura delle informazioni che hai nel telefono se non si conosce un modo per sbloccarlo (PIN password impronta eccetera).
 
 
 
@@ -170,26 +179,6 @@ E' una rottura di scatole, certo, ma facendo tutto al PC in 15-30 minuti all'ann
 
 
 
-## ICE kit (compreso backup password + chiavi 2FA)
-ICE = In Caso di Emergenza.  
-È il momento delle domande brutte che non ti eri ancora fatto.  
-Che succede se muori o se ti capita qualcosa che compromette le tue facoltà di accedere o di comunicare i tuoi dati? Magari sei tu a gestire banca, utenze, contratti, e tante altre cose di famiglia... Come farà chi vive con te ad accedere senza impazzire?  
-
-Per fronteggiare questa eventualità, ho preparato un "kit di emergenza", composto di: 
-1. archivio cifrato, consegnato ai miei familiari, che contiene:
-  * backup del database del password manager
-  * backup delle mie chiavi 2FA
-  * elenco di tutti gli asset (conti correnti, investimenti, assicurazioni, eccetera)
-2. foglio di carta con le istruzioni per accedere all'archivio cifrato. Questo foglio è allegato al mio testamento. Senza questo foglio è impossibile accedere all'archivio cifrato.  
-
-Ogni anno, subito dopo aver aggiornato tutte le mie password, dedico ulteriori 2 minuti a creare la versione aggiornata del mio ICE Kit, e consegno il nuovo archivio cifrato ai familiari alla prima occasione.   
-Una copia è per me stesso, su supporto fisico, che non si sa mai.  
-Un mazzetto di chiavi USB lowcost da 1GB o anche più piccole (sostanzialmente scarti di magazzino) costa pochissimo, se vuoi distribuire il tuo ICE Kit su supporto fisico.
-
-E così implicitamente ho anche già fatto una cosa fondamentale: il **backup di tutti i miei account e di tutte le mie chiavi 2FA**, aggiornato proprio dopo il cambio password annuale. Questo è fondamentale, perché anche se perdessi l'accesso al mio password manager e/o alle mie chiavi 2FA, potrei in pochi minuti ripristinare entrambi su qualsiasi altro dispositivo.
-
-
-
 # Backup
 
 ## Google Foto
@@ -274,6 +263,44 @@ Oltre a questo, c'è ovviamente la comodità di non dover mai digitare il PIN (s
 ## Online, pago con PayPal o Google Pay
 Negli ecommerce **pago con PayPal o Google Pay** invece che con la carta di debito/credito.  
 Anche in questo caso, il motivo principale è avere uno strato aggiuntivo in mezzo tra la mia carta e il negozio, così da non far circolare i dati della mia carta di pagamento. PayPal offre anche alcune tutele aggiuntive per gli acquirenti, ed è comodo per lo scambio di denaro con altri utenti (un po' come si può fare con SatisPay).
+
+
+
+# Identità digitale
+Attiva lo SPID per i rari casi in cui è ancora l'unico modo di accedere ad un servizio (per esempio il fondo pensione FonTe).  
+
+Per una soluzione molto più pratica e "future-proof", usa [CieID](https://www.cartaidentita.interno.gov.it/info-utili/cie-id-2/).
+
+**RISULTATO**: l'autenticazione nei siti istituzionali diventa elementare, più facile del classico login+password, perché ti basta un tocco sul telefono per riconoscere l'impronta e sei dentro.  
+Ovviamente tutto questo deve arrivare solo dopo che avrai messo al sicuro il tuo smartphone e le tue password come descritto nei capitoli precedenti.
+
+
+
+# Copia digitale dei documenti
+Una volta sistemata CieID, installa e attiva la app [IO](https://ioapp.it), che è comodissima per le interazioni con le istituzioni pubbliche.  
+Nella stessa app, attiva la funzione [IT-Wallet](https://innovazione.gov.it/progetti/sistema-it-wallet) per tutti i documenti che ti riguardano (es. patente di guida, certificato di residenza, certificato di laurea).
+
+**RISULTATO**: questa copia digitale dei documenti servirà nei casi in cui la relativa copia fisica venga smarrita, rubata, o dimenticata a casa - esempio: portafoglio a casa, e polizia stradale che ti chiede la patente.
+
+
+
+# ICE kit (compreso backup password + chiavi 2FA)
+ICE = In Caso di Emergenza.  
+È il momento delle domande brutte che non ti eri ancora fatto.  
+Che succede se muori o se ti capita qualcosa che compromette le tue facoltà di accedere o di comunicare i tuoi dati? Magari sei tu a gestire banca, utenze, contratti, e tante altre cose di famiglia... Come farà chi vive con te ad accedere senza impazzire?  
+
+Per fronteggiare questa eventualità, ho preparato un "kit di emergenza", composto di: 
+1. archivio cifrato, un singolo file consegnato ai miei familiari, che contiene:
+  * backup del database del password manager
+  * backup delle mie chiavi 2FA
+  * elenco di tutti gli asset (conti correnti, investimenti, assicurazioni, eccetera)
+2. foglio di carta con le istruzioni per accedere all'archivio cifrato. Questo foglio è allegato al mio testamento. Senza questo foglio è impossibile accedere all'archivio cifrato.  
+
+Ogni anno, subito dopo aver aggiornato tutte le mie password, dedico ulteriori 2 minuti a creare la versione aggiornata del mio ICE Kit, e consegno il nuovo archivio cifrato ai familiari alla prima occasione.   
+Una copia è per me stesso, su supporto fisico, che non si sa mai.  
+Un mazzetto di chiavi USB lowcost da 1GB o anche più piccole (sostanzialmente scarti di magazzino) costa pochissimo, se vuoi distribuire il tuo ICE Kit su supporto fisico.
+
+E così implicitamente ho anche già fatto una cosa fondamentale: il **backup di tutti i miei account e di tutte le mie chiavi 2FA**, aggiornato proprio dopo il cambio password annuale. Questo è fondamentale, perché anche se perdessi l'accesso al mio password manager e/o alle mie chiavi 2FA, potrei in pochi minuti ripristinare entrambi su qualsiasi altro dispositivo.
 
 
 
