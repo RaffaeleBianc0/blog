@@ -6,7 +6,8 @@ lastmod: "2026-10-28"
 categories: 
   - "tecnologia"
   - "amarcord"
-image: "images/trafficmonitor.gif"
+# image: "images/trafficmonitor.gif"
+image: "images/trafficmonitor-cover.png"
 draft: false
 ---
 
