@@ -56,7 +56,7 @@ Key `hugo.toml` settings:
 - **Main sections**: `mainSections = [ "post" ]` (homepage shows posts)
 - **TOC & reading time**: Enabled (`toc = true`, `readingTime = true`)
 - **License**: CC BY-NC-SA 4.0 (shown on articles)
-- **Comments**: Disabled (`enabled = false`)
+- **Comments**: Enabled (`enabled = true`)
 - **Color scheme**: Toggle enabled, defaults to `"auto"`
 - **Image processing**: Cover and content image optimization enabled
 
@@ -113,5 +113,5 @@ Homepage widgets display:
 
 - **Category system**: Posts are organized by categories like "batteria", "musica", "musica", "produzione", "chitarra", "tecnologia", "altro"
 - **Date format inconsistency**: Config uses TOML but frontmatter uses YAML (both supported by Hugo)
-- **Theme inheritance**: `hugo-theme-stack` provides base templates; custom overrides take precedence
+- **Theme inheritance**: `hugo-theme-stack` provides base templates; custom overrides take precedence; never modify theme files directly!
 - **Nested permalinks**: Articles appear at `/p/slug/` (with trailing slash) due to Hugo's directory-based URL generation

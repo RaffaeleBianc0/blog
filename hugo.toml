@@ -196,7 +196,7 @@ content.enabled = true
 [menu]
 # main = [ ]
 
-# Link statico nel menu a sinistra - IMPORTANTE: se usato, allora commentare la riga sopra "main = [ ]"
+# Link statico nel menu a sinistra - IMPORTANTE: se usato, allora commentare la riga qui sopra "main = [ ]"
 # [[menu.main]]
 # name = 'Google'
 # url = 'https://www.google.com'
@@ -217,10 +217,10 @@ content.enabled = true
 [[menu.main]]
 name = 'RSS'
 url = '/index.xml'
-weight = -10
+weight = 99
 identifier = "rss"
 params.icon = "rss"
-params.newTab = false
+params.newTab = true
 
 [[menu.social]]
 identifier = "github"

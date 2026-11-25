@@ -2,7 +2,7 @@
 menu:
     main:
         name: Blog
-        weight: -50
+        weight: -900
         params:
             icon: bubble
 ---

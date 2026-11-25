@@ -81,18 +81,44 @@
   box-sizing: border-box;
 }
 
-/* Evidenziazione link on hover per corpo del post e ToC */
+/* Evidenziazione uniforme per tutti i link */
+a {
+    transition: color 180ms ease, background-color 180ms ease, box-shadow 180ms ease;
+}
 
-// Selettore per i link nel corpo del post
-.article-content a:hover,
-// Selettore per i link nella Table of Contents (generalmente in una sidebar)
-.widget-toc a:hover,
-#TableOfContents a:hover {
-    background-color: #EEE;
-    color: black;
-    // Rimuove la decorazione del testo (underline) se presente:
-    border-radius: 4px;
+a:hover,
+a:focus-visible,
+a.link:hover,
+a.link:focus-visible {
+    background-color: color-mix(in srgb, var(--accent-color) 16%, transparent);
+    box-shadow:
+        0 0 0.55rem color-mix(in srgb, var(--accent-color) 45%, transparent),
+        0 0 1rem color-mix(in srgb, var(--accent-color) 20%, transparent);
+    border-radius: 3px;
     text-decoration: none;
+}
+
+button,
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+[role="button"],
+.btn,
+.btn-primary,
+.button-float,
+.custom-button,
+.donate-btn,
+.paypal-btn {
+    border-radius: 3px;
+}
+
+#back-to-top button,
+.toc-btn button,
+.mermaid-toolbar button,
+.mermaid-modal-controls button,
+.mermaid-modal-close,
+.pagination-jump-input-group .btn-primary {
+    border-radius: 3px;
 }
 
 .widget--toc {
@@ -161,17 +187,18 @@ footer.site-footer {
 }
 
 /* Categorie in evidenza nella pagina Archivi */
-.template-archives .main > header .subsection-list {
+.template-archives .main > header .subsection-list,
+.article-page aside .subsection-list {
   width: 100%;
   max-width: 100%;
   overflow: visible;
   margin: 0;
-  margin-bottom: 0;
   -webkit-mask-image: none;
   mask-image: none;
 }
 
-.template-archives .main > header .article-list--tile {
+.template-archives .main > header .article-list--tile,
+.article-page aside .article-list--tile {
   width: 100%;
   max-width: 100%;
   display: grid;
@@ -181,43 +208,35 @@ footer.site-footer {
   padding: 0;
 }
 
-.template-archives .main > header .article-list--tile article {
+.template-archives .main > header .article-list--tile article,
+.article-page aside .article-list--tile article {
   width: 100%;
   height: auto;
   aspect-ratio: 1;
+  transition: box-shadow 180ms ease;
+
+  &:hover,
+  &:focus-within {
+    box-shadow: var(--shadow-l2);
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    transition: transform 180ms ease, box-shadow 180ms ease;
+
+    &:hover,
+    &:focus-within {
+      transform: translateY(-4px);
+    }
+  }
 }
 
 /* Angoli arrotondati delle thumbnail in Archivi e pagine categoria */
 .template-archives .main > header .article-list--tile article,
 .template-archives .main > header .article-list--tile .article-image,
-.template-archives .main > header .article-list--tile .article-image img {
-  border-radius: var(--card-border-radius);
-}
-
-/* Contenuti correlati: stessa griglia compatta delle categorie in Archivi */
-.article-page aside .subsection-list {
-  width: 100%;
-  max-width: 100%;
-  overflow: visible;
-  -webkit-mask-image: none;
-  mask-image: none;
-}
-
-.article-page aside .article-list--tile {
-  width: 100%;
-  max-width: 100%;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, 125px);
-  justify-content: start;
-  gap: 16px;
-  padding: 0;
-}
-
+.template-archives .main > header .article-list--tile .article-image img,
 .article-page aside .article-list--tile article,
 .article-page aside .article-list--tile .article-image,
 .article-page aside .article-list--tile .article-image img {
-  width: 125px;
-  height: 125px;
   border-radius: var(--card-border-radius);
 }
 
@@ -374,25 +393,13 @@ strong, b {
     font-size: 1.25em;
 }
 
-/* Rimuovi evidenziatura per link che contengono immagini */
-.article-content a:has(img):hover {
-    background-color: transparent;
-    color: inherit;
-    border-radius: 0;
-    text-decoration: none;
-}
-
 /* Evidenziazione menu sinistra su hover */
 .left-sidebar .menu li a {
     padding: 4px 6px;
 }
 .left-sidebar .menu li a:hover {
     display: block; /* Fondamentale per far applicare correttamente il padding e l'area cliccabile */
-    transition: all 0.2s ease; /* Opzionale: rende il passaggio del mouse più fluido */
-    background-color: var(--menu-item-hover-bg);
     color: var(--menu-item-hover-color);
-    border-radius: 8px;
-    text-decoration: none;
 }
 
 .left-sidebar #main-menu .menu-bottom-section > ol {
@@ -425,7 +432,6 @@ strong, b {
 .widget--toc a,
 .toolbar a,
 .site-navigation a {
-    transition: all 0.2s ease;
     display: inline-block;
 }
 
@@ -438,9 +444,7 @@ strong, b {
 .widget--toc a:hover,
 .toolbar a:hover,
 .site-navigation a:hover {
-    background-color: var(--menu-item-hover-bg);
     color: var(--menu-item-hover-color);
-    text-decoration: none;
 }
 
 .social-menu a:hover svg,

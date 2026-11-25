@@ -2,7 +2,7 @@
 .button-float {
     padding: 8px;
     border: none;
-    border-radius: 8px;
+    border-radius: 3px;
     background-color: var(--button-float-bg);
     box-shadow: 0 3px 5px var(--button-float-shadow);
     cursor: pointer;
@@ -59,7 +59,7 @@
 #back-to-top button {
     padding: 8px;
     border: none;
-    border-radius: 8px;
+    border-radius: 3px;
     background-color: var(--button-float-bg);
     box-shadow: 0 3px 5px var(--button-float-shadow);
     cursor: pointer;

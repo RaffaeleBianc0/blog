@@ -1,5 +1,5 @@
 ---
-title: Info
+title: "/about"
 description: Cosa c'è in questo blog
 date: '2024-02-04'
 lastmod: '2026-10-24'
@@ -9,7 +9,7 @@ aliases:
   - info
 menu:
     main: 
-        weight: -60
+        weight: 10
         params:
             icon: info-circle
 ---

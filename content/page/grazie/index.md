@@ -4,13 +4,17 @@ description:
 date: '2026-08-28'
 lastmod: '2026-10-04'
 aliases:
+  - coffee
   - support
   - supportme
   - thanks
   - grazie
+  - pay
+  - tip
+  - tipjar
 menu:
     main: 
-        weight: -20
+        weight: -70
         params:
             icon: mug
 ---
