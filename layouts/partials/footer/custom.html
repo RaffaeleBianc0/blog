@@ -113,3 +113,10 @@
     </svg>
   </button>
 </div>
+
+{{- if ne .Layout "search" -}}
+    {{ partial "search-modal.html" . }}
+    {{- $opts := dict "minify" hugo.IsProduction "JSXFactory" "createElement" -}}
+    {{- $searchScript := resources.Get "ts/search.tsx" | js.Build $opts | fingerprint -}}
+    <script type="text/javascript" src="{{ $searchScript.RelPermalink }}" defer></script>
+{{- end -}}

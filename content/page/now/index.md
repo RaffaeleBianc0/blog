@@ -1,18 +1,24 @@
 ---
 title: "/now"
 description: "Cosa occupa il mio tempo in questo periodo"
-date: "2026-11-25"
+date: 2026-11-25
+lastmod: 2026-11-27
 slug: "now"
+image: "cover.jpeg"
+comments: true
+readingTime: true
+toc: true
+outputs:
+  - html # override rispetto al default, in questo modo questa pagina non finisce nel feed rss
 menu:
   main:
     weight: 20
     params:
-      icon: info-circle
-image: "cover.jpeg"
+      icon: "info-circle"
 # draft: true
 ---
 
-
+> Questa pagina fa parte di un movimento avviato da [Derek Sivers](https://sive.rs) nel 2015. Per saperne di più, visita [nownownow.com](https://nownownow.com), un webring che raccoglie i siti dotati di una pagina `/now`.
 
 # Leggo libri
 Leggo libri, quasi esclusivamente sul Kindle, soprattutto saggistica ma anche qualche romanzo per intervallare con qualcosa di meno impegnativo. Mi piacciono soprattutto saggi di finanza personale, biografie di musicisti, e romanzi distopici.
@@ -20,7 +26,7 @@ Leggo libri, quasi esclusivamente sul Kindle, soprattutto saggistica ma anche qu
 # Podcast
 Ascolto tanti podcast, praticamente il 95% del tempo in cui sono alla guida da solo, qualche ora ogni settimana. I temi principali sono tecnologia, finanza personale, retrocomputing e altre cose geek.
 
-# Leggo online
+# Reddit e blog
 Leggo Reddit e qualche blog quando lo incrocio nelle mie esplorazioni online, ci sono spesso spunti interessanti e contenuti da consumare con la dovuta calma.
 
 # Scrivo

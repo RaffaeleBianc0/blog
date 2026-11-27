@@ -9,6 +9,7 @@ Language.Locale = 'it-it'
 DefaultContentLanguage = "it"
 hasCJKLanguage = false
 ignoreFiles = ['desktop\.ini$', 'Thumbs\.db$']
+timeout = '180s'
 
 [languages.it]
 label = "Italiano"

@@ -1,0 +1,57 @@
+{{- $searchPages := where .Site.Pages "Layout" "==" "search" -}}
+{{- with index $searchPages 0 -}}
+<dialog id="search-dialog" class="search-modal" aria-labelledby="search-modal-title">
+    <div class="search-modal__header">
+        <h2 id="search-modal-title">{{ T "search.title" }}</h2>
+        <form method="dialog">
+            <button class="search-modal__close" aria-label="Chiudi">×</button>
+        </form>
+    </div>
+
+    <form action="{{ .RelPermalink }}" class="search-form"{{ with .OutputFormats.Get "json" }} data-json="{{ .RelPermalink }}"{{ end }}>
+        <p>
+            <label for="search-modal-input">{{ T "search.title" }}</label>
+            <input id="search-modal-input" name="keyword" placeholder="{{ T `search.placeholder` }}" />
+        </p>
+        <button title="{{ T `search.title` }}">
+            {{ partial "helper/icon" "search" }}
+        </button>
+    </form>
+
+    <div class="search-result hidden">
+        <h3 class="search-result--title section-title"></h3>
+        <div class="search-result--list article-list--compact"></div>
+    </div>
+</dialog>
+
+<script>
+    window.searchResultTitleTemplate = "{{ T `search.resultTitle` }}";
+
+    const searchDialog = document.getElementById("search-dialog");
+    const searchForm = searchDialog?.querySelector(".search-form");
+
+    if (searchDialog && searchForm) {
+        document.body.prepend(searchDialog);
+        searchForm.addEventListener("submit", event => event.preventDefault());
+
+        const searchPath = new URL(searchForm.action, window.location.href).pathname;
+        const searchLink = Array.from(document.querySelectorAll("#main-menu a"))
+            .find(link => new URL(link.href, window.location.href).pathname === searchPath);
+
+        searchLink?.addEventListener("click", event => {
+            event.preventDefault();
+            searchDialog.showModal();
+            searchDialog.querySelector("input")?.focus({ preventScroll: true });
+        });
+
+        searchDialog.addEventListener("cancel", event => {
+            event.preventDefault();
+            searchDialog.close();
+        });
+
+        searchDialog.addEventListener("click", event => {
+            if (event.target === searchDialog) searchDialog.close();
+        });
+    }
+</script>
+{{- end -}}

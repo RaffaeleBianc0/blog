@@ -1,10 +1,19 @@
 {{- $context := .Context -}}
 {{- $limit := default 10 .Params.limit -}}
+{{- $archivesPageQuery := first 1 (where $context.Site.Pages "Layout" "==" "archives") -}}
 <section class="widget category">
      <div class="widget-icon">
          {{ partial "helper/icon" "categories" }}
      </div>
-     <h2 class="widget-title section-title">{{ T "widget.categoriesCloud.title" }}</h2>
+     <h2 class="widget-title section-title">
+        {{- if $archivesPageQuery -}}
+            {{- $archivesPage := index $archivesPageQuery 0 -}}
+            <a href="{{ $archivesPage.RelPermalink }}">{{ T "widget.categoriesCloud.title" }}</a>
+        {{- else -}}
+            {{- warnf "Archives page not found. Create a page with layout: archives." -}}
+            {{ T "widget.categoriesCloud.title" }}
+        {{- end -}}
+     </h2>
      <div class="category-label">
         {{ $categoryNames := slice }}
         {{ $categories := dict }}

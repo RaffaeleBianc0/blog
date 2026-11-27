@@ -89,7 +89,10 @@ a {
 a:hover,
 a:focus-visible,
 a.link:hover,
-a.link:focus-visible {
+a.link:focus-visible,
+.left-sidebar #main-menu li.current > a,
+.category .category-label a:hover,
+.category .category-label a:focus-visible {
     background-color: color-mix(in srgb, var(--accent-color) 16%, transparent);
     box-shadow:
         0 0 0.55rem color-mix(in srgb, var(--accent-color) 45%, transparent),
@@ -482,6 +485,54 @@ kbd {
     }
 }
 
+.search-modal {
+    width: min(72rem, calc(100vw - 3.2rem));
+    max-width: none;
+    max-height: min(80vh, 80rem);
+    padding: clamp(2rem, 4vw, 4rem);
+    overflow-y: auto;
+    border: 0;
+    border-radius: var(--card-border-radius);
+    background: var(--card-background);
+    color: var(--card-text-color-main);
+    box-shadow: var(--shadow-l2);
 
+    &::backdrop {
+        background: rgba(0, 0, 0, 0.32);
+        backdrop-filter: blur(6px);
+    }
 
+    .search-modal__header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 2rem;
+        margin-bottom: 2rem;
+
+        h2 {
+            margin: 0;
+            color: var(--card-text-color-main);
+        }
+
+        form {
+            margin: 0;
+        }
+    }
+
+    .search-modal__close {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 4rem;
+        height: 4rem;
+        padding: 0;
+        border: 0;
+        border-radius: 50%;
+        background: transparent;
+        color: var(--card-text-color-secondary);
+        cursor: pointer;
+        font-size: 2.8rem;
+        line-height: 1;
+    }
+}
 

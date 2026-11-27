@@ -1,7 +1,7 @@
 ---
 title: "3%"
 date: "2015-07-01"
-lastmod: '2026-10-04'
+lastmod: "2026-10-04"
 categories: 
   - "batteria"
   - "musica"

@@ -83,7 +83,7 @@
             padding: 8px 20px;
             color: var(--card-text-color-main);
             font-size: 1.4rem;
-            transition: box-shadow 0.3s ease;
+            transition: color 180ms ease, background-color 180ms ease, box-shadow 180ms ease;
             &:hover {
                 box-shadow: var(--shadow-l2);
             }
