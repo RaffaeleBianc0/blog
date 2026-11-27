@@ -18,7 +18,7 @@ menu:
 # draft: true
 ---
 
-> Questa pagina fa parte di un movimento avviato da [Derek Sivers](https://sive.rs) nel 2015. Per saperne di più, visita [nownownow.com](https://nownownow.com), un webring che raccoglie i siti dotati di una pagina `/now`.
+> Questa pagina fa parte di un [movimento avviato da Derek Sivers](https://sive.rs/nowff). Per saperne di più, visita [nownownow.com](https://nownownow.com), un webring che raccoglie i siti dotati di una pagina `/now`.
 
 # Leggo libri
 Leggo libri, quasi esclusivamente sul Kindle, soprattutto saggistica ma anche qualche romanzo per intervallare con qualcosa di meno impegnativo. Mi piacciono soprattutto saggi di finanza personale, biografie di musicisti, e romanzi distopici.
