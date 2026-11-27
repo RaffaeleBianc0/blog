@@ -232,10 +232,9 @@ Se sei d'accordo, ecco 2 soluzioni per guardare i video su YouTube senza interru
 
 Su **PC, smartphone e tablet** basta **usare [Brave](https://brave.com) per accedere a YouTube**.  
 Tutto qua, facile facile.  
-
-Su **Android TV / Google TV**, devi installare l'eccellente app [SmartTube](https://smarttubeapp.github.io/), che trovo addirittura più pratica della app originale YouTube, e che oltre a rimuovere le pubblicità innestate dalla piattaforma salta anche buona parte delle promozioni che fanno tanti content creator!
-
 Incidentalmente, Brave è apprezzato per la tutela di altri aspetti della privacy online, potresti usarlo come unico browser e non sbaglieresti.
+
+Su **Android TV / Google TV**, devi installare l'eccellente app [SmartTube](https://smarttubeapp.github.io/), che trovo addirittura più pratica della app originale YouTube, e che oltre a rimuovere le pubblicità innestate dalla piattaforma salta anche buona parte delle promozioni che fanno tanti content creator... il player che ho sempre sognato, probabilmente lo userei anche se pagassi l'abbonamento a YT Premium, perché il salto automatico delle sponsorizzazioni "raccontate" è proprio una gran bella cosa.
 
 
 
@@ -267,12 +266,12 @@ Anche in questo caso, il motivo principale è avere uno strato aggiuntivo in mez
 
 
 # Identità digitale
-Attiva lo SPID per i rari casi in cui è ancora l'unico modo di accedere ad un servizio (per esempio il fondo pensione FonTe).  
+Attiva lo SPID per i rari casi in cui è ancora l'unico modo di accedere online ad un servizio (per esempio il fondo pensione FonTe).  
 
-Per una soluzione molto più pratica e "future-proof", usa [CieID](https://www.cartaidentita.interno.gov.it/info-utili/cie-id-2/).
+Per una soluzione molto più pratica e "future-proof" (dato che lo SPID potrebbe essere abolito), usa [CieID](https://www.cartaidentita.interno.gov.it/info-utili/cie-id-2/): devi avere la CIE e un telefono con NFC, e seguire la procedura nella app per attivare l'autenticazione su tutti e 3 i livelli proposti. Nulla di particolarmente complicato, solo un po' lunghetto.
 
 **RISULTATO**: l'autenticazione nei siti istituzionali diventa elementare, più facile del classico login+password, perché ti basta un tocco sul telefono per riconoscere l'impronta e sei dentro.  
-Ovviamente tutto questo deve arrivare solo dopo che avrai messo al sicuro il tuo smartphone e le tue password come descritto nei capitoli precedenti.
+CieID è sostanzialmente la copia digitale della tua CIE fisica, accessibile sul tuo telefono e sbloccabile con la tua impronta: quindi come prerequisito c'è il fatto di mettere in sicurezza il tuo smartphone, come descritto più sopra.
 
 
 
