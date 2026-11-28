@@ -26,7 +26,7 @@
         <h2 class="archives-date section-title"><a href="{{ $.RelPermalink }}#{{ $id }}">{{ .Key }}</a></h2>
         <div class="article-list--compact">
             {{ range .Pages }}
-                {{ partial "article-list/compact" . }}
+                {{ partial "article-list/archive-compact" . }}
             {{ end }}
         </div>
     </div>

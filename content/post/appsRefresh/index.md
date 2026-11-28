@@ -12,7 +12,7 @@ draft: false
 
 Ho fatto questo script PowerShell per scaricare, installare e aggiornare una lista di applicazioni nel PC.
 
-Niente più girovagare tra i siti web, scaricare setup, esegui, avanti avanti avanti, aspetta, fine, prossimo sito web, daccapo... Molto più facile lanciare appsRefresh e intanto fare altro, si occupa lui di tutto.
+Niente più girovagare tra i siti web, scaricare setup, esegui, avanti avanti avanti, aspetta, fine, prossimo sito web, daccapo... Molto più pratico lanciare appsRefresh e intanto fare altro, si occupa lui di tutto.
 
 Lo uso su qualunque PC/VM appena dopo aver installato Windows, per installare il set di applicazioni irrinunciabili (es. .NET, Visual C Runtimes, 7-zip, Notepad++, nomacs, ShareX, ...).  
 Lo ho usato anche per aggiornare la stessa lista di app, ognuna all'ultima versione disponibile; ma più recentemente ho scoperto l'ottimo [Topgrade](https://github.com/topgrade-rs/topgrade) e ora aggiorno tutto con questo.

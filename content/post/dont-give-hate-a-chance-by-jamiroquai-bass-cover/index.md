@@ -1,5 +1,6 @@
 ---
 title: "\"Don't give hate a chance\" bass cover"
+description: "Un pezzo leggero tenuto su da una linea di basso super"
 date: "2020-04-13"
 lastmod: '2026-10-04'
 categories: 

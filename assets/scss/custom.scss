@@ -254,6 +254,18 @@ footer.site-footer {
   overflow: hidden;
 }
 
+.template-archives .article-list--compact .article-image {
+  flex: 0 0 var(--article-compact-image-size);
+  width: var(--article-compact-image-size);
+  height: var(--article-compact-image-size);
+}
+
+.template-archives .article-list--compact .article-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 /* Homepage cards: usa lo stesso colore del menu laterale sinistro */
 .homepage .article-meta,
 .homepage .article-meta time,

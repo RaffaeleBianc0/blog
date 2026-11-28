@@ -1,5 +1,6 @@
 ---
 title: "\"Strobe\" (by Deadmau5) bass cover"
+description: "Non proprio una cover, è solo il giro di basso verso la fine"
 date: "2020-04-18"
 categories: 
   - "basso"
