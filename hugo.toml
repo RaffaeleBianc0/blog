@@ -155,9 +155,6 @@ type = "categories"
 [[params.widgets.homepage]]
 type = "archives"
 
-  [params.widgets.homepage.params]
-  limit = 4
-
 # [[params.widgets.homepage]]
 # type = "tag-cloud"
 

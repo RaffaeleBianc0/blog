@@ -1,6 +1,5 @@
 {{- $query := first 1 (where .Context.Site.Pages "Layout" "==" "archives") -}}
 {{- $context := .Context -}}
-{{- $limit := default 5 .Params.limit -}}
 {{- if $query -}}
     {{- $archivesPage := index $query 0 -}}
     {{- $pages := where $context.Site.RegularPages "Type" "in" $context.Site.Params.mainSections -}}
@@ -26,21 +25,72 @@
         {{ $archives := $pages.GroupByDate "2006" }}
 
         <div class="widget-archive--list">
-            {{ range $index, $item := first (add $limit 1) $archives }}
+            {{ range $index, $item := $archives }}
                 {{- $id := lower (replace $item.Key " " "-") -}}
-                <div class="archives-year">
+                <div class="archives-year" data-archive-year{{ if ge $index 2 }} hidden{{ end }}>
                     <a href="{{ $archivesPage.RelPermalink }}#{{ $id }}">
-                        {{ if eq $index $limit }}
-                            <span class="year">{{ T "widget.archives.more" }}</span>
-                        {{ else }}
-                            <span class="year">{{ .Key }}</span>
-                            <span class="count">{{ len $item.Pages }}</span>
-                        {{ end }}
+                        <span class="year">{{ .Key }}</span>
+                        <span class="count">{{ len $item.Pages }}</span>
                     </a>
                 </div>
             {{ end }}
+            <div class="archives-year" data-archive-older>
+                <a href="{{ $archivesPage.RelPermalink }}">
+                    <span class="year">Anni precedenti</span>
+                </a>
+            </div>
         </div>
     </section>
+    <script>
+        (() => {
+            const widget = document.querySelector(".right-sidebar .widget.archives");
+            if (!widget) return;
+
+            const list = widget.querySelector(".widget-archive--list");
+            const sidebar = widget.closest(".right-sidebar");
+            const years = [...list.querySelectorAll("[data-archive-year]")];
+            const older = list.querySelector("[data-archive-older]");
+            const olderLink = older.querySelector("a");
+
+            function fitArchiveWidget() {
+                if (!window.matchMedia("(min-width: 1024px)").matches) {
+                    years.forEach(year => year.hidden = false);
+                    return;
+                }
+
+                const yearHeights = years.map(year => {
+                    const wasHidden = year.hidden;
+                    year.hidden = false;
+                    const height = year.getBoundingClientRect().height;
+                    year.hidden = wasHidden;
+                    return height;
+                });
+                const olderHeight = older.getBoundingClientRect().height;
+                const availableHeight = Math.max(
+                    0,
+                    window.innerHeight
+                        - list.getBoundingClientRect().top
+                        - parseFloat(getComputedStyle(sidebar).paddingBottom)
+                );
+
+                let visibleYears = Math.min(2, years.length);
+                let usedHeight = yearHeights.slice(0, visibleYears).reduce((total, height) => total + height, olderHeight);
+
+                while (visibleYears < years.length && usedHeight + yearHeights[visibleYears] <= availableHeight) {
+                    usedHeight += yearHeights[visibleYears];
+                    visibleYears += 1;
+                }
+
+                years.forEach((year, index) => year.hidden = index >= visibleYears);
+                const nextYearLink = years[visibleYears]?.querySelector("a");
+                olderLink.href = nextYearLink ? nextYearLink.href : "{{ $archivesPage.RelPermalink }}";
+            }
+
+            fitArchiveWidget();
+            window.addEventListener("resize", fitArchiveWidget);
+            if (document.fonts) document.fonts.ready.then(fitArchiveWidget);
+        })();
+    </script>
 {{- else -}}
     {{- warnf "Archives page not found. Create a page with layout: archives." -}}
 {{- end -}}
